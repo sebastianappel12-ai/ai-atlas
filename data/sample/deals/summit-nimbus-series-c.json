@@ -1,0 +1,24 @@
+{
+  "id": "summit-nimbus-series-c",
+  "from": "summit-capital",
+  "to": "nimbus-labs",
+  "type": "investment",
+  "title": "Summit leads $4B round in Nimbus",
+  "amount_usd": 4000000000,
+  "amount_kind": "confirmed",
+  "date": "2023-05-10",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://example.com/sample/summit-nimbus-series-c",
+      "publisher": "Sample Wire",
+      "date": "2023-05-10",
+      "kind": "press_release",
+      "quote": "Sample data: Summit leads $4B round in Nimbus."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Summit leads $4B round in Nimbus. Money flows from summit-capital to nimbus-labs. Not real."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "stratus-cloud",
+  "name": "Stratus Cloud",
+  "sector": "cloud",
+  "public": true,
+  "ticker": "SAMPLE:S1",
+  "country": "US",
+  "hq_state": "WA",
+  "aliases": [],
+  "revenue": {
+    "amount_usd": 240000000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://example.com/sample/stratus-cloud-revenue",
+      "publisher": "Sample Wire",
+      "date": "2026-02-01",
+      "kind": "press_release",
+      "quote": "Sample data: Stratus Cloud reported annual revenue for fiscal 2025."
+    }
+  },
+  "description": "Made-up cloud company used as Phase 0 sample data.",
+  "explain": "Stratus Cloud is not a real company. It exists so the site can be designed before the real data is collected."
+}

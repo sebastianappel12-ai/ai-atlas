@@ -1,0 +1,24 @@
+{
+  "id": "nimbus-stratus-cloud",
+  "from": "nimbus-labs",
+  "to": "stratus-cloud",
+  "type": "cloud_contract",
+  "title": "Nimbus commits up to $60B to Stratus cloud",
+  "amount_usd": 60000000000,
+  "amount_kind": "up_to",
+  "date": "2025-03-01",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://example.com/sample/nimbus-stratus-cloud",
+      "publisher": "Sample Wire",
+      "date": "2025-03-01",
+      "kind": "press_release",
+      "quote": "Sample data: Nimbus commits up to $60B to Stratus cloud."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Nimbus commits up to $60B to Stratus cloud. Money flows from nimbus-labs to stratus-cloud. Not real."
+}

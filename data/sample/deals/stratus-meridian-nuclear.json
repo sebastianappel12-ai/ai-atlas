@@ -1,0 +1,24 @@
+{
+  "id": "stratus-meridian-nuclear",
+  "from": "stratus-cloud",
+  "to": "meridian-power",
+  "type": "power_deal",
+  "title": "Stratus buys nuclear power from Meridian",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-02",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://example.com/sample/stratus-meridian-nuclear",
+      "publisher": "Sample Wire",
+      "date": "2026-02-02",
+      "kind": "press_release",
+      "quote": "Sample data: Stratus buys nuclear power from Meridian."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Stratus buys nuclear power from Meridian. Money flows from stratus-cloud to meridian-power. Not real."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "stratus-nimbus-investment",
+  "from": "stratus-cloud",
+  "to": "nimbus-labs",
+  "type": "investment",
+  "title": "Stratus to invest up to $10B in Nimbus",
+  "amount_usd": 10000000000,
+  "amount_kind": "up_to",
+  "date": "2024-01-15",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://example.com/sample/stratus-nimbus-investment",
+      "publisher": "Sample Wire",
+      "date": "2024-01-15",
+      "kind": "press_release",
+      "quote": "Sample data: Stratus to invest up to $10B in Nimbus."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Stratus to invest up to $10B in Nimbus. Money flows from stratus-cloud to nimbus-labs. Not real."
+}

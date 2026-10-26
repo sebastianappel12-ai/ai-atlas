@@ -1,0 +1,25 @@
+{
+  "id": "quark-nimbus-investment-v2",
+  "from": "quark-silicon",
+  "to": "nimbus-labs",
+  "type": "investment",
+  "title": "Quark invests $30B in Nimbus (revised)",
+  "amount_usd": 30000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-20",
+  "status": "completed",
+  "supersedes": "quark-nimbus-investment-v1",
+  "sources": [
+    {
+      "url": "https://example.com/sample/quark-nimbus-investment-v2",
+      "publisher": "Sample Wire",
+      "date": "2026-02-20",
+      "kind": "press_release",
+      "quote": "Sample data: Quark invests $30B in Nimbus (revised)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Quark invests $30B in Nimbus (revised). Money flows from quark-silicon to nimbus-labs. Not real."
+}

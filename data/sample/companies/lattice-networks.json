@@ -1,0 +1,25 @@
+{
+  "id": "lattice-networks",
+  "name": "Lattice Networks",
+  "sector": "networking",
+  "public": true,
+  "ticker": "SAMPLE:S6",
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [],
+  "revenue": {
+    "amount_usd": 8000000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://example.com/sample/lattice-networks-revenue",
+      "publisher": "Sample Wire",
+      "date": "2026-02-01",
+      "kind": "press_release",
+      "quote": "Sample data: Lattice Networks reported annual revenue for fiscal 2025."
+    }
+  },
+  "description": "Made-up networking company used as Phase 0 sample data.",
+  "explain": "Lattice Networks is not a real company. It exists so the site can be designed before the real data is collected."
+}

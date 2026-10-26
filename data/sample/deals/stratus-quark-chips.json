@@ -1,0 +1,24 @@
+{
+  "id": "stratus-quark-chips",
+  "from": "stratus-cloud",
+  "to": "quark-silicon",
+  "type": "chip_order",
+  "title": "Stratus buys an estimated $25B of Quark chips",
+  "amount_usd": 25000000000,
+  "amount_kind": "estimated",
+  "date": "2025-01-30",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://example.com/sample/stratus-quark-chips",
+      "publisher": "Sample Wire",
+      "date": "2025-01-30",
+      "kind": "press_release",
+      "quote": "Sample data: Stratus buys an estimated $25B of Quark chips."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Stratus buys an estimated $25B of Quark chips. Money flows from stratus-cloud to quark-silicon. Not real."
+}

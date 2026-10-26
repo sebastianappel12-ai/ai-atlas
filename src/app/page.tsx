@@ -1,69 +1,37 @@
-import Image from "next/image";
+import { SECTOR_INFO, SECTOR_ORDER } from "@/lib/sectors";
 
+// Phase 0 sample page: shows the design basics (sector colors, fonts, dark theme).
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main className="starfield min-h-screen px-6 py-16">
+      <div className="mx-auto max-w-4xl">
+        <p className="num text-xs uppercase tracking-[0.3em] text-muted">AI Atlas · Phase 0</p>
+        <h1 className="mt-3 text-4xl font-semibold tracking-tight">How money and power move through AI</h1>
+        <p className="mt-3 max-w-2xl text-muted">
+          A map of the AI industry: every dot a company, every line a deal, every deal with a source link and a date.
+        </p>
+        <div className="mt-10 grid gap-3 sm:grid-cols-2">
+          {SECTOR_ORDER.map((s) => {
+            const info = SECTOR_INFO[s];
+            return (
+              <div key={s} className="panel flex items-center gap-4 rounded-xl p-4">
+                <span
+                  className="h-4 w-4 shrink-0 rounded-full"
+                  style={{ background: info.color, boxShadow: `0 0 14px ${info.color}` }}
+                />
+                <div className="min-w-0">
+                  <div className="font-medium" style={{ color: info.color }}>
+                    {info.label}
+                  </div>
+                  <div className="truncate text-sm text-muted">{info.examples}</div>
+                </div>
+                <span className="num ml-auto text-xs text-dim">{info.color}</span>
+              </div>
+            );
+          })}
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+        <p className="num mt-10 text-sm text-dim">$300,000,000,000 · 2,176 MW · 0123456789</p>
+      </div>
+    </main>
   );
 }

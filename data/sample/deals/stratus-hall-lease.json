@@ -1,0 +1,24 @@
+{
+  "id": "stratus-hall-lease",
+  "from": "stratus-cloud",
+  "to": "hall-data-centers",
+  "type": "data_center",
+  "title": "Stratus leases a 300 MW Hall campus for $3.2B",
+  "amount_usd": 3200000000,
+  "amount_kind": "confirmed",
+  "date": "2024-11-11",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://example.com/sample/stratus-hall-lease",
+      "publisher": "Sample Wire",
+      "date": "2024-11-11",
+      "kind": "press_release",
+      "quote": "Sample data: Stratus leases a 300 MW Hall campus for $3.2B."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Stratus leases a 300 MW Hall campus for $3.2B. Money flows from stratus-cloud to hall-data-centers. Not real."
+}

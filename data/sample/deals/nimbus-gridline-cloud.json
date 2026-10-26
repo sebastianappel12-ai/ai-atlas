@@ -1,0 +1,24 @@
+{
+  "id": "nimbus-gridline-cloud",
+  "from": "nimbus-labs",
+  "to": "gridline-gpu",
+  "type": "cloud_contract",
+  "title": "Nimbus signs $11B GPU cloud deal with Gridline",
+  "amount_usd": 11000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-06-20",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://example.com/sample/nimbus-gridline-cloud",
+      "publisher": "Sample Wire",
+      "date": "2025-06-20",
+      "kind": "press_release",
+      "quote": "Sample data: Nimbus signs $11B GPU cloud deal with Gridline."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Nimbus signs $11B GPU cloud deal with Gridline. Money flows from nimbus-labs to gridline-gpu. Not real."
+}

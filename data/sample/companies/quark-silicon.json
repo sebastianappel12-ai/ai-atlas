@@ -1,0 +1,25 @@
+{
+  "id": "quark-silicon",
+  "name": "Quark Silicon",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "SAMPLE:S3",
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [],
+  "revenue": {
+    "amount_usd": 130000000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://example.com/sample/quark-silicon-revenue",
+      "publisher": "Sample Wire",
+      "date": "2026-02-01",
+      "kind": "press_release",
+      "quote": "Sample data: Quark Silicon reported annual revenue for fiscal 2025."
+    }
+  },
+  "description": "Made-up chip designer company used as Phase 0 sample data.",
+  "explain": "Quark Silicon is not a real company. It exists so the site can be designed before the real data is collected."
+}

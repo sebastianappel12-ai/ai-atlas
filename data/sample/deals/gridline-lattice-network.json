@@ -1,0 +1,24 @@
+{
+  "id": "gridline-lattice-network",
+  "from": "gridline-gpu",
+  "to": "lattice-networks",
+  "type": "supply",
+  "title": "Gridline buys $900M of Lattice switches",
+  "amount_usd": 900000000,
+  "amount_kind": "confirmed",
+  "date": "2025-05-05",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://example.com/sample/gridline-lattice-network",
+      "publisher": "Sample Wire",
+      "date": "2025-05-05",
+      "kind": "press_release",
+      "quote": "Sample data: Gridline buys $900M of Lattice switches."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Gridline buys $900M of Lattice switches. Money flows from gridline-gpu to lattice-networks. Not real."
+}

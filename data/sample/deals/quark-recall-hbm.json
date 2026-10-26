@@ -1,0 +1,24 @@
+{
+  "id": "quark-recall-hbm",
+  "from": "quark-silicon",
+  "to": "recall-memory",
+  "type": "supply",
+  "title": "Quark buys $6B of HBM memory from Recall",
+  "amount_usd": 6000000000,
+  "amount_kind": "estimated",
+  "date": "2025-02-14",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://example.com/sample/quark-recall-hbm",
+      "publisher": "Sample Wire",
+      "date": "2025-02-14",
+      "kind": "press_release",
+      "quote": "Sample data: Quark buys $6B of HBM memory from Recall."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sample deal: Quark buys $6B of HBM memory from Recall. Money flows from quark-silicon to recall-memory. Not real."
+}

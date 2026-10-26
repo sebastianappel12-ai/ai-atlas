@@ -1,0 +1,24 @@
+{
+  "id": "nimbus-labs",
+  "name": "Nimbus Labs",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [],
+  "revenue": {
+    "amount_usd": 12000000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": true,
+    "source": {
+      "url": "https://example.com/sample/nimbus-labs-revenue",
+      "publisher": "Sample Wire",
+      "date": "2026-02-01",
+      "kind": "press_release",
+      "quote": "Sample data: Nimbus Labs reported annual revenue for fiscal 2025."
+    }
+  },
+  "description": "Made-up ai lab company used as Phase 0 sample data.",
+  "explain": "Nimbus Labs is not a real company. It exists so the site can be designed before the real data is collected."
+}
