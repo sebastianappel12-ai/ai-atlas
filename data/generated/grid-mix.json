@@ -1,7 +1,7 @@
 {
   "source": "U.S. Energy Information Administration, Hourly Electric Grid Monitor (EIA-930), public domain",
   "via": "EIA-930 six-month bulk file",
-  "updated": "2026-10-27T00:31:53.994Z",
+  "updated": "2026-10-27T15:58:26.416Z",
   "window": "last 24 hours of reported data",
   "regions": {
     "AECI": {
