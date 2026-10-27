@@ -6,7 +6,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 ## Phase 0: Foundations
 | Criterion | Status | Evidence |
 | --- | --- | --- |
-| The site is live at a Vercel link | ✅ (temporary) 🔧 | Deployed 2026-10-26 as an anonymous Vercel deployment (https://sonic-pulsar-sx5qrrw.tmp.now, expires after 1 hour unless claimed). Permanent deploys on every push need the Vercel ↔ GitHub connection (docs/OPS.md step 1). |
+| The site is live at a Vercel link | ✅ | Production: https://ai-atlas-pearl.vercel.app (Vercel project `ai-atlas`, deployed 2026-10-27). Automatic deploys on every push still need the Vercel ↔ GitHub login connection (docs/OPS.md step 1); until then deploy with `npx vercel deploy --prod`. |
 | check-data rejects a deal that has no source | ✅ | `tests/check.test.ts` "rejects a deal that has no source" |
 | A sample page uses the sector colors and fonts | ✅ | Inter + JetBrains Mono, 10 sector colors in `src/lib/sectors.ts`; sample data in `data/sample/` |
 
@@ -52,6 +52,6 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 | Criterion | Status | Evidence |
 | --- | --- | --- |
 | Pages load in under 2 s on a phone | ✅ | `scripts/perf.ts` against the live Vercel deployment (4× CPU slowdown, fast 4G): Money Graph 0.33 s, Nvidia panel 0.99 s, Energy Map 1.66 s, company page 0.22 s, Methodology 0.21 s. |
-| Methodology page and error button are live | ✅ (in build) 🔧 | `/methodology`, "Report an error" on every deal → GitHub issue form. Live once deployed. |
+| Methodology page and error button are live | ✅ | https://ai-atlas-pearl.vercel.app/methodology; "Report an error" on every deal → GitHub issue form. |
 | Launched in at least 3 places | 👤 | Drafts for Show HN, r/dataisbeautiful, r/stocks, X in `docs/LAUNCH.md` |
-| Custom domain | 👤 | Deferred by Sebastian on 2026-10-26 (available: aimoneyatlas.com $11.25/yr, aiatlas.money). Site uses the free vercel.app address. |
+| Custom domain | 👤 | Deferred by Sebastian on 2026-10-26 (available: aimoneyatlas.com $11.25/yr, aiatlas.money). Site uses ai-atlas-pearl.vercel.app. |

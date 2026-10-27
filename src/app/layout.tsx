@@ -8,7 +8,7 @@ import "./globals.css";
 const geist = Geist({ variable: "--font-geist", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] });
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://ai-atlas.vercel.app";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://ai-atlas-pearl.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE),

@@ -33,7 +33,7 @@ Available: **aimoneyatlas.com** ($11.25/yr, same renewal) and **aiatlas.money** 
 
 **Title:** [OC] Every big money flow in the AI industry, mapped — 370 deals between 190 companies, each linked to its source
 
-> Tools: Next.js, react-force-graph, deck.gl/MapLibre. Data: SEC filings, company press releases, Epoch AI (data centers, CC-BY), EIA (power plants, grid mix). Dot size = revenue, line thickness = deal size on a log scale, dashed = announced/"up to" money that hasn't happened yet. Interactive version: <link>
+> Tools: Next.js, react-force-graph, deck.gl/MapLibre. Data: SEC filings, company press releases, Epoch AI (data centers, CC-BY), EIA (power plants, grid mix). Dot size = revenue, line thickness = deal size on a log scale, dashed = announced/"up to" money that hasn't happened yet. Interactive version: https://ai-atlas-pearl.vercel.app
 
 (r/dataisbeautiful requires `[OC]` and a source/tools comment; post a static screenshot of the graph as the image.)
 
@@ -41,14 +41,14 @@ Available: **aimoneyatlas.com** ($11.25/yr, same renewal) and **aiatlas.money** 
 
 **Title:** I mapped who pays whom in AI (chips, cloud, power) with a source for every deal — free tool
 
-> Click any company to see who pays it the most, every deal with a link, and an exposure score (how much of a company's backlog comes from one customer). Confirmed money and "up to" money are kept separate so the totals aren't inflated. Not investment advice; it's a reference tool. <link>
+> Click any company to see who pays it the most, every deal with a link, and an exposure score (how much of a company's backlog comes from one customer). Confirmed money and "up to" money are kept separate so the totals aren't inflated. Not investment advice; it's a reference tool. https://ai-atlas-pearl.vercel.app
 
 (Check r/stocks self-promotion rules first; post in the daily thread if required.)
 
 ## X / Twitter (thread)
 
-1. I mapped the money moving through the AI industry. 370 deals, 190 companies, and every single deal links to the filing or press release that proves it. 🧵 <link>
+1. I mapped the money moving through the AI industry. 370 deals, 190 companies, and every single deal links to the filing or press release that proves it. 🧵 https://ai-atlas-pearl.vercel.app
 2. Dots are companies, lines are deals, and the particles flow the way the money moves. Solid = confirmed. Dashed = "up to" money that hasn't happened yet (never added to the totals). [screenshot]
 3. The loop finder highlights circular deals: Nvidia invests in CoreWeave → CoreWeave buys Nvidia GPUs. It finds 27 loops like this. [screenshot]
 4. The Energy Map shows every big US AI data center, the power plants near it, the nuclear deals tech companies signed, and today's grid mix. [screenshot]
-5. Flip "Explain this" and every number gets a plain-English explanation. Updated every morning by an agent that only auto-publishes what it can prove. Not investment advice. <link>
+5. Flip "Explain this" and every number gets a plain-English explanation. Updated every morning by an agent that only auto-publishes what it can prove. Not investment advice. https://ai-atlas-pearl.vercel.app

@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { readGraph } from "@/lib/data-server";
 
-const SITE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://ai-atlas.vercel.app";
+const SITE = process.env.NEXT_PUBLIC_SITE_URL ?? "https://ai-atlas-pearl.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const g = readGraph();
