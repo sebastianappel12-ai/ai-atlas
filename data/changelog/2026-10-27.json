@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-27",
+  "entries": [
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "nvidia-meta-investment-2026",
+      "summary": "Nvidia to invest $3 billion in Meta's equity offering",
+      "via": "auto"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "apollo-spacex-financing-2026",
+      "summary": "Apollo-managed entity to finance about $40 billion of GPU pods for SpaceX via master finance lease",
+      "via": "auto"
+    }
+  ]
+}

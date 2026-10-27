@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-meta-investment-2026",
+  "from": "nvidia",
+  "to": "meta",
+  "type": "investment",
+  "title": "Nvidia to invest $3 billion in Meta's equity offering",
+  "amount_usd": 3000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-10-26",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "publisher": "nvidianews.nvidia.com",
+      "date": "2026-10-26",
+      "kind": "press_release",
+      "quote": "In addition, NVIDIA will invest $3 billion in Meta's equity offering."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-27",
+  "added": "2026-10-27",
+  "explain": "Nvidia said it will put $3 billion into new shares Meta is selling, announced alongside a wider deal to expand their work on Meta's Muse AI models and Meta's use of Nvidia hardware. The press release says Nvidia 'will invest' but gives no closing date."
+}

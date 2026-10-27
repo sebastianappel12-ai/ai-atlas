@@ -1,0 +1,24 @@
+{
+  "id": "apollo-spacex-financing-2026",
+  "from": "apollo",
+  "to": "spacex",
+  "type": "financing",
+  "title": "Apollo-managed entity to finance about $40 billion of GPU pods for SpaceX via master finance lease",
+  "amount_usd": 40000000000,
+  "amount_kind": "estimated",
+  "date": "2026-10-24",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/tm2628247d1_8k.htm",
+      "publisher": "sec.gov",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "The Company expects aggregate principal payments under the lease schedules over their respective terms to total approximately $40 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-27",
+  "added": "2026-10-27",
+  "explain": "SpaceX signed a binding commitment letter on October 24 for a lease in which an entity managed by Apollo buys GPU pods and leases them to SpaceX for its data centers. SpaceX expects lease payments of about $40 billion over the terms; the lease is not yet signed and is expected to close before year end, with deliveries starting in the first half of 2027."
+}
