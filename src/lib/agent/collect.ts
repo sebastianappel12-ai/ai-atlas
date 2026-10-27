@@ -4,7 +4,7 @@
  */
 import { decodeEntities, userAgentFor } from "../quote";
 import type { Company } from "../schema";
-import { useEnvProxy } from "../net";
+import { enableEnvProxy } from "../net";
 
 export interface Item {
   id: string; // stable key (url)
@@ -38,7 +38,7 @@ async function get(url: string): Promise<Response> {
 }
 
 async function rawGet(url: string): Promise<Response> {
-  useEnvProxy();
+  enableEnvProxy();
   if (new URL(url).hostname.endsWith("sec.gov")) {
     const wait = 120 - (Date.now() - lastSec); // SEC: max 10 requests/second
     if (wait > 0) await new Promise((r) => setTimeout(r, wait));
