@@ -54,4 +54,4 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 | Pages load in under 2 s on a phone | ✅ (local) | `scripts/perf.ts` (4× CPU slowdown, fast 4G): Money Graph 0.19 s, Nvidia panel 0.93 s, Energy Map 1.6 s, company page 0.16 s. Re-run against the live URL after deploy. |
 | Methodology page and error button are live | ✅ (in build) 🔧 | `/methodology`, "Report an error" on every deal → GitHub issue form. Live once deployed. |
 | Launched in at least 3 places | 👤 | Drafts for Show HN, r/dataisbeautiful, r/stocks, X in `docs/LAUNCH.md` |
-| Custom domain | 👤 | Available: aimoneyatlas.com ($11.25/yr) or aiatlas.money; your purchase decision |
+| Custom domain | 👤 | Deferred by Sebastian on 2026-10-26 (available: aimoneyatlas.com $11.25/yr, aiatlas.money). Site uses the free vercel.app address. |
