@@ -3,6 +3,7 @@
  * source page? This is the code check that stops made-up deals, used by both
  * the seed scripts and the daily agent.
  */
+import { useEnvProxy } from "./net";
 
 const NAMED_ENTITIES: Record<string, string> = {
   amp: "&",
@@ -96,6 +97,7 @@ export function userAgentFor(url: string): string {
 }
 
 export async function fetchPageText(url: string, timeoutMs = 20000): Promise<{ http: number; text: string; contentType: string }> {
+  useEnvProxy();
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
   try {
