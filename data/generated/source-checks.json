@@ -1,10 +1,10 @@
 {
   "checked": "2026-10-27",
   "summary": {
-    "deals": 366,
-    "verified": 365,
+    "deals": 368,
+    "verified": 368,
     "sources": {
-      "found": 520,
+      "found": 524,
       "error": 1
     }
   },
@@ -3654,6 +3654,34 @@
       "http": 200,
       "deal": "nvidia-coreweave-capacity-backstop-2025",
       "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+      "checked": "2026-10-27"
+    },
+    "apollo-spacex-financing-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apollo-spacex-financing-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000110465926118614/tm2628247d1_8k.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-meta-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-meta-investment-2026",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "checked": "2026-10-27"
+    },
+    "coreweave-nvidia-gpus-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-nvidia-gpus-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525058309/d899798ds1a.htm",
+      "checked": "2026-10-27"
+    },
+    "coreweave-nvidia-gpus-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-nvidia-gpus-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
       "checked": "2026-10-27"
     }
   }
