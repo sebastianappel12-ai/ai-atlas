@@ -4,7 +4,7 @@ Read `docs/PLAN.md` (the product plan) and `DECISIONS.md` (choices already made 
 Also read `AGENTS.md`: this Next.js version differs from older ones; check `node_modules/next/dist/docs/` before using an API.
 
 ## Stack
-Next.js 16 (App Router) + TypeScript · Tailwind CSS v4 · Framer Motion (`motion`) · react-force-graph-2d (Money Graph) ·
+Next.js 16 (App Router) + TypeScript · Tailwind CSS v4 · design system in `.claude/skills/redesign-existing-projects` (Geist, Phosphor icons) · Framer Motion (`motion`) · react-force-graph-2d (Money Graph) ·
 MapLibre GL + deck.gl (Energy Map) · Recharts · Zod (data schemas) · Vitest (logic tests) · Playwright (screenshots) ·
 Vercel hosting · a scheduled Claude Code routine (daily agent, see docs/DAILY_AGENT.md) · GitHub Actions (grid refresh, weekly re-check, CI).
 
