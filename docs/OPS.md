@@ -17,7 +17,8 @@ These need your accounts, so the coding agent can't do them.
 
 ## Every day (2–5 minutes)
 
-- The **daily update agent** (Claude routine) runs every morning: it collects new filings and news, reads them, proposes deals, and `scripts/propose-deal.ts` checks each one in code.
+- 09:00 UTC: the **Agent inbox** GitHub Action collects new SEC filings, newsroom posts and news and saves each page's text on the `agent-inbox` branch (the cloud agent's network can't reach those sites).
+- 10:00 UTC: the **daily update agent** (Claude routine, https://claude.ai/code/routines) reads that inbox, proposes deals, and `scripts/propose-deal.ts` checks each quote in code against the saved page.
 - Deals from SEC filings or a company's own press release that pass every check are published automatically.
 - Separately, the **Daily grid refresh** GitHub Action updates the Energy Map's grid colors at 10:30 UTC.
 - Everything else arrives as a pull request titled **"Deals for review YYYY-MM-DD"**. Open it, read each deal's quote and link, edit the JSON if needed, then **merge to publish** or **close to reject**.
