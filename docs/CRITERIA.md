@@ -14,7 +14,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 | Criterion | Status | Evidence |
 | --- | --- | --- |
 | 150+ companies across all 10 sectors | ✅ | 193 companies, all 10 sectors (`npm run check-data`) |
-| 300+ deals, each with a working source link | ✅ | 366 deals; `npm run verify-sources`: every deal has a source whose exact quote was found on the live page |
+| 300+ deals, each with a working source link | ✅ | 368 deals; `npm run verify-sources`: every deal has a source whose exact quote was found on the live page |
 | At least 29 of 30 random deals correct by hand | 👤 | Sample ready in `docs/SPOT_CHECK.md`. Pre-checks done: every quote verified by code; `scripts/audit-amounts.ts` cross-checked amounts against quotes (5 remaining flags are explained sums/splits). |
 | Data centers and power plants imported, check-data passes | ✅ | 76 US data centers (Epoch AI), 4,016 EIA plants ≥ 50 MW; 0 errors |
 
@@ -28,7 +28,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 ## Phase 3: Daily update agent
 | Criterion | Status | Evidence |
 | --- | --- | --- |
-| Runs every morning for 2 weeks without breaking | ⏳ | Agent inbox Action (09:00 UTC) + scheduled Claude Code routine (10:00 UTC) following `docs/DAILY_AGENT.md`, no API key. End-to-end test run 2026-10-27. Needs 14 mornings. |
+| Runs every morning for 2 weeks without breaking | ⏳ | Agent inbox Action (09:00 UTC) + scheduled Claude Code routine (10:00 UTC) following `docs/DAILY_AGENT.md`, no API key. First full run 2026-10-27: read 24 items, auto-published 2 deals (Nvidia → Meta $3B, Apollo → SpaceX ~$40B), both re-verified by hand and by code. Needs 14 mornings. |
 | Catches 8 of 10 big deals vs. a hand list for a week | 👤⏳ | Keep a list for one week, compare with `/changes` and the review PRs. |
 | Zero made-up deals get published | ✅ (by design) ⏳ | Every proposed deal goes through `scripts/propose-deal.ts`: the quote must be found on the live page by code; auto-publish only from SEC filings / the companies' own sites; everything else is a PR you approve. Tested in `tests/agent-checks.test.ts`. |
 | Monthly API bill stays under $20 | ✅ | No API bill: the agent runs as a Claude Code routine on your plan (Sebastian's choice, 2026-10-26). Hosting, Actions and data are free. |
