@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowDownLeft, ArrowUpRight, ExternalLink, MapPin, X } from "lucide-react";
+import { ArrowDownLeft, ArrowSquareOut, ArrowUpRight, MapPin, X } from "@phosphor-icons/react";
 import Link from "next/link";
 import { useMemo, useState } from "react";
 import { ExplainBox, Term, WithTerms } from "@/components/explain";
@@ -16,12 +16,12 @@ function Fact({ label, fact, term }: { label: string; fact?: MoneyFact; term?: s
   if (!fact) return null;
   return (
     <div className="rounded-lg border border-line p-2.5">
-      <div className="text-[11px] text-muted">{term ? <Term t={term}>{label}</Term> : label}</div>
+      <div className="text-xs text-muted">{term ? <Term t={term}>{label}</Term> : label}</div>
       <div className="num mt-0.5 text-base">
         {fact.estimate ? "~" : ""}
         {fmtUsd(fact.amount_usd)}
       </div>
-      <a href={fact.source.url} target="_blank" rel="noopener noreferrer" className="num text-[10px] text-dim hover:text-fg">
+      <a href={fact.source.url} target="_blank" rel="noopener noreferrer" className="num text-xs text-dim hover:text-fg">
         {fact.period}
         {fact.estimate ? " · estimate" : ""}
         {fact.low_usd && fact.high_usd ? ` · range ${fmtUsd(fact.low_usd)}–${fmtUsd(fact.high_usd)}` : ""}
@@ -33,16 +33,16 @@ function Fact({ label, fact, term }: { label: string; fact?: MoneyFact; term?: s
 function TotalsBlock({ label, icon, t }: { label: string; icon: React.ReactNode; t: Totals }) {
   return (
     <div className="rounded-lg border border-line p-2.5">
-      <div className="flex items-center gap-1.5 text-[11px] text-muted">
+      <div className="flex items-center gap-1.5 text-xs text-muted">
         {icon}
         {label} <span className="num text-dim">· {t.count} deals</span>
       </div>
       <div className="num mt-1 text-base">{fmtUsd(t.confirmed)}</div>
-      <div className="text-[10px] text-dim">
+      <div className="text-xs text-dim">
         <Term t="confirmed">confirmed</Term>
       </div>
       {(t.up_to > 0 || t.estimated > 0 || t.undisclosed > 0) && (
-        <div className="num mt-1 space-y-0.5 text-[11px] text-muted">
+        <div className="num mt-1 space-y-0.5 text-xs text-muted">
           {t.up_to > 0 && (
             <div>
               + {fmtUsd(t.up_to)} <Term t="up to">up to</Term>
@@ -132,7 +132,7 @@ export function CompanyPanel({
           )}
           {company.website && (
             <a href={company.website} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 rounded-full border border-line px-2.5 py-1 text-muted hover:border-line-strong hover:text-fg">
-              <ExternalLink size={12} /> Website
+              <ArrowSquareOut size={12} /> Website
             </a>
           )}
         </div>
@@ -150,7 +150,7 @@ export function CompanyPanel({
 
         {topPayers.length > 0 && (
           <div>
-            <h3 className="mb-2 text-xs font-medium uppercase tracking-wider text-muted">Who pays {company.name.replace(/ \(.+\)$/, "")} the most</h3>
+            <h3 className="mb-2 text-xs font-medium tracking-wider text-muted">Who pays {company.name.replace(/ \(.+\)$/, "")} the most</h3>
             <ol className="space-y-1">
               {topPayers.map(({ id, t }, i) => {
                 const c = companies.get(id);
@@ -173,7 +173,7 @@ export function CompanyPanel({
 
         {exp && (
           <div className="rounded-lg border border-line p-3">
-            <div className="text-xs font-medium uppercase tracking-wider text-muted">
+            <div className="text-xs font-medium tracking-wider text-muted">
               <Term t="exposure">Exposure score</Term>
             </div>
             <div className="mt-2 flex items-baseline gap-2">
@@ -185,7 +185,7 @@ export function CompanyPanel({
             <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-white/10">
               <div className="h-full rounded-full bg-white" style={{ width: `${Math.round(exp.share * 100)}%` }} />
             </div>
-            <p className="mt-2 text-[11px] leading-relaxed text-dim">
+            <p className="mt-2 text-xs leading-relaxed text-dim">
               {fmtUsd(exp.amount)} of tracked contracts from its biggest customer, against {fmtUsd(exp.base)} of reported{" "}
               <Term t="backlog">backlog</Term> ({company.backlog?.period}).
               {exp.upTo > 0 ? ` Another ${fmtUsd(exp.upTo)} is "up to" and not counted.` : ""}
@@ -195,7 +195,7 @@ export function CompanyPanel({
 
         {company.public && company.ticker && (
           <div>
-            <h3 className="mb-2 text-xs font-medium uppercase tracking-wider text-muted">Share price</h3>
+            <h3 className="mb-2 text-xs font-medium tracking-wider text-muted">Share price</h3>
             <TradingViewChart symbol={company.ticker} />
           </div>
         )}

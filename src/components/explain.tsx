@@ -94,7 +94,7 @@ export function ExplainBox({ children }: { children: ReactNode }) {
   if (!on) return null;
   return (
     <div className="rounded-lg border border-white/15 bg-white/[0.04] p-3 text-sm leading-relaxed text-fg">
-      <div className="num mb-1 text-[10px] uppercase tracking-[0.2em] text-muted">In plain English</div>
+      <div className="num mb-1 text-xs tracking-wide text-muted">In plain English</div>
       {children}
     </div>
   );

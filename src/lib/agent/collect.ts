@@ -16,8 +16,27 @@ export interface Item {
   extraUrls?: string[];
 }
 
+/** Fetch outcomes per host, so a blocked network shows up instead of looking like a quiet news day. */
+export const fetchStats = new Map<string, { ok: number; failed: number; lastError?: string }>();
+
 let lastSec = 0;
 async function get(url: string): Promise<Response> {
+  const host = new URL(url).hostname;
+  const st = fetchStats.get(host) ?? { ok: 0, failed: 0 };
+  fetchStats.set(host, st);
+  try {
+    const res = await rawGet(url);
+    if (res.ok) st.ok++;
+    else (st.failed++, (st.lastError = `HTTP ${res.status}`));
+    return res;
+  } catch (e) {
+    st.failed++;
+    st.lastError = e instanceof Error ? (e.cause instanceof Error ? e.cause.message : e.message) : String(e);
+    throw e;
+  }
+}
+
+async function rawGet(url: string): Promise<Response> {
   if (new URL(url).hostname.endsWith("sec.gov")) {
     const wait = 120 - (Date.now() - lastSec); // SEC: max 10 requests/second
     if (wait > 0) await new Promise((r) => setTimeout(r, wait));

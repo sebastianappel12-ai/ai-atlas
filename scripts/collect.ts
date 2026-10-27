@@ -6,7 +6,7 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { collectNews, collectNewsrooms, collectSec, dedupeItems } from "../src/lib/agent/collect";
+import { collectNews, collectNewsrooms, collectSec, dedupeItems, fetchStats } from "../src/lib/agent/collect";
 import { readJsonDir, ROOT, writeJson } from "../src/lib/data-fs";
 import type { Company } from "../src/lib/schema";
 
@@ -26,6 +26,11 @@ writeJson(path.join(ROOT, ".queue/items.json"), { date: today, since, items });
 for (const it of items) seen.add(it.id);
 writeJson(SEEN, { ids: [...seen].slice(-20000) });
 
+const failing = [...fetchStats].filter(([, v]) => v.failed > 0 && v.ok === 0);
+console.log(`sources: ${[...fetchStats].map(([h, v]) => `${h} ${v.ok} ok/${v.failed} failed`).join(", ") || "none contacted"}`);
+if (failing.length) {
+  console.log(`WARNING: these sources could not be reached at all (network blocked?): ${failing.map(([h, v]) => `${h} (${v.lastError})`).join("; ")}`);
+}
 console.log(`collect: ${items.length} new items since ${since} (saved to .queue/items.json)`);
 items.forEach((it, i) => {
   console.log(`${i}. [${it.origin}] ${it.date} ${it.title}`);

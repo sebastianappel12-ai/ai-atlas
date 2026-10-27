@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { Reveal } from "@/components/Reveal";
 import { SiteFooter } from "@/components/SiteHeader";
 import { DealRow } from "@/components/money/DealCard";
 import { ExplainBox, WithTerms } from "@/components/explain";
@@ -66,14 +67,14 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
 
   return (
     <>
-      <main className="mx-auto w-full max-w-4xl flex-1 px-4 py-10 max-md:mt-9">
+      <main id="main" className="mx-auto w-full max-w-4xl flex-1 px-4 py-10 max-md:mt-9">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
         <nav className="text-xs text-muted">
           <Link href="/" className="hover:text-fg">Money Graph</Link> / <span>{info.label}</span>
         </nav>
         <div className="mt-3 flex items-center gap-3">
           <span className="h-4 w-4 rounded-full" style={{ background: info.color, boxShadow: `0 0 14px ${info.color}` }} />
-          <h1 className="text-3xl font-semibold tracking-tight">{c.name}</h1>
+          <h1 className="hero-heading text-4xl font-semibold">{c.name}</h1>
         </div>
         <div className="mt-2 flex flex-wrap gap-x-3 text-sm text-muted">
           <span style={{ color: info.color }}>{info.label}</span>
@@ -94,7 +95,7 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
           )}
         </div>
 
-        <section className="mt-8 grid gap-3 sm:grid-cols-3">
+        <Reveal className="mt-8 grid gap-3 sm:grid-cols-3">
           {c.revenue && (
             <div className="panel rounded-xl p-4">
               <div className="text-xs text-muted">Revenue {c.revenue.estimate ? "(estimate)" : ""}</div>
@@ -116,12 +117,12 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
               <a className="num text-xs text-dim hover:text-fg" href={c.backlog.source.url}>{c.backlog.period}</a>
             </div>
           )}
-        </section>
+        </Reveal>
 
-        <section className="mt-3 grid gap-3 sm:grid-cols-2">
+        <Reveal className="mt-3 grid gap-3 sm:grid-cols-2">
           <TotalsCard label="Money in" t={sumDeals(inbound)} />
           <TotalsCard label="Money out" t={sumDeals(outbound)} />
-        </section>
+        </Reveal>
 
         {exp && (
           <p className="mt-4 text-sm text-muted">
@@ -131,7 +132,7 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
         )}
 
         {dcs.length > 0 && (
-          <section className="mt-10">
+          <Reveal className="mt-10">
             <h2 className="text-lg font-semibold">Data centers ({dcs.length})</h2>
             <ul className="mt-3 grid gap-2 sm:grid-cols-2">
               {dcs.map((d) => (
@@ -143,17 +144,17 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
                 </li>
               ))}
             </ul>
-          </section>
+          </Reveal>
         )}
 
-        <section className="mt-10">
+        <Reveal className="mt-10">
           <h2 className="text-lg font-semibold">All deals ({deals.length})</h2>
           <div className="mt-3 space-y-2">
             {deals.map((d) => (
               <DealRow key={d.id} deal={d} companies={companies} />
             ))}
           </div>
-        </section>
+        </Reveal>
       </main>
       <SiteFooter />
     </>

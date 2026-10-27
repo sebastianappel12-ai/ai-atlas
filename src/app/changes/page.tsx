@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { Reveal } from "@/components/Reveal";
 import { SiteFooter } from "@/components/SiteHeader";
 import { readChangelogs, readGraph } from "@/lib/data-server";
 import { fmtDate, fmtDealAmount } from "@/lib/format";
@@ -19,16 +20,16 @@ export default function ChangesPage() {
   const companies = new Map(g.companies.map((c) => [c.id, c]));
   return (
     <>
-      <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 max-md:mt-9">
-        <h1 className="text-3xl font-semibold tracking-tight">What changed</h1>
+      <main id="main" className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 max-md:mt-9">
+        <h1 className="hero-heading text-4xl font-semibold">What changed</h1>
         <p className="mt-2 text-muted">
           Every morning an update agent reads new SEC filings, company press releases and news. Deals it can prove from an official source are published
           automatically; everything else waits for a human to approve it. This page lists every change.
         </p>
         {logs.length === 0 && <p className="mt-8 text-dim">No changes logged yet.</p>}
         {logs.map((log) => (
-          <section key={log.date} className="mt-8">
-            <h2 className="num text-sm uppercase tracking-[0.2em] text-muted">{fmtDate(log.date)}</h2>
+          <Reveal key={log.date} className="mt-8">
+            <h2 className="num text-sm tracking-wide text-muted">{fmtDate(log.date)}</h2>
             <ul className="mt-3 space-y-2">
               {log.entries.map((e, i) => {
                 const d = e.record === "deal" ? deals.get(e.id) : undefined;
@@ -36,7 +37,7 @@ export default function ChangesPage() {
                   <li key={i} className="panel rounded-lg p-3 text-sm">
                     <div className="flex items-start justify-between gap-3">
                       <div>
-                        <span className={`num mr-2 rounded px-1.5 py-0.5 text-[10px] uppercase ${e.kind === "added" ? "bg-good/15 text-good" : e.kind === "canceled" ? "bg-bad/15 text-bad" : "bg-white/10 text-muted"}`}>
+                        <span className={`num mr-2 rounded px-1.5 py-0.5 text-xs ${e.kind === "added" ? "bg-good/15 text-good" : e.kind === "canceled" ? "bg-bad/15 text-bad" : "bg-white/10 text-muted"}`}>
                           {KIND_LABEL[e.kind]}
                         </span>
                         {d ? (
@@ -51,13 +52,13 @@ export default function ChangesPage() {
                           </div>
                         )}
                       </div>
-                      <span className="shrink-0 text-[11px] text-dim">{VIA_LABEL[e.via]}</span>
+                      <span className="shrink-0 text-xs text-dim">{VIA_LABEL[e.via]}</span>
                     </div>
                   </li>
                 );
               })}
             </ul>
-          </section>
+          </Reveal>
         ))}
       </main>
       <SiteFooter />

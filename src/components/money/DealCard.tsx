@@ -1,6 +1,6 @@
 "use client";
 
-import { ExternalLink } from "lucide-react";
+import { ArrowSquareOut } from "@phosphor-icons/react";
 import { ExplainBox, Term, WithTerms } from "@/components/explain";
 import { DEAL_TYPE_LABEL, STATUS_LABEL, fmtDate, fmtDealAmount } from "@/lib/format";
 import type { Deal } from "@/lib/schema";
@@ -10,7 +10,7 @@ import type { GraphCompany } from "@/lib/graph-data";
 export function StatusPill({ status }: { status: Deal["status"] }) {
   const color =
     status === "completed" ? "text-good border-good/30" : status === "canceled" ? "text-bad border-bad/30" : status === "revised" ? "text-warn border-warn/30" : "text-muted border-line-strong";
-  return <span className={`num rounded border px-1.5 py-0.5 text-[10px] uppercase tracking-wider ${color}`}>{STATUS_LABEL[status]}</span>;
+  return <span className={`num rounded border px-1.5 py-0.5 text-xs tracking-wider ${color}`}>{STATUS_LABEL[status]}</span>;
 }
 
 export function DealRow({ deal, companies, onSelect, compact }: { deal: Deal; companies: Map<string, GraphCompany>; onSelect?: (id: string) => void; compact?: boolean }) {
@@ -36,10 +36,10 @@ export function DealRow({ deal, companies, onSelect, compact }: { deal: Deal; co
           <div className="num text-sm text-fg">
             {deal.amount_kind === "up_to" ? <Term t="up to">{fmtDealAmount(deal.amount_usd, deal.amount_kind)}</Term> : fmtDealAmount(deal.amount_usd, deal.amount_kind)}
           </div>
-          <div className="num mt-0.5 text-[11px] text-dim">{fmtDate(deal.date)}</div>
+          <div className="num mt-0.5 text-xs text-dim">{fmtDate(deal.date)}</div>
         </div>
       </div>
-      <div className="mt-2 flex flex-wrap items-center gap-2 text-[11px] text-muted">
+      <div className="mt-2 flex flex-wrap items-center gap-2 text-xs text-muted">
         <span>{DEAL_TYPE_LABEL[deal.type]}</span>
         {deal.length_years ? <span className="num">· {deal.length_years} yrs</span> : null}
         <StatusPill status={deal.status} />
@@ -57,9 +57,9 @@ export function DealRow({ deal, companies, onSelect, compact }: { deal: Deal; co
         <div className="mt-2 space-y-1">
           {(compact ? [src] : deal.sources).map((s, i) => (
             <a key={i} href={s.url} target="_blank" rel="noopener noreferrer" className="group block text-xs text-muted hover:text-fg">
-              <span className="italic text-fg/70 group-hover:text-fg">&ldquo;{s.quote}&rdquo;</span>
+              <span className="text-fg/70 group-hover:text-fg">&ldquo;{s.quote}&rdquo;</span>
               <span className="mt-0.5 flex items-center gap-1 text-dim">
-                <ExternalLink size={11} /> {s.publisher} · {fmtDate(s.date)}
+                <ArrowSquareOut size={11} /> {s.publisher} · {fmtDate(s.date)}
               </span>
             </a>
           ))}
@@ -67,7 +67,7 @@ export function DealRow({ deal, companies, onSelect, compact }: { deal: Deal; co
       )}
       {!compact && (
         <a
-          className="mt-2 inline-block text-[11px] text-dim underline-offset-2 hover:text-fg hover:underline"
+          className="mt-2 inline-block text-xs text-dim underline-offset-2 hover:text-fg hover:underline"
           href={`https://github.com/sebastianappel12-ai/ai-atlas/issues/new?template=report-error.yml&title=${encodeURIComponent(`Error in deal: ${deal.id}`)}&deal=${encodeURIComponent(deal.id)}`}
           target="_blank"
           rel="noopener noreferrer"
@@ -87,7 +87,7 @@ export function DealHoverCard({ deals, companies, x, y }: { deals: Deal[]; compa
       {shown.map((d) => (
         <DealRow key={d.id} deal={d} companies={companies} compact />
       ))}
-      {deals.length > 3 && <div className="px-1 text-xs text-muted">+{deals.length - 3} more — click either company to see all</div>}
+      {deals.length > 3 && <div className="px-1 text-xs text-muted">+{deals.length - 3} more. Click either company to see them all.</div>}
     </div>
   );
 }

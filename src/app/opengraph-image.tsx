@@ -24,14 +24,14 @@ export default async function Image() {
 
   return new ImageResponse(
     (
-      <div style={{ width: "100%", height: "100%", display: "flex", background: "#05070b", color: "#e6e9ef", fontFamily: "sans-serif" }}>
+      <div style={{ width: "100%", height: "100%", display: "flex", background: "#000000", color: "#ededed", fontFamily: "sans-serif" }}>
         <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", padding: "0 0 0 64px", width: 600 }}>
-          <div style={{ fontSize: 22, letterSpacing: 6, color: "#8b93a4" }}>AI ATLAS</div>
+          <div style={{ fontSize: 22, letterSpacing: 6, color: "#9b9b9b" }}>AI ATLAS</div>
           <div style={{ fontSize: 56, fontWeight: 700, lineHeight: 1.1, marginTop: 16 }}>How money and power move through AI</div>
-          <div style={{ fontSize: 26, color: "#8b93a4", marginTop: 24, display: "flex" }}>
+          <div style={{ fontSize: 26, color: "#9b9b9b", marginTop: 24, display: "flex" }}>
             {g.companies.length} companies · {g.deals.length} deals · every one sourced
           </div>
-          <div style={{ fontSize: 26, color: "#8b93a4", marginTop: 8, display: "flex" }}>${Math.round(confirmed / 1e9).toLocaleString("en-US")}B in confirmed deals</div>
+          <div style={{ fontSize: 26, color: "#9b9b9b", marginTop: 8, display: "flex" }}>${Math.round(confirmed / 1e9).toLocaleString("en-US")}B in confirmed deals</div>
         </div>
         <svg width={W} height={H} viewBox={`0 0 ${W} ${H}`} style={{ marginTop: 35 }}>
           {lines.map((d) => {

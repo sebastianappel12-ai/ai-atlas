@@ -1,9 +1,10 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import { motion } from "motion/react";
 import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { List, Network } from "lucide-react";
+import { Graph, ListBullets } from "@phosphor-icons/react";
 import { ExplainBox } from "@/components/explain";
 import { currentDeals, dealsAsOf, filterDeals, findLoops, neighborhood } from "@/lib/graph";
 import { loadGraphData, type GraphData } from "@/lib/graph-data";
@@ -21,9 +22,19 @@ import { GuidedTour } from "./GuidedTour";
 const GraphCanvas = dynamic(() => import("./GraphCanvas"), { ssr: false, loading: () => <GraphLoading /> });
 
 function GraphLoading() {
+  // Skeleton shaped like the real view: a ring of sector clusters, the toolbar and the legend.
   return (
-    <div className="flex h-full w-full items-center justify-center">
-      <div className="num animate-pulse text-xs uppercase tracking-[0.3em] text-muted">Loading the money graph…</div>
+    <div className="relative h-full w-full" aria-busy="true" aria-label="Loading the money graph">
+      {Array.from({ length: 10 }, (_, i) => {
+        const a = (i / 10) * Math.PI * 2;
+        return (
+          <div
+            key={i}
+            className="skeleton absolute rounded-full"
+            style={{ left: `calc(50% + ${Math.cos(a) * 30}vmin - 20px)`, top: `calc(50% + ${Math.sin(a) * 30}vmin - 20px)`, width: 40, height: 40 }}
+          />
+        );
+      })}
     </div>
   );
 }
@@ -161,9 +172,9 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
             )}
             {view.loops && (
               <div className="pointer-events-auto panel max-h-[50vh] w-80 overflow-y-auto rounded-xl p-3 text-sm">
-                <div className="mb-2 text-xs font-medium uppercase tracking-wider text-muted">{loops.length} circular deals</div>
+                <div className="mb-2 text-xs font-medium tracking-wider text-muted">{loops.length} circular deals</div>
                 <ExplainBox>
-                  A loop is money that comes back to where it started — for example a chip maker invests in a cloud company, which then spends money on that chip maker&apos;s chips. Loops can make demand look stronger than it is.
+                  A loop is money that comes back to where it started. For example, a chip maker invests in a cloud company, which then spends money on that chip maker&apos;s chips. Loops can make demand look stronger than it is.
                 </ExplainBox>
                 <ul className="mt-2 space-y-2">
                   {loops.slice(0, 30).map((l) => (
@@ -178,7 +189,7 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
                           </span>
                         ))}
                       </div>
-                      <div className="num mt-1 text-[11px] text-dim">{l.deals.map((d) => (d.amount_usd ? fmtUsd(d.amount_usd) : "undisclosed")).join(" · ")}</div>
+                      <div className="num mt-1 text-xs text-dim">{l.deals.map((d) => (d.amount_usd ? fmtUsd(d.amount_usd) : "undisclosed")).join(" · ")}</div>
                     </li>
                   ))}
                 </ul>
@@ -193,9 +204,15 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
             {data && <TimeSlider view={view} set={set} range={data.range} />}
           </div>
           {selected && (
-            <div className="absolute bottom-4 right-4 top-4 z-20 w-[25rem]">
+            <motion.div
+              key={selected.id}
+              initial={{ opacity: 0, x: 24 }}
+              animate={{ opacity: 1, x: 0 }}
+              transition={{ duration: 0.5, ease: [0.22, 1, 0.36, 1] }}
+              className="absolute bottom-4 right-4 top-4 z-20 w-[25rem]"
+            >
               <CompanyPanel company={selected} deals={panelDeals} companies={companies} onSelect={select} onClose={() => select(null)} hasDataCenters={dcOwners.includes(selected.id)} />
-            </div>
+            </motion.div>
           )}
           {data && <GuidedTour />}
         </>
@@ -206,10 +223,10 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
         <div className="flex h-full flex-col">
           <div className="flex gap-1 border-b border-line p-2">
             <button onClick={() => setMobileTab("list")} className={`flex flex-1 items-center justify-center gap-1.5 rounded-lg py-2 text-sm ${mobileTab === "list" ? "bg-white/10" : "text-muted"}`}>
-              <List size={15} /> Companies
+              <ListBullets size={15} /> Companies
             </button>
             <button onClick={() => setMobileTab("graph")} className={`flex flex-1 items-center justify-center gap-1.5 rounded-lg py-2 text-sm ${mobileTab === "graph" ? "bg-white/10" : "text-muted"}`}>
-              <Network size={15} /> Graph
+              <Graph size={15} /> Graph
             </button>
           </div>
           {mobileTab === "list" ? (
@@ -237,7 +254,7 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
                   </li>
                 ))}
               </ul>
-              <p className="px-3 pb-8 text-[11px] text-dim">
+              <p className="px-3 pb-8 text-xs text-dim">
                 Not investment advice. Every deal links to its source. <a href="/methodology" className="underline">Methodology</a>
               </p>
             </div>

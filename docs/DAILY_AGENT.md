@@ -20,6 +20,7 @@ Read first: `CLAUDE.md` (stack and the three data rules) and `docs/RESEARCH_BRIE
    npx tsx scripts/collect.ts
    ```
    It prints numbered headlines from new SEC filings (8-K, 10-Q, …) of tracked companies, company newsroom feeds and news search, and remembers what it has already shown.
+   If it prints `WARNING: these sources could not be reached`, the session's network is blocking them: stop, commit nothing, and say so in your report.
 3. **Sort** — read the headlines. For each, decide: a **new deal** between two tracked companies, a **change** to a deal we already have (revised, expanded, canceled, completed), or **irrelevant** (most are: earnings, products, people, opinion). Tracked companies are the files in `data/companies/`. Skip anything that isn't money moving between two tracked companies.
 4. **Extract** — for each remaining item (at most ~20 per day, official sources first):
    - Open the source (`curl -s -A "AIAtlasBot/0.1 (+https://github.com/sebastianappel12-ai/ai-atlas)" <url>`; for sec.gov use `-A "AI Atlas research sebastianappel12@gmail.com"`; for 8-Ks also read the EX-99.1 press release listed next to it). Never get around a site that blocks bots.

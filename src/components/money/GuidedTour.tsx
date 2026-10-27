@@ -58,7 +58,7 @@ export function GuidedTour() {
           role="dialog"
           aria-label="Guided tour"
         >
-          <div className="num text-[10px] uppercase tracking-[0.2em] text-muted">
+          <div className="num text-xs tracking-wide text-muted">
             Tour · {step! + 1} / {STEPS.length}
           </div>
           <h3 className="mt-1 text-base font-semibold">{s.title}</h3>

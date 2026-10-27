@@ -1,6 +1,6 @@
 "use client";
 
-import { Filter, Link2, Pause, Play, Repeat, Share2, X } from "lucide-react";
+import { ArrowsClockwise, Funnel, LinkSimple, Pause, Play, ShareNetwork, X } from "@phosphor-icons/react";
 import { useEffect, useRef, useState } from "react";
 import { Term } from "@/components/explain";
 import { DEAL_TYPE_LABEL, fmtMonth, fmtUsd } from "@/lib/format";
@@ -14,8 +14,8 @@ export function Legend({ view, set, counts }: { view: ViewState; set: Set; count
   return (
     <div className="panel rounded-xl p-2.5" data-tour="legend">
       <div className="mb-1.5 flex items-center justify-between px-1">
-        <span className="text-[10px] font-medium uppercase tracking-[0.18em] text-muted">Sectors</span>
-        <button className="text-[10px] text-dim hover:text-fg" onClick={() => set({ all: !view.all })}>
+        <span className="text-xs font-medium tracking-wide text-muted">Sectors</span>
+        <button className="text-xs text-dim hover:text-fg" onClick={() => set({ all: !view.all })}>
           {view.all ? "Top 50 only" : "Show all"}
         </button>
       </div>
@@ -25,7 +25,7 @@ export function Legend({ view, set, counts }: { view: ViewState; set: Set; count
           return (
             <li key={s}>
               <button
-                className={`flex w-full items-center gap-1.5 rounded px-1 py-0.5 text-left text-[11px] transition hover:bg-white/5 ${hidden ? "opacity-35" : ""}`}
+                className={`flex w-full items-center gap-1.5 rounded px-1 py-0.5 text-left text-xs transition hover:bg-white/5 ${hidden ? "opacity-35" : ""}`}
                 onClick={() => set({ hiddenSectors: hidden ? view.hiddenSectors.filter((x) => x !== s) : [...view.hiddenSectors, s] })}
                 title={SECTOR_INFO[s].explain}
               >
@@ -37,7 +37,7 @@ export function Legend({ view, set, counts }: { view: ViewState; set: Set; count
           );
         })}
       </ul>
-      <div className="mt-2 flex items-center gap-3 border-t border-line px-1 pt-2 text-[10px] text-muted">
+      <div className="mt-2 flex items-center gap-3 border-t border-line px-1 pt-2 text-xs text-muted">
         <span className="flex items-center gap-1">
           <svg width="22" height="4"><line x1="0" y1="2" x2="22" y2="2" stroke="#cbd5e1" strokeWidth="2" /></svg>
           <Term t="confirmed">confirmed</Term>
@@ -47,7 +47,7 @@ export function Legend({ view, set, counts }: { view: ViewState; set: Set; count
           announced / <Term t="up to">up to</Term>
         </span>
       </div>
-      <div className="mt-2 border-t border-line px-1 pt-1.5 text-[10px] text-dim">
+      <div className="mt-2 border-t border-line px-1 pt-1.5 text-xs text-dim">
         Not investment advice ·{" "}
         <a href="/methodology" className="underline-offset-2 hover:text-fg hover:underline">
           How the data is checked
@@ -147,7 +147,7 @@ export function TimeSlider({ view, set, range }: { view: ViewState; set: Set; ra
       <button onClick={() => setPlaying(!playing)} className="rounded-full bg-white/10 p-1.5 hover:bg-white/20" aria-label={playing ? "Pause replay" : "Replay 2019 to today"}>
         {playing ? <Pause size={14} /> : <Play size={14} />}
       </button>
-      <span className="num w-9 text-[11px] text-dim">{range.from.slice(0, 4)}</span>
+      <span className="num w-9 text-xs text-dim">{range.from.slice(0, 4)}</span>
       <input
         type="range"
         min={0}
@@ -179,18 +179,18 @@ export function ToolBar({
   return (
     <div className="panel flex flex-wrap items-center gap-1 rounded-xl p-1 text-xs" data-tour="tools">
       <button onClick={onFilters} className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 ${filtersActive ? "bg-white text-black" : "text-muted hover:bg-white/10 hover:text-fg"}`}>
-        <Filter size={13} /> Filters
+        <Funnel size={13} /> Filters
       </button>
       <button
         onClick={() => set({ loops: !view.loops })}
         className={`flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 ${view.loops ? "bg-white text-black" : "text-muted hover:bg-white/10 hover:text-fg"}`}
         title="Highlight circular deals, where money comes back to where it started"
       >
-        <Repeat size={13} /> <Term t="circular deal">Loops</Term> <span className="num opacity-60">{loopCount}</span>
+        <ArrowsClockwise size={13} /> <Term t="circular deal">Loops</Term> <span className="num opacity-60">{loopCount}</span>
       </button>
       {view.company && (
         <div className="flex items-center gap-1 rounded-lg bg-white/5 px-2 py-1" title="Follow the money: light up companies 1, 2 or 3 steps away">
-          <Link2 size={13} className="text-muted" />
+          <LinkSimple size={13} className="text-muted" />
           <span className="text-muted">Steps</span>
           {[1, 2, 3].map((h) => (
             <button key={h} onClick={() => set({ hops: h as 1 | 2 | 3 })} className={`num rounded px-1.5 ${view.hops === h ? "bg-white text-black" : "text-muted hover:text-fg"}`}>
@@ -210,7 +210,7 @@ export function ToolBar({
         className="flex items-center gap-1.5 rounded-lg px-2.5 py-1.5 text-muted hover:bg-white/10 hover:text-fg"
         title="Copy a link to exactly this view"
       >
-        <Share2 size={13} /> {copied ? "Copied!" : "Share"}
+        <ShareNetwork size={13} /> {copied ? "Copied!" : "Share"}
       </button>
     </div>
   );

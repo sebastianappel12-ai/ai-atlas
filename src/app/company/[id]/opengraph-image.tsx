@@ -20,16 +20,16 @@ export default async function Image({ params }: { params: Promise<{ id: string }
   const inT = sumDeals(g.deals.filter((d) => d.to === id));
   const outT = sumDeals(g.deals.filter((d) => d.from === id));
   const Box = ({ label, t }: { label: string; t: ReturnType<typeof sumDeals> }) => (
-    <div style={{ display: "flex", flexDirection: "column", border: "1px solid #283041", borderRadius: 18, padding: "24px 32px", width: 440 }}>
-      <div style={{ fontSize: 26, color: "#8b93a4" }}>{`${label} · ${t.count} deals`}</div>
+    <div style={{ display: "flex", flexDirection: "column", border: "1px solid #2a2a2a", borderRadius: 18, padding: "24px 32px", width: 440 }}>
+      <div style={{ fontSize: 26, color: "#9b9b9b" }}>{`${label} · ${t.count} deals`}</div>
       <div style={{ fontSize: 60, fontWeight: 700, marginTop: 6 }}>{fmtUsd(t.confirmed)}</div>
-      <div style={{ fontSize: 22, color: "#8b93a4" }}>{`confirmed${t.up_to ? ` + ${fmtUsd(t.up_to)} up to` : ""}${t.estimated ? ` + ${fmtUsd(t.estimated)} est.` : ""}`}</div>
+      <div style={{ fontSize: 22, color: "#9b9b9b" }}>{`confirmed${t.up_to ? ` + ${fmtUsd(t.up_to)} up to` : ""}${t.estimated ? ` + ${fmtUsd(t.estimated)} est.` : ""}`}</div>
     </div>
   );
   return new ImageResponse(
     (
-      <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", background: "#05070b", color: "#e6e9ef", padding: 64, fontFamily: "sans-serif" }}>
-        <div style={{ fontSize: 22, letterSpacing: 6, color: "#8b93a4" }}>AI ATLAS</div>
+      <div style={{ width: "100%", height: "100%", display: "flex", flexDirection: "column", background: "#000000", color: "#ededed", padding: 64, fontFamily: "sans-serif" }}>
+        <div style={{ fontSize: 22, letterSpacing: 6, color: "#9b9b9b" }}>AI ATLAS</div>
         <div style={{ display: "flex", alignItems: "center", marginTop: 28 }}>
           <div style={{ width: 34, height: 34, borderRadius: 17, background: info.color, boxShadow: `0 0 30px ${info.color}`, marginRight: 22 }} />
           <div style={{ fontSize: 72, fontWeight: 700 }}>{c.name}</div>

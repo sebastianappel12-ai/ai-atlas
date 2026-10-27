@@ -1,6 +1,6 @@
 "use client";
 
-import { Search } from "lucide-react";
+import { MagnifyingGlass } from "@phosphor-icons/react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { GraphCompany } from "@/lib/graph-data";
 import { SECTOR_INFO } from "@/lib/sectors";
@@ -60,14 +60,14 @@ export function SearchPalette({ companies, onPick }: { companies: GraphCompany[]
         className="flex items-center gap-2 rounded-full border border-line px-3 py-1.5 text-xs text-muted transition hover:border-line-strong hover:text-fg"
         data-tour="search"
       >
-        <Search size={13} /> <span className="hidden sm:inline">Search companies</span>
-        <kbd className="num hidden rounded border border-line px-1 text-[10px] text-dim sm:inline">/</kbd>
+        <MagnifyingGlass size={13} /> <span className="hidden sm:inline">Search companies</span>
+        <kbd className="num hidden rounded border border-line px-1 text-xs text-dim sm:inline">/</kbd>
       </button>
       {open && (
         <div className="fixed inset-0 z-50 flex items-start justify-center bg-black/60 px-4 pt-[12vh] backdrop-blur-sm" onClick={() => setOpen(false)}>
           <div className="panel w-full max-w-lg overflow-hidden rounded-2xl" onClick={(e) => e.stopPropagation()} role="dialog" aria-label="Search companies">
             <div className="flex items-center gap-2 border-b border-line px-4">
-              <Search size={16} className="text-muted" />
+              <MagnifyingGlass size={16} className="text-muted" />
               <input
                 ref={input}
                 autoFocus
@@ -85,7 +85,7 @@ export function SearchPalette({ companies, onPick }: { companies: GraphCompany[]
                 className="h-12 flex-1 bg-transparent text-sm outline-none placeholder:text-dim"
                 aria-label="Company name or ticker"
               />
-              <kbd className="num rounded border border-line px-1.5 text-[10px] text-dim">esc</kbd>
+              <kbd className="num rounded border border-line px-1.5 text-xs text-dim">esc</kbd>
             </div>
             <ul className="max-h-80 overflow-y-auto p-2">
               {results.map((c, k) => (

@@ -4,7 +4,7 @@ import { MapboxOverlay } from "@deck.gl/mapbox";
 import { ArcLayer, GeoJsonLayer, ScatterplotLayer } from "@deck.gl/layers";
 import * as maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
-import { Layers, X } from "lucide-react";
+import { Stack, X } from "@phosphor-icons/react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
@@ -150,7 +150,7 @@ export function EnergyMap() {
             if (!i.object) return setHover(null);
             const st = (i.object.properties as { state: string; name: string });
             const p = data.prices!.latest[st.state];
-            setHover({ x: i.x, y: i.y, html: <span><b>{st.name}</b>: {p?.residential?.toFixed(1)}¢/kWh for homes ({data.prices!.latest_month}) — click for trend</span> });
+            setHover({ x: i.x, y: i.y, html: <span><b>{st.name}</b>: {p?.residential?.toFixed(1)}¢/kWh for homes ({data.prices!.latest_month}) · click for the trend</span> });
           },
           updateTriggers: { getFillColor: [data.prices.latest_month] },
         }),
@@ -291,7 +291,7 @@ export function EnergyMap() {
       <div className={`absolute left-3 top-3 z-20 w-72 max-md:left-2 max-md:right-2 max-md:w-auto ${panelOpen ? "" : "max-md:hidden"}`}>
         <div className="panel space-y-3 rounded-xl p-3 text-sm">
           <div className="flex items-center justify-between">
-            <span className="text-[10px] font-medium uppercase tracking-[0.18em] text-muted">Layers</span>
+            <span className="text-xs font-medium tracking-wide text-muted">Layers</span>
             <button className="md:hidden" onClick={() => setPanelOpen(false)} aria-label="Close layers">
               <X size={16} />
             </button>
@@ -303,7 +303,7 @@ export function EnergyMap() {
             </label>
           ))}
           {layers.datacenters && (
-            <div className="flex flex-wrap gap-x-3 gap-y-1 border-t border-line pt-2 text-[11px] text-muted">
+            <div className="flex flex-wrap gap-x-3 gap-y-1 border-t border-line pt-2 text-xs text-muted">
               {(Object.keys(STATUS_COLOR) as DataCenter["status"][]).map((s: DataCenter["status"]) => (
                 <span key={s} className="flex items-center gap-1">
                   <span className="h-2 w-2 rounded-full" style={{ background: rgb(STATUS_COLOR[s]) }} />
@@ -314,7 +314,7 @@ export function EnergyMap() {
           )}
           {layers.plants && (
             <div className="border-t border-line pt-2">
-              <div className="mb-1 text-[11px] text-muted">Plants over 50 MW, by fuel</div>
+              <div className="mb-1 text-xs text-muted">Plants over 50 MW, by fuel</div>
               <div className="flex flex-wrap gap-1">
                 {Object.keys(FUEL_COLOR).map((f) => {
                   const on = fuels.has(f);
@@ -327,7 +327,7 @@ export function EnergyMap() {
                         else n.add(f);
                         setFuels(n);
                       }}
-                      className={`flex items-center gap-1 rounded-full border px-1.5 py-0.5 text-[10px] ${on ? "border-line-strong text-fg" : "border-line text-dim opacity-50"}`}
+                      className={`flex items-center gap-1 rounded-full border px-1.5 py-0.5 text-xs ${on ? "border-line-strong text-fg" : "border-line text-dim opacity-50"}`}
                     >
                       <span className="h-1.5 w-1.5 rounded-full" style={{ background: rgb(FUEL_COLOR[f]) }} />
                       {FUEL_LABEL[f]}
@@ -338,29 +338,29 @@ export function EnergyMap() {
             </div>
           )}
           {layers.grid && data?.grid && (
-            <p className="border-t border-line pt-2 text-[11px] leading-relaxed text-dim">
+            <p className="border-t border-line pt-2 text-xs leading-relaxed text-dim">
               Regions are colored by the fuel that made the most power in the last 24 hours (EIA-930, updated {fmtDate(data.grid.updated.slice(0, 10))}). Boundaries are approximate.
             </p>
           )}
           {layers.prices && data?.prices && (
-            <div className="border-t border-line pt-2 text-[11px] text-dim">
+            <div className="border-t border-line pt-2 text-xs text-dim">
               <div className="mb-1 h-2 rounded-full" style={{ background: `linear-gradient(90deg, rgba(40,110,160,.9), rgba(255,70,120,.9))` }} />
               <div className="flex justify-between"><span>8¢</span><span>Home price per kWh, {data.prices.latest_month}</span><span>30¢+</span></div>
             </div>
           )}
-          <div className="num border-t border-line pt-2 text-[11px] text-muted">
+          <div className="num border-t border-line pt-2 text-xs text-muted">
             {totals.n} AI data centers · {fmtMw(totals.now)} now · {fmtMw(totals.planned)} planned
           </div>
           <ExplainBox>
             <WithTerms text="Each white circle is a big AI data center, sized by how much power it will use. Colored dots are power plants. Arcs connect companies to the specific plants they signed deals to buy power from. AI data centers use as much electricity as small cities, which is why tech companies are now buying power from nuclear plants." />
           </ExplainBox>
-          <p className="text-[10px] text-dim">
+          <p className="text-xs text-dim">
             Data centers: <a className="underline" href="https://epoch.ai/data/data-centers">Epoch AI</a> (CC-BY), sites of roughly 100 MW+. Plants: EIA-860M ({data?.plantsAsOf.replace("Inventory of Operating Generators as of ", "") || "…"}).
           </p>
         </div>
       </div>
       <button onClick={() => setPanelOpen(true)} className="panel absolute left-2 top-2 z-10 flex items-center gap-1.5 rounded-lg px-3 py-2 text-xs md:hidden">
-        <Layers size={14} /> Layers
+        <Stack size={14} /> Layers
       </button>
 
       {owner && companies.get(owner) && (
@@ -410,16 +410,16 @@ function RegionCard({ code, name, r }: { code: string; name: string; r?: Region 
   return (
     <div className="w-60">
       <div className="font-semibold">{name}</div>
-      <div className="num text-[10px] text-muted">{code}</div>
+      <div className="num text-xs text-muted">{code}</div>
       {r ? (
         <>
           <div className="mt-1.5"><MixBar mix={r.mix} /></div>
-          <div className="mt-1 text-[11px] text-muted">
+          <div className="mt-1 text-xs text-muted">
             Mostly {FUEL_LABEL[r.dominant].toLowerCase()} · {Math.round(r.clean * 100)}% clean (nuclear, hydro, wind, solar)
           </div>
         </>
       ) : (
-        <div className="text-[11px] text-dim">No hourly data reported.</div>
+        <div className="text-xs text-dim">No hourly data reported.</div>
       )}
     </div>
   );
@@ -477,46 +477,46 @@ function DataCenterCard({
                     <Link href={`/?c=${t}`} className="hover:underline">{companies.get(t)?.name ?? t}</Link>
                   </span>
                 ))
-              : "—"}
+              : "n/a"}
           </Stat>
           <Stat label={<Term t="MW">Power now</Term>}><span className="num">{fmtMw(dc.power_mw_now)}</span></Stat>
           <Stat label="Power planned"><span className="num">{fmtMw(dc.power_mw_planned)}</span></Stat>
           <Stat label={<Term t="H100-equivalents">Est. chips</Term>}>
-            <span className="num">{dc.est_chips ? `~${roughCount(dc.est_chips.count)}` : "—"}</span>
+            <span className="num">{dc.est_chips ? `~${roughCount(dc.est_chips.count)}` : "n/a"}</span>
           </Stat>
-          <Stat label="Est. cost"><span className="num">{dc.est_cost_usd ? `~${fmtUsd(dc.est_cost_usd)}` : "—"}</span></Stat>
+          <Stat label="Est. cost"><span className="num">{dc.est_cost_usd ? `~${fmtUsd(dc.est_cost_usd)}` : "n/a"}</span></Stat>
         </div>
         <div>
-          <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wider text-muted">
+          <h3 className="mb-1.5 text-xs font-medium tracking-wider text-muted">
             <Term t="balancing authority">Grid region</Term>: <span className="num text-fg">{dc.grid_region}</span>
           </h3>
           {region ? (
             <>
               <MixBar mix={region.mix} />
-              <p className="mt-1 text-[11px] text-dim">
+              <p className="mt-1 text-xs text-dim">
                 Last 24h: mostly {FUEL_LABEL[region.dominant].toLowerCase()}, {Math.round(region.clean * 100)}% clean. Region estimated from the nearest power plants.
               </p>
             </>
           ) : (
-            <p className="text-[11px] text-dim">No hourly mix reported for this region.</p>
+            <p className="text-xs text-dim">No hourly mix reported for this region.</p>
           )}
         </div>
         <div>
-          <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wider text-muted">Power sources</h3>
+          <h3 className="mb-1.5 text-xs font-medium tracking-wider text-muted">Power sources</h3>
           {deals.length === 0 && <p className="text-xs text-dim">No dedicated power deal tracked; it draws from the local grid.</p>}
           <ul className="space-y-2">
             {deals.map((d) => (
               <li key={d.id} className="rounded-lg border border-line p-2.5">
                 <div className="text-xs font-medium">{d.title}</div>
-                <div className="num mt-0.5 text-[11px] text-muted">
+                <div className="num mt-0.5 text-xs text-muted">
                   {fmtDealAmount(d.amount_usd, d.amount_kind)} · {fmtDate(d.date)}
                 </div>
                 {d.plant_ids.length > 0 && (
-                  <div className="mt-1 text-[11px] text-muted">
+                  <div className="mt-1 text-xs text-muted">
                     {d.plant_ids.map((p) => plantById.get(p)?.[1]).filter(Boolean).join(", ")}
                   </div>
                 )}
-                <a href={d.source.url} target="_blank" rel="noopener noreferrer" className="mt-1 block text-[11px] text-dim hover:text-fg">
+                <a href={d.source.url} target="_blank" rel="noopener noreferrer" className="mt-1 block text-xs text-dim hover:text-fg">
                   {d.source.publisher} ↗
                 </a>
               </li>
@@ -525,18 +525,18 @@ function DataCenterCard({
         </div>
         {dc.timeline.length > 0 && (
           <div>
-            <h3 className="mb-1.5 text-xs font-medium uppercase tracking-wider text-muted">Build timeline</h3>
+            <h3 className="mb-1.5 text-xs font-medium tracking-wider text-muted">Build timeline</h3>
             <ol className="space-y-2 border-l border-line pl-3">
               {dc.timeline.map((t, i) => (
                 <li key={i} className="text-xs">
-                  <div className="num text-[10px] text-dim">{fmtDate(t.date)}</div>
+                  <div className="num text-xs text-dim">{fmtDate(t.date)}</div>
                   <div className="text-fg/80">{t.event}</div>
                 </li>
               ))}
             </ol>
           </div>
         )}
-        <p className="text-[10px] text-dim">
+        <p className="text-xs text-dim">
           Source:{" "}
           {dc.sources.map((s, i) => (
             <a key={i} href={s.url} className="underline" target="_blank" rel="noopener noreferrer">
@@ -553,7 +553,7 @@ function DataCenterCard({
 function Stat({ label, children }: { label: React.ReactNode; children: React.ReactNode }) {
   return (
     <div className="rounded-lg border border-line p-2.5">
-      <div className="text-[11px] text-muted">{label}</div>
+      <div className="text-xs text-muted">{label}</div>
       <div className="mt-0.5 text-sm">{children}</div>
     </div>
   );
@@ -592,7 +592,7 @@ function StateCard({ st, prices, onClose }: { st: string; prices: NonNullable<En
           </LineChart>
         </ResponsiveContainer>
       </div>
-      <p className="mt-2 text-[11px] leading-relaxed text-dim">
+      <p className="mt-2 text-xs leading-relaxed text-dim">
         Average price homes paid per kilowatt-hour (EIA). Yearly history runs {hist[0]?.year}–{hist.at(-1)?.year}; the headline number is the newest month. Data centers are one of several reasons prices are rising.
       </p>
     </aside>

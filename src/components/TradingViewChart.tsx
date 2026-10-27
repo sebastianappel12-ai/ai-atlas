@@ -30,6 +30,6 @@ export function TradingViewChart({ symbol }: { symbol: string }) {
       el.innerHTML = "";
     };
   }, [symbol]);
-  if (symbol.startsWith("SAMPLE:")) return <div className="text-xs text-dim">Sample company — no price chart.</div>;
+  if (symbol.startsWith("SAMPLE:")) return <div className="text-xs text-dim">Sample company, so there is no price chart.</div>;
   return <div ref={ref} className="tradingview-widget-container h-[180px] overflow-hidden rounded-lg" />;
 }
