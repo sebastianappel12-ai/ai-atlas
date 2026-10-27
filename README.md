@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI Atlas
 
-## Getting Started
+A free public map of how money and power move through the AI industry.
 
-First, run the development server:
+- **Money Graph** — every dot a company, every line a deal, particles flowing the way the money moves. Every deal has a source link, a date and the exact sentence that proves it.
+- **Energy Map** — every big US AI data center, the power plants and grid regions that feed it, the power deals behind them, and electricity prices by state.
+- **Explain this** — one switch turns every number into plain English.
+
+Updated every morning by an AI agent that only auto-publishes deals it can prove from an official source.
+
+**Not investment advice.** Data: SEC EDGAR, company press releases, [Epoch AI](https://epoch.ai/data/data-centers) (CC-BY), U.S. EIA (public domain), HIFLD.
+
+## Develop
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev          # http://localhost:3000
+npm run check-data   # validate every record
+npm test             # logic + plan criteria
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Plan: [`docs/PLAN.md`](docs/PLAN.md) · Decisions: [`DECISIONS.md`](DECISIONS.md) · Agent guide: [`CLAUDE.md`](CLAUDE.md)
+- Operations (keys, daily review, costs): [`docs/OPS.md`](docs/OPS.md)
+- Criteria status: [`docs/CRITERIA.md`](docs/CRITERIA.md) · Launch kit: [`docs/LAUNCH.md`](docs/LAUNCH.md)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Found a wrong number? [Report an error](https://github.com/sebastianappel12-ai/ai-atlas/issues/new?template=report-error.yml).

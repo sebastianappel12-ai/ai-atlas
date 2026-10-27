@@ -237,6 +237,9 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
                   </li>
                 ))}
               </ul>
+              <p className="px-3 pb-8 text-[11px] text-dim">
+                Not investment advice. Every deal links to its source. <a href="/methodology" className="underline">Methodology</a>
+              </p>
             </div>
           ) : (
             <div className="relative">

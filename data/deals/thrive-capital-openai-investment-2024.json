@@ -14,6 +14,13 @@
       "publisher": "NBC News (CNBC)",
       "date": "2024-10-02",
       "kind": "news",
+      "quote": "OpenAI has closed its long-awaited funding round at a valuation of $157 billion, including the $6.6 billion the company raised from an extensive roster of investment firms and big tech companies."
+    },
+    {
+      "url": "https://www.nbcnews.com/business/business-news/openai-closes-funding-157-billion-valuation-microsoft-nvidia-softbank-rcna173693",
+      "publisher": "NBC News (CNBC)",
+      "date": "2024-10-02",
+      "kind": "news",
       "quote": "While OpenAI didn’t name the investors in Wednesday’s press release, a person with knowledge of the matter said the round was led by Thrive Capital and included participation from existing backer Microsoft as well as chipmaker Nvidia, SoftBank and others."
     }
   ],

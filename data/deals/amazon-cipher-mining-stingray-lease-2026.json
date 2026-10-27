@@ -5,7 +5,7 @@
   "type": "data_center",
   "title": "Amazon (AWS) signs second Cipher lease, 70 MW at Stingray (~$2B)",
   "amount_usd": 2000000000,
-  "amount_kind": "confirmed",
+  "amount_kind": "estimated",
   "date": "2026-06-08",
   "length_years": 15,
   "status": "announced",
@@ -21,5 +21,5 @@
   "confidence": "medium",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Amazon's data center arm signed a second, 15-year lease with Cipher (renamed Cipher Digital) for 70 megawatts at its Stingray site in Andrews, Texas, with rent from 2027. Cipher's investor presentation puts contracted revenue at about $2.0 billion; the lease was signed in early 2026 and first named as Amazon in June."
+  "explain": "Amazon's data center arm signed a second, 15-year lease with Cipher (renamed Cipher Digital) for 70 megawatts at its Stingray site in Andrews, Texas, with rent from 2027. Cipher's investor presentation puts contracted revenue at about $2.0 billion; the lease was signed in early 2026 and first named as Amazon in June. The ~$2.0 billion figure is Cipher's own estimate of contracted revenue from its investor presentation, so it is shown as an estimate."
 }

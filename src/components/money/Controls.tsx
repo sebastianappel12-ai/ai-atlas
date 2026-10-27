@@ -47,6 +47,12 @@ export function Legend({ view, set, counts }: { view: ViewState; set: Set; count
           announced / <Term t="up to">up to</Term>
         </span>
       </div>
+      <div className="mt-2 border-t border-line px-1 pt-1.5 text-[10px] text-dim">
+        Not investment advice ·{" "}
+        <a href="/methodology" className="underline-offset-2 hover:text-fg hover:underline">
+          How the data is checked
+        </a>
+      </div>
     </div>
   );
 }

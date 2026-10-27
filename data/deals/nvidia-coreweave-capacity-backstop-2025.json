@@ -12,6 +12,13 @@
   "sources": [
     {
       "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+      "publisher": "CoreWeave Form 8-K (SEC)",
+      "date": "2025-09-15",
+      "kind": "sec_filing",
+      "quote": "NVIDIA Corporation (“NVIDIA”) entered into a new order form (the “Order Form”) under the existing Master Services Agreement (“MSA”) dated as of April 10, 2023, which has an initial value of $6.3 billion"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
       "publisher": "CoreWeave 8-K (SEC)",
       "date": "2025-09-15",
       "kind": "sec_filing",

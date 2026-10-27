@@ -1,10 +1,10 @@
 {
   "checked": "2026-10-27",
   "summary": {
-    "deals": 365,
+    "deals": 366,
     "verified": 365,
     "sources": {
-      "found": 516,
+      "found": 520,
       "error": 1
     }
   },
@@ -2106,7 +2106,7 @@
       "status": "found",
       "http": 200,
       "deal": "softbank-digitalbridge-acquisition-2025",
-      "url": "https://group.softbank/en/news/press/20251229",
+      "url": "https://group.softbank/en/news/press/20260930",
       "checked": "2026-10-27"
     },
     "nebius-vantage-data-centers-wales-2026#0": {
@@ -2148,7 +2148,7 @@
       "status": "found",
       "http": 200,
       "deal": "softbank-digitalbridge-acquisition-2025",
-      "url": "https://group.softbank/en/news/press/20260930",
+      "url": "https://group.softbank/en/news/press/20251229",
       "checked": "2026-10-27"
     },
     "nvidia-amkor-arizona-packaging-2025#0": {
@@ -3072,14 +3072,14 @@
       "status": "found",
       "http": 200,
       "deal": "nrg-ls-power-portfolio-acquisition-2025",
-      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387125000020/nrg-20250630.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465925047007/tm2514561d1_ex99-1.htm",
       "checked": "2026-10-27"
     },
     "nrg-ls-power-portfolio-acquisition-2025#2": {
       "status": "found",
       "http": 200,
       "deal": "nrg-ls-power-portfolio-acquisition-2025",
-      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926008567/tm264311d1_ex99-1.htm",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387125000020/nrg-20250630.htm",
       "checked": "2026-10-27"
     },
     "nvidia-anthropic-investment-2025#1": {
@@ -3626,6 +3626,34 @@
       "http": 200,
       "deal": "vistra-energy-harbor-acquisition-2023",
       "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312523062837/d445413dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "blackstone-coreweave-debt-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackstone-coreweave-debt-2023",
+      "url": "https://www.sfnet.com/home/chapters/canada/news-detail/2023/08/07/coreweave-secures-2.3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone",
+      "checked": "2026-10-27"
+    },
+    "thrive-capital-openai-investment-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "thrive-capital-openai-investment-2024",
+      "url": "https://www.nbcnews.com/business/business-news/openai-closes-funding-157-billion-valuation-microsoft-nvidia-softbank-rcna173693",
+      "checked": "2026-10-27"
+    },
+    "nrg-ls-power-portfolio-acquisition-2025#3": {
+      "status": "found",
+      "http": 200,
+      "deal": "nrg-ls-power-portfolio-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926008567/tm264311d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-capacity-backstop-2025#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-capacity-backstop-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
       "checked": "2026-10-27"
     }
   }
