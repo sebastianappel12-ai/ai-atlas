@@ -4,7 +4,7 @@
 
 These need your accounts, so the coding agent can't do them.
 
-1. **Connect Vercel to GitHub** (needed for automatic deploys and preview links per pull request).
+1. **Vercel is connected to GitHub** (done 2026-10-27): every push to main deploys to https://ai-atlas-pearl.vercel.app and every pull request gets a preview link.
    vercel.com → Account Settings → Authentication → *Connect* GitHub, then allow the Vercel app access to `sebastianappel12-ai/ai-atlas`.
    Then import the repo (or ask the agent to create the project); framework Next.js, no settings to change.
 2. **Turn on Vercel Web Analytics** for the project (Project → Analytics → Enable). The code is already in the site.
