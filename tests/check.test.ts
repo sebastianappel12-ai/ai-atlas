@@ -109,6 +109,11 @@ describe("check-data", () => {
     expect(checkData({ ...base, deals: [d] }).errors.some((e) => /file name/.test(e.message))).toBe(true);
   });
 
+  it("rejects a quote stitched from two sentences", () => {
+    const stitched = { ...source, quote: 'We are positioned to grow globally."The financing consists of a $2 billion tranche.' };
+    expect(checkData({ ...base, deals: [deal({ sources: [stitched] })] }).errors.some((e) => /one sentence/.test(e.message))).toBe(true);
+  });
+
   it("rejects null amounts not marked undisclosed", () => {
     const r = checkData({ ...base, deals: [deal({ amount_usd: null })] });
     expect(r.errors.some((e) => /undisclosed/.test(e.message))).toBe(true);

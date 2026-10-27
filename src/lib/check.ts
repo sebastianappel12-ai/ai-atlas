@@ -51,6 +51,12 @@ const PAYEE_SECTORS: Partial<Record<Deal["type"], Sector[]>> = {
   chip_order: ["chip_designer", "chip_factory"],
 };
 
+/** A quote that runs from one sentence into the next (e.g. `globally."The financing…`). */
+export function spansSentences(q: string): boolean {
+  const abbrev = /\b(Inc|Corp|Co|Ltd|U\.S|No|St|Mr|Ms|Dr|approx|vs|Jr|N\.V|S\.A|plc|L\.P|LLC)\.\s/;
+  return /[a-z0-9%)][.!?]["\u201d]?\s*["\u201c]?[A-Z][a-z]/.test(q) && !abbrev.test(q);
+}
+
 function baseName(file: string): string {
   const f = file.split(/[\\/]/).pop() ?? file;
   return f.replace(/\.json$/, "");
@@ -126,6 +132,7 @@ export function checkData(input: CheckInput): CheckResult {
     if (d.last_checked > today) errors.push({ file, message: `last_checked ${d.last_checked} is in the future` });
     for (const s of d.sources) {
       if (s.date > today) errors.push({ file, message: `source date ${s.date} is in the future` });
+      if (spansSentences(s.quote)) errors.push({ file, message: "quote must be one sentence (it runs into a second one)" });
     }
     const allowed = PAYEE_SECTORS[d.type];
     if (allowed && toSector && !allowed.includes(toSector)) {
