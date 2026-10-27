@@ -1,7 +1,7 @@
 /**
  * Daily agent step 1 (no AI): collect new items from SEC filings, company newsroom feeds
  * and news search, skipping anything seen on earlier days.
- *   npx tsx scripts/collect.ts [--since 2026-10-25]
+ *   npx tsx scripts/collect.ts [--since 2026-10-25] [--seen path/to/seen.json]
  * Writes .queue/items.json and prints a numbered list of headlines for the agent to sort.
  */
 import fs from "node:fs";
@@ -13,7 +13,8 @@ import type { Company } from "../src/lib/schema";
 const args = process.argv.slice(2);
 const today = new Date().toISOString().slice(0, 10);
 const since = args.includes("--since") ? args[args.indexOf("--since") + 1] : new Date(Date.now() - 2 * 864e5).toISOString().slice(0, 10);
-const SEEN = path.join(ROOT, "data/generated/agent-seen.json");
+// Items already shown on earlier days (the GitHub Action keeps this on the agent-inbox branch).
+const SEEN = args.includes("--seen") ? path.resolve(args[args.indexOf("--seen") + 1]) : path.join(ROOT, "data/generated/agent-seen.json");
 
 const companies = readJsonDir(path.join(ROOT, "data/companies")).map((r) => r.data as Company);
 const seen = new Set<string>(fs.existsSync(SEEN) ? JSON.parse(fs.readFileSync(SEEN, "utf8")).ids : []);

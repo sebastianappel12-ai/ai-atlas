@@ -1,6 +1,7 @@
 /**
  * Daily agent steps 4-5: run the code checks on one proposed deal and route it.
  *   npx tsx scripts/propose-deal.ts path/to/candidate.json [--update-of <existing-id>]
+ *   AGENT_INBOX_REF=origin/agent-inbox npx tsx scripts/propose-deal.ts …   # cloud agent: check quotes against saved pages
  *
  * The candidate is a Deal record (see src/lib/schema.ts); id, added, last_checked, source kind
  * and publisher are filled in here. Checks (code, not AI):
@@ -17,6 +18,7 @@ import path from "node:path";
 import { checkAmount, checkDate, checkQuoteOnPage, classifySource, decide, findDuplicate, makeDealId } from "../src/lib/agent/checks";
 import { checkData } from "../src/lib/check";
 import { readPlantIds, readRaw, ROOT, writeJson } from "../src/lib/data-fs";
+import { INBOX_REF, inboxPageText } from "../src/lib/inbox";
 import { fetchPageText } from "../src/lib/quote";
 import { ChangelogSchema, DealSchema, type Changelog, type Deal } from "../src/lib/schema";
 
@@ -66,11 +68,18 @@ const deal = {
 // (a) quote on page — every source must verify
 let quote = { ok: true } as { ok: boolean; reason?: string };
 for (const s of deal.sources) {
-  let text: string | undefined;
-  try {
-    const r = await fetchPageText(s.url);
-    text = r.http < 400 ? r.text : undefined;
-  } catch {}
+  // In the cloud the agent can't reach the web: use the page the GitHub Action saved (read from git).
+  let text: string | undefined = inboxPageText(s.url);
+  if (text === undefined) {
+    try {
+      const r = await fetchPageText(s.url);
+      text = r.http < 400 ? r.text : undefined;
+    } catch {}
+  }
+  if (text === undefined && INBOX_REF) {
+    quote = { ok: false, reason: `source page not in the inbox (${INBOX_REF}) and unreachable: ${s.url}` };
+    break;
+  }
   const r = checkQuoteOnPage(text, s.quote);
   if (!r.ok) {
     quote = { ok: false, reason: `${r.reason}: ${s.url}` };

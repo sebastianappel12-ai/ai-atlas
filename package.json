@@ -16,7 +16,8 @@
     "verify-sources": "tsx scripts/verify-sources.ts",
     "predev": "tsx scripts/copy-vendor.ts",
     "recheck": "tsx scripts/recheck.ts",
-    "collect": "tsx scripts/collect.ts"
+    "collect": "tsx scripts/collect.ts",
+    "inbox": "tsx scripts/inbox.ts"
   },
   "dependencies": {
     "@deck.gl/core": "^9.4.0",

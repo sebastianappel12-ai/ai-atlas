@@ -1,0 +1,55 @@
+name: Agent inbox
+
+# Every morning, before the Claude daily agent runs (10:00 UTC): collect new SEC filings,
+# newsroom posts and news, save each page's text, and force-push it to the `agent-inbox`
+# branch. The cloud agent can't reach those sites itself, so it reads this inbox, and
+# scripts/propose-deal.ts checks every quote against these saved pages.
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: agent-inbox
+  cancel-in-progress: false
+
+jobs:
+  inbox:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      SEC_CONTACT: ${{ vars.SEC_CONTACT || 'sebastianappel12@gmail.com' }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - name: Collect and save pages
+        run: |
+          mkdir -p "$RUNNER_TEMP/inbox"
+          if git fetch -q origin agent-inbox; then git show origin/agent-inbox:agent-seen.json > "$RUNNER_TEMP/seen.json" || true; fi
+          npx tsx scripts/collect.ts --seen "$RUNNER_TEMP/seen.json" > "$RUNNER_TEMP/collect.log"; head -3 "$RUNNER_TEMP/collect.log"
+          npx tsx scripts/prefetch.ts --out "$RUNNER_TEMP/inbox"
+          cp "$RUNNER_TEMP/seen.json" "$RUNNER_TEMP/inbox/agent-seen.json"
+      - name: Publish the inbox branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd "$RUNNER_TEMP/inbox"
+          git init -q -b agent-inbox
+          git config user.name "ai-atlas-agent"
+          git config user.email "ai-atlas-agent@users.noreply.github.com"
+          git add .
+          git commit -qm "Agent inbox $(date -u +%F)"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" agent-inbox
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Agent inbox failed $(date -u +%F)" --body "See ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" --label agent-failure || true
