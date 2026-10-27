@@ -28,10 +28,10 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 ## Phase 3: Daily update agent
 | Criterion | Status | Evidence |
 | --- | --- | --- |
-| Runs every morning for 2 weeks without breaking | 🔧⏳ | `.github/workflows/daily.yml` (10:30 UTC). Needs `ANTHROPIC_API_KEY` secret, then 14 days. Failures open an `agent-failure` issue. |
+| Runs every morning for 2 weeks without breaking | ⏳ | Scheduled Claude Code routine following `docs/DAILY_AGENT.md` (no API key). Run history at claude.ai/code/routines; needs 14 mornings. |
 | Catches 8 of 10 big deals vs. a hand list for a week | 👤⏳ | Keep a list for one week, compare with `/changes` and the review PRs. |
-| Zero made-up deals get published | ✅ (by design) ⏳ | Code-level quote check is mandatory; auto-publish only from SEC filings / the companies' own sites; everything else is a PR you approve. Tested in `tests/agent-checks.test.ts`. |
-| Monthly API bill stays under $20 | ✅ (by design) ⏳ | Hard stop at $18/month in the agent; `npm run cost-report`. Estimated $5–12/month at list prices. |
+| Zero made-up deals get published | ✅ (by design) ⏳ | Every proposed deal goes through `scripts/propose-deal.ts`: the quote must be found on the live page by code; auto-publish only from SEC filings / the companies' own sites; everything else is a PR you approve. Tested in `tests/agent-checks.test.ts`. |
+| Monthly API bill stays under $20 | ✅ | No API bill: the agent runs as a Claude Code routine on your plan (Sebastian's choice, 2026-10-26). Hosting, Actions and data are free. |
 
 ## Phase 4: Graph tools and Explain mode
 | Criterion | Status | Evidence |

@@ -6,7 +6,7 @@ Also read `AGENTS.md`: this Next.js version differs from older ones; check `node
 ## Stack
 Next.js 16 (App Router) + TypeScript · Tailwind CSS v4 · Framer Motion (`motion`) · react-force-graph-2d (Money Graph) ·
 MapLibre GL + deck.gl (Energy Map) · Recharts · Zod (data schemas) · Vitest (logic tests) · Playwright (screenshots) ·
-Vercel hosting · GitHub Actions + Claude API (daily agent).
+Vercel hosting · a scheduled Claude Code routine (daily agent, see docs/DAILY_AGENT.md) · GitHub Actions (grid refresh, weekly re-check, CI).
 
 ## Folder layout
 ```
