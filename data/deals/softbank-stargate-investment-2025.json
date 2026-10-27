@@ -1,0 +1,24 @@
+{
+  "id": "softbank-stargate-investment-2025",
+  "from": "softbank",
+  "to": "stargate",
+  "type": "investment",
+  "title": "SoftBank becomes lead equity funder of Stargate",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-01-21",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250122",
+      "publisher": "SoftBank Group",
+      "date": "2025-01-22",
+      "kind": "press_release",
+      "quote": "SoftBank and OpenAI are the lead partners for Stargate, with SoftBank having financial responsibility and OpenAI having operational responsibility."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Stargate is a new company that planned to invest $500 billion over four years in AI data centers for OpenAI, starting with $100 billion. SoftBank is a lead equity funder with financial responsibility, but its own dollar share was not disclosed."
+}

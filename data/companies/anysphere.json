@@ -1,0 +1,28 @@
+{
+  "id": "anysphere",
+  "name": "Anysphere (Cursor)",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://cursor.com",
+  "aliases": [
+    "Cursor",
+    "Anysphere, Inc."
+  ],
+  "valuation": {
+    "amount_usd": 60000000000,
+    "period": "Implied value in SpaceX acquisition",
+    "as_of": "2026-08-14",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "publisher": "SpaceX 10-Q (SEC)",
+      "date": "2026-10-22",
+      "kind": "sec_filing",
+      "quote": "The Exchange Ratio was calculated based on an implied equity value of Cursor of $60 billion and VWAP of the Company's Class A common stock over the seven consecutive trading days immediately preceding the closing of the Cursor Merger of $128.65."
+    }
+  },
+  "description": "Maker of the Cursor AI coding editor; a SpaceX subsidiary since August 2026.",
+  "explain": "Cursor is one of the biggest buyers of AI model access (from OpenAI, Anthropic and others); SpaceX bought it in 2026 at a $60 billion value."
+}

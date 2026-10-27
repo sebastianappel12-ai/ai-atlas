@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-coherent-optics-supply-2026",
+  "from": "nvidia",
+  "to": "coherent",
+  "type": "supply",
+  "title": "Nvidia signs multi-billion optics purchase commitment with Coherent",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-03-02",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm",
+      "publisher": "Coherent (8-K Ex. 99.1)",
+      "date": "2026-03-02",
+      "kind": "sec_filing",
+      "quote": "The non-exclusive agreement includes an NVIDIA multi-billion-dollar purchase commitment and future access and capacity rights for advanced laser and optical networking products."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Alongside its $2 billion investment, Nvidia committed to buy lasers and optical networking products from Coherent over several years. The deal was described only as multi-billion-dollar, so no exact amount is recorded."
+}

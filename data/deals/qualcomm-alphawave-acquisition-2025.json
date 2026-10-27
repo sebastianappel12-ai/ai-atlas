@@ -1,0 +1,24 @@
+{
+  "id": "qualcomm-alphawave-acquisition-2025",
+  "from": "qualcomm",
+  "to": "alphawave",
+  "type": "acquisition",
+  "title": "Qualcomm buys Alphawave for $2.3B",
+  "amount_usd": 2300000000,
+  "amount_kind": "confirmed",
+  "date": "2025-06-09",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000017/qcom-20251228.htm",
+      "publisher": "Qualcomm (Form 10-Q)",
+      "date": "2026-02-04",
+      "kind": "sec_filing",
+      "quote": "On December 18, 2025 (the Closing Date), we completed the acquisition of Alphawave IP Group plc (Alphawave) for $2.3 billion, which primarily consisted of $1.8 billion of equity consideration from the issuance of 11 million shares of our common stock, which includes certain securities exchangeable for shares of our common stock (Exchangeable Shares), and $301 million of cash consideration."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Qualcomm bought UK-listed Alphawave, which designs high-speed data connection technology and custom chips for data centers, to support Qualcomm's move into AI data-center chips. Agreed in June 2025, closed December 2025."
+}

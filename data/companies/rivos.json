@@ -1,0 +1,13 @@
+{
+  "id": "rivos",
+  "name": "Rivos",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Rivos Inc."
+  ],
+  "description": "Startup designing RISC-V CPUs and AI accelerators; agreed to be acquired by Meta in 2025.",
+  "explain": "Meta agreed to buy Rivos to speed up its in-house AI chip program and reduce its reliance on Nvidia."
+}

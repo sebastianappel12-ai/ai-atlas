@@ -1,0 +1,31 @@
+{
+  "id": "anthropic-fluidstack-data-centers-2025",
+  "from": "anthropic",
+  "to": "fluidstack",
+  "type": "data_center",
+  "title": "Anthropic picks Fluidstack for $50B US data center build",
+  "amount_usd": 50000000000,
+  "amount_kind": "up_to",
+  "date": "2025-11-12",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://fluidstack.io/news/fluidstack-selected-by-anthropic-to-deliver-custom-data-centers-in-the-us",
+      "publisher": "Fluidstack Newsroom",
+      "date": "2025-11-12",
+      "kind": "press_release",
+      "quote": "San Francisco, CA | Wednesday 12th November 2025 | 07:00 Fluidstack is announcing a $50 billion American computing infrastructure deal with Anthropic, building data centers in New York and Texas, with more sites to come."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+      "publisher": "Anthropic Newsroom",
+      "date": "2025-11-12",
+      "kind": "press_release",
+      "quote": "We selected Fluidstack as our partner for its ability to move with exceptional agility, enabling rapid delivery of gigawatts of power."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic announced a $50 billion investment in US computing infrastructure and chose Fluidstack to build and run custom data centers in Texas and New York. The $50 billion is a multi-year headline total, and not all of it will necessarily be paid to Fluidstack."
+}

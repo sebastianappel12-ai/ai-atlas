@@ -1,0 +1,32 @@
+{
+  "id": "openai-amazon-aws-expansion-2026",
+  "from": "openai",
+  "to": "amazon",
+  "type": "cloud_contract",
+  "title": "OpenAI expands its AWS cloud deal by $100B over 8 years",
+  "amount_usd": 100000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-27",
+  "length_years": 8,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/tm267374d1_ex99-1.htm",
+      "publisher": "Amazon Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "OpenAI and AWS are expanding their existing $38 billion multi-year agreement by $100 billion over 8 years."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "publisher": "Amazon Form 10-Q (SEC EDGAR)",
+      "date": "2026-07-31",
+      "kind": "sec_filing",
+      "quote": "In Q1 2026, AWS and OpenAI Group PBC (“OpenAI”) announced an expansion of the existing $38.0 billion multi-year commitment and commercial arrangement with OpenAI by $100.0 billion over 8.0 years, which includes contractual obligations related to the performance of AWS chips."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "On top of its earlier $38 billion AWS contract, OpenAI agreed to spend another $100 billion on Amazon's cloud over eight years, including about 2 gigawatts of Amazon's own Trainium AI chips. It came alongside Amazon's plan to invest $50 billion in OpenAI, so money flows both ways."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "meta-nebius-cloud-2025",
+  "from": "meta",
+  "to": "nebius",
+  "type": "cloud_contract",
+  "title": "Meta signs ~$3B AI infrastructure deal with Nebius",
+  "amount_usd": 3000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-11",
+  "length_years": 5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925109806/tm2530882d1_ex99-1.htm",
+      "publisher": "Nebius 6-K EX-99.1 (SEC)",
+      "date": "2025-11-11",
+      "kind": "sec_filing",
+      "quote": "Nebius today also announced a new agreement to deliver AI infrastructure to Meta valued at approximately $3 billion over 5 years."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to pay Nebius about $3 billion over five years for AI computing capacity."
+}

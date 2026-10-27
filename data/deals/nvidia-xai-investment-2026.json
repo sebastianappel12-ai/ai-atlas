@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-xai-investment-2026",
+  "from": "nvidia",
+  "to": "xai",
+  "type": "investment",
+  "title": "Nvidia invests in xAI's $20B Series E",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-01-06",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-e",
+      "publisher": "xAI",
+      "date": "2026-01-06",
+      "kind": "press_release",
+      "quote": "Strategic investors in the round include NVIDIA and Cisco Investments, who continue to support xAI in rapidly scaling our compute infrastructure and buildout of the largest GPU clusters in the world."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia was a strategic investor in xAI's $20 billion Series E round; its own amount was not disclosed. xAI spends heavily on Nvidia chips for its Colossus supercomputers."
+}

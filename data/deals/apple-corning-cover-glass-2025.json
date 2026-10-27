@@ -1,0 +1,24 @@
+{
+  "id": "apple-corning-cover-glass-2025",
+  "from": "apple",
+  "to": "corning",
+  "type": "supply",
+  "title": "Apple commits $2.5B to Corning's Kentucky glass plant",
+  "amount_usd": 2500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-08-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.apple.com/newsroom/2025/08/apple-corning-to-manufacture-all-iphone-apple-watch-cover-glass-in-kentucky/",
+      "publisher": "Apple Newsroom",
+      "date": "2025-08-06",
+      "kind": "press_release",
+      "quote": "Apple is committing $2.5 billion to produce all of the cover glass for iPhone and Apple Watch in Corning’s Harrodsburg, Kentucky, manufacturing facility."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Apple committed $2.5 billion so Corning's Kentucky plant makes all iPhone and Apple Watch cover glass. This is phone glass, not data center gear, but it is one of Corning's largest single customer commitments and part of Apple's $600 billion US investment pledge."
+}

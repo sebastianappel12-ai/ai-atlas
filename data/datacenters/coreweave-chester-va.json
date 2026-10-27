@@ -1,0 +1,61 @@
+{
+  "id": "coreweave-chester-va",
+  "name": "CoreWeave Chester VA",
+  "owner": "coreweave",
+  "tenants": [],
+  "location": {
+    "lat": 37.3489,
+    "lon": -77.4384,
+    "city": "Chester"
+  },
+  "state": "VA",
+  "power_mw_now": 82,
+  "power_mw_planned": 197,
+  "status": "operating",
+  "est_chips": {
+    "count": 125821,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 4280666000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-09-18",
+      "event": "Conversion starts at CTP-01 (Building 1). The data center was formerly owned by Capital One, now leased to CoreWeave. Source: https://www.datacenterdynamics.com/en/news/chirisa-secures-200-million-loan-to-fit-out-virginia-data-center-for-co"
+    },
+    {
+      "date": "2024-01-31",
+      "event": "Building 1's second data hall scheduled to come online this month."
+    },
+    {
+      "date": "2024-04-30",
+      "event": "Building 1 is scheduled to be fully online by this point, so we count the full 27 MW as operational here."
+    },
+    {
+      "date": "2025-01-22",
+      "event": "Satellite imagery shows Building 1 complete, with Building 2's yard work and early construction visible. Building 3 hasn't started yet, since the old building is still there."
+    },
+    {
+      "date": "2026-05-20",
+      "event": "Based on satellite imagery, Building 3 has cleared its land and is beginning construction. Building 2 is operational judging from the colored motion artifacts on the cooling tower fans."
+    },
+    {
+      "date": "2027-06-30",
+      "event": "Buildings 3 is estimated complete by the end of Q1 2027, based on the current PowerHouse schedule. Added another three months to account for commissioning and server installation."
+    }
+  ],
+  "epoch_id": "CoreWeave Chester VA",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "CoreWeave Chester VA: current power 82 MW; owner CoreWeave."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "CoreWeave Chester VA is an operating AI data center in Chester, VA, owned by coreweave. Epoch AI estimates it draws 82 MW today and 197 MW when finished."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "mistral-ai",
+  "name": "Mistral AI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "FR",
+  "website": "https://mistral.ai",
+  "aliases": [
+    "Mistral"
+  ],
+  "revenue": {
+    "amount_usd": 400000000,
+    "period": "Jan 2026 (annualized run rate)",
+    "as_of": "2026-01-31",
+    "estimate": true,
+    "source": {
+      "url": "https://www.gradually.ai/en/mistral-ai-statistics/",
+      "publisher": "gradually.ai",
+      "date": "2026-06-18",
+      "kind": "news",
+      "quote": "Sacra estimated annualized revenue at $400M in January 2026."
+    }
+  },
+  "description": "Paris-based maker of open and commercial AI models and the Le Chat assistant.",
+  "explain": "Mistral is Europe's leading AI lab; its backers include chip-equipment maker ASML, Nvidia and Samsung, and it is building its own data centers in France."
+}

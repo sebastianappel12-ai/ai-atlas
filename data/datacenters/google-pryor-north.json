@@ -1,0 +1,57 @@
+{
+  "id": "google-pryor-north",
+  "name": "Google Pryor (North)",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 36.2412,
+    "lon": -95.33,
+    "city": "Pryor"
+  },
+  "state": "OK",
+  "power_mw_now": 368,
+  "power_mw_planned": 442,
+  "status": "operating",
+  "est_chips": {
+    "count": 636685,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 13940576000,
+  "grid_region": "AECI",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-07-19",
+      "event": "Building 1 is operational, based on default roof-to-operational time."
+    },
+    {
+      "date": "2025-01-28",
+      "event": "Building 2 is being retrofitted from a warehouse. The roof is being painted white, and cooling towers and a new substation are being built just south of the building (based on later imagery)."
+    },
+    {
+      "date": "2025-10-19",
+      "event": "The new substation for Building 2 looks mostly complete, half of the cooling towers are installed. The black patch in the top left of the building suggests that the new roof is not quite complete."
+    },
+    {
+      "date": "2026-05-26",
+      "event": "Building 2 looks almost complete, but still appears to have three cooling towers missing. We therefore expect another 3 months until full operation."
+    },
+    {
+      "date": "2026-09-06",
+      "event": "Building 2 is operational, confirmed via RAAD drone imagery of spinning cooling tower fans on September 8th."
+    }
+  ],
+  "epoch_id": "Google Pryor (North)",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Pryor (North): current power 368 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Pryor (North) is an operating AI data center in Pryor, OK, owned by google. Epoch AI estimates it draws 368 MW today and 442 MW when finished."
+}

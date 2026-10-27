@@ -1,0 +1,31 @@
+{
+  "id": "meta-pure-storage-directflash-2024",
+  "from": "meta",
+  "to": "pure-storage",
+  "type": "supply",
+  "title": "Meta picks Pure Storage flash tech for its next-gen data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-03",
+  "status": "in_progress",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828024049744/pstg-ex991q3fy2025xpressre.htm",
+      "publisher": "Pure Storage (SEC 8-K EX-99.1)",
+      "date": "2024-12-03",
+      "kind": "sec_filing",
+      "quote": "“Pure Storage has achieved another industry first in our journey of data storage innovation with a transformational design win for our DirectFlash technology in a top-four hyperscaler,” said Pure Storage Chairman and CEO Charles Giancarlo."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828025021843/pstg-20250428.htm",
+      "publisher": "Pure Storage (SEC DEF 14A)",
+      "date": "2025-05-02",
+      "kind": "sec_filing",
+      "quote": "Pure worked closely with Meta for over a year to qualify our Purity DirectFlash® technology for their next generation data center design."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Pure Storage (now called Everpure) won a 'design win' at Meta: Meta will use Pure's flash-storage technology in its next-generation data centers in place of hard disks, paying Pure license and support fees. Pure first announced it for an unnamed top-four hyperscaler, later naming Meta; no amount was disclosed."
+}

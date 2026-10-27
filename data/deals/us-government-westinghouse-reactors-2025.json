@@ -1,0 +1,24 @@
+{
+  "id": "us-government-westinghouse-reactors-2025",
+  "from": "us-government",
+  "to": "westinghouse",
+  "type": "financing",
+  "title": "U.S. partners with Westinghouse on $80B+ of new reactors",
+  "amount_usd": 80000000000,
+  "amount_kind": "up_to",
+  "date": "2025-10-28",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184325006726/exh_991.htm",
+      "publisher": "Brookfield Asset Management Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2025-10-28",
+      "kind": "sec_filing",
+      "quote": "At the center of the new strategic partnership, at least $80 billion of new reactors will be constructed across the United States using Westinghouse nuclear reactor technology."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The U.S. government signed a partnership with Westinghouse and its owners Brookfield and Cameco to get at least $80 billion of new Westinghouse nuclear reactors built in the U.S. The $80 billion is the headline value of reactors to be built, not cash already paid by the government; how much public money flows, and when, depends on later project deals."
+}

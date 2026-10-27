@@ -1,0 +1,25 @@
+{
+  "id": "amazon-marvell-aws-5yr-2024",
+  "from": "amazon",
+  "to": "marvell",
+  "type": "chip_order",
+  "title": "AWS signs 5-year deal for Marvell custom AI and data-center chips",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-02",
+  "length_years": 5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000193/final2024_12x02xmarvell-.htm",
+      "publisher": "Marvell (8-K Exhibit 99.1)",
+      "date": "2024-12-02",
+      "kind": "sec_filing",
+      "quote": "This agreement covers a broad range of data center semiconductors from Marvell, including the supply of custom AI products, optical digital signal processors (DSPs), active electrical cable (AEC) DSPs, PCIe retimers, data center interconnect (DCI) optical modules and Ethernet switching silicon solutions."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon Web Services agreed to buy a wide range of Marvell chips, including custom AI chips and networking parts, over five years. Marvell gave Amazon a warrant to buy up to about 4.2 million Marvell shares. No dollar value was disclosed."
+}

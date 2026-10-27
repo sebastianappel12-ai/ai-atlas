@@ -1,0 +1,14 @@
+{
+  "id": "vantage-data-centers",
+  "name": "Vantage Data Centers",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "CO",
+  "website": "https://vantage-dc.com",
+  "aliases": [
+    "Vantage"
+  ],
+  "description": "Private hyperscale data center developer building campuses in North America, EMEA and Asia-Pacific.",
+  "explain": "Vantage builds very large campuses for cloud and AI tenants, including the Lighthouse campus in Wisconsin for Oracle and OpenAI's Stargate and the 1.4 GW Frontier campus in Texas."
+}

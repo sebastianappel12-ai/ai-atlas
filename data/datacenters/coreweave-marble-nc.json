@@ -1,0 +1,53 @@
+{
+  "id": "coreweave-marble-nc",
+  "name": "CoreWeave Marble NC",
+  "owner": "coreweave",
+  "tenants": [],
+  "location": {
+    "lat": 35.185,
+    "lon": -83.9141,
+    "city": "Marble"
+  },
+  "state": "NC",
+  "power_mw_now": 65,
+  "power_mw_planned": 91,
+  "status": "operating",
+  "est_chips": {
+    "count": 78828,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 2462330000,
+  "grid_region": "TVA",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-06-25",
+      "event": "Core Scientific announced that CoreWeave would receive about 70 MW of HPC infrastructure from 100 MW of owned infrastructure. Site modifications were expected to begin in H2 2024."
+    },
+    {
+      "date": "2026-03-13",
+      "event": "The site has been energized. Two of three data halls had been delivered at [37 billable MW](https://www.sec.gov/Archives/edgar/data/1839341/000119312526165121/d149019dex992.htm), supporting about 15000 Grace Blackwell GPUs. The third hall w"
+    },
+    {
+      "date": "2026-04-17",
+      "event": "Satellite imagery shows the main data hall and southern utility yard substantially complete. No new public MW disclosure, so this keeps the March 2026 public 36 MW state."
+    },
+    {
+      "date": "2026-05-06",
+      "event": "Core Scientific said Marble was fully handed over to CoreWeave with about 65 MW of billable customer power online."
+    }
+  ],
+  "epoch_id": "CoreWeave Marble NC",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "CoreWeave Marble NC: current power 65 MW; owner CoreWeave."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "CoreWeave Marble NC is an operating AI data center in Marble, NC, owned by coreweave. Epoch AI estimates it draws 65 MW today and 91 MW when finished."
+}

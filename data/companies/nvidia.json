@@ -1,0 +1,31 @@
+{
+  "id": "nvidia",
+  "name": "Nvidia",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:NVDA",
+  "cik": "0001045810",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.nvidia.com",
+  "newsroom_feed": "https://nvidianews.nvidia.com/cats/press_release.xml",
+  "aliases": [
+    "NVIDIA Corporation",
+    "NVIDIA"
+  ],
+  "revenue": {
+    "amount_usd": 215938000000,
+    "period": "FY2026 (ended 2026-01-25)",
+    "as_of": "2026-01-25",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 215,938,000,000 USD for 2025-01-27 to 2026-01-25 (10-K, accession 0001045810-26-000021)."
+    }
+  },
+  "description": "Designs the GPUs, networking and full AI server systems that most AI models are trained and run on.",
+  "explain": "Nvidia sells the chips nearly every AI lab and cloud depends on, so a large share of AI spending ends up as Nvidia revenue. It also reinvests that cash into its own customers, such as OpenAI and neoclouds."
+}

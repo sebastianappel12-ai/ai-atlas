@@ -1,0 +1,14 @@
+{
+  "id": "motivair",
+  "name": "Motivair",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "aliases": [
+    "Motivair Corporation",
+    "Motivair by Schneider Electric"
+  ],
+  "description": "Buffalo, New York maker of liquid cooling systems for supercomputers and AI; majority-owned by Schneider Electric since 2025.",
+  "explain": "Motivair makes liquid cooling for AI servers. Schneider Electric paid $850 million for 75% of it."
+}

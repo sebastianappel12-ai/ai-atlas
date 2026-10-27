@@ -1,0 +1,27 @@
+{
+  "id": "calpine",
+  "name": "Calpine",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.calpine.com",
+  "aliases": [
+    "Calpine Corporation"
+  ],
+  "valuation": {
+    "amount_usd": 22000000000,
+    "period": "acquisition 2026",
+    "as_of": "2026-01-07",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000032/ceg-20251231.htm",
+      "publisher": "Constellation Energy Form 10-K (SEC)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "Significant Transactions and Developments Acquisition of Calpine Corporation On January 7, 2026, we acquired 100% of the outstanding equity of Calpine for a purchase price of approximately $22 billion."
+    }
+  },
+  "description": "Large U.S. natural gas and geothermal power producer, acquired by Constellation in January 2026.",
+  "explain": "Calpine's gas fleet and Geysers geothermal plants became part of Constellation in a deal valued at about $22B at closing, making Constellation the largest U.S. power producer."
+}

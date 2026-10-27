@@ -1,0 +1,30 @@
+{
+  "id": "kla",
+  "name": "KLA",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "NASDAQ:KLAC",
+  "cik": "0000319201",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.kla.com",
+  "aliases": [
+    "KLA Corporation",
+    "KLA-Tencor"
+  ],
+  "revenue": {
+    "amount_usd": 13579476000,
+    "period": "FY2026 (ended 2026-06-30)",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-06",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 13,579,476,000 USD for 2025-07-01 to 2026-06-30 (10-K, accession 0000319201-26-000027)."
+    }
+  },
+  "description": "US maker of inspection and measurement equipment that finds defects during chip manufacturing.",
+  "explain": "As AI chips get more complex, chipmakers spend more on KLA's tools to catch defects and keep yields up."
+}

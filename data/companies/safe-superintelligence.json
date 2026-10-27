@@ -1,0 +1,15 @@
+{
+  "id": "safe-superintelligence",
+  "name": "Safe Superintelligence (SSI)",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://ssi.inc",
+  "aliases": [
+    "SSI",
+    "Safe Superintelligence Inc."
+  ],
+  "description": "AI lab co-founded by former OpenAI chief scientist Ilya Sutskever, focused only on building safe superintelligence.",
+  "explain": "SSI has no products yet but raised billions from investors including Alphabet and Nvidia, and rents Google's TPU chips for its research."
+}

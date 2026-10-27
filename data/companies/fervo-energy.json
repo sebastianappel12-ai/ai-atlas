@@ -1,0 +1,16 @@
+{
+  "id": "fervo-energy",
+  "name": "Fervo Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NASDAQ:FRVO",
+  "cik": "0001853868",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://fervoenergy.com",
+  "aliases": [
+    "Fervo Energy Co"
+  ],
+  "description": "Developer of enhanced geothermal power plants, including Cape Station in Utah.",
+  "explain": "Fervo sells round-the-clock geothermal power to Google, including a 396 MW deal for Cape Station in Utah."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cloud-light",
+  "name": "Cloud Light",
+  "sector": "networking",
+  "public": false,
+  "country": "HK",
+  "aliases": [
+    "Cloud Light Technology"
+  ],
+  "description": "Maker of optical transceivers for data centers; acquired by Lumentum in 2023.",
+  "explain": "Cloud Light builds the optical modules that connect AI servers. Lumentum paid about $750 million for it."
+}

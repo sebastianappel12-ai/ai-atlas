@@ -1,0 +1,24 @@
+{
+  "id": "kioxia-rapidus-founding-investment-2022",
+  "from": "kioxia",
+  "to": "rapidus",
+  "type": "investment",
+  "title": "Kioxia among eight Japanese companies funding Rapidus launch",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-11-11",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://design-reuse.com/news/53008/rapidus-japan-2nm-fab.html",
+      "publisher": "Design & Reuse (eeNews Europe)",
+      "date": "2022-11-14",
+      "kind": "news",
+      "quote": "The companies – Toyota, Sony, NTT, SoftBank, Kioxia, Denso, NEC and MUFG Bank – have invested a total of 7.3 billion yen (about US$51.5 million) to create the company, the reports said."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Memory maker Kioxia was one of eight Japanese companies that put a combined 7.3 billion yen (about $51.5 million) into Rapidus, the new company trying to bring 2nm chipmaking to Japan. Kioxia's individual share was not disclosed; most Rapidus funding comes from the Japanese government."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kokusai-electric",
+  "name": "Kokusai Electric",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "TSE:6525",
+  "country": "JP",
+  "website": "https://www.kokusai-electric.com",
+  "aliases": [
+    "Kokusai Electric Corporation",
+    "KOKUSAI ELECTRIC"
+  ],
+  "description": "Japanese maker of batch wafer processing equipment (deposition and treatment) used in memory and logic chip factories.",
+  "explain": "Kokusai Electric makes tools that coat many wafers at once, important for 3D memory chips. Applied Materials tried to buy it from KKR in 2019-2021 but the deal failed."
+}

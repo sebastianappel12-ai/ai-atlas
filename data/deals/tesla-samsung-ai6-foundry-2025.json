@@ -1,0 +1,25 @@
+{
+  "id": "tesla-samsung-ai6-foundry-2025",
+  "from": "tesla",
+  "to": "samsung",
+  "type": "supply",
+  "title": "Tesla signs $16.5B chip-making contract with Samsung",
+  "amount_usd": 16500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-07-28",
+  "length_years": 8.4,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-confirms-tesla-signed-16point5-billion-chip-contract-samsung-rcna221512",
+      "publisher": "NBC News (CNBC)",
+      "date": "2025-07-28",
+      "kind": "news",
+      "quote": "Samsung Electronics has entered into a $16.5 billion contract for supplying semiconductors to Tesla, based on a regulatory filing by the South Korean firm and Tesla CEO Elon Musk’s posts on X."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Tesla will pay Samsung to manufacture its next-generation AI chips (AI6) at Samsung's new factory in Taylor, Texas. Samsung disclosed a contract worth about $16.5 billion running from July 2025 to the end of 2033 without naming the buyer; Elon Musk confirmed Tesla was the customer and said the real figure could be higher."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hpe",
+  "name": "Hewlett Packard Enterprise",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:HPE",
+  "cik": "0001645590",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.hpe.com",
+  "aliases": [
+    "HPE",
+    "Hewlett Packard Enterprise Co"
+  ],
+  "revenue": {
+    "amount_usd": 34296000000,
+    "period": "FY2025 (ended 2025-10-31)",
+    "as_of": "2025-10-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000130/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-12-18",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 34,296,000,000 USD for 2024-11-01 to 2025-10-31 (10-K, accession 0001645590-25-000130)."
+    }
+  },
+  "description": "Makes servers, storage and networking equipment, including AI systems and Juniper networking.",
+  "explain": "HPE sells AI servers and, since buying Juniper for about $14 billion in 2025, a large networking business for data centers."
+}

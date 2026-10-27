@@ -1,0 +1,24 @@
+{
+  "id": "nebius-vantage-data-centers-wales-2026",
+  "from": "nebius",
+  "to": "vantage-data-centers",
+  "type": "data_center",
+  "title": "Nebius leases AI capacity at Vantage's Newport, Wales campus",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-08-13",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/",
+      "publisher": "Vantage Data Centers",
+      "date": "2026-08-13",
+      "kind": "press_release",
+      "quote": "Under the agreement, Nebius will lease high-density capacity at CWL1 to support AI training, inference, agentic AI and enterprise AI workloads, serving enterprises, researchers, startups and public sector organizations seeking access to advanced AI infrastructure."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AI cloud company Nebius agreed to lease high-density capacity at Vantage's CWL1 campus in Newport, Wales, for Nvidia-based AI servers. Size and value were not disclosed."
+}

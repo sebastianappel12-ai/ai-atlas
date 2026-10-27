@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-crusoe-investment-2025",
+  "from": "nvidia",
+  "to": "crusoe",
+  "type": "investment",
+  "title": "Nvidia joins Crusoe's $1.375B Series E",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-24",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding",
+      "publisher": "Crusoe Newsroom",
+      "date": "2025-10-24",
+      "kind": "press_release",
+      "quote": "Share: Mubadala Capital and Valor Equity Partners co-lead funding to scale Crusoe’s vertically integrated AI infrastructure platform SAN FRANCISCO and DENVER – October 24 – Crusoe, the AI factory company, today announced the initial closing of its anticipated $1.375 billion Series E round, bringing the company's expected valuation to over $10 billion."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia was among the participants in Crusoe's $1.375 billion Series E, which valued Crusoe at over $10 billion. Nvidia's own amount was not disclosed."
+}

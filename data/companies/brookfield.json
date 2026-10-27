@@ -1,0 +1,44 @@
+{
+  "id": "brookfield",
+  "name": "Brookfield Asset Management",
+  "sector": "investor",
+  "public": true,
+  "ticker": "NYSE:BAM",
+  "cik": "0001937926",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://bam.brookfield.com",
+  "aliases": [
+    "Brookfield",
+    "Brookfield Asset Management Ltd.",
+    "Brookfield Infrastructure"
+  ],
+  "revenue": {
+    "amount_usd": 3944000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1937926/000162828026013098/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-03-02",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 3,944,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001628280-26-013098)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 1000000000000,
+    "period": "AUM",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184326005272/exh_991.htm",
+      "publisher": "Brookfield Asset Management Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2026-08-06",
+      "kind": "sec_filing",
+      "quote": "Brookfield Asset Management Ltd. (NYSE: BAM, TSX: BAM) is a leading global alternative asset manager, headquartered in New York, with over $1 trillion of assets under management across infrastructure, energy, private equity, real estate, and credit."
+    }
+  },
+  "description": "Global alternative asset manager investing in infrastructure, power and real estate, including chip fabs and fuel-cell power.",
+  "explain": "Brookfield supplies long-term capital to AI's physical layer: it co-funds Intel's Arizona chip factories and set up a financing framework of up to $5 billion for Bloom Energy fuel cells that power data centers."
+}

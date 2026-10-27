@@ -1,0 +1,53 @@
+{
+  "id": "google-red-oak",
+  "name": "Google Red Oak",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 32.5376,
+    "lon": -96.7967,
+    "city": "Red Oak"
+  },
+  "state": "TX",
+  "power_mw_now": 77,
+  "power_mw_planned": 185,
+  "status": "operating",
+  "est_chips": {
+    "count": 279434,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 5833828000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-04-30",
+      "event": "First signs of development/land clearing"
+    },
+    {
+      "date": "2025-08-25",
+      "event": "Building 1 is operational, based on a Google Earth [image](https://earth.google.com/web/@32.53855187,-96.7936939,182.71625265a,4648.56607908d,30.00094375y,3.66969189h,0t,0r/) showing a completed building shell and equipment, and the large c"
+    },
+    {
+      "date": "2026-02-06",
+      "event": "Building 1 appears active - the surrounding land is finished including the site entrance and the parking lot. The dry coolers for Building 2 are nearly complete although the building is still clearly a construction zone. The Building 2 subs"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Building 2 is estimated to be operational."
+    }
+  ],
+  "epoch_id": "Google Red Oak",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Red Oak: current power 77 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Red Oak is an operating AI data center in Red Oak, TX, owned by google. Epoch AI estimates it draws 77 MW today and 185 MW when finished."
+}

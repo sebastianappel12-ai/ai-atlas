@@ -1,0 +1,30 @@
+{
+  "id": "terawulf",
+  "name": "TeraWulf",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:WULF",
+  "cik": "0001083301",
+  "country": "US",
+  "hq_state": "MD",
+  "website": "https://www.terawulf.com",
+  "aliases": [
+    "TeraWulf Inc",
+    "WULF"
+  ],
+  "revenue": {
+    "amount_usd": 168455000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000108330126000031/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 168,455,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001083301-26-000031)."
+    }
+  },
+  "description": "Bitcoin miner turned AI data center developer with campuses in New York, Texas and Kentucky.",
+  "explain": "TeraWulf leases AI data center space to Fluidstack (with Google backing the rent), G42's Core42 and, from 2026, Anthropic directly."
+}

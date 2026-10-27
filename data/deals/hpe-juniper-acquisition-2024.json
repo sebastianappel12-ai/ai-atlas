@@ -1,0 +1,31 @@
+{
+  "id": "hpe-juniper-acquisition-2024",
+  "from": "hpe",
+  "to": "juniper",
+  "type": "acquisition",
+  "title": "HPE buys Juniper Networks for about $14B",
+  "amount_usd": 14000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-01-09",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1645590/000114036124001613/ny20018436x1_ex99-1.htm",
+      "publisher": "Hewlett Packard Enterprise (8-K Ex. 99.1)",
+      "date": "2024-01-09",
+      "kind": "sec_filing",
+      "quote": "HPE will acquire Juniper in an all-cash transaction for $40.00 per share, representing an equity value of approximately $14 billion"
+    },
+    {
+      "url": "https://sec.gov/Archives/edgar/data/1645590/000114036125024519/ef20051378_8k.htm",
+      "publisher": "Hewlett Packard Enterprise (8-K)",
+      "date": "2025-07-02",
+      "kind": "sec_filing",
+      "quote": "On July 2, 2025, Hewlett Packard Enterprise Company (“HPE” or the “Company”), Juniper Networks, Inc., a Delaware corporation (“Juniper”) and Jasmine Acquisition Sub, Inc., a Delaware corporation and a wholly owned subsidiary of HPE (“Merger Sub”), completed the transactions contemplated by the previously announced Agreement and Plan of Merger"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Server maker HPE paid Juniper's shareholders about $14 billion in cash to buy the networking company, roughly doubling HPE's networking business as AI data centers need more switches and routers. The deal was agreed in January 2024 and closed in July 2025 after a US antitrust settlement."
+}

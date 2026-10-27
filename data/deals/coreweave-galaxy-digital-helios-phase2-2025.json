@@ -1,0 +1,32 @@
+{
+  "id": "coreweave-galaxy-digital-helios-phase2-2025",
+  "from": "coreweave",
+  "to": "galaxy-digital",
+  "type": "data_center",
+  "title": "CoreWeave signs Helios Phase II lease with Galaxy (260 MW)",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-15",
+  "length_years": 15,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+      "publisher": "Galaxy Newsroom",
+      "date": "2025-08-15",
+      "kind": "press_release",
+      "quote": "Under this agreement, CoreWeave will access an additional 260 MW of critical IT load for its AI and HPC operations, structured on terms similar to the first phase lease signed earlier this year."
+    },
+    {
+      "url": "https://www.galaxy.com/newsroom/galaxy-announces-commitment-with-coreweave",
+      "publisher": "Galaxy Newsroom",
+      "date": "2025-04-23",
+      "kind": "press_release",
+      "quote": "Under the Phase II option agreement, Galaxy has agreed to deliver approximately 260 MW of incremental critical IT load [1] to host CoreWeave’s AI and HPC operations at its Helios data center campus."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave exercised its first option in April 2025 and signed the Phase II lease in August 2025 for 260 more megawatts at Galaxy's Helios campus, on terms similar to Phase I (which Galaxy valued at about $4.5 billion for 133 MW). Galaxy did not price Phase II separately."
+}

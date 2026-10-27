@@ -1,0 +1,24 @@
+{
+  "id": "marvell-inphi-acquisition-2020",
+  "from": "marvell",
+  "to": "inphi",
+  "type": "acquisition",
+  "title": "Marvell buys Inphi for about $10B",
+  "amount_usd": 10000000000,
+  "amount_kind": "confirmed",
+  "date": "2020-10-29",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1058057/000105805721000009/mrvl-20210130.htm",
+      "publisher": "Marvell (Form 10-K)",
+      "date": "2021-03-16",
+      "kind": "sec_filing",
+      "quote": "Recent Developments On October 29, 2020, we entered into a merger agreement (the “Merger Agreement”) with Inphi Corporation (“Inphi”), whereby we will pay Inphi's stockholders $66 per share in cash and 2.323 common shares for each Inphi share, which represented purchase consideration of approximately $10 billion as of that date."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Marvell bought Inphi, a maker of high-speed optical connection chips used inside data centers, for about $10B in cash and stock; the deal closed in April 2021. Those chips now carry much of the data between AI servers."
+}

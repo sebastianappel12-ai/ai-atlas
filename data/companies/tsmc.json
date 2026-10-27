@@ -1,0 +1,29 @@
+{
+  "id": "tsmc",
+  "name": "TSMC",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "TWSE:2330",
+  "country": "TW",
+  "website": "https://www.tsmc.com",
+  "aliases": [
+    "Taiwan Semiconductor Manufacturing Company",
+    "Taiwan Semiconductor Manufacturing Co., Ltd.",
+    "TSM"
+  ],
+  "revenue": {
+    "amount_usd": 121423000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+      "publisher": "TSMC 20-F (FY2025)",
+      "date": "2026-04-16",
+      "kind": "sec_filing",
+      "quote": "As a leader of the foundry segment, our net revenue and net income attributable to shareholders of the parent were NT$2,894,308 million and NT$1,158,380 million in 2024, and NT$3,809,054 million (US$121,423 million) and NT$1,697,604 million (US$54,116 million) in 2025, respectively."
+    }
+  },
+  "description": "The world's largest contract chipmaker; manufactures most advanced AI chips for Nvidia, AMD, Apple, Broadcom and others.",
+  "explain": "Almost every leading AI chip, from Nvidia GPUs to Google TPUs, is made in TSMC's factories, so AI spending flows through it. Revenue shown is TSMC's own US dollar translation of its NT$3.81 trillion 2025 revenue."
+}

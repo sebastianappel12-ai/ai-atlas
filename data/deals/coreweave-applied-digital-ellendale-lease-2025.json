@@ -1,0 +1,25 @@
+{
+  "id": "coreweave-applied-digital-ellendale-lease-2025",
+  "from": "coreweave",
+  "to": "applied-digital",
+  "type": "data_center",
+  "title": "CoreWeave leases 250 MW at Applied Digital's North Dakota campus (~$7B)",
+  "amount_usd": 7000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-06-02",
+  "length_years": 15,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm",
+      "publisher": "Applied Digital (SEC 8-K EX-99.2)",
+      "date": "2025-06-02",
+      "kind": "sec_filing",
+      "quote": "Over the approximately 15-year term, Applied Digital anticipates generating approximately $7 billion in total revenue from the leases."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave, an AI cloud company, signed two roughly 15-year leases to rent 250 megawatts of data center space at Applied Digital's Ellendale, North Dakota campus (later named Polaris Forge 1). Applied Digital expects about $7 billion in rent over the term."
+}

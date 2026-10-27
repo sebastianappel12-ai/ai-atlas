@@ -1,0 +1,69 @@
+{
+  "id": "aws-berwick",
+  "name": "AWS Berwick",
+  "owner": "amazon",
+  "tenants": [],
+  "location": {
+    "lat": 41.0838,
+    "lon": -76.1435,
+    "city": "Berwick"
+  },
+  "state": "PA",
+  "power_mw_now": 108,
+  "power_mw_planned": 212,
+  "status": "operating",
+  "est_chips": {
+    "count": 145023,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6402058000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-03-04",
+      "event": "[AWS](https://www.sec.gov/Archives/edgar/data/1622536/000162828025023501/tln-20250331.htm) acquires the Cumulus/Talen building campus for $650M."
+    },
+    {
+      "date": "2024-06-01",
+      "event": "Building 1 fit out and related construction begins under Amazon, based on the [Susquehanna River Basin Commission](https://www.srbc.gov/waav/search/GetPending?documentType=Application&isABRe=false&projectNumber=2024-056) (SRBC) schedule."
+    },
+    {
+      "date": "2025-09-09",
+      "event": "Building 1 operational estimate. According to [Google Earth Satellite Imagery](https://earth.google.com/web/search/Berwick,+PA/@41.08459175,-76.14321499,203.05778839a,756.59305105d,35y,0h,0t,0r/data=CiwiJgokCYCDFkPTLDRAEX6DFkPTLDTAGUGoL_2-p"
+    },
+    {
+      "date": "2026-01-07",
+      "event": "Building 2 operational estimate. This is based on the progress visible in the September 2025 image. [The DEP](https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol56/56-4/56-4.pdf) also issues an air plan approval to add 48 more emer"
+    },
+    {
+      "date": "2026-03-12",
+      "event": "[The SRBC](https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20260301) increases approved water use from 0.060 MGD to 0.129 MGD. This supports that some expansion is happening, but does not explicit"
+    },
+    {
+      "date": "2026-05-05",
+      "event": "Buildings 1 and 2 visibly complete and operational. Building 3 appears complete and may be commissioning, but it's likely not operational yet given the immediate surrounding construction work. Several additional building shells and pads are"
+    },
+    {
+      "date": "2026-08-01",
+      "event": "Building 3 expected to come online sometime around August 2026, since in the May satellite image it appeared structurally complete with minimal construction surrounding it. Basing MW estimate using Building 2 as a reference."
+    },
+    {
+      "date": "2027-08-01",
+      "event": "Building 4 expected to come online around August 2027, judging from prior satellite imagery. Modeled at twice Building 2's capacity because Building 4 is approximately twice its size."
+    }
+  ],
+  "epoch_id": "AWS Berwick",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "AWS Berwick: current power 108 MW; owner Amazon."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "AWS Berwick is an operating AI data center in Berwick, PA, owned by amazon. Epoch AI estimates it draws 108 MW today and 212 MW when finished."
+}

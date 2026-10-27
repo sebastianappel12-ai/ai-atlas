@@ -1,0 +1,46 @@
+{
+  "id": "blackrock",
+  "name": "BlackRock",
+  "sector": "investor",
+  "public": true,
+  "ticker": "NYSE:BLK",
+  "cik": "0002012383",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.blackrock.com",
+  "aliases": [
+    "BlackRock Inc",
+    "Global Infrastructure Partners",
+    "GIP",
+    "AI Infrastructure Partnership",
+    "AIP"
+  ],
+  "revenue": {
+    "amount_usd": 24216000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526071966/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 24,216,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001193125-26-071966)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 15500000000000,
+    "period": "AUM",
+    "as_of": "2026-09-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2012383/000119312526420979/blk-ex99_1.htm",
+      "publisher": "BlackRock Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2026-10-14",
+      "kind": "sec_filing",
+      "quote": "$15.5 trillion in AUM following $869 billion of net inflows over the last twelve months, representing 10% organic base fee growth"
+    }
+  },
+  "description": "World's largest asset manager; owns Global Infrastructure Partners and co-founded the AI Infrastructure Partnership with Microsoft, Nvidia and MGX.",
+  "explain": "Through its infrastructure arm GIP and the AI Infrastructure Partnership, BlackRock buys and funds data centers and power, including the roughly $40 billion purchase of Aligned Data Centers."
+}

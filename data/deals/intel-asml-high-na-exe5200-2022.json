@@ -1,0 +1,24 @@
+{
+  "id": "intel-asml-high-na-exe5200-2022",
+  "from": "intel",
+  "to": "asml",
+  "type": "supply",
+  "title": "Intel places first order for ASML's High-NA EUV production tool",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-01-19",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/937966/000119312522011881/d180474dex991.htm",
+      "publisher": "ASML (SEC 6-K Exhibit 99.1)",
+      "date": "2022-01-19",
+      "kind": "sec_filing",
+      "quote": "Intel has issued its first purchase order to ASML for the delivery of the industry"
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Intel ordered ASML's first TWINSCAN EXE:5200, a next-generation High-NA EUV lithography machine for printing the tiniest chip features. Each machine is reported to cost several hundred million dollars, but the order value was not disclosed."
+}

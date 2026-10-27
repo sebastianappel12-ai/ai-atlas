@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-weka-series-d-2022",
+  "from": "nvidia",
+  "to": "weka",
+  "type": "investment",
+  "title": "Nvidia invests in WEKA's $135M Series D",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-11-15",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "publisher": "WEKA",
+      "date": "2022-11-15",
+      "kind": "press_release",
+      "quote": "Several notable new and existing investors also contributed, including 10D, Atreides Management, Celesta Capital, Gemini Israel Ventures, Hewlett Packard Enterprise, Hitachi Ventures, Key1 Capital, Lumir Ventures, Micron Ventures, Mirae Asset Capital, MoreTech Ventures, Norwest Venture Partners, NVIDIA, Qualcomm Ventures, and Samsung Catalyst Fund."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia was one of many investors in WEKA's $135 million round led by Generation Investment Management. WEKA's software keeps GPUs supplied with data; Nvidia's amount was not disclosed."
+}

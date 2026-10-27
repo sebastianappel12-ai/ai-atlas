@@ -1,0 +1,29 @@
+{
+  "id": "nuscale",
+  "name": "NuScale Power",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:SMR",
+  "cik": "0001822966",
+  "country": "US",
+  "hq_state": "OR",
+  "website": "https://www.nuscalepower.com",
+  "aliases": [
+    "NuScale Power Corp"
+  ],
+  "revenue": {
+    "amount_usd": 31479000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1822966/000182296626000018/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 31,479,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001822966-26-000018)."
+    }
+  },
+  "description": "Developer of the NuScale small modular reactor, the first SMR design certified by the U.S. NRC.",
+  "explain": "NuScale's approved small-reactor design is a candidate to power data centers, though it has no large AI customer contract yet."
+}

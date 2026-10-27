@@ -1,0 +1,31 @@
+{
+  "id": "google-commonwealth-fusion-investment-2025",
+  "from": "google",
+  "to": "commonwealth-fusion",
+  "type": "investment",
+  "title": "Google increases its equity stake in Commonwealth Fusion Systems",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-30",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://cfs.energy/news-and-media/google-and-commonwealth-fusion-systems-sign-strategic-partnership/",
+      "publisher": "Commonwealth Fusion Systems",
+      "date": "2025-06-30",
+      "kind": "press_release",
+      "quote": "An investor in CFS since 2021, Google also is deepening its relationship with CFS by increasing its stake in the company."
+    },
+    {
+      "url": "https://cfs.energy/news-and-media/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy",
+      "publisher": "Commonwealth Fusion Systems",
+      "date": "2025-08-28",
+      "kind": "press_release",
+      "quote": "This effort to put power on the grid in the early 2030s is bolstered by strategic partnerships with Dominion Energy and Google — an investor in CFS that also agreed to buy half the power produced at the plant."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Alongside its 200 MW fusion power deal, Google (an investor since 2021) put more money into Commonwealth Fusion Systems, and took part in CFS's $863 million Series B2 round in August 2025. Google's own amount was not disclosed."
+}

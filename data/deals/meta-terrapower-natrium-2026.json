@@ -1,0 +1,24 @@
+{
+  "id": "meta-terrapower-natrium-2026",
+  "from": "meta",
+  "to": "terrapower",
+  "type": "power_deal",
+  "title": "Meta funds two TerraPower Natrium reactors, with options for up to eight",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-01-09",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "publisher": "Meta Newsroom",
+      "date": "2026-01-09",
+      "kind": "press_release",
+      "quote": "Our agreement with TerraPower will provide funding that supports the development of two new Natrium® units capable of generating up to 690 MW of firm power with delivery as early as 2032."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta is funding TerraPower's development of two new Natrium sodium-cooled reactors (up to 690 MW, power as early as 2032), with rights to more units (Meta says up to eight in total). No dollar amount was disclosed. Plants: planned TerraPower Natrium units (not yet built, sites not named)."
+}

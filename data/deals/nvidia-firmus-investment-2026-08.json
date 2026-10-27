@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-firmus-investment-2026-08",
+  "from": "nvidia",
+  "to": "firmus",
+  "type": "investment",
+  "title": "Nvidia joins Firmus's $2B strategic equity round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-08-10",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.verdict.co.uk/firmus-2bn-project-southgate-rollout/",
+      "publisher": "Verdict",
+      "date": "2026-08-10",
+      "kind": "news",
+      "quote": "The round includes follow-on participation from Coatue and Nvidia, as well as new investment from funds managed by Blackstone Tactical Opportunities and other Blackstone vehicles, which the company collectively referred to as Blackstone."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia made a follow-on investment in Firmus's $2 billion equity round, which lifted Firmus's valuation above $10.5 billion. Nvidia's own amount was not disclosed."
+}

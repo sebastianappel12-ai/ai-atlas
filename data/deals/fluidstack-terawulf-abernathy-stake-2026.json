@@ -1,0 +1,24 @@
+{
+  "id": "fluidstack-terawulf-abernathy-stake-2026",
+  "from": "fluidstack",
+  "to": "terawulf",
+  "type": "acquisition",
+  "title": "Fluidstack-led group to buy TeraWulf's 50.1% stake in Abernathy JV",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-07-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+      "publisher": "TeraWulf (SEC 8-K EX-99.1)",
+      "date": "2026-07-06",
+      "kind": "sec_filing",
+      "quote": "Separately, TeraWulf has entered into a definitive agreement to sell its 50.1% ownership interest in the Abernathy Joint Venture to an investor group led by its joint venture partner, Fluidstack."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "An investor group led by Fluidstack agreed to buy TeraWulf's majority stake in their shared Abernathy, Texas data center venture. TeraWulf said the price is a premium to the roughly $450 million it invested, but did not give the exact amount."
+}

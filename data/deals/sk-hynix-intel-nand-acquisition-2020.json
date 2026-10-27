@@ -1,0 +1,31 @@
+{
+  "id": "sk-hynix-intel-nand-acquisition-2020",
+  "from": "sk-hynix",
+  "to": "intel",
+  "type": "acquisition",
+  "title": "SK hynix buys Intel's NAND memory business for $9B",
+  "amount_usd": 9000000000,
+  "amount_kind": "confirmed",
+  "date": "2020-10-20",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312520272580/d76122dex991.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2020-10-20",
+      "kind": "sec_filing",
+      "quote": "SK hynix will pay US $9 billion for the Intel NAND memory and storage business, which includes the NAND SSD business, the NAND component and wafer business, and the Dalian NAND memory manufacturing facility in China."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "publisher": "Intel 10-K (FY2025)",
+      "date": "2026-01-23",
+      "kind": "sec_filing",
+      "quote": "On March 27, 2025, we closed the second phase of the transaction."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SK hynix agreed to pay Intel $9 billion for its flash-memory (NAND) business, including a chip factory in Dalian, China. The deal closed in two steps: the first in December 2021 and the second in March 2025. Intel used the sale to exit memory and focus cash on its own chipmaking."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "g42",
+  "name": "G42",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "AE",
+  "website": "https://www.g42.ai",
+  "aliases": [
+    "Group 42",
+    "G42 Holding"
+  ],
+  "description": "Abu Dhabi-based AI and technology holding company, partly owned by Microsoft.",
+  "explain": "G42 is the UAE's main AI company and the local partner for huge data center projects such as the UAE Stargate campus; Microsoft owns a minority stake."
+}

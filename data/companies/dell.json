@@ -1,0 +1,30 @@
+{
+  "id": "dell",
+  "name": "Dell Technologies",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:DELL",
+  "cik": "0001571996",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.dell.com",
+  "aliases": [
+    "Dell",
+    "Dell Technologies Inc"
+  ],
+  "revenue": {
+    "amount_usd": 113538000000,
+    "period": "FY2026 (ended 2026-01-30)",
+    "as_of": "2026-01-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000157199626000008/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-03-16",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 113,538,000,000 USD for 2025-02-01 to 2026-01-30 (10-K, accession 0001571996-26-000008)."
+    }
+  },
+  "description": "Makes servers, storage, PCs and networking gear, including AI servers.",
+  "explain": "Dell is one of the largest builders of AI servers, selling Nvidia-based systems to companies such as xAI and CoreWeave."
+}

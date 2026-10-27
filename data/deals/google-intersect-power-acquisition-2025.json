@@ -1,0 +1,24 @@
+{
+  "id": "google-intersect-power-acquisition-2025",
+  "from": "google",
+  "to": "intersect-power",
+  "type": "acquisition",
+  "title": "Alphabet agrees to buy Intersect for $4.75B cash plus debt",
+  "amount_usd": 4750000000,
+  "amount_kind": "confirmed",
+  "date": "2025-12-22",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://kirkland.com/news/press-release/2025/12/kirkland-advises-tpg-rise-climate-adaptive-infrastructure-on-sale-of-intersect",
+      "publisher": "Kirkland & Ellis (advisor to sellers)",
+      "date": "2025-12-23",
+      "kind": "other",
+      "quote": "Kirkland & Ellis advised a group of investors in Intersect on a definitive agreement to sell Intersect, which provides data center and energy infrastructure solutions, for $4.75 billion in cash, plus the assumption of debt, to Alphabet (NASDAQ: GOOG)."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Alphabet agreed to buy Intersect, a developer that builds power plants together with data centers, for $4.75 billion in cash plus assumed debt; the cash goes to sellers TPG Rise Climate, Climate Adaptive Infrastructure and Greenbelt Capital. Google already owned a minority stake. Intersect's operating Texas and California assets are excluded from the deal."
+}

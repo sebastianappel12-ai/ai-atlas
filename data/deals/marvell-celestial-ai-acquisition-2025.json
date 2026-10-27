@@ -1,0 +1,31 @@
+{
+  "id": "marvell-celestial-ai-acquisition-2025",
+  "from": "marvell",
+  "to": "celestial-ai",
+  "type": "acquisition",
+  "title": "Marvell buys Celestial AI for $3.25B upfront (up to $5.5B)",
+  "amount_usd": 3250000000,
+  "amount_kind": "confirmed",
+  "date": "2025-12-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312525305289/d34367dex991.htm",
+      "publisher": "Marvell (8-K Exhibit 99.1)",
+      "date": "2025-12-02",
+      "kind": "sec_filing",
+      "quote": "Marvell will acquire Celestial AI for upfront consideration valued at approximately $3.25 billion, consisting of $1.0 billion in cash, as well as approximately 27.2 million shares of Marvell common stock, having a value of $2.25 billion, based on the average volume weighted average price (VWAP) for the 10 trading days ending the second day prior to signing."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526032861/d45933dex991.htm",
+      "publisher": "Marvell (8-K/A Exhibit 99.1)",
+      "date": "2026-02-02",
+      "kind": "sec_filing",
+      "quote": "Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced that it has completed its previously announced acquisition of Celestial AI, a pioneer in optical interconnect technology for scale-up connectivity."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Marvell bought Celestial AI, which uses light (photonics) to connect AI chips, for $3.25B in cash and stock upfront, plus up to $2.25B more in stock if revenue targets are hit. The amount shown is the upfront part only. The deal closed in February 2026."
+}

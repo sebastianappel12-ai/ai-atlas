@@ -1,0 +1,24 @@
+{
+  "id": "us-government-micron-chips-grant-2025",
+  "from": "us-government",
+  "to": "micron",
+  "type": "investment",
+  "title": "U.S. adds up to $275M CHIPS grant for Micron",
+  "amount_usd": 275000000,
+  "amount_kind": "up_to",
+  "date": "2025-06-12",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.nist.gov/news-events/news/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip",
+      "publisher": "NIST CHIPS for America",
+      "date": "2025-06-12",
+      "kind": "press_release",
+      "quote": "Today’s expanded investment of $200 billion is accompanied by up to $275 million in incremental CHIPS Act direct funding."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "When Micron raised its U.S. investment plan to $200 billion in June 2025, the Commerce Department added up to $275 million in grants on top of its December 2024 award, tied to Micron's Manassas, Virginia plant."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tower-semiconductor-intel-new-mexico-foundry-2023",
+  "from": "tower-semiconductor",
+  "to": "intel",
+  "type": "supply",
+  "title": "Tower books Intel foundry capacity in New Mexico",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-09-05",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/928876/000117891323003070/zk2330264.htm",
+      "publisher": "Tower Semiconductor (SEC 6-K)",
+      "date": "2023-09-05",
+      "kind": "sec_filing",
+      "quote": "Under the agreement, Tower will utilize Intel’s advanced manufacturing facility in New Mexico."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Weeks after their merger fell apart, Tower agreed to pay Intel for foundry services: Intel runs 300mm chip production for Tower at its New Mexico fab. Tower separately said it would spend up to $300 million on equipment it owns inside that fab; the fees paid to Intel were not disclosed."
+}

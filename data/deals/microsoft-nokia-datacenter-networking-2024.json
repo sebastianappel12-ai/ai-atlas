@@ -1,0 +1,25 @@
+{
+  "id": "microsoft-nokia-datacenter-networking-2024",
+  "from": "microsoft",
+  "to": "nokia",
+  "type": "supply",
+  "title": "Microsoft extends Nokia data center switch and router supply deal for 5 years",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-11-21",
+  "length_years": 5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.telecomtv.com/content/digital-platforms-services/nokia-expands-multi-year-agreement-to-supply-microsoft-azure-51827/",
+      "publisher": "TelecomTV",
+      "date": "2024-11-21",
+      "kind": "news",
+      "quote": "Nokia has announced a five-year expansion of its multi-year agreement to supply Microsoft Azure with datacenter routers and switches."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft agreed to keep buying data center routers and switches from Nokia for its Azure cloud for five more years, including gear for upgrading its networks to 400-gigabit links. Financial terms were not disclosed."
+}

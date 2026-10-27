@@ -1,0 +1,13 @@
+{
+  "id": "purgerite",
+  "name": "PurgeRite",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "TX",
+  "aliases": [
+    "Purge Rite Intermediate LLC"
+  ],
+  "description": "Provides flushing, purging and filtration services for data center liquid cooling systems; acquired by Vertiv in 2025.",
+  "explain": "PurgeRite prepares and maintains the pipes of liquid cooling systems. Vertiv paid about $1 billion for it."
+}

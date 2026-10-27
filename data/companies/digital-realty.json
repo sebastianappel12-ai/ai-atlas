@@ -1,0 +1,31 @@
+{
+  "id": "digital-realty",
+  "name": "Digital Realty",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NYSE:DLR",
+  "cik": "0001297996",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.digitalrealty.com",
+  "aliases": [
+    "Digital Realty Trust",
+    "Digital Realty Trust, Inc.",
+    "DLR"
+  ],
+  "revenue": {
+    "amount_usd": 6112692000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926015365/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-13",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 6,112,692,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001104659-26-015365)."
+    }
+  },
+  "description": "Data center REIT that owns and leases hundreds of data centers worldwide to cloud, AI and enterprise tenants.",
+  "explain": "One of the two biggest data center landlords in the world. Cloud giants and AI companies rent space and power from it instead of (or alongside) building their own."
+}

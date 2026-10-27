@@ -1,0 +1,24 @@
+{
+  "id": "openai-cerebras-working-capital-loan-2026",
+  "from": "openai",
+  "to": "cerebras",
+  "type": "financing",
+  "title": "OpenAI lends Cerebras $1B to build out capacity",
+  "amount_usd": 1000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-01-14",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026035214/cerebras-424b4.htm",
+      "publisher": "Cerebras Systems prospectus (424B4)",
+      "date": "2026-05-14",
+      "kind": "sec_filing",
+      "quote": "Under the MRA with OpenAI, OpenAI has provided us with the $1.0 billion Working Capital Loan to accelerate the development and build out of services, technology, and manufacturing."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "As part of its compute deal, OpenAI lent Cerebras $1B (paid in January 2026) so Cerebras could build the systems OpenAI ordered. Cerebras repays it in installments after delivering the first 250 MW, by 2032 at the latest."
+}

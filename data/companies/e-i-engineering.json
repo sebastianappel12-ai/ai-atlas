@@ -1,0 +1,13 @@
+{
+  "id": "e-i-engineering",
+  "name": "E&I Engineering",
+  "sector": "networking",
+  "public": false,
+  "country": "IE",
+  "aliases": [
+    "E&I Engineering Ireland Limited",
+    "Powerbar Gulf"
+  ],
+  "description": "Irish maker of switchgear, busway and power distribution for data centers; acquired by Vertiv in 2021.",
+  "explain": "E&I makes the electrical gear that distributes power inside data centers. Vertiv paid about $1.8 billion for it."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "meta-google-tpu-2026",
+  "from": "meta",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Meta reportedly rents Google Cloud TPU chips in multibillion-dollar deal",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-26",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/",
+      "publisher": "SiliconANGLE",
+      "date": "2026-02-26",
+      "kind": "news",
+      "quote": "Meta Platforms Inc. has reportedly agreed to a multibillion-dollar deal to rent Google Cloud’s custom artificial intelligence chips, according to a report in The Information today."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta reportedly agreed to rent Google's TPU AI chips through Google Cloud to train its next models, as it tries to rely less on Nvidia. Reports call it multibillion-dollar but give no exact figure, and the companies have not announced it."
+}

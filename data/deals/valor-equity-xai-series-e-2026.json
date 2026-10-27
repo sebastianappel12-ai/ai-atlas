@@ -1,0 +1,31 @@
+{
+  "id": "valor-equity-xai-series-e-2026",
+  "from": "valor-equity",
+  "to": "xai",
+  "type": "investment",
+  "title": "Valor-backed $20B Series E for xAI",
+  "amount_usd": 20000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-01-06",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-e",
+      "publisher": "xAI News",
+      "date": "2026-01-06",
+      "kind": "press_release",
+      "quote": "xAI completed its upsized Series E funding round, exceeding the $15 billion targeted round size, and raised $20 billion."
+    },
+    {
+      "url": "https://x.ai/news/series-e",
+      "publisher": "xAI News",
+      "date": "2026-01-06",
+      "kind": "press_release",
+      "quote": "Investors participating in the round include Valor Equity Partners, Stepstone Group, Fidelity Management & Research Company, Qatar Investment Authority, MGX and Baron Capital Group, amongst other key partners."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "xAI raised $20 billion, more than its $15 billion target, from Valor, StepStone, Fidelity, Qatar Investment Authority, MGX, Baron Capital and others. No lead was named; the whole round is shown on this Valor record and each investor's own amount was not disclosed."
+}

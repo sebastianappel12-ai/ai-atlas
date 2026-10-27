@@ -1,0 +1,28 @@
+{
+  "id": "xilinx",
+  "name": "Xilinx",
+  "sector": "chip_designer",
+  "public": false,
+  "cik": "0000743988",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.amd.com/en/products/adaptive-socs-and-fpgas.html",
+  "aliases": [
+    "Xilinx, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 3147599000,
+    "period": "FY2021 (ended 2021-04-03)",
+    "as_of": "2021-04-03",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/743988/000074398821000016/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2021-05-14",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 3,147,599,000 USD for 2020-03-29 to 2021-04-03 (10-K, accession 0000743988-21-000016)."
+    }
+  },
+  "description": "Designer of programmable (FPGA) and adaptive chips; part of AMD since February 2022.",
+  "explain": "AMD's $35B all-stock purchase of Xilinx was one of the biggest chip deals ever and strengthened AMD's data-center business."
+}

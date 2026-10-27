@@ -1,0 +1,24 @@
+{
+  "id": "g42-cerebras-1-43b-commitment-2024",
+  "from": "g42",
+  "to": "cerebras",
+  "type": "chip_order",
+  "title": "G42 commits to buy $1.43B of Cerebras systems",
+  "amount_usd": 1430000000,
+  "amount_kind": "confirmed",
+  "date": "2024-05-01",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "publisher": "Cerebras Systems (Form S-1)",
+      "date": "2024-09-30",
+      "kind": "sec_filing",
+      "quote": "The $1.43 billion of products and services that G42 has committed to purchase pursuant to the G42 May 2024 Agreement (as defined in “Management’s Discussion & Analysis—G42 Relationship”) does not count toward the G42 Option Threshold."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "In May 2024, G42 committed to buy about $1.43B more of Cerebras computing systems and services by early 2025 (part was later bought by the Abu Dhabi AI university MBZUAI). Exact signing day in May was not given, so the date is approximate."
+}

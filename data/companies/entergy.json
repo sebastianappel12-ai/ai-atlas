@@ -1,0 +1,31 @@
+{
+  "id": "entergy",
+  "name": "Entergy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:ETR",
+  "cik": "0000065984",
+  "country": "US",
+  "hq_state": "LA",
+  "website": "https://www.entergy.com",
+  "aliases": [
+    "Entergy Corp",
+    "Entergy Louisiana",
+    "Entergy Arkansas"
+  ],
+  "revenue": {
+    "amount_usd": 12946686000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598426000174/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-19",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 12,946,686,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0000065984-26-000174)."
+    }
+  },
+  "description": "Utility serving Louisiana, Arkansas, Mississippi and Texas.",
+  "explain": "Entergy is building gas plants to power Meta's giant Hyperion AI data center in Louisiana and signed a long-term contract to serve Google's data center in West Memphis, Arkansas."
+}

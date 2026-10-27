@@ -1,0 +1,14 @@
+{
+  "id": "thrive-capital",
+  "name": "Thrive Capital",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://thrivecap.com",
+  "aliases": [
+    "Thrive"
+  ],
+  "description": "New York venture capital firm founded by Josh Kushner and a large early backer of OpenAI.",
+  "explain": "Thrive led OpenAI's $6.6 billion funding round in October 2024, one of the largest venture rounds at the time."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "amazon-anthropic-investment-2023",
+  "from": "amazon",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Amazon invests $4B in Anthropic",
+  "amount_usd": 4000000000,
+  "amount_kind": "confirmed",
+  "date": "2023-09-25",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-aws-anthropic-ai",
+      "publisher": "About Amazon",
+      "date": "2023-09-25",
+      "kind": "press_release",
+      "quote": "Amazon will invest up to $4 billion in Anthropic and have a minority ownership position in the company."
+    },
+    {
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment",
+      "publisher": "About Amazon",
+      "date": "2024-03-27",
+      "kind": "press_release",
+      "quote": "Today, we made our additional $2.75 billion investment, bringing our total investment in Anthropic to $4 billion."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+      "publisher": "Amazon 10-K (SEC)",
+      "date": "2025-02-07",
+      "kind": "sec_filing",
+      "quote": "In Q3 2023, we invested $1.25 billion in a convertible note from Anthropic, PBC."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon announced up to $4 billion for Anthropic in September 2023, paid $1.25 billion first and the remaining $2.75 billion in March 2024. In return Anthropic made Amazon's AWS its main cloud provider."
+}

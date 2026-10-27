@@ -1,0 +1,31 @@
+{
+  "id": "galaxy-digital",
+  "name": "Galaxy Digital",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:GLXY",
+  "cik": "0001859392",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.galaxy.com",
+  "aliases": [
+    "Galaxy",
+    "Galaxy Digital Inc",
+    "Galaxy Digital Holdings"
+  ],
+  "revenue": {
+    "amount_usd": 60243860000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000016/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 60,243,860,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001859392-26-000016)."
+    }
+  },
+  "description": "Crypto financial firm that also develops the Helios AI data center campus in West Texas, leased to CoreWeave.",
+  "explain": "Galaxy turned its Helios bitcoin mining site into an AI data center campus. CoreWeave has leased all 800 MW of approved power there under 15-year leases."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "andreessen-horowitz-xai-series-b-2024",
+  "from": "andreessen-horowitz",
+  "to": "xai",
+  "type": "investment",
+  "title": "a16z invests in xAI's Series B",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-05-26",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-b",
+      "publisher": "xAI News",
+      "date": "2024-05-26",
+      "kind": "press_release",
+      "quote": "Our Series B funding round of $6 billion with participation from key investors including Valor Equity Partners, Vy Capital, Andreessen Horowitz, Sequoia Capital, Fidelity Management & Research Company, Prince Alwaleed Bin Talal and Kingdom Holding, amongst others."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Andreessen Horowitz took part in xAI's $6 billion Series B (counted in full on the Valor record); its own amount was not disclosed."
+}

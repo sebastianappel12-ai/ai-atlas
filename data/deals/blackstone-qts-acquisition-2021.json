@@ -1,0 +1,24 @@
+{
+  "id": "blackstone-qts-acquisition-2021",
+  "from": "blackstone",
+  "to": "qts",
+  "type": "acquisition",
+  "title": "Blackstone buys QTS data centers for $10B",
+  "amount_usd": 10000000000,
+  "amount_kind": "confirmed",
+  "date": "2021-06-07",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1577368/000110465921111681/tm2126608d1_ex99-1.htm",
+      "publisher": "QTS Realty Trust Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2021-08-31",
+      "kind": "sec_filing",
+      "quote": "Blackstone (NYSE: BX) and QTS Realty Trust (NYSE: QTS) today announced that affiliates of Blackstone Infrastructure Partners, Blackstone Real Estate Income Trust, Inc., and Blackstone Property Partners have completed their previously announced acquisition of QTS Realty Trust for approximately $10 billion, including debt."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Blackstone funds bought data center owner QTS for about $10 billion including debt, then poured money into it; QTS became one of the largest builders of data centers leased to cloud and AI companies."
+}

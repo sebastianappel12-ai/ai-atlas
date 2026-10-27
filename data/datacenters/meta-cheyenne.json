@@ -1,0 +1,57 @@
+{
+  "id": "meta-cheyenne",
+  "name": "Meta Cheyenne",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 41.1,
+    "lon": -104.84,
+    "city": "Cheyenne"
+  },
+  "state": "WY",
+  "power_mw_now": 152,
+  "power_mw_planned": 249,
+  "status": "operating",
+  "est_chips": {
+    "count": 235978,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 7841574000,
+  "grid_region": "WACM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-04-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2025-01-30",
+      "event": "Structure for Building 1 and 2 under construction."
+    },
+    {
+      "date": "2026-03-22",
+      "event": "Building 1 shell and cooling looks complete, Building 2 roof almost complete."
+    },
+    {
+      "date": "2026-07-25",
+      "event": "Both buildings estimated to be operational."
+    },
+    {
+      "date": "2027-02-15",
+      "event": "Buildings 3 and 4 are similar in style and size to the ones seen at the Prometheus site, we estimate their operability based on that timeline."
+    }
+  ],
+  "epoch_id": "Meta Cheyenne",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Cheyenne: current power 152 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Cheyenne is an operating AI data center in Cheyenne, WY, owned by meta. Epoch AI estimates it draws 152 MW today and 249 MW when finished."
+}

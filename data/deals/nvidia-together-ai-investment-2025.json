@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-together-ai-investment-2025",
+  "from": "nvidia",
+  "to": "together-ai",
+  "type": "investment",
+  "title": "Nvidia joins Together AI's $305M Series B",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-02-20",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.together.ai/blog/together-ai-announcing-305m-series-b",
+      "publisher": "Together AI Blog",
+      "date": "2025-02-20",
+      "kind": "press_release",
+      "quote": "The round saw participation from a distinguished group of global institutional and strategic investors including Salesforce Ventures, DAMAC Capital, NVIDIA, Kleiner Perkins, March Capital, Emergence Capital, Lux Capital, SE Ventures, Greycroft, Coatue, Definition, Cadenza Ventures, Long Journey Ventures, Brave Capital, Scott Banister, SK Telecom, and technology pioneer John Chambers."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested an undisclosed amount in Together AI's $305 million Series B. Together AI runs a cloud built on Nvidia GPUs."
+}

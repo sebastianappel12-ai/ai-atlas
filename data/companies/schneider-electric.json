@@ -1,0 +1,28 @@
+{
+  "id": "schneider-electric",
+  "name": "Schneider Electric",
+  "sector": "networking",
+  "public": true,
+  "ticker": "EURONEXT:SU",
+  "country": "FR",
+  "website": "https://www.se.com",
+  "aliases": [
+    "Schneider Electric SE",
+    "Schneider"
+  ],
+  "revenue": {
+    "amount_usd": 45400000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.aa.com.tr/en/energy/finance/schneider-electric-posts-record-2025-revenue-of-402b/54970",
+      "publisher": "Anadolu Agency",
+      "date": "2026-02-26",
+      "kind": "news",
+      "quote": "Full-year revenue rose 8.9% organically to €40.2 billion, crossing €40 billion for the first time, while fourth-quarter sales increased 10.7% organically to a record €11.1 billion."
+    }
+  },
+  "description": "Makes electrical power, cooling and automation equipment, including data center power and cooling systems.",
+  "explain": "Schneider Electric is one of the biggest suppliers of power and cooling gear to data centers. Builders like Switch, Digital Realty and Compass have reserved billions of dollars of its factory output."
+}

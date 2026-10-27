@@ -1,0 +1,53 @@
+{
+  "id": "google-arcola",
+  "name": "Google Arcola",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 39.0037,
+    "lon": -77.4083,
+    "city": "Sterling"
+  },
+  "state": "VA",
+  "power_mw_now": 77,
+  "power_mw_planned": 93,
+  "status": "operating",
+  "est_chips": {
+    "count": 108135,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 2916914000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-10-01",
+      "event": "Building 1 foundation started"
+    },
+    {
+      "date": "2025-09-08",
+      "event": "Building 1 roof complete, cooling towers in progress."
+    },
+    {
+      "date": "2026-04-09",
+      "event": "Building 1 appears almost complete, with minimal construction activity."
+    },
+    {
+      "date": "2026-06-16",
+      "event": "Building 1 is operational, based off of colored motion artifacts from cooling towers and direct visual verification."
+    }
+  ],
+  "epoch_id": "Google Arcola",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Arcola: current power 77 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Arcola is an operating AI data center in Sterling, VA, owned by google. Epoch AI estimates it draws 77 MW today and 93 MW when finished."
+}

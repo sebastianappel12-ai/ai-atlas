@@ -1,0 +1,32 @@
+{
+  "id": "coreweave-galaxy-digital-helios-phase3-2025",
+  "from": "coreweave",
+  "to": "galaxy-digital",
+  "type": "data_center",
+  "title": "CoreWeave takes final 133 MW at Galaxy's Helios (Phase III)",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-15",
+  "length_years": 15,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+      "publisher": "Galaxy Newsroom",
+      "date": "2025-08-15",
+      "kind": "press_release",
+      "quote": "CoreWeave recently exercised its final option with the Company to access an additional 133 MW of critical IT load for its AI and HPC operations."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000016/glxy-20251231.htm",
+      "publisher": "Galaxy Digital (SEC 10-K)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "Together, the Phase II Lease and the Phase III Lease are expected to increase CoreWeave’s contracted capacity at the Helios data center campus to 526 MW of critical IT load by 2028."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave exercised its last option at Helios in August 2025 and signed the Phase III lease in January 2026, committing to all 800 MW of approved power there (526 MW of IT load). Galaxy expects more than $1 billion a year on average across all its CoreWeave leases, but did not price this phase alone."
+}

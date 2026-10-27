@@ -1,0 +1,24 @@
+{
+  "id": "oracle-stargate-equity-2025",
+  "from": "oracle",
+  "to": "stargate",
+  "type": "investment",
+  "title": "Oracle becomes an initial equity funder of Stargate",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-01-21",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250122",
+      "publisher": "SoftBank Group",
+      "date": "2025-01-22",
+      "kind": "press_release",
+      "quote": "The initial equity funders in Stargate are SoftBank, OpenAI, Oracle, and MGX."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Oracle was named one of Stargate's four initial equity funders alongside SoftBank, OpenAI and MGX. Its equity amount was not disclosed; reports put Oracle and MGX together at about $7 billion."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "oracle-amd-mi450-supercluster-2025",
+  "from": "oracle",
+  "to": "amd",
+  "type": "chip_order",
+  "title": "Oracle to deploy 50,000 AMD MI450 GPUs from 2026",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-14",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://newsroom.amd.com/news/oracle-and-amd-expand-partnership-to-help-customers-ach/",
+      "publisher": "AMD Newsroom",
+      "date": "2025-10-14",
+      "kind": "press_release",
+      "quote": "Building on years of co-innovation, Oracle Cloud Infrastructure (OCI) will be a launch partner for the first publicly available AI supercluster powered by AMD Instinct™ MI450 Series GPUs—with an initial deployment of 50,000 GPUs starting in calendar Q3 2026 and expanding in 2027 and beyond."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Oracle's cloud will buy and install 50,000 of AMD's next-generation MI450 AI chips starting in the third quarter of 2026, to rent out to customers. The price was not disclosed."
+}

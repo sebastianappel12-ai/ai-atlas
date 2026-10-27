@@ -1,0 +1,27 @@
+{
+  "id": "acacia",
+  "name": "Acacia Communications",
+  "sector": "networking",
+  "public": false,
+  "cik": "0001651235",
+  "country": "US",
+  "hq_state": "MA",
+  "aliases": [
+    "Acacia Communications Inc"
+  ],
+  "revenue": {
+    "amount_usd": 583451000,
+    "period": "FY2020 (ended 2020-12-31)",
+    "as_of": "2020-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1651235/000165123521000044/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2021-03-01",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 583,451,000 USD for 2020-01-01 to 2020-12-31 (10-K, accession 0001651235-21-000044)."
+    }
+  },
+  "description": "Maker of coherent optical modules and DSP chips for data center and network links; acquired by Cisco in 2021.",
+  "explain": "Acacia's optics move data over fiber between data centers. Cisco paid about $4.5 billion for it after raising its first offer."
+}

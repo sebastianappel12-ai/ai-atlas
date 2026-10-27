@@ -1,0 +1,31 @@
+{
+  "id": "brookfield-intel-arizona-fabs-2022",
+  "from": "brookfield",
+  "to": "intel",
+  "type": "investment",
+  "title": "Brookfield to fund 49% of up to $30B Intel Arizona fabs",
+  "amount_usd": 14700000000,
+  "amount_kind": "up_to",
+  "date": "2022-08-23",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522226986/d388434dex991.htm",
+      "publisher": "Intel Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2022-08-23",
+      "kind": "sec_filing",
+      "quote": "Signs Agreement with Brookfield to Jointly Invest up to $30 Billion in Leading-Edge Chip Factories in Arizona"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522226986/d388434dex991.htm",
+      "publisher": "Intel Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2022-08-23",
+      "kind": "sec_filing",
+      "quote": "previously announced manufacturing expansion at its Ocotillo campus in Chandler, Arizona, with Intel funding 51% and Brookfield funding 49% of the total project cost."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Brookfield's infrastructure arm agreed to pay 49% of the cost of Intel's new chip factories in Chandler, Arizona, a project of up to $30 billion. The amount shown is 49% of $30 billion ($14.7 billion), a ceiling."
+}

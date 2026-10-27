@@ -1,0 +1,15 @@
+{
+  "id": "mediatek",
+  "name": "MediaTek",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "TWSE:2454",
+  "country": "TW",
+  "website": "https://www.mediatek.com",
+  "aliases": [
+    "MediaTek Inc.",
+    "聯發科"
+  ],
+  "description": "Taiwanese chip designer of smartphone, TV and networking processors, expanding into custom data-center AI chips.",
+  "explain": "MediaTek is one of the world's largest fabless chip designers (it designs chips and has others manufacture them) and is pushing into custom AI chips for data centers."
+}

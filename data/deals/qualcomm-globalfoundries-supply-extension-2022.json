@@ -1,0 +1,25 @@
+{
+  "id": "qualcomm-globalfoundries-supply-extension-2022",
+  "from": "qualcomm",
+  "to": "globalfoundries",
+  "type": "supply",
+  "title": "Qualcomm more than doubles GlobalFoundries supply deal through 2028",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-08-08",
+  "length_years": 6,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1709048/000119312522214239/d377068dex991.htm",
+      "publisher": "GlobalFoundries (SEC 6-K Exhibit 99.1)",
+      "date": "2022-08-08",
+      "kind": "sec_filing",
+      "quote": "Multi-billion dollar revenue agreement increases global supply capacity reservation to cover multiple technologies"
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Qualcomm agreed to more than double its long-term wafer purchase agreement with GlobalFoundries, reserving factory capacity through 2028, including at GF's Malta, New York fab. GF called it a multi-billion-dollar revenue agreement but gave no exact figure."
+}

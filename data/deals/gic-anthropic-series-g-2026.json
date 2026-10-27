@@ -1,0 +1,31 @@
+{
+  "id": "gic-anthropic-series-g-2026",
+  "from": "gic",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "GIC and Coatue lead Anthropic's $30B Series G",
+  "amount_usd": 30000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2026-02-12",
+      "kind": "press_release",
+      "quote": "We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2026-02-12",
+      "kind": "press_release",
+      "quote": "This round also includes a portion of the previously announced investments from Microsoft and NVIDIA."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Singapore's GIC co-led, with Coatue, a $30 billion funding round for Anthropic at a $380 billion valuation. The amount shown is the whole round, which includes part of money Microsoft and Nvidia had already promised; GIC's own share was not disclosed."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-coreweave-ipo-anchor-2025",
+  "from": "nvidia",
+  "to": "coreweave",
+  "type": "investment",
+  "title": "Nvidia anchors CoreWeave IPO with ~$250M order",
+  "amount_usd": 250000000,
+  "amount_kind": "estimated",
+  "date": "2025-03-27",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://nbcbayarea.com/news/business/money-report/nvidia-to-anchor-coreweave-ipo-at-40-a-share-source-says/3829236",
+      "publisher": "CNBC via NBC Bay Area",
+      "date": "2025-03-27",
+      "kind": "news",
+      "quote": "Nvidia is aiming to anchor CoreWeave's initial public offering at $40 a share with a $250 million order, according to a person familiar with the matter."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "News reports said Nvidia placed an order of about $250 million for CoreWeave shares in its March 2025 stock market debut, helping the downsized IPO get done. The amount comes from an unnamed source, not from the companies."
+}

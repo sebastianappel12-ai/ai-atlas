@@ -1,0 +1,24 @@
+{
+  "id": "compass-datacenters-schneider-electric-supply-2023",
+  "from": "compass-datacenters",
+  "to": "schneider-electric",
+  "type": "supply",
+  "title": "Compass Datacenters signs $3B multi-year equipment deal with Schneider",
+  "amount_usd": 3000000000,
+  "amount_kind": "confirmed",
+  "date": "2023-11-09",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-and-compass-datacenters-expand-partnership-with-3-billion-multi-year-data-center-technology-agreement-654b5f241ed6be922f0f0563/",
+      "publisher": "Schneider Electric Newsroom",
+      "date": "2023-11-09",
+      "kind": "press_release",
+      "quote": "today announced at its Capital Markets Day meeting with investors a $3 billion multi-year agreement with Compass Datacenters."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Data center builder Compass agreed to buy about $3 billion of prefabricated modular power and data center equipment from Schneider Electric over several years. Schneider builds the modules in US factories and ships them to Compass sites, which speeds up construction."
+}

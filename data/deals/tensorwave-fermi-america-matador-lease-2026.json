@@ -1,0 +1,32 @@
+{
+  "id": "tensorwave-fermi-america-matador-lease-2026",
+  "from": "tensorwave",
+  "to": "fermi-america",
+  "type": "data_center",
+  "title": "TensorWave signs 15-year lease at Fermi's Project Matador (~$6.5B)",
+  "amount_usd": 6500000000,
+  "amount_kind": "confirmed",
+  "date": "2026-08-10",
+  "length_years": 15,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.newswire.com/news/correction-from-source-fermi-announces-binding-lease-agreement-with-tensorwave",
+      "publisher": "Fermi via Newswire",
+      "date": "2026-08-10",
+      "kind": "press_release",
+      "quote": "The lease is expected to generate approximately $6.5 billion in total contracted revenue over the initial 15-year term, for the first phase, excluding any renewal terms."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026109227/ea030854601ex99-1.htm",
+      "publisher": "Fermi (SEC 8-K EX-99.1 fact sheet)",
+      "date": "2026-10-14",
+      "kind": "sec_filing",
+      "quote": "A binding 15 - year phase one lease for 222 MW of total power capacity, backed by credit support from AMD"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AI cloud company TensorWave agreed to lease a 222-megawatt first phase at Fermi's Project Matador campus near Amarillo, Texas, for 15 years, worth about $6.5 billion; AMD provides credit support. Closing was extended to October 31, 2026."
+}

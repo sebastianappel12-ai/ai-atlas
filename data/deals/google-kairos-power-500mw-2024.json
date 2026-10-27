@@ -1,0 +1,25 @@
+{
+  "id": "google-kairos-power-500mw-2024",
+  "from": "google",
+  "to": "kairos-power",
+  "type": "power_deal",
+  "title": "Google signs deal for 500 MW of Kairos Power small reactors by 2035",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-10-14",
+  "length_years": 11,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://kairospower.com/external_updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation/",
+      "publisher": "Kairos Power",
+      "date": "2024-10-14",
+      "kind": "press_release",
+      "quote": "Alameda, CA – October 14, 2024 – Kairos Power and Google have signed a Master Plant Development Agreement, creating a path to deploy a U.S. fleet of advanced nuclear power projects totaling 500 MW by 2035."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google agreed to buy power from a fleet of Kairos Power molten-salt reactors totaling 500 MW, with the first by 2030 and the rest by 2035, under power purchase agreements. Prices not disclosed. Plants: future Kairos reactors near Google data centers; the first is Hermes 2 in Oak Ridge, Tennessee."
+}

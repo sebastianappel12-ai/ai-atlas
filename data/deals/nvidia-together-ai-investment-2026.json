@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-together-ai-investment-2026",
+  "from": "nvidia",
+  "to": "together-ai",
+  "type": "investment",
+  "title": "Nvidia joins Together AI's $800M Series C",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-07-01",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.together.ai/blog/announcing-our-series-c",
+      "publisher": "Together AI Blog",
+      "date": "2026-07-01",
+      "kind": "press_release",
+      "quote": "Today, I am excited to announce the next milestone in our journey with Series C funding of $800 million from an incredible group of investors including Aramco Ventures, NVIDIA, Vista Equity, General Catalyst, Emergence Capital, SE Ventures, Pegatron, Salesforce Ventures, March Capital, DTCP Growth, Lux Capital, Geodesic, PSP Partners, and others."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested again in Together AI's $800 million Series C, which valued the company at about $8.3 billion. Nvidia's own amount was not disclosed."
+}

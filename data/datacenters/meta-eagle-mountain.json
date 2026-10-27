@@ -1,0 +1,53 @@
+{
+  "id": "meta-eagle-mountain",
+  "name": "Meta Eagle Mountain",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 40.3093,
+    "lon": -112.012,
+    "city": "Eagle Mountain"
+  },
+  "state": "UT",
+  "power_mw_now": 133,
+  "power_mw_planned": 179,
+  "status": "operating",
+  "est_chips": {
+    "count": 151354,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 5038306000,
+  "grid_region": "PACE",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-10-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2025-09-08",
+      "event": "We believe Buildings 1 and 2 are still undergoing testing due to construction equipment and unfinished land surrounding the data center sites, as well as color motion artifacts on a small number of the cooling fans."
+    },
+    {
+      "date": "2025-12-07",
+      "event": "Buildings 1 and 2 both estimated to be operational 90 days after testing was underway in September."
+    },
+    {
+      "date": "2026-05-02",
+      "event": "Satellite image shows strong evidence that Buildings 1 and 2 are operational: colored motion artifacts on many cooling fans, plus cars parked at the building entrances."
+    }
+  ],
+  "epoch_id": "Meta Eagle Mountain",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Eagle Mountain: current power 133 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Eagle Mountain is an operating AI data center in Eagle Mountain, UT, owned by meta. Epoch AI estimates it draws 133 MW today and 179 MW when finished."
+}

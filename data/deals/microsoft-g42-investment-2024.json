@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-g42-investment-2024",
+  "from": "microsoft",
+  "to": "g42",
+  "type": "investment",
+  "title": "Microsoft invests $1.5B in G42",
+  "amount_usd": 1500000000,
+  "amount_kind": "confirmed",
+  "date": "2024-04-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://wam.ae/en/article/13v9pmq-microsoft-invests-15-billion-abu-dhabi%E2%80%99s-g42",
+      "publisher": "Emirates News Agency (WAM)",
+      "date": "2024-04-16",
+      "kind": "news",
+      "quote": "G42, the leading UAE-based artificial intelligence (AI) technology holding company, and Microsoft today announced a $1.5 billion strategic investment by Microsoft in G42."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft bought a $1.5 billion minority stake in Abu Dhabi's G42, which agreed to run its AI work on Microsoft's Azure cloud. The deal was shaped with the US and UAE governments, after G42 cut ties with Chinese hardware suppliers."
+}

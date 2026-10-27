@@ -1,0 +1,25 @@
+{
+  "id": "fluidstack-terawulf-cb5-lease-2025",
+  "from": "fluidstack",
+  "to": "terawulf",
+  "type": "data_center",
+  "title": "Fluidstack adds 160 MW CB-5 lease at TeraWulf's Lake Mariner (~$3.0B)",
+  "amount_usd": 3000000000,
+  "amount_kind": "estimated",
+  "date": "2025-08-18",
+  "length_years": 10,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm",
+      "publisher": "TeraWulf (SEC 8-K EX-99.1)",
+      "date": "2025-08-18",
+      "kind": "sec_filing",
+      "quote": "The CB-5 lease is on the same economic terms as the initial Fluidstack leases for CB-3 and CB-4, maintaining consistency in structure and economics across the buildout."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fluidstack exercised an option to rent a new 160-megawatt building (CB-5) at TeraWulf's Lake Mariner campus. The ~$3.0 billion is derived: TeraWulf said total Fluidstack contracted revenue rose to $6.7 billion from about $3.7 billion."
+}

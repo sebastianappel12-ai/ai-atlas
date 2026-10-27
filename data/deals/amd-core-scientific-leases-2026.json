@@ -1,0 +1,32 @@
+{
+  "id": "amd-core-scientific-leases-2026",
+  "from": "amd",
+  "to": "core-scientific",
+  "type": "data_center",
+  "title": "AMD anchors 15-year, ~530 MW leases at Core Scientific (up to $14B)",
+  "amount_usd": 14000000000,
+  "amount_kind": "up_to",
+  "date": "2026-07-27",
+  "length_years": 15,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000013/q22026corescientificinc-ea.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2026-07-28",
+      "kind": "sec_filing",
+      "quote": "Announced a partnership with AMD with the potential to support up to 2.5 GW of leasable capacity, anchored by 15-year agreements for approximately 530 MW across five sites and more than $14 billion of potential base contracted revenue."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000012/amdpr.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2026-07-28",
+      "kind": "sec_filing",
+      "quote": "Core Scientific (NASDAQ: CORZ) and AMD (NASDAQ: AMD) today announced a partnership to shape the future of AI infrastructure, with AMD to secure up to 2.5 gigawatts of data center capacity to support end customer deployments of AMD AI solutions."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD signed 15-year leases for 377 megawatts at Core Scientific sites, and an unnamed AI cloud signed leases for another 152 megawatts with AMD credit support. Core Scientific values the whole ~530 MW package at more than $14 billion of potential base revenue; AMD's own share was not split out."
+}

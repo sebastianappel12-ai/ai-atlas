@@ -1,0 +1,24 @@
+{
+  "id": "qatar-investment-authority-xai-series-e-2026",
+  "from": "qatar-investment-authority",
+  "to": "xai",
+  "type": "investment",
+  "title": "Qatar's QIA invests in xAI's Series E",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-01-06",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-e",
+      "publisher": "xAI News",
+      "date": "2026-01-06",
+      "kind": "press_release",
+      "quote": "Investors participating in the round include Valor Equity Partners, Stepstone Group, Fidelity Management & Research Company, Qatar Investment Authority, MGX and Baron Capital Group, amongst other key partners."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Qatar's sovereign wealth fund took part in xAI's $20 billion Series E (counted in full on the Valor record); its amount was not disclosed."
+}

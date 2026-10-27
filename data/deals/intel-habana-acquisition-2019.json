@@ -1,0 +1,24 @@
+{
+  "id": "intel-habana-acquisition-2019",
+  "from": "intel",
+  "to": "habana-labs",
+  "type": "acquisition",
+  "title": "Intel buys AI chip startup Habana Labs for about $2B",
+  "amount_usd": 1700000000,
+  "amount_kind": "confirmed",
+  "date": "2019-12-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086320000011/a12282019q4-10kdocument.htm",
+      "publisher": "Intel (Form 10-K)",
+      "date": "2020-01-24",
+      "kind": "sec_filing",
+      "quote": "We acquired Habana Labs Ltd., an Israel-based developer of programmable deep learning accelerators for the data center, for approximately $1.7 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Intel bought Israeli AI chip startup Habana Labs, maker of the Gaudi AI chips, in December 2019. It was announced as a roughly $2B deal; Intel's annual report puts the net price at about $1.7B, the amount shown."
+}

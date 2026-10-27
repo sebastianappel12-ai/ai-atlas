@@ -1,0 +1,16 @@
+{
+  "id": "ampere-computing",
+  "name": "Ampere Computing",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://amperecomputing.com",
+  "aliases": [
+    "Ampere",
+    "Ampere Computing LLC",
+    "Ampere Computing Holdings LLC"
+  ],
+  "description": "Designs Arm-based server CPUs for cloud data centers; SoftBank agreed to buy it in 2025.",
+  "explain": "Ampere makes power-efficient Arm server chips. Oracle was a big early investor and customer; SoftBank agreed to buy the company in 2025 to support its AI chip plans."
+}

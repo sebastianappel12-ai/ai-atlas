@@ -1,0 +1,31 @@
+{
+  "id": "iconiq-anthropic-series-f-2025",
+  "from": "iconiq",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "ICONIQ leads Anthropic's $13B Series F",
+  "amount_usd": 13000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-09-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2025-09-02",
+      "kind": "press_release",
+      "quote": "Anthropic has completed a Series F fundraising of $13 billion led by ICONIQ."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2025-09-02",
+      "kind": "press_release",
+      "quote": "This financing values Anthropic at $183 billion post-money."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "ICONIQ led a $13 billion funding round for Anthropic at a $183 billion valuation. The amount shown is the whole round; ICONIQ's own share was not disclosed."
+}

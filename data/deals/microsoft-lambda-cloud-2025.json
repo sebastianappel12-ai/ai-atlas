@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-lambda-cloud-2025",
+  "from": "microsoft",
+  "to": "lambda",
+  "type": "cloud_contract",
+  "title": "Microsoft signs multibillion-dollar AI infrastructure deal with Lambda",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-11-03",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus",
+      "publisher": "Lambda Newsroom",
+      "date": "2025-11-03",
+      "kind": "press_release",
+      "quote": "SAN FRANCISCO, CA, November 3, 2025 — Lambda, the Superintelligence Cloud, today announced a multibillion-dollar agreement with Microsoft to deploy AI infrastructure powered by tens of thousands of NVIDIA GPUs, including NVIDIA GB300 NVL72 systems."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft agreed to rent AI computing built on tens of thousands of Nvidia GPUs from Lambda. The companies called it multibillion-dollar but did not give an exact figure."
+}

@@ -9,7 +9,10 @@
     "lint": "eslint",
     "check-data": "tsx scripts/check-data.ts",
     "test": "vitest run",
-    "verify-quote": "tsx scripts/verify-quote.ts"
+    "verify-quote": "tsx scripts/verify-quote.ts",
+    "build-graph": "tsx scripts/build-graph.ts",
+    "prebuild": "tsx scripts/build-graph.ts",
+    "screenshots": "tsx scripts/screenshots.ts"
   },
   "dependencies": {
     "@deck.gl/core": "^9.4.0",
@@ -26,6 +29,7 @@
     "react-dom": "19.3.0",
     "react-force-graph-2d": "^1.29.2",
     "recharts": "^3.10.1",
+    "server-only": "^0.0.1",
     "zod": "^4.3.3"
   },
   "devDependencies": {
@@ -37,6 +41,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
+    "exceljs": "^4.4.0",
     "tailwindcss": "^4",
     "tsx": "^4.23.15",
     "typescript": "^5",

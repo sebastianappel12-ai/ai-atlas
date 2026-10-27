@@ -1,0 +1,24 @@
+{
+  "id": "lightspeed-anthropic-series-f-2025",
+  "from": "lightspeed",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Lightspeed co-leads Anthropic's Series F",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2025-09-02",
+      "kind": "press_release",
+      "quote": "Along with ICONIQ, the round was co-led by Fidelity Management & Research Company and Lightspeed Venture Partners."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Lightspeed co-led Anthropic's $13 billion Series F (counted in full on the ICONIQ record). Lightspeed's own amount was not disclosed."
+}

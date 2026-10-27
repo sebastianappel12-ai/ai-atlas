@@ -1,0 +1,31 @@
+{
+  "id": "nextera",
+  "name": "NextEra Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:NEE",
+  "cik": "0000753308",
+  "country": "US",
+  "hq_state": "FL",
+  "website": "https://www.nexteraenergy.com",
+  "aliases": [
+    "NextEra Energy Inc",
+    "NextEra Energy Resources",
+    "Florida Power & Light"
+  ],
+  "revenue": {
+    "amount_usd": 25800000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000015/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-13",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax = 25,800,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0000753308-26-000015)."
+    }
+  },
+  "description": "Owner of Florida Power & Light and NextEra Energy Resources, the largest U.S. wind and solar developer.",
+  "explain": "NextEra builds and sells clean power to tech companies: it is restarting Iowa's Duane Arnold nuclear plant for Google and signed about 2.5 GW of solar and storage contracts with Meta."
+}

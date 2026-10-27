@@ -1,0 +1,65 @@
+{
+  "id": "google-kansas-city-east",
+  "name": "Google Kansas City East",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 39.19,
+    "lon": -94.4,
+    "city": "Kansas City"
+  },
+  "state": "MO",
+  "power_mw_now": 105,
+  "power_mw_planned": 126,
+  "status": "operating",
+  "est_chips": {
+    "count": 202628,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 3977610000,
+  "grid_region": "SWPP",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-01-01",
+      "event": "Land clearing has begun for the site"
+    },
+    {
+      "date": "2024-03-01",
+      "event": "Foundation work begins on Building 1"
+    },
+    {
+      "date": "2024-10-01",
+      "event": "Foundation work begins on Building 2. Building 1 roof is fully black."
+    },
+    {
+      "date": "2025-07-01",
+      "event": "Foundation work begins for Building 3. Building 1 generators seem complete."
+    },
+    {
+      "date": "2025-11-01",
+      "event": "Foundation work begins for Building 4. Building 2 roof is almost complete, and construction appears to have started on cooling. Building 1 cooling construction continues, and the substation right next to it seems finished as well."
+    },
+    {
+      "date": "2026-04-16",
+      "event": "Building 1 is almost complete, with only cooling needing 4 more fans. Building 2 backup generator construction has begun, and cooling tower installation is about halfway complete. Building 3's roof is almost complete, and construction has s"
+    },
+    {
+      "date": "2026-08-01",
+      "event": "Building 1 operational. Estimated based on present construction progress and typical timelines."
+    }
+  ],
+  "epoch_id": "Google Kansas City East",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Kansas City East: current power 105 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Kansas City East is an operating AI data center in Kansas City, MO, owned by google. Epoch AI estimates it draws 105 MW today and 126 MW when finished."
+}

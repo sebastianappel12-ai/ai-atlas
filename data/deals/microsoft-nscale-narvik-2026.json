@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-nscale-narvik-2026",
+  "from": "microsoft",
+  "to": "nscale",
+  "type": "cloud_contract",
+  "title": "Microsoft expands Nscale deal with 30,000+ Rubin GPUs in Narvik",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-04-14",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.nscale.com/press-releases/nscale-microsoft-norway",
+      "publisher": "Nscale Newsroom",
+      "date": "2026-04-14",
+      "kind": "press_release",
+      "quote": "Expanding Nscale and Microsoft’s previous deal, the 230 MW Nscale Narvik campus will add more than 30,000 NVIDIA Rubin GPUs in deployment, making it one of the largest onshore infrastructure projects in Norway."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft expanded its Nscale contract with more than 30,000 Nvidia Rubin GPUs at Nscale's Narvik, Norway campus. Terms were not disclosed."
+}

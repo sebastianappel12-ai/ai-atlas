@@ -1,0 +1,45 @@
+{
+  "id": "oracle",
+  "name": "Oracle",
+  "sector": "cloud",
+  "public": true,
+  "ticker": "NYSE:ORCL",
+  "cik": "0001341439",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.oracle.com",
+  "aliases": [
+    "Oracle Corp",
+    "Oracle Corporation",
+    "Oracle Cloud Infrastructure",
+    "OCI"
+  ],
+  "revenue": {
+    "amount_usd": 67357000000,
+    "period": "FY2026 (ended 2026-05-31)",
+    "as_of": "2026-05-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-06-22",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 67,357,000,000 USD for 2025-06-01 to 2026-05-31 (10-K, accession 0001193125-26-277521)."
+    }
+  },
+  "backlog": {
+    "amount_usd": 664000000000,
+    "period": "Q1 FY2027",
+    "as_of": "2026-08-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526389274/orcl-20260831.htm",
+      "publisher": "Oracle Form 10-Q (SEC EDGAR)",
+      "date": "2026-09-11",
+      "kind": "sec_filing",
+      "quote": "Remaining performance obligations were $664 billion and $455 billion as of August 31, 2026 and 2025, respectively."
+    }
+  },
+  "description": "Database and business-software company whose Oracle Cloud Infrastructure (OCI) builds giant AI data centers for OpenAI and others.",
+  "explain": "Oracle turned into a major AI landlord: OpenAI's reported $300 billion contract and deals with Meta and Nvidia pushed its contracted backlog to $664 billion, much of it from a few AI customers."
+}

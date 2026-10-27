@@ -1,0 +1,14 @@
+{
+  "id": "zt-systems",
+  "name": "ZT Systems",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "NJ",
+  "website": "https://www.ztsystems.com",
+  "aliases": [
+    "ZT Group Int'l"
+  ],
+  "description": "Designs and builds rack-scale AI and cloud servers for hyperscalers; acquired by AMD in 2025.",
+  "explain": "ZT Systems built custom server racks for the largest cloud companies. AMD bought it for $4.9 billion to sell complete AI systems, then sold the factory part to Sanmina."
+}

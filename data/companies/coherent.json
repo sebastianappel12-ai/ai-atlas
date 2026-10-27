@@ -1,0 +1,30 @@
+{
+  "id": "coherent",
+  "name": "Coherent",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:COHR",
+  "cik": "0000820318",
+  "country": "US",
+  "hq_state": "PA",
+  "website": "https://www.coherent.com",
+  "aliases": [
+    "Coherent Corp",
+    "II-VI"
+  ],
+  "revenue": {
+    "amount_usd": 7118181000,
+    "period": "FY2026 (ended 2026-06-30)",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000082031826000020/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-14",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 7,118,181,000 USD for 2025-07-01 to 2026-06-30 (10-K, accession 0000820318-26-000020)."
+    }
+  },
+  "description": "Makes lasers, optical transceivers and materials used in data center networks and industry.",
+  "explain": "Coherent makes the optical transceivers that connect AI servers over fiber. Nvidia agreed in 2026 to invest $2 billion in it and to buy billions of dollars of its products."
+}

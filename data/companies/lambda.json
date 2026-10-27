@@ -1,0 +1,15 @@
+{
+  "id": "lambda",
+  "name": "Lambda",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://lambda.ai",
+  "aliases": [
+    "Lambda Labs",
+    "Lambda, Inc."
+  ],
+  "description": "AI cloud that rents Nvidia GPU clusters to developers and big tech, and builds its own AI data centers.",
+  "explain": "Lambda rents Nvidia GPUs to customers including Microsoft, and was reported to rent GPU servers back to Nvidia itself. Nvidia is also an investor, a common loop among neoclouds."
+}

@@ -45,3 +45,4 @@ next-env.d.ts
 /screenshots/
 /test-results/
 /playwright-report/
+/data/raw/eia/*.xlsx

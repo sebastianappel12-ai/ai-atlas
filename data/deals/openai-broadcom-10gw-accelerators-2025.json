@@ -1,0 +1,31 @@
+{
+  "id": "openai-broadcom-10gw-accelerators-2025",
+  "from": "openai",
+  "to": "broadcom",
+  "type": "chip_order",
+  "title": "OpenAI and Broadcom to deploy 10 GW of OpenAI-designed accelerators",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-13",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.broadcom.com/company/news/product-releases/63631",
+      "publisher": "Broadcom Newsroom",
+      "date": "2025-10-13",
+      "kind": "press_release",
+      "quote": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators"
+    },
+    {
+      "url": "https://mfn.se/all/a/broadcom/openai-and-broadcom-announce-strategic-collaboration-to-deploy-10-gigawatts-of-openai-designed-ai-accelerators-7f50bad2",
+      "publisher": "Broadcom press release via MFN",
+      "date": "2025-10-13",
+      "kind": "press_release",
+      "quote": "The two companies have signed a term sheet to deploy racks incorporating the AI accelerators and Broadcom networking solutions."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI designs its own AI chips and Broadcom builds and delivers them in full server racks with Broadcom networking, 10 gigawatts' worth from late 2026 through 2029. The deal is a signed term sheet and no price was disclosed."
+}

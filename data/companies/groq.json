@@ -1,0 +1,15 @@
+{
+  "id": "groq",
+  "name": "Groq",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://groq.com",
+  "aliases": [
+    "Groq, Inc.",
+    "Groq Inc"
+  ],
+  "description": "Designs LPU chips for fast AI inference and runs the GroqCloud inference service.",
+  "explain": "Groq built a chip designed to run AI models quickly. In December 2025 Nvidia paid about $17B to license its technology and hire its founder and many engineers, while Groq kept running its cloud."
+}

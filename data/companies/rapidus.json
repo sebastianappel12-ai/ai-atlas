@@ -1,0 +1,13 @@
+{
+  "id": "rapidus",
+  "name": "Rapidus",
+  "sector": "chip_factory",
+  "public": false,
+  "country": "JP",
+  "website": "https://www.rapidus.inc",
+  "aliases": [
+    "Rapidus Corporation"
+  ],
+  "description": "Japanese startup chipmaker building a 2nm factory in Hokkaido, backed by the Japanese government and major Japanese companies.",
+  "explain": "Rapidus is Japan's bid to make leading-edge chips at home again, using technology licensed from IBM. It is funded mostly by government subsidies plus investment from companies like Toyota, Sony, NTT and Kioxia."
+}

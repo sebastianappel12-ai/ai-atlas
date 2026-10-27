@@ -1,0 +1,31 @@
+{
+  "id": "thinking-machines-lab-google-cloud-2026",
+  "from": "thinking-machines-lab",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Thinking Machines Lab signs multibillion-dollar Google Cloud deal for Nvidia GB300 chips",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-04-22",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.implicator.ai/google-cloud-locks-in-thinking-machines-lab-with-multi-billion-gb300-deal/",
+      "publisher": "Implicator.ai",
+      "date": "2026-04-22",
+      "kind": "news",
+      "quote": "Mira Murati's Thinking Machines Lab has signed a new multi-billion-dollar agreement with Google Cloud for AI infrastructure built on Nvidia's latest GB300 chips, Google announced Wednesday at its Cloud Next conference in Las Vegas."
+    },
+    {
+      "url": "https://www.moroccoworldnews.com/2026/04/288234/google-targets-ai-growth-with-multi-billion-dollar-cloud-deal/",
+      "publisher": "Morocco World News",
+      "date": "2026-04-23",
+      "kind": "news",
+      "quote": "For Thinking Machines Lab, the agreement marks its first formal partnership with a cloud provider, although it has previously collaborated with Nvidia."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Mira Murati's Thinking Machines Lab agreed to rent Nvidia GB300-based computing from Google Cloud to train and run its models. Google called it multibillion-dollar; a source told TechCrunch it is in the single-digit billions, but no exact figure was given."
+}

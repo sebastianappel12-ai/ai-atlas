@@ -1,0 +1,29 @@
+{
+  "id": "williams",
+  "name": "Williams Companies",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:WMB",
+  "cik": "0000107263",
+  "country": "US",
+  "hq_state": "OK",
+  "website": "https://www.williams.com",
+  "aliases": [
+    "The Williams Companies, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 14899000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000006/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 14,899,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0000107263-26-000006)."
+    }
+  },
+  "description": "Natural gas pipeline company (Transco) that also builds dedicated on-site power plants for data centers.",
+  "explain": "Williams' 'Power Innovation' business builds gas power plants next to data centers, starting with the Socrates project serving Meta in Ohio."
+}

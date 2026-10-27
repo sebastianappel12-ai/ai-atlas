@@ -1,0 +1,61 @@
+{
+  "id": "meta-montgomery",
+  "name": "Meta Montgomery",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 31.4097,
+    "lon": -86.6077,
+    "city": "AL"
+  },
+  "state": "AL",
+  "power_mw_now": 153,
+  "power_mw_planned": 465,
+  "status": "operating",
+  "est_chips": {
+    "count": 407486,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 13561756000,
+  "grid_region": "SOCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-03-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2025-07-04",
+      "event": "Building 1 and 2 under construction, with all chillers visible."
+    },
+    {
+      "date": "2026-03-20",
+      "event": "Buildings 1 and 2 are nearly complete, but there's still some equipment strewn around the site and few cars in the front carpark, so we expect 3 more months needed for commissioning and server installation. Building 3 has a half-finished ro"
+    },
+    {
+      "date": "2026-06-18",
+      "event": "We estimate Buildings 1 and 2 are operational."
+    },
+    {
+      "date": "2027-02-02",
+      "event": "Buildings 5 and 6 are operational (estimate). Based on the tent buildings at Meta Prometheus taking about 12 months from starting the tent structure to estimated operation."
+    },
+    {
+      "date": "2027-02-23",
+      "event": "Buildings 3 and 4 are operational (estimate). In September 2025, Building 1 and 2 appeared to be in a similar state to Building 3 and 4 in May 2026. Based on that, we apply an 8-month delay to the Building 1 and 2 operational date to get th"
+    }
+  ],
+  "epoch_id": "Meta Montgomery",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Montgomery: current power 153 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Montgomery is an operating AI data center in AL, AL, owned by meta. Epoch AI estimates it draws 153 MW today and 465 MW when finished."
+}

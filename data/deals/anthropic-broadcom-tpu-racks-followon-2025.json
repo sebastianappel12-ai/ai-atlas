@@ -1,0 +1,24 @@
+{
+  "id": "anthropic-broadcom-tpu-racks-followon-2025",
+  "from": "anthropic",
+  "to": "broadcom",
+  "type": "chip_order",
+  "title": "Anthropic places further $11B TPU rack order with Broadcom",
+  "amount_usd": 11000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-12-11",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sdxcentral.com/news/broadcom-bulges-with-anthropic-ai-orders/",
+      "publisher": "SDxCentral",
+      "date": "2025-12-12",
+      "kind": "news",
+      "quote": "Anthropic has since placed an additional order valued at $11 billion that Tan said is scheduled for delivery later next year."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "After its first $10B order, Anthropic ordered another $11B of Google TPU-based server racks from Broadcom for delivery in late 2026, as disclosed by Broadcom's CEO on the December 2025 earnings call."
+}

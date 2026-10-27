@@ -1,0 +1,65 @@
+{
+  "id": "coreweave-helios",
+  "name": "Coreweave Helios",
+  "owner": "coreweave",
+  "tenants": [],
+  "location": {
+    "lat": 33.7629,
+    "lon": -100.8168,
+    "city": "Afton"
+  },
+  "state": "TX",
+  "power_mw_now": 132,
+  "power_mw_planned": 800,
+  "status": "operating",
+  "est_chips": {
+    "count": 638207,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 20001696000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-05-31",
+      "event": "The former [crypto mining](https://web.archive.org/web/20250423225644/https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Commitment-with-CoreWeave-to-Host-Additional-Artificial-Intelligence-and-High-Performance-Computing-In"
+    },
+    {
+      "date": "2025-08-27",
+      "event": "Backup generator pads and steel framing for chillers are visible, similar to the [3D renderings](https://www.galaxy.com/data-centers)."
+    },
+    {
+      "date": "2026-04-04",
+      "event": "Building 1 appears substantially complete. The main white-roofed data hall is visible with exterior mechanical/electrical equipment rows installed on both sides, and adjacent generator/equipment pads plus laydown yards are active. A large g"
+    },
+    {
+      "date": "2026-06-17",
+      "event": "Building 1 appears externally complete and likely Ready for Service, with all cooling/roofing/generators in place, but we're not labeling it operational yet due to visible surrounding yard/construction work. CoreWeave likely still needs tim"
+    },
+    {
+      "date": "2026-08-30",
+      "event": "Building 1 operational at full capacity. This is based on \"Phase I\", which is [expected](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx) to be operational by the end of "
+    },
+    {
+      "date": "2028-01-01",
+      "event": "Building 2 and 3 are operational at full capacity. This corresponds to \"Phase II\", which is [expected](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx) to be delivered \"t"
+    },
+    {
+      "date": "2029-01-01",
+      "event": "Building 4 operational at full capacity. This corresponds to \"Phase III\", which is [expected](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx) to be delivered \"starting i"
+    }
+  ],
+  "epoch_id": "Coreweave Helios",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Coreweave Helios: current power 132 MW; owner CoreWeave."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Coreweave Helios is an operating AI data center in Afton, TX, owned by coreweave. Epoch AI estimates it draws 132 MW today and 800 MW when finished."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "aligned-data-centers",
+  "name": "Aligned Data Centers",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://aligneddc.com",
+  "aliases": [
+    "Aligned"
+  ],
+  "description": "Private developer of hyperscale and AI data center campuses in the Americas.",
+  "explain": "Aligned builds and leases large, power-dense data centers to cloud and AI companies. In 2025 the AI Infrastructure Partnership, an investor group including BlackRock's GIP and MGX, agreed to buy it."
+}

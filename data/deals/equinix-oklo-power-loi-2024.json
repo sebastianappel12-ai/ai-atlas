@@ -1,0 +1,25 @@
+{
+  "id": "equinix-oklo-power-loi-2024",
+  "from": "equinix",
+  "to": "oklo",
+  "type": "power_deal",
+  "title": "Equinix signs letter of intent to buy up to 500 MW from Oklo reactors",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-02-16",
+  "length_years": 20,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm",
+      "publisher": "Oklo Inc. Form 10-K (SEC)",
+      "date": "2025-03-24",
+      "kind": "sec_filing",
+      "quote": "On February 16, 2024 (the “LOI Execution Date”), Legacy Oklo entered into that certain Confidential Letter of Intent to Purchase Power, dated as of February 16, 2024, by and between Legacy Oklo and Equinix (the \"February 2024 LOI\"), which confirms Equinix’s interest in purchasing power from our powerhouses to serve its data centers in the United States."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Data center operator Equinix signed a non-binding letter of intent to buy 100-500 MW from Oklo's planned Aurora reactors over 20 years, with a right of first refusal. Oklo's 10-K notes a matching February 16, 2024 letter of intent with an unnamed party that paid Oklo $25,000 (in thousands, about $25 million) for these rights; that link is our reading, so the amount is left undisclosed. Plants: future Oklo Aurora powerhouses (not yet built)."
+}

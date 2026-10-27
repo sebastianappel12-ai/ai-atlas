@@ -1,0 +1,53 @@
+{
+  "id": "stack-infrastructure-nva02",
+  "name": "STACK Infrastructure NVA02",
+  "owner": "stack-infrastructure",
+  "tenants": [],
+  "location": {
+    "lat": 38.7458,
+    "lon": -77.5377,
+    "city": "Manassas"
+  },
+  "state": "VA",
+  "power_mw_now": 85,
+  "power_mw_planned": 487,
+  "status": "operating",
+  "est_chips": {
+    "count": 250632,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 13182936000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2019-10-19",
+      "event": "Land clearing begins by Peterson Companies for Stack Infrastructure, which is noted in the [news](https://www.bisnow.com/washington-dc/news/data-center/peterson-cos-partnering-to-build-4m-sf-data-center-campus-in-manassas-102646) and visibl"
+    },
+    {
+      "date": "2024-10-01",
+      "event": "Building 1 is operational, which is assumed to be three months after the last backup diesel generators are finished. The generators were first seen to be finished July 1 from satellite imagery [(a clear image of this can be seen on July 29 "
+    },
+    {
+      "date": "2026-02-14",
+      "event": "All buildings have begun construction (with groundwork starting for AI building 6), as depicted by satellite imagery."
+    },
+    {
+      "date": "2028-01-01",
+      "event": "Estimate: All 6 AI data center buildings will be finished in 2028, assuming a groundbreak-to-operational timeline of 18-24 months. One is complete, three are clearly under construction, and the last two data centers are still breaking groun"
+    }
+  ],
+  "epoch_id": "STACK Infrastructure NVA02",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "STACK Infrastructure NVA02: current power 85 MW; owner unlisted."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "STACK Infrastructure NVA02 is an operating AI data center in Manassas, VA, owned by stack-infrastructure. Epoch AI estimates it draws 85 MW today and 487 MW when finished."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hpe-weka-series-d-2022",
+  "from": "hpe",
+  "to": "weka",
+  "type": "investment",
+  "title": "Hewlett Packard Enterprise invests in WEKA's $135M Series D",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-11-15",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "publisher": "WEKA",
+      "date": "2022-11-15",
+      "kind": "press_release",
+      "quote": "Several notable new and existing investors also contributed, including 10D, Atreides Management, Celesta Capital, Gemini Israel Ventures, Hewlett Packard Enterprise, Hitachi Ventures, Key1 Capital, Lumir Ventures, Micron Ventures, Mirae Asset Capital, MoreTech Ventures, Norwest Venture Partners, NVIDIA, Qualcomm Ventures, and Samsung Catalyst Fund."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Hewlett Packard Enterprise, which sells servers and storage that can run WEKA's software, invested in WEKA's $135 million round. HPE's amount was not disclosed."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "amphenol-commscope-ccs-acquisition-2025",
+  "from": "amphenol",
+  "to": "commscope-ccs",
+  "type": "acquisition",
+  "title": "Amphenol buys CommScope's fiber connectivity business for $10.5B",
+  "amount_usd": 10500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-08-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465925073344/tm2522435d1_ex99-1.htm",
+      "publisher": "Amphenol (8-K Ex. 99.1)",
+      "date": "2025-08-04",
+      "kind": "sec_filing",
+      "quote": "Amphenol Corporation (NYSE: APH) today announced a definitive agreement to acquire CommScope's (NASDAQ: COMM) Connectivity and Cable Solutions (CCS) business for $10.5 billion in cash, subject to customary post-closing adjustments."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465926036173/aph-20260109x8ka.htm",
+      "publisher": "Amphenol (8-K/A)",
+      "date": "2026-03-27",
+      "kind": "sec_filing",
+      "quote": "to disclose that it had completed its acquisition of the Connectivity and Cable Solutions business (which we now refer to collectively as “CommScope”) of Vistance Networks, Inc."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Connector maker Amphenol paid $10.5 billion in cash for CommScope's Connectivity and Cable Solutions unit, which makes fiber optic cables and connectors used inside data centers. The money went to CommScope (now renamed Vistance Networks). The deal closed in January 2026."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "coreweave-dalton-1-2",
+  "name": "CoreWeave Dalton 1 & 2",
+  "owner": "coreweave",
+  "tenants": [],
+  "location": {
+    "lat": 34.7134,
+    "lon": -84.9522,
+    "city": "GA"
+  },
+  "state": "GA",
+  "power_mw_now": 28,
+  "power_mw_planned": 40,
+  "status": "operating",
+  "est_chips": {
+    "count": 32239,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 1060696000,
+  "grid_region": "SOCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-06-03",
+      "event": "According to a [few](https://investors.corescientific.com/news-events/press-releases/detail/74/core-scientific-to-provide-approximately-200-mw-of-infrastructure-to-host-coreweaves-high-performance-computing-services-capturing-significant-ai"
+    },
+    {
+      "date": "2025-05-01",
+      "event": "Core Scientific investor presentation clearly shows Dalton 1 with a cleared pad on this month for construction. Source: https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001140361-25-039864/0001140361-25-039864.pdf"
+    },
+    {
+      "date": "2025-08-29",
+      "event": "Based on Satellite imagery, Dalton 1 is still under construction. The building appears mostly roofed except for the entrance area, and there are no cooling units or backup generators installed yet."
+    },
+    {
+      "date": "2026-02-20",
+      "event": "Building 1 is operational, given it was announced completed 4 months ago and looks completed in satellite imagery. All cooling/mechanical rows are installed, with no obvious active building construction visible."
+    }
+  ],
+  "epoch_id": "CoreWeave Dalton 1 & 2",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "CoreWeave Dalton 1 & 2: current power 28 MW; owner CoreWeave."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "CoreWeave Dalton 1 & 2 is an operating AI data center in GA, GA, owned by coreweave. Epoch AI estimates it draws 28 MW today and 40 MW when finished."
+}

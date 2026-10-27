@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-ase-technology-spil-arizona-packaging-2025",
+  "from": "nvidia",
+  "to": "ase-technology",
+  "type": "supply",
+  "title": "Nvidia taps ASE's SPIL for chip packaging in Arizona",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-14",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-04-14",
+      "kind": "press_release",
+      "quote": "NVIDIA is partnering with Amkor and SPIL for packaging and testing operations in Arizona."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SPIL (Siliconware Precision Industries) is a subsidiary of ASE Technology, the world's largest chip packaging and testing company. Nvidia named it as a partner to package and test its chips in Arizona. No dollar amount was given."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "compass-datacenters",
+  "name": "Compass Datacenters",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.compassdatacenters.com",
+  "aliases": [
+    "Compass"
+  ],
+  "description": "Private builder of hyperscale data center campuses, owned by Brookfield and Ontario Teachers'.",
+  "explain": "Compass designs and builds large data center campuses for cloud companies, part of the landlord layer behind AI compute."
+}

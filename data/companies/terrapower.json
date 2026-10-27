@@ -1,0 +1,14 @@
+{
+  "id": "terrapower",
+  "name": "TerraPower",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "WA",
+  "website": "https://www.terrapower.com",
+  "aliases": [
+    "TerraPower LLC"
+  ],
+  "description": "Bill Gates-founded developer of the Natrium sodium-cooled reactor, building its first plant in Kemmerer, Wyoming.",
+  "explain": "Meta is funding TerraPower Natrium reactors for its data centers, and Nvidia invested in TerraPower's $650M 2025 fundraise."
+}

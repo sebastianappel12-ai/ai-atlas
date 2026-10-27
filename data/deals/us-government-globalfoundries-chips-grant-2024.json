@@ -1,0 +1,24 @@
+{
+  "id": "us-government-globalfoundries-chips-grant-2024",
+  "from": "us-government",
+  "to": "globalfoundries",
+  "type": "investment",
+  "title": "U.S. awards GlobalFoundries up to $1.5B CHIPS grant",
+  "amount_usd": 1500000000,
+  "amount_kind": "up_to",
+  "date": "2024-11-20",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1709048/000170904824000066/a112024chipsdfa-cleanfinal.htm",
+      "publisher": "GlobalFoundries Form 6-K (SEC EDGAR)",
+      "date": "2024-11-20",
+      "kind": "sec_filing",
+      "quote": "Department of Commerce have announced an award of up to $1.5 billion in direct funding to GF through the CHIPS and Science Act."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Commerce Department agreed to give chipmaker GlobalFoundries grants of up to $1.5 billion to build a new factory and modernize existing ones in Malta, New York and Burlington, Vermont."
+}

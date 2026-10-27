@@ -1,0 +1,24 @@
+{
+  "id": "amd-micron-hbm3e-mi350-2025",
+  "from": "amd",
+  "to": "micron",
+  "type": "supply",
+  "title": "Micron HBM3E designed into AMD's Instinct MI350 AI chips",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-12",
+  "status": "in_progress",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.micron.com/products/memory/hbm/hbm3e",
+      "publisher": "Micron Technology",
+      "date": "2026-10-26",
+      "kind": "other",
+      "quote": "Micron announces the integration of our HBM3E 36GB 12-high offering into AMD's upcoming Instinct™ MI350X Series GPUs and platform."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD uses Micron's 12-layer HBM3E high-bandwidth memory in its MI350 AI accelerators, making AMD a Micron memory customer. The value was not disclosed."
+}

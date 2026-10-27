@@ -1,0 +1,24 @@
+{
+  "id": "anthropic-microsoft-azure-2025",
+  "from": "anthropic",
+  "to": "microsoft",
+  "type": "cloud_contract",
+  "title": "Anthropic commits to buy $30B of Microsoft Azure compute",
+  "amount_usd": 30000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-18",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "publisher": "Official Microsoft Blog",
+      "date": "2025-11-18",
+      "kind": "press_release",
+      "quote": "Anthropic has committed to purchase $30 billion of Azure compute capacity and to contract additional compute capacity up to one gigawatt."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic agreed to buy $30 billion of computing from Microsoft's Azure cloud, running on Nvidia chips. In the same deal Microsoft and Nvidia said they would invest up to $5 billion and $10 billion in Anthropic, so some money flows both ways."
+}

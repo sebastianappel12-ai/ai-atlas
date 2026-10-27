@@ -1,0 +1,25 @@
+{
+  "id": "cisco-acacia-acquisition-2021",
+  "from": "cisco",
+  "to": "acacia",
+  "type": "acquisition",
+  "title": "Cisco raises Acacia purchase price to about $4.5B",
+  "amount_usd": 4500000000,
+  "amount_kind": "confirmed",
+  "date": "2021-01-14",
+  "status": "completed",
+  "supersedes": "cisco-acacia-acquisition-2019",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1651235/000119312521008768/d110570dex992.htm",
+      "publisher": "Acacia Communications (8-K Ex. 99.2)",
+      "date": "2021-01-14",
+      "kind": "sec_filing",
+      "quote": "Cisco has agreed to acquire Acacia for $115 per share in cash, or approximately $4.5 billion on a fully diluted basis, net of cash and marketable securities."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "After Acacia tried to walk away from the original deal, Cisco agreed to pay $115 a share (about $4.5 billion), up from $70. The deal closed in March 2021, giving Cisco its own coherent optics for data center and network links."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-crusoe-investment-2026",
+  "from": "nvidia",
+  "to": "crusoe",
+  "type": "investment",
+  "title": "Nvidia backs Crusoe's $3.9B Series F",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-09-17",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+      "publisher": "Crusoe Newsroom",
+      "date": "2026-09-17",
+      "kind": "press_release",
+      "quote": "The oversubscribed round was co-led by Atreides Management, Mubadala Capital, and Valor Equity Partners, alongside significant backing from new and existing investors including Founders Fund, GIC, NVIDIA, Qatar Investment Authority (QIA), Radical Ventures, and TPG."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested again in Crusoe's $3.9 billion Series F at a $30.9 billion valuation; its own amount was not disclosed."
+}

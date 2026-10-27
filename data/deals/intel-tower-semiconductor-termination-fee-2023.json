@@ -1,0 +1,31 @@
+{
+  "id": "intel-tower-semiconductor-termination-fee-2023",
+  "from": "intel",
+  "to": "tower-semiconductor",
+  "type": "acquisition",
+  "title": "Intel pays Tower $353M fee after scrapped takeover",
+  "amount_usd": 353000000,
+  "amount_kind": "confirmed",
+  "date": "2023-08-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000078/titaniumpressrelease.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2023-08-16",
+      "kind": "sec_filing",
+      "quote": "In accordance with the terms of the merger agreement and in connection with its termination, Intel will pay a termination fee of $353 million to Tower."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "publisher": "Intel 10-K (FY2025)",
+      "date": "2026-01-23",
+      "kind": "sec_filing",
+      "quote": "The 2023 charges also included a $353 million termination fee in connection with our inability to timely obtain required regulatory approvals needed to acquire Tower in accordance with the contractual terms of the terminated acquisition agreement and a $401 million charge for the original EC-imposed fine."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "When Intel's planned purchase of Tower Semiconductor collapsed for lack of regulatory approval, Intel owed Tower a $353 million break-up fee under the merger contract. This is the only money that actually changed hands in the failed takeover."
+}

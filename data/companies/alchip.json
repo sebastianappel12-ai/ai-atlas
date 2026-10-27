@@ -1,0 +1,15 @@
+{
+  "id": "alchip",
+  "name": "Alchip Technologies",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "TWSE:3661",
+  "country": "TW",
+  "website": "https://www.alchip.com",
+  "aliases": [
+    "Alchip",
+    "世芯電子"
+  ],
+  "description": "Taiwanese design-services firm that turns customers' AI chip designs into chips made at TSMC.",
+  "explain": "Alchip helps big tech companies finish and manufacture their own custom AI chips (ASICs), making it a quieter beneficiary of the custom-chip boom."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "google-character-ai-licensing-2024",
+  "from": "google",
+  "to": "character-ai",
+  "type": "licensing",
+  "title": "Google pays ~$2.7B to license Character.AI tech",
+  "amount_usd": 2700000000,
+  "amount_kind": "estimated",
+  "date": "2024-08-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.wionews.com/world/google-spends-27-billion-to-bring-back-ai-genius-noam-shazeer-who-quit-after-it-rejected-his-chatbot-763274/amp",
+      "publisher": "WION",
+      "date": "2024-09-30",
+      "kind": "news",
+      "quote": "As part of the deal, Google paid $2.7 billion to license Character.AI's technology and bring Shazeer back into the fold, The Wall Street Journal noted."
+    },
+    {
+      "url": "https://oodaloop.com/briefs/cyber/google-paid-2-7-billion-to-bring-back-an-ai-genius-who-quit-in-frustration",
+      "publisher": "OODA Loop",
+      "date": "2024-09-25",
+      "kind": "news",
+      "quote": "Google wrote Character a check for around $2.7 billion, according to people with knowledge of the deal."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google paid Character.AI a reported $2.7 billion licensing fee for its chatbot technology and rehired its founders, including Noam Shazeer. Licensing instead of buying let Google skip a full merger review. The amount comes from Wall Street Journal sources, not the companies."
+}

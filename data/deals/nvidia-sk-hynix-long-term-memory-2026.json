@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-sk-hynix-long-term-memory-2026",
+  "from": "nvidia",
+  "to": "sk-hynix",
+  "type": "supply",
+  "title": "Nvidia and SK hynix sign long-term AI memory supply partnership",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-07-24",
+  "status": "announced",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2026-07-24",
+      "kind": "press_release",
+      "quote": "As a follow-up measure to solidify their previous long-term technical partnership, this agreement allows NVIDIA to secure a stable supply of next-generation AI memory, while enabling SK hynix to expand the foundation for growth."
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2026-07-24",
+      "kind": "press_release",
+      "quote": "Advancing Next-Generation AI Memory SK hynix is also entering into a long-term AI memory partnership with NVIDIA."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia signed a long-term deal to secure SK hynix's next-generation AI memory, including HBM, for its chips. It is part of a wider SK–Nvidia plan the companies say is worth more than $500 billion, but no dollar figure was given for the memory part alone, so none is shown here."
+}

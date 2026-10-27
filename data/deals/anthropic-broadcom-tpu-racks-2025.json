@@ -1,0 +1,24 @@
+{
+  "id": "anthropic-broadcom-tpu-racks-2025",
+  "from": "anthropic",
+  "to": "broadcom",
+  "type": "chip_order",
+  "title": "Anthropic's $10B order for Google TPU racks from Broadcom",
+  "amount_usd": 10000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-09-04",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sdxcentral.com/news/broadcom-bulges-with-anthropic-ai-orders/",
+      "publisher": "SDxCentral",
+      "date": "2025-12-12",
+      "kind": "news",
+      "quote": "Broadcom CEO Hock Tan told investors during the vendor’s latest earnings call that Anthropic was the previously unnamed customer that had signed a $10 billion custom-chip deal earlier this year."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic ordered $10B of complete server racks built around Google's Ironwood TPU chips, which Broadcom designs and sells. Broadcom first disclosed the order in September 2025 without naming the buyer; its CEO named Anthropic on the December 2025 earnings call."
+}

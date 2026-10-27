@@ -1,0 +1,29 @@
+{
+  "id": "nokia",
+  "name": "Nokia",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:NOK",
+  "cik": "0000924613",
+  "country": "FI",
+  "website": "https://www.nokia.com",
+  "aliases": [
+    "Nokia Corporation",
+    "Nokia Oyj"
+  ],
+  "revenue": {
+    "amount_usd": 22470000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000162828026015034/nok-20251231.htm",
+      "publisher": "Nokia (Form 20-F)",
+      "date": "2026-03-05",
+      "kind": "sec_filing",
+      "quote": "From the consolidated income statement Net sales 19 889 19 220 21 138"
+    }
+  },
+  "description": "Makes mobile, optical, IP and data center networking equipment and licenses telecom patents.",
+  "explain": "Nokia sells network equipment to telecoms and cloud companies, including data center switches to Microsoft. Nvidia bought a $1 billion stake in 2025, and Nokia bought Infinera to sell more optical gear to hyperscalers."
+}

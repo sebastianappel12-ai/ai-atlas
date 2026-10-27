@@ -1,0 +1,31 @@
+{
+  "id": "meta-corning-fiber-supply-2026",
+  "from": "meta",
+  "to": "corning",
+  "type": "supply",
+  "title": "Meta to buy up to $6B of fiber optic products from Corning",
+  "amount_usd": 6000000000,
+  "amount_kind": "up_to",
+  "date": "2026-01-27",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000034/glw-20251231xex99xq42025.htm",
+      "publisher": "Corning (8-K Ex. 99)",
+      "date": "2026-01-28",
+      "kind": "sec_filing",
+      "quote": "Corning and Meta Announce Multiyear, Up to $6-Billion Agreement"
+    },
+    {
+      "url": "https://www.optica-opn.org/home/industry/2026/february/corning_and_meta_make_fiber_deal_for_up_to_us$6_billion/",
+      "publisher": "Optics & Photonics News",
+      "date": "2026-02-01",
+      "kind": "news",
+      "quote": "Meta, USA, and Corning, USA, have entered into a multiyear, up to US$6 billion partnership designed to advance the construction of cutting-edge data center infrastructure across the United States."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to buy optical fiber, cable and connectors from Corning for its US AI data centers over several years, worth up to $6 billion. 'Up to' means $6 billion is a ceiling, not a guaranteed total. Corning is expanding its North Carolina factories to fill the order."
+}

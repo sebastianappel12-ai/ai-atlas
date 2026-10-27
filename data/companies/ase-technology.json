@@ -1,0 +1,31 @@
+{
+  "id": "ase-technology",
+  "name": "ASE Technology",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "TWSE:3711",
+  "country": "TW",
+  "website": "https://www.aseglobal.com",
+  "aliases": [
+    "ASE Technology Holding Co., Ltd.",
+    "ASE Group",
+    "ASEH",
+    "SPIL",
+    "Siliconware Precision Industries"
+  ],
+  "revenue": {
+    "amount_usd": 20550000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1122411/000095010326001661/dp241159_6k.htm",
+      "publisher": "ASE Technology (SEC 6-K)",
+      "date": "2026-02-05",
+      "kind": "sec_filing",
+      "quote": "For the full year of 2025, the Company reported unaudited net revenues of NT$645,388 million and net income attributable to shareholders of the parent of NT$40,658 million."
+    }
+  },
+  "description": "World's largest chip packaging and testing company (includes SPIL), also an electronics manufacturing services provider.",
+  "explain": "ASE packages and tests chips, including advanced packaging needed for AI processors. Revenue is unaudited NT$645.4 billion for 2025, converted by AI Atlas at about NT$31.4 per US dollar (approximate 2025 average)."
+}

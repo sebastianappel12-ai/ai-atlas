@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-coreweave-investment-2023",
+  "from": "nvidia",
+  "to": "coreweave",
+  "type": "investment",
+  "title": "Nvidia invests ~$100M in CoreWeave's Series B",
+  "amount_usd": 100000000,
+  "amount_kind": "estimated",
+  "date": "2023-04-20",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.telecomtv.com/content/digital-platforms-services/coreweave-raises-221m-series-b-to-expand-specialised-cloud-infrastructure-47292",
+      "publisher": "TelecomTV (CoreWeave release)",
+      "date": "2023-04-20",
+      "kind": "press_release",
+      "quote": "The round was led by Magnetar Capital (\"Magnetar\"), a leading alternative asset manager, with contributions from NVIDIA, and rounded out by Nat Friedman and Daniel Gross."
+    },
+    {
+      "url": "https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html",
+      "publisher": "CNBC",
+      "date": "2023-06-01",
+      "kind": "news",
+      "quote": "Nvidia has invested $100 million in CoreWeave, which in April was valued at $2 billion."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia put money into CoreWeave's $221 million Series B round in April 2023; CNBC reported Nvidia's stake at about $100 million. This early bet tied the chip maker to one of its largest GPU buyers."
+}

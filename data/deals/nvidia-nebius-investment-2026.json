@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-nebius-investment-2026",
+  "from": "nvidia",
+  "to": "nebius",
+  "type": "investment",
+  "title": "Nvidia invests $2B in Nebius",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-03-11",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926026163/tm268532d1_ex99-1.htm",
+      "publisher": "Nebius 6-K EX-99.1 (SEC)",
+      "date": "2026-03-11",
+      "kind": "sec_filing",
+      "quote": "NVIDIA will invest $2 billion in Nebius, reflecting NVIDIA's confidence in Nebius's business and unique depth of engineering expertise across the full AI technology stack."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926059872/tm2614392d1_ex99-2.htm",
+      "publisher": "Nebius Q1 2026 shareholder letter (SEC)",
+      "date": "2026-05-13",
+      "kind": "sec_filing",
+      "quote": "In Q1, we raised $6.3 billion, including the $2 billion equi-ty investment from NVIDIA, and $4.3 billion from convertible securities at favourable rates."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested $2 billion in Nebius as part of a partnership for Nebius to deploy more than 5 gigawatts of Nvidia systems by 2030. Much of Nebius's spending goes to Nvidia hardware, so the money partly returns to Nvidia."
+}

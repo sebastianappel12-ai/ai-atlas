@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-intel-investment-2025",
+  "from": "nvidia",
+  "to": "intel",
+  "type": "investment",
+  "title": "Nvidia invests $5B in Intel common stock",
+  "amount_usd": 5000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-09-18",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000155/a09152025form8-kex991.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2025-09-18",
+      "kind": "sec_filing",
+      "quote": "NVIDIA will invest $5 billion in Intel’s common stock at a purchase price of $23.28 per share."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "publisher": "Intel 10-K (FY2025)",
+      "date": "2026-01-23",
+      "kind": "sec_filing",
+      "quote": "On September 15, 2025, we entered into an agreement to issue and sell 215 million shares of our common stock to NVIDIA at a price of $23.28 per share, representing an aggregate cash purchase price of $5.0 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia bought $5 billion of newly issued Intel shares (about 215 million shares at $23.28), giving cash-strapped Intel fresh capital. The two also agreed to co-develop data center and PC chips that link Intel CPUs with Nvidia technology. The purchase closed on December 26, 2025."
+}

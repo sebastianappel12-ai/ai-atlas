@@ -1,0 +1,29 @@
+{
+  "id": "ge-vernova",
+  "name": "GE Vernova",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:GEV",
+  "cik": "0001996810",
+  "country": "US",
+  "hq_state": "MA",
+  "website": "https://www.gevernova.com",
+  "aliases": [
+    "GE Vernova Inc"
+  ],
+  "revenue": {
+    "amount_usd": 38068000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-01-29",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 38,068,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001996810-26-000015)."
+    }
+  },
+  "description": "Makes gas turbines, grid equipment and wind turbines for power generation.",
+  "explain": "GE Vernova builds the gas turbines that many AI data centers are ordering to make their own electricity, such as Crusoe's 29-turbine order."
+}

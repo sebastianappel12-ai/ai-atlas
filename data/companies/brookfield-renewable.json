@@ -1,0 +1,31 @@
+{
+  "id": "brookfield-renewable",
+  "name": "Brookfield Renewable",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:BEP",
+  "cik": "0001533232",
+  "country": "CA",
+  "website": "https://bep.brookfield.com",
+  "aliases": [
+    "Brookfield Renewable Partners L.P.",
+    "Brookfield Renewable Corporation",
+    "BEP",
+    "BEPC"
+  ],
+  "revenue": {
+    "amount_usd": 6407000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1533232/000153323226000011/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "ifrs-full:Revenue = 6,407,000,000 USD for 2025-01-01 to 2025-12-31 (20-F, accession 0001533232-26-000011)."
+    }
+  },
+  "description": "Brookfield's listed renewable power arm, owning hydro, wind, solar and storage worldwide.",
+  "explain": "Brookfield Renewable signed record clean-power frameworks with Microsoft (10.5 GW) and Google (up to 3 GW of hydro, with $3B+ of initial contracts)."
+}

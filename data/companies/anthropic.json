@@ -1,0 +1,42 @@
+{
+  "id": "anthropic",
+  "name": "Anthropic",
+  "sector": "ai_lab",
+  "public": false,
+  "cik": "0002130357",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.anthropic.com",
+  "aliases": [
+    "Anthropic, PBC",
+    "Anthropic PBC"
+  ],
+  "revenue": {
+    "amount_usd": 4600000000,
+    "period": "2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "In 2023, 2024, and 2025, our revenue was $41 million, $386 million, and $4.6 billion, respectively, representing year-over-year growth rates of 841% and 1,088%, respectively."
+    }
+  },
+  "valuation": {
+    "amount_usd": 965000000000,
+    "period": "Series H (post-money)",
+    "as_of": "2026-05-28",
+    "estimate": true,
+    "source": {
+      "url": "https://w.media/anthropic-valuation-touches-us-965-billion-surpassing-openai/",
+      "publisher": "W.Media",
+      "date": "2026-06-01",
+      "kind": "news",
+      "quote": "Anthropic, an American AI company, has raised US$ 65 billion in a Series H funding round at a US$ 965 billion post-money valuation."
+    }
+  },
+  "description": "Maker of the Claude AI models; a public benefit corporation that filed for a Nasdaq IPO in October 2026.",
+  "explain": "Anthropic is funded mainly by Amazon and Google, which are also its biggest cloud suppliers, so much of the money they invest flows back to them as computing spend."
+}

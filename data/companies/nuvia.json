@@ -1,0 +1,14 @@
+{
+  "id": "nuvia",
+  "name": "Nuvia",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "NuVia, Inc.",
+    "NUVIA"
+  ],
+  "description": "CPU design startup founded by former Apple chip architects; part of Qualcomm since 2021.",
+  "explain": "Qualcomm bought Nuvia to design its own high-performance processors, now used in its PC chips and planned data-center CPUs."
+}

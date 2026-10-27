@@ -1,0 +1,31 @@
+{
+  "id": "humain-qualcomm-ai200-racks-2025",
+  "from": "humain",
+  "to": "qualcomm",
+  "type": "chip_order",
+  "title": "Humain to deploy 200 MW of Qualcomm AI200/AI250 racks",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-27",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://convergedigest.com/humain-and-qualcomm-to-deploy-200mw-ai-infrastructure-in-saudi-arabia/",
+      "publisher": "Converge Digest",
+      "date": "2025-10-27",
+      "kind": "news",
+      "quote": "Under the new program, HUMAIN plans to install 200 MW of Qualcomm’s AI200 and AI250 rack-scale solutions beginning in 2026."
+    },
+    {
+      "url": "https://www.marketscreener.com/news/qualcomm-and-humain-announce-ai-infrastructure-in-saudi-arabia-ce7d5ddfdb8ef225",
+      "publisher": "MarketScreener",
+      "date": "2025-10-27",
+      "kind": "news",
+      "quote": "Starting in 2026, HUMAIN plans to use 200 megawatts of Qualcomm AI200 and AI250 solutions to deliver high-performance AI inference services for businesses and public institutions."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Humain is the first big buyer of Qualcomm's new data-center AI chips, planning 200 megawatts of Qualcomm server racks from 2026 to run AI models for customers. No price was disclosed."
+}

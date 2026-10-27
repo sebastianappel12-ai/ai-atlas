@@ -1,0 +1,31 @@
+{
+  "id": "softbank-ampere-computing-acquisition-2025",
+  "from": "softbank",
+  "to": "ampere-computing",
+  "type": "acquisition",
+  "title": "SoftBank buys chip designer Ampere for $6.5B",
+  "amount_usd": 6500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-03-20",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250320",
+      "publisher": "SoftBank Group",
+      "date": "2025-03-20",
+      "kind": "press_release",
+      "quote": "Under the terms of the agreement, SoftBank will acquire Ampere for $6.5 billion in cash."
+    },
+    {
+      "url": "https://group.softbank/en/news/press/20251126",
+      "publisher": "SoftBank Group",
+      "date": "2025-11-26",
+      "kind": "press_release",
+      "quote": "SoftBank Group Corp. (“SBG”) today announced that on November 25, 2025 (U.S. time), it completed the acquisition of all equity interests in Ampere Computing Holdings LLC (“Ampere”), a U.S.-based semiconductor design company, through its subsidiary Silver Bands 6 (US) Corp. (the “Transaction”)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SoftBank paid $6.5 billion in cash to buy Ampere, which designs Arm-based server processors. The deal closed in November 2025 and gives SoftBank its own data center chip designer alongside Arm."
+}

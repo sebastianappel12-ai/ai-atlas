@@ -1,0 +1,24 @@
+{
+  "id": "marvell-innovium-acquisition-2021",
+  "from": "marvell",
+  "to": "innovium",
+  "type": "acquisition",
+  "title": "Marvell buys Innovium for $1.1B",
+  "amount_usd": 1100000000,
+  "amount_kind": "confirmed",
+  "date": "2021-08-03",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312521234006/d48391dex991.htm",
+      "publisher": "Marvell (8-K Exhibit 99.1)",
+      "date": "2021-08-03",
+      "kind": "sec_filing",
+      "quote": "Under the terms of the definitive agreement, Innovium shareholders will receive $1.1 billion in consideration consisting of approximately 19.05 million shares of Marvell Common Stock that will be issued in aggregate in exchange for all outstanding equity of Innovium"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Marvell bought Innovium, a startup making network switch chips for cloud data centers, for about $1.1B paid in Marvell stock."
+}

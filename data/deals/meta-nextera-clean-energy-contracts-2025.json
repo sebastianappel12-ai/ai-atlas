@@ -1,0 +1,24 @@
+{
+  "id": "meta-nextera-clean-energy-contracts-2025",
+  "from": "meta",
+  "to": "nextera",
+  "type": "power_deal",
+  "title": "Meta signs ~2.5 GW of solar and storage contracts with NextEra",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-12-08",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://newsroom.nexteraenergy.com/2025-12-08-NextEra-Energy-Resources-and-Meta-Strengthen-American-Energy-Leadership",
+      "publisher": "NextEra Energy Newsroom",
+      "date": "2025-12-08",
+      "kind": "press_release",
+      "quote": "The 2.5-GW milestone was reached with the signing of 11 power purchase agreements (PPA) and two energy storage agreements (ESA)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta signed 11 power purchase agreements and two storage agreements with NextEra Energy Resources for about 2.5 GW across 13 new solar and battery projects in Texas (ERCOT), SPP, MISO and New Mexico, coming online 2026-2028. Prices not disclosed. Plants: 13 new NextEra projects, mostly unnamed; four are in Valencia and De Baca counties, New Mexico."
+}

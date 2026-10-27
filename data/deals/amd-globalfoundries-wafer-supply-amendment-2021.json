@@ -1,0 +1,26 @@
+{
+  "id": "amd-globalfoundries-wafer-supply-amendment-2021",
+  "from": "amd",
+  "to": "globalfoundries",
+  "type": "supply",
+  "title": "AMD raises GlobalFoundries wafer commitment to ~$2.1B through 2025",
+  "amount_usd": 2100000000,
+  "amount_kind": "confirmed",
+  "date": "2021-12-23",
+  "length_years": 4,
+  "status": "announced",
+  "supersedes": "amd-globalfoundries-wafer-supply-2021",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248821000205/amd-20211223.htm",
+      "publisher": "AMD (SEC 8-K)",
+      "date": "2021-12-23",
+      "kind": "sec_filing",
+      "quote": "The Company currently estimates that it will purchase approximately $2.1 billion of wafers in total from GF for years 2022 through 2025 under the Amendment."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD amended its wafer deal with GlobalFoundries during the 2021 chip shortage, lifting its expected purchases to about $2.1 billion of wafers over 2022-2025 in exchange for more guaranteed capacity. It replaces the earlier $1.6 billion estimate."
+}

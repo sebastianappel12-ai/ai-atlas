@@ -1,0 +1,24 @@
+{
+  "id": "coreweave-vast-data-platform-2023",
+  "from": "coreweave",
+  "to": "vast-data",
+  "type": "supply",
+  "title": "CoreWeave picks VAST Data to store data across all its data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-09-26",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.vastdata.com/press-releases/coreweave-selects-vast-data-platform-for-ai-cloud",
+      "publisher": "VAST Data",
+      "date": "2023-09-26",
+      "kind": "press_release",
+      "quote": "CoreWeave did extensive research and testing before selecting VAST Data to power all of its data centers."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave chose VAST Data's storage software for all of its GPU data centers, making it a paying VAST customer. No price was given; the relationship was expanded into a $1.17 billion deal in 2025."
+}

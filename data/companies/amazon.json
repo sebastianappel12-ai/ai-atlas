@@ -1,0 +1,45 @@
+{
+  "id": "amazon",
+  "name": "Amazon (AWS)",
+  "sector": "cloud",
+  "public": true,
+  "ticker": "NASDAQ:AMZN",
+  "cik": "0001018724",
+  "country": "US",
+  "hq_state": "WA",
+  "website": "https://www.aboutamazon.com",
+  "newsroom_feed": "https://www.aboutamazon.com/news/rss",
+  "aliases": [
+    "Amazon.com Inc",
+    "Amazon Web Services",
+    "AWS"
+  ],
+  "revenue": {
+    "amount_usd": 716924000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-06",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 716,924,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001018724-26-000004)."
+    }
+  },
+  "backlog": {
+    "amount_usd": 496000000000,
+    "period": "Q2 2026",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "publisher": "Amazon Form 10-Q (SEC EDGAR)",
+      "date": "2026-07-31",
+      "kind": "sec_filing",
+      "quote": "For contracts with original terms that exceed one year, those commitments not yet recognized were approximately $496 billion as of June 30, 2026."
+    }
+  },
+  "description": "Online retailer whose Amazon Web Services (AWS) unit is the world's largest cloud provider and Anthropic's main cloud partner.",
+  "explain": "AWS rents out computing power, including its own Trainium AI chips. Anthropic and OpenAI have each committed more than $100 billion of future spending to AWS, most of Amazon's contracted backlog."
+}

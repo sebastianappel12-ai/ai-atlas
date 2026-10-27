@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-anysphere-investment-2025",
+  "from": "nvidia",
+  "to": "anysphere",
+  "type": "investment",
+  "title": "Nvidia invests in Cursor maker Anysphere",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-11-13",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://cursor.com/blog/series-d",
+      "publisher": "Cursor (Anysphere)",
+      "date": "2025-11-13",
+      "kind": "press_release",
+      "quote": "We’re excited to deepen our work with existing investors, including Accel, Thrive, and Andreessen Horowitz, and welcome new partners Coatue, NVIDIA, and Google."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia joined Anysphere's Series D as a new investor, amount not disclosed. Anysphere makes the Cursor AI coding app and was later bought by SpaceX."
+}

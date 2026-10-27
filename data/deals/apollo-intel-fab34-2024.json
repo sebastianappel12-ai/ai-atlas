@@ -1,0 +1,24 @@
+{
+  "id": "apollo-intel-fab34-2024",
+  "from": "apollo",
+  "to": "intel",
+  "type": "investment",
+  "title": "Apollo pays $11B for 49% of Intel's Ireland fab venture",
+  "amount_usd": 11000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-06-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000103/a06042024form8-kex991.htm",
+      "publisher": "Intel Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2024-06-04",
+      "kind": "sec_filing",
+      "quote": "Intel Corporation (Nasdaq: INTC) and Apollo (NYSE: APO) today announced a definitive agreement under which Apollo-managed funds and affiliates will lead an investment of $11 billion to acquire from Intel a 49% equity interest in a joint venture entity related to Intel’s Fab 34."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Apollo-managed funds led an $11 billion payment to Intel for a 49% share of the joint venture that owns Intel's Fab 34 chip factory in Ireland, letting Intel raise cash without selling stock. The amount includes Apollo's co-investors."
+}

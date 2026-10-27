@@ -1,0 +1,31 @@
+{
+  "id": "vistra-cogentrix-acquisition-2026",
+  "from": "vistra",
+  "to": "cogentrix",
+  "type": "acquisition",
+  "title": "Vistra agrees to buy Cogentrix's 5.5 GW gas fleet for ~$4.0B",
+  "amount_usd": 4000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-01-05",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526002589/d62722dex991.htm",
+      "publisher": "Vistra Corp. Form 8-K EX-99.1 (SEC)",
+      "date": "2026-01-05",
+      "kind": "sec_filing",
+      "quote": "IRVING, Texas, Jan. 5, 2026 — Vistra Corp. (NYSE: VST) today announced it has executed definitive agreements to acquire Cogentrix Energy, consisting of 10 modern natural gas generation facilities totaling approximately 5,500 MW of capacity."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526002589/d62722dex991.htm",
+      "publisher": "Vistra Corp. Form 8-K EX-99.1 (SEC)",
+      "date": "2026-01-05",
+      "kind": "sec_filing",
+      "quote": "The approximately $4.0 billion net purchase price implies a multiple of approximately 7.25x the 2027 expected Adjusted EBITDA contribution and approximately $730/kW for the portfolio."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vistra agreed to buy Cogentrix Energy, owned by funds of Quantum Capital Group, for a net purchase price of about $4.0 billion, adding 10 gas plants (about 5,500 MW) in PJM, New England and Texas to serve rising demand including data centers. Expected to close mid-to-late 2026. Plants named in the release: Patriot and Hamilton-Liberty (Pennsylvania), among 10 facilities."
+}

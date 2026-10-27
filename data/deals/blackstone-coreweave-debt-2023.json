@@ -1,0 +1,24 @@
+{
+  "id": "blackstone-coreweave-debt-2023",
+  "from": "blackstone",
+  "to": "coreweave",
+  "type": "financing",
+  "title": "Blackstone and Magnetar lead $2.3B loan to CoreWeave",
+  "amount_usd": 2300000000,
+  "amount_kind": "confirmed",
+  "date": "2023-08-03",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sfnet.com/home/chapters/canada/news-detail/2023/08/07/coreweave-secures-2.3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone",
+      "publisher": "Secured Finance Network (PR Newswire release)",
+      "date": "2023-08-07",
+      "kind": "news",
+      "quote": "The funding was led by Magnetar Capital and funds managed by Blackstone Tactical Opportunities (\"Blackstone\") with strategic participation from leading asset management firms Coatue and DigitalBridge Credit, and funds and accounts managed by BlackRock, PIMCO, and Carlyle."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Blackstone and Magnetar led a $2.3 billion loan to CoreWeave, used mainly to buy GPU servers needed to serve customer contracts. The amount is the whole loan, including other lenders; it was fully drawn by the end of 2024."
+}

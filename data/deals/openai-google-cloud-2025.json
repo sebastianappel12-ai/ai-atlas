@@ -1,0 +1,31 @@
+{
+  "id": "openai-google-cloud-2025",
+  "from": "openai",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "OpenAI adds Google Cloud as a computing supplier",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-10",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://finance.yahoo.com/news/openai-enlists-google-cloud-computing-170237913.html",
+      "publisher": "Investopedia via Yahoo Finance",
+      "date": "2025-06-10",
+      "kind": "news",
+      "quote": "The ChatGPT developer has finalized a deal to utilize Alphabet's (GOOGL) Google cloud services to meet its increasing need for computing capacity, Reuters reported."
+    },
+    {
+      "url": "https://www.tomsguide.com/ai/openai-just-signed-a-surprise-deal-with-google-heres-why-it-matters",
+      "publisher": "Tom's Guide",
+      "date": "2025-06-11",
+      "kind": "news",
+      "quote": "As reported by Reuters, OpenAI finalized a deal last month to begin tapping Google Cloud's powerful infrastructure, including its custom TPU chips."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI reportedly agreed in May 2025 to rent extra computing from Google Cloud, a rival, to keep up with demand for ChatGPT. The deal was reported by Reuters from anonymous sources; no amount was disclosed."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "google-mesa",
+  "name": "Google Mesa",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 33.4,
+    "lon": -111.63,
+    "city": "Mesa"
+  },
+  "state": "AZ",
+  "power_mw_now": 183,
+  "power_mw_planned": 237,
+  "status": "operating",
+  "est_chips": {
+    "count": 289540,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6932406000,
+  "grid_region": "SRP",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-07-01",
+      "event": "Land clearing begins for the entire site."
+    },
+    {
+      "date": "2025-07-01",
+      "event": "Building 1 is operational. This is based on the state of construction on 2025-03-02 as seen on [Google Earth](https://earth.google.com/web/@33.35450568,-111.67805903,407.02398359a,2119.1496037d,35y,-0h,0t,0r/data=ChYqEAgBEgoyMDI1LTAzLTAyGAF"
+    },
+    {
+      "date": "2025-09-07",
+      "event": "Building 2 roof is mostly completed. Building 2's backup generators are almost complete, and cooling is a little more than halfway complete. The Building 2 substation is also under construction."
+    },
+    {
+      "date": "2026-05-15",
+      "event": "Building 2 is close to being operational. There is only construction left on the backup generators, which are almost complete. Some equipment is also strewn around the building, especially near the air-cooled chillers. Preparation seems to "
+    },
+    {
+      "date": "2026-08-15",
+      "event": "Building 2 is operational. This is estimated based on the close-to-complete construction status from May 2026."
+    }
+  ],
+  "epoch_id": "Google Mesa",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Mesa: current power 183 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Mesa is an operating AI data center in Mesa, AZ, owned by google. Epoch AI estimates it draws 183 MW today and 237 MW when finished."
+}

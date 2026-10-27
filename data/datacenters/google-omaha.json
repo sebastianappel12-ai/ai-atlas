@@ -1,0 +1,69 @@
+{
+  "id": "google-omaha",
+  "name": "Google Omaha",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 41.3357,
+    "lon": -96.0524,
+    "city": "Omaha"
+  },
+  "state": "NE",
+  "power_mw_now": 237,
+  "power_mw_planned": 474,
+  "status": "operating",
+  "est_chips": {
+    "count": 904497,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 14963390000,
+  "grid_region": "SWPP",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-11-19",
+      "event": "Building 2 is operational, based on it being 8 months since the roof was complete, and surrounding infrastructure looks just completed (finishing the cooling towers)."
+    },
+    {
+      "date": "2025-03-16",
+      "event": "Confirmation that there's no obvious construction happening for Building 2. Building 3 roof started."
+    },
+    {
+      "date": "2025-04-21",
+      "event": "Confident that Building 2 is operational"
+    },
+    {
+      "date": "2025-10-21",
+      "event": "Building 3 has all backup generators in place but they are still being installed. Two cooling towers have fans on them, with more underway. To the south of Building 3, more land has been cleared and there's a new carpark. This suggests anot"
+    },
+    {
+      "date": "2026-05-15",
+      "event": "Building 3 appears almost complete, with only minimal construction work and equipment remaining. The cooling towers are spaced apart in an unusual way, but there's no obvious sign that more will be installed before operation. Buildings 4 an"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "Building 3 is operational (estimate). Based on there being minimal construction work as of May 15."
+    },
+    {
+      "date": "2028-01-23",
+      "event": "Building 4 is operational. Expect a 4th building because there's enough land cleared for it. Assuming the foundation starts at the end of May 2026 and it takes a similar time to Building 3 from foundation to operational (1 year 8 months)."
+    },
+    {
+      "date": "2028-07-23",
+      "event": "Building 5 is operational. We expect a 5th building because there's enough land cleared for one. We assume a roughly 6-month delay after Building 4."
+    }
+  ],
+  "epoch_id": "Google Omaha",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Omaha: current power 237 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Omaha is an operating AI data center in Omaha, NE, owned by google. Epoch AI estimates it draws 237 MW today and 474 MW when finished."
+}

@@ -1,0 +1,65 @@
+{
+  "id": "goodnight",
+  "name": "Goodnight",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 35.1081,
+    "lon": -101.3627,
+    "city": "Claude"
+  },
+  "state": "TX",
+  "power_mw_now": 0,
+  "power_mw_planned": 1294,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 2278929,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 38109292000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-05-19",
+      "event": "Land clearing begins"
+    },
+    {
+      "date": "2025-10-16",
+      "event": "Building 1 and 2 under construction."
+    },
+    {
+      "date": "2025-12-23",
+      "event": "Construction on Building 1 and 2 looks about halfway to completion. Foundations and utility trenches are visible for Building 3-4. Building 5-6 have an outline. The substation appears to be expanding."
+    },
+    {
+      "date": "2026-04-16",
+      "event": "Progress is made on all buildings, Building 1 and 2 specically have begun to install cooling structures. The substation expansion seems to be nearing completion."
+    },
+    {
+      "date": "2027-03-15",
+      "event": "Building 1 operational. This [regulatory document](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025027064) lists the completion date for Building 1 as 2026-09-12, the current status suggests this estimate will not be met. Based on th"
+    },
+    {
+      "date": "2027-05-15",
+      "event": "Building 2 operational. The completion date for [Building 2 Tenant Improvement](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025027065) is 2026-11-07, about 2 months later than Building 1. We therefore add 2 months to the Building 1 "
+    },
+    {
+      "date": "2027-10-01",
+      "event": "6 buildings are operational. This is based on: 1. A [regulatory filing](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026010861) for Building 6 with a completion date of 2027-07-30. Normally there is a follow-up filing for \"tenant imp"
+    }
+  ],
+  "epoch_id": "Goodnight",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Goodnight: current power 0 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Goodnight is an under-construction AI data center in Claude, TX, owned by google. Epoch AI estimates it draws 0 MW today and 1,294 MW when finished."
+}

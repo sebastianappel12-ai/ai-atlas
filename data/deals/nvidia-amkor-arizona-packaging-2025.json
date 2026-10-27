@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-amkor-arizona-packaging-2025",
+  "from": "nvidia",
+  "to": "amkor",
+  "type": "supply",
+  "title": "Nvidia taps Amkor for chip packaging and testing in Arizona",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-14",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-04-14",
+      "kind": "press_release",
+      "quote": "NVIDIA is partnering with Amkor and SPIL for packaging and testing operations in Arizona."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "After chips are made on wafers they must be packaged and tested; Nvidia said Amkor will do some of this work for it in Arizona as part of moving AI chip production to the US. No dollar amount was given."
+}

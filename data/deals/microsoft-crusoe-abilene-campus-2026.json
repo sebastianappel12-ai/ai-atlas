@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-crusoe-abilene-campus-2026",
+  "from": "microsoft",
+  "to": "crusoe",
+  "type": "data_center",
+  "title": "Crusoe builds 900 MW Abilene AI campus for Microsoft",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-03-27",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+      "publisher": "Crusoe Newsroom",
+      "date": "2026-03-27",
+      "kind": "press_release",
+      "quote": "Supporting large scale AI workloads for Microsoft, the 900 MW site includes two new buildings and an onsite power plant to support grid resilience."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Crusoe is developing a dedicated 900-megawatt AI data center campus in Abilene, Texas for Microsoft's AI workloads. Financial terms were not disclosed."
+}

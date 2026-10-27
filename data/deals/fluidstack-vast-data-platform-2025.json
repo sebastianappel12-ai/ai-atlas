@@ -1,0 +1,24 @@
+{
+  "id": "fluidstack-vast-data-platform-2025",
+  "from": "fluidstack",
+  "to": "vast-data",
+  "type": "supply",
+  "title": "Fluidstack selects VAST Data for AI training infrastructure",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-16",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.vastdata.com/press-releases/fluidstack-selects-vast-data-deliver-infrastructure-accelerate-global",
+      "publisher": "VAST Data",
+      "date": "2025-04-16",
+      "kind": "press_release",
+      "quote": "VAST Data, the AI data platform company, today announced that Fluidstack, the premier AI cloud platform, has selected the industry-leading VAST Data Platform to join other partners in helping to power large-scale, high-performance AI workloads for Fluidstack’s global customer base."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fluidstack, which runs GPU clusters for AI labs, chose VAST Data's storage platform for the infrastructure it builds for customers. No price was disclosed."
+}

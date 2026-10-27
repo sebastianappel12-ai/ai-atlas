@@ -1,0 +1,31 @@
+{
+  "id": "ciena-nubis-acquisition-2025",
+  "from": "ciena",
+  "to": "nubis",
+  "type": "acquisition",
+  "title": "Ciena buys AI interconnect startup Nubis for $270M",
+  "amount_usd": 270000000,
+  "amount_kind": "confirmed",
+  "date": "2025-09-22",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025042266/a250922pressrelease.htm",
+      "publisher": "Ciena (8-K Ex. 99.1)",
+      "date": "2025-09-22",
+      "kind": "sec_filing",
+      "quote": "Under the terms of the agreement, Ciena will acquire Nubis in an all-cash transaction for $270 million, subject to a customary purchase price adjustment mechanism for the amount of cash, debt, and net working capital of Nubis at closing, among other items."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025044494/cien-20251007.htm",
+      "publisher": "Ciena (8-K)",
+      "date": "2025-10-07",
+      "kind": "sec_filing",
+      "quote": "On October 7, 2025, Ciena Corporation completed its acquisition of privately-held Nubis Communications, Inc."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Optical networking company Ciena paid $270 million in cash for Nubis, a New Jersey startup making compact, low-power optical and electrical links that connect AI chips. The deal closed in October 2025."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "kioxia",
+  "name": "Kioxia",
+  "sector": "memory",
+  "public": true,
+  "ticker": "TSE:285A",
+  "country": "JP",
+  "website": "https://www.kioxia.com",
+  "aliases": [
+    "Kioxia Holdings",
+    "Toshiba Memory"
+  ],
+  "revenue": {
+    "amount_usd": 15580000000,
+    "period": "FY2025 (Apr 2025-Mar 2026)",
+    "as_of": "2026-03-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.storagenewsletter.com/?p=302700",
+      "publisher": "StorageNewsletter",
+      "date": "2026-05-15",
+      "kind": "news",
+      "quote": "Revenue increased 37% YoY to ¥2.34 trillion, while operating profit nearly doubled to ¥870 billion and net profit attributable to shareholders rose to ¥554 billion."
+    }
+  },
+  "description": "Japanese NAND flash memory maker, formerly Toshiba Memory, which runs joint factories with Sandisk.",
+  "explain": "Kioxia makes the flash memory chips inside data center SSDs. Its factories in Japan are shared with Sandisk, which pays Kioxia for supply. Revenue converted from about ¥2.34 trillion at roughly ¥150 per dollar."
+}

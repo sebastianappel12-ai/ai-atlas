@@ -1,0 +1,29 @@
+{
+  "id": "vertiv",
+  "name": "Vertiv",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:VRT",
+  "cik": "0001674101",
+  "country": "US",
+  "hq_state": "OH",
+  "website": "https://www.vertiv.com",
+  "aliases": [
+    "Vertiv Holdings Co"
+  ],
+  "revenue": {
+    "amount_usd": 10229900000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410126000008/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-13",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 10,229,900,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001674101-26-000008)."
+    }
+  },
+  "description": "Makes power and cooling equipment for data centers, including liquid cooling for AI servers.",
+  "explain": "Vertiv supplies the power systems and cooling (including liquid cooling) that keep AI data centers running. It has been buying smaller cooling and rack makers to keep up with AI demand."
+}

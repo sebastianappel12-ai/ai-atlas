@@ -1,0 +1,31 @@
+{
+  "id": "amazon-anthropic-investment-2024",
+  "from": "amazon",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Amazon invests another $4B in Anthropic",
+  "amount_usd": 4000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-11-22",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+      "publisher": "Amazon 10-K (SEC)",
+      "date": "2025-02-07",
+      "kind": "sec_filing",
+      "quote": "In Q4 2024, we entered into an agreement and invested $1.3 billion in a third convertible note, and will invest an additional $2.7 billion by Q4 2025."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "publisher": "Amazon 10-Q (SEC)",
+      "date": "2026-07-31",
+      "kind": "sec_filing",
+      "quote": "From Q3 2023 to Q4 2025, we invested $8.0 billion in convertible notes from Anthropic, which are classified as available-for-sale and reported at fair value with unrealized gains and losses included in “Accumulated other comprehensive income (loss)” and as Level 3 assets."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "In November 2024 Amazon agreed to put another $4 billion into Anthropic through convertible notes (loans that turn into shares), bringing its total to $8 billion by the end of 2025. Anthropic also made AWS its main partner for training models."
+}

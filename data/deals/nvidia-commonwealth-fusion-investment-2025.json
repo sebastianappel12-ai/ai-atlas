@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-commonwealth-fusion-investment-2025",
+  "from": "nvidia",
+  "to": "commonwealth-fusion",
+  "type": "investment",
+  "title": "Nvidia's NVentures joins CFS's $863M Series B2 fusion round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-28",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://cfs.energy/news-and-media/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy",
+      "publisher": "Commonwealth Fusion Systems",
+      "date": "2025-08-28",
+      "kind": "press_release",
+      "quote": "DEVENS, Mass. (Aug. 28, 2025) — Commonwealth Fusion Systems (CFS), the largest and leading private fusion company, today announced that it raised $863 million in a Series B2 fundraising round as it moves closer to being the first in the world to commercialize fusion power."
+    },
+    {
+      "url": "https://www.latitudemedia.com/articles/commonwealth-fusion-systems-tops-up-its-series-b-with-863-million",
+      "publisher": "Latitude Media",
+      "date": "2025-08-28",
+      "kind": "news",
+      "quote": "In this latest oversubscribed round, the company brought on new investors, including NVentures, Nvidia’s venture capital arm."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia's venture arm NVentures was a new investor in Commonwealth Fusion Systems' $863 million Series B2 round, which funds the SPARC demo machine and the planned ARC power plant. Nvidia's own amount was not disclosed."
+}

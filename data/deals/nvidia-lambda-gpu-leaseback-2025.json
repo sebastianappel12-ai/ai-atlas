@@ -1,0 +1,25 @@
+{
+  "id": "nvidia-lambda-gpu-leaseback-2025",
+  "from": "nvidia",
+  "to": "lambda",
+  "type": "cloud_contract",
+  "title": "Nvidia to rent back its GPUs from Lambda for ~$1.5B",
+  "amount_usd": 1500000000,
+  "amount_kind": "estimated",
+  "date": "2025-09-08",
+  "length_years": 4,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://rcrwireless.com/20250908/ai-infrastructure/nvidia-lambda",
+      "publisher": "RCR Wireless News",
+      "date": "2025-09-08",
+      "kind": "news",
+      "quote": "Nvidia has agreed to a $1.5 billion contract to lease GPU servers from Lambda, an AI infrastructure company offering on-demand GPUs, according to a report by The Information."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "According to a report by The Information, Nvidia agreed to pay Lambda about $1.5 billion over four years to rent servers built with Nvidia's own chips. Nvidia is also a Lambda shareholder, so it sells the chips, invests and then rents them back."
+}

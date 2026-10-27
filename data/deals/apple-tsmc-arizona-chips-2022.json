@@ -1,0 +1,31 @@
+{
+  "id": "apple-tsmc-arizona-chips-2022",
+  "from": "apple",
+  "to": "tsmc",
+  "type": "supply",
+  "title": "Apple commits to buy chips from TSMC's Arizona fab",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-12-06",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/amp/2022/12/06/tim-cook-says-apple-will-use-chips-built-in-the-us-at-arizona-factory.html",
+      "publisher": "CNBC",
+      "date": "2022-12-06",
+      "kind": "news",
+      "quote": "Cook said Apple would buy processors made in a new Arizona factory, according to a video from the event."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "publisher": "Apple Newsroom",
+      "date": "2025-08-06",
+      "kind": "press_release",
+      "quote": "That includes TSMC in Arizona, which is producing tens of millions of chips for Apple using one of the most advanced process technologies in America."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Apple, long TSMC's biggest customer, committed in 2022 to buy chips from TSMC's new factories in Phoenix, Arizona, and by 2025 said it was the fab's first and largest customer. The size of Apple's orders is not disclosed."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "blackrock-xai-series-c-2024",
+  "from": "blackrock",
+  "to": "xai",
+  "type": "investment",
+  "title": "BlackRock invests in xAI's Series C",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-23",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-c",
+      "publisher": "xAI News",
+      "date": "2024-12-23",
+      "kind": "press_release",
+      "quote": "We have closed our Series C funding round of $6 billion with participation from key investors including A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "BlackRock took part in xAI's $6 billion Series C (counted in full on the Valor record); its amount was not disclosed."
+}

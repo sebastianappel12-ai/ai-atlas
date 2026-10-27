@@ -1,0 +1,24 @@
+{
+  "id": "us-government-aep-transmission-loan-2025",
+  "from": "us-government",
+  "to": "aep",
+  "type": "financing",
+  "title": "Energy Department guarantees $1.6B AEP transmission loan",
+  "amount_usd": 1600000000,
+  "amount_kind": "confirmed",
+  "date": "2025-10-16",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1702494/000170249425000023/a10-2025tcoxdoeloanpressre.htm",
+      "publisher": "AEP Transmission Company Form 8-K (SEC EDGAR)",
+      "date": "2025-10-16",
+      "kind": "sec_filing",
+      "quote": "AEP Transmission, a subsidiary of American Electric Power (Nasdaq: AEP) has closed on a $1.6 billion loan guarantee at a preferred interest rate from the U.S."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Energy Department guaranteed a $1.6 billion loan to AEP's transmission business to rebuild about 5,000 miles of power lines in five states, lowering AEP's borrowing cost as data centers drive up electricity demand."
+}

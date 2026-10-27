@@ -1,0 +1,28 @@
+{
+  "id": "asml",
+  "name": "ASML",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "EURONEXT:ASML",
+  "country": "NL",
+  "website": "https://www.asml.com",
+  "aliases": [
+    "ASML Holding N.V.",
+    "ASML Holding NV"
+  ],
+  "revenue": {
+    "amount_usd": 36950000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026003701/pressreleasefinancialresul.htm",
+      "publisher": "ASML (SEC 6-K Exhibit 99.1)",
+      "date": "2026-01-28",
+      "kind": "sec_filing",
+      "quote": "ASML reported another record year in 2025, with total net sales of €32.7 billion and a gross margin of 52.8%."
+    }
+  },
+  "description": "Dutch maker of lithography machines, the only supplier of the EUV tools needed to make the most advanced chips.",
+  "explain": "Every leading-edge chip factory (TSMC, Samsung, Intel, SK hynix) must buy ASML's EUV machines, which cost hundreds of millions of dollars each. Revenue is €32.7 billion for 2025, converted by AI Atlas at about $1.13 per euro (approximate 2025 average)."
+}

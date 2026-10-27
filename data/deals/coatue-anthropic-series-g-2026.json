@@ -1,0 +1,24 @@
+{
+  "id": "coatue-anthropic-series-g-2026",
+  "from": "coatue",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Coatue co-leads Anthropic's Series G",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2026-02-12",
+      "kind": "press_release",
+      "quote": "We have raised $30 billion in Series G funding led by GIC and Coatue, valuing Anthropic at $380 billion post-money."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Coatue co-led Anthropic's $30 billion Series G (counted in full on the GIC record). Coatue's own amount was not disclosed."
+}

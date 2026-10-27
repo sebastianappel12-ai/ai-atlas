@@ -1,0 +1,32 @@
+{
+  "id": "nvidia-iren-cloud-2026",
+  "from": "nvidia",
+  "to": "iren",
+  "type": "cloud_contract",
+  "title": "Nvidia signs $3.4B five-year AI cloud contract with IREN",
+  "amount_usd": 3400000000,
+  "amount_kind": "confirmed",
+  "date": "2026-05-07",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/irenreportsq3fy26results.htm",
+      "publisher": "IREN 8-K EX-99.1 (SEC)",
+      "date": "2026-05-07",
+      "kind": "sec_filing",
+      "quote": "We also signed a 5-year, $3.4bn AI Cloud contract with NVIDIA and entered into a broader strategic partnership that further validates IREN’s key role in the AI infrastructure ecosystem."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "publisher": "IREN 10-K (SEC)",
+      "date": "2026-08-27",
+      "kind": "sec_filing",
+      "quote": "In addition, in May 2026 we entered into a five-year cloud services contract with NVIDIA to support its internal AI and research workloads representing approximately $3.4 billion of total contract value."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia agreed to pay IREN about $3.4 billion over five years to rent cloud computing for its own AI research. IREN buys Nvidia GPUs to provide that service, so money flows both ways."
+}

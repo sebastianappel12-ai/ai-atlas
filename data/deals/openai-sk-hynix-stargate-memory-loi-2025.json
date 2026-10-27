@@ -1,0 +1,31 @@
+{
+  "id": "openai-sk-hynix-stargate-memory-loi-2025",
+  "from": "openai",
+  "to": "sk-hynix",
+  "type": "supply",
+  "title": "OpenAI signs letter of intent for SK hynix HBM memory for Stargate",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-01",
+  "status": "announced",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://eng.sk.com/news/sk-group-partners-with-openai-to-advance-global-ai-infrastructure",
+      "publisher": "SK Group",
+      "date": "2025-10-01",
+      "kind": "press_release",
+      "quote": "SK hynix signed a Letter of Intent (LOI) with OpenAI to supply High Bandwidth Memory (HBM), for the construction of global AI data centers under the Stargate project."
+    },
+    {
+      "url": "https://eng.sk.com/news/sk-group-partners-with-openai-to-advance-global-ai-infrastructure",
+      "publisher": "SK Group",
+      "date": "2025-10-01",
+      "kind": "press_release",
+      "quote": "SK hynix will establish a production system capable of promptly meeting OpenAI’s HBM demand for up to 900,000 DRAM wafers per month."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI signed a non-binding letter of intent for SK hynix to supply high-bandwidth memory (the fast memory stacked next to AI chips) for its Stargate data centers. SK said OpenAI's demand could reach up to 900,000 DRAM wafers a month, but no price was given."
+}

@@ -1,0 +1,53 @@
+{
+  "id": "google-bristow",
+  "name": "Google Bristow",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 38.7312,
+    "lon": -77.548,
+    "city": "Bristow"
+  },
+  "state": "VA",
+  "power_mw_now": 238,
+  "power_mw_planned": 286,
+  "status": "operating",
+  "est_chips": {
+    "count": 209861,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 9015916000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2021-07-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2024-04-29",
+      "event": "Building 1 is operational, based off of colored motion artifacts from cooling towers. Building 2 is undergoing construction."
+    },
+    {
+      "date": "2025-04-29",
+      "event": "Building 2 is operational, based off it being at least 12 months since the roof was complete. Building 3 is finishing construction of cooling towers."
+    },
+    {
+      "date": "2026-05-20",
+      "event": "Building 3 is operational, based off of colored motion artifacts from cooling towers."
+    }
+  ],
+  "epoch_id": "Google Bristow",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Bristow: current power 238 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Bristow is an operating AI data center in Bristow, VA, owned by google. Epoch AI estimates it draws 238 MW today and 286 MW when finished."
+}

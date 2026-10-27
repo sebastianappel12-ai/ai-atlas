@@ -1,0 +1,31 @@
+{
+  "id": "us-government-constellation-crane-loan-2025",
+  "from": "us-government",
+  "to": "constellation",
+  "type": "financing",
+  "title": "Energy Department lends Constellation $1B to restart Crane nuclear plant",
+  "amount_usd": 1000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-18",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.energy.gov/articles/energy-Department-closes-loan-restart-nuclear-power-plant-pennsylvania",
+      "publisher": "U.S. Department of Energy",
+      "date": "2025-11-18",
+      "kind": "press_release",
+      "quote": "The $1 billion loan to Constellation Energy Generation, LLC (Constellation) will help finance the Crane Clean Energy Center, an 835 MW plant located on the Susquehanna River in Londonderry Township, Pennsylvania."
+    },
+    {
+      "url": "https://www.energy.gov/lpo/crane-restart",
+      "publisher": "U.S. Department of Energy Loan Programs Office",
+      "date": "2025-11-18",
+      "kind": "press_release",
+      "quote": "PROJECT SUMMARY In November 2025, EDF closed a $1 billion loan to Constellation Energy Generation, LLC (Constellation) to help finance the Crane Clean Energy Center (Crane) Restart project, a nuclear power plant in Londonderry Township, Pennsylvania."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Energy Department lent Constellation $1 billion to help restart the 835-megawatt Crane nuclear plant in Pennsylvania, adding carbon-free power to a grid strained by data center demand."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "apple-globalfoundries-us-manufacturing-2025",
+  "from": "apple",
+  "to": "globalfoundries",
+  "type": "supply",
+  "title": "Apple signs chipmaking agreement with GlobalFoundries in New York",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "publisher": "Apple Newsroom",
+      "date": "2025-08-06",
+      "kind": "press_release",
+      "quote": "GlobalFoundries and Apple have also entered an agreement to bring more semiconductor manufacturing to the United States, focused on manufacturing cutting-edge wireless technologies and advanced power management — critical technologies that enable longer battery life and enhanced connectivity in Apple devices."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Apple agreed to have GlobalFoundries make wireless and power-management chips for Apple devices at GF's fab in Malta, New York, part of Apple's $600 billion US investment pledge. The value was not disclosed."
+}

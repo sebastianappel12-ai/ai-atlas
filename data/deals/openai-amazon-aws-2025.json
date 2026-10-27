@@ -1,0 +1,25 @@
+{
+  "id": "openai-amazon-aws-2025",
+  "from": "openai",
+  "to": "amazon",
+  "type": "cloud_contract",
+  "title": "OpenAI signs $38B multi-year AWS cloud deal",
+  "amount_usd": 38000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-03",
+  "length_years": 7,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+      "publisher": "Amazon News",
+      "date": "2025-11-03",
+      "kind": "press_release",
+      "quote": "Under this new $38 billion agreement, which will have continued growth over the next seven years, OpenAI is accessing AWS compute comprising hundreds of thousands of state-of-the-art NVIDIA GPUs, with the ability to expand to tens of millions of CPUs to rapidly scale agentic workloads."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI's first big contract with Amazon: $38 billion of AWS cloud computing, mainly Nvidia GPUs, over about seven years. It came days after OpenAI's new Microsoft deal ended Microsoft's first claim on OpenAI's computing needs."
+}

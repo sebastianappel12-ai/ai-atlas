@@ -1,0 +1,24 @@
+{
+  "id": "sequoia-safe-superintelligence-2024",
+  "from": "sequoia",
+  "to": "safe-superintelligence",
+  "type": "investment",
+  "title": "Sequoia backs SSI's first round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-09-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/",
+      "publisher": "TechCrunch",
+      "date": "2024-09-04",
+      "kind": "news",
+      "quote": "Safe Superintelligence (SSI), the AI startup co-founded by former OpenAI chief scientist Ilya Sutskever, has raised over $1 billion in capital from investors including NFDG (an investment partnership run by Nat Friedman and SSI CEO Daniel Gross), a16z, Sequoia, DST Global and SV Angel."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sequoia took part in Safe Superintelligence's roughly $1 billion first round (counted in full on the a16z record); its amount was not disclosed."
+}

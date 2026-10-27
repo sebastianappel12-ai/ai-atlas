@@ -1,0 +1,31 @@
+{
+  "id": "tsmc-intel-ims-stake-2023",
+  "from": "tsmc",
+  "to": "intel",
+  "type": "investment",
+  "title": "TSMC buys 10% of Intel's IMS Nanofabrication unit",
+  "amount_usd": 432800000,
+  "amount_kind": "up_to",
+  "date": "2023-09-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617923000008/tsm-boardx20230912x6k.htm",
+      "publisher": "TSMC (SEC 6-K)",
+      "date": "2023-09-12",
+      "kind": "sec_filing",
+      "quote": "Approved the purchase of 10% equity interest in IMS Nanofabrication Global, LLC from Intel Corporation for an amount not exceeding US$432.8 million."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm",
+      "publisher": "Intel 10-K (FY2024)",
+      "date": "2025-01-31",
+      "kind": "sec_filing",
+      "quote": "In 2023, we closed agreements to sell a combined 32% minority stake in our IMS business, a business within our Intel Foundry operating segment—including a 20% stake to Bain Capital Special Situations and a 10% stake to TSMC."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "TSMC paid Intel for a 10% stake in IMS Nanofabrication, an Intel-owned Austrian company that makes the multi-beam machines used to write chip photomasks. TSMC's board capped the price at $432.8 million; the sale closed in 2023."
+}

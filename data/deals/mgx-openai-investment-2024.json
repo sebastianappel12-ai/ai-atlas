@@ -1,0 +1,24 @@
+{
+  "id": "mgx-openai-investment-2024",
+  "from": "mgx",
+  "to": "openai",
+  "type": "investment",
+  "title": "MGX joins OpenAI's $6.6B round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-10-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/business/business-news/openai-closes-funding-157-billion-valuation-microsoft-nvidia-softbank-rcna173693",
+      "publisher": "NBC News (CNBC)",
+      "date": "2024-10-02",
+      "kind": "news",
+      "quote": "The latest funding round also included participation from Khosla Ventures, Altimeter Capital, Fidelity, MGX and Tiger Global, sources told CNBC."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Abu Dhabi's MGX reportedly took part in OpenAI's $6.6 billion October 2024 round (counted in full on the Thrive record); its amount was not disclosed."
+}

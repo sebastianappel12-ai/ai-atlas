@@ -1,0 +1,13 @@
+{
+  "id": "qatar-investment-authority",
+  "name": "Qatar Investment Authority",
+  "sector": "investor",
+  "public": false,
+  "country": "QA",
+  "website": "https://www.qia.qa",
+  "aliases": [
+    "QIA"
+  ],
+  "description": "Qatar's sovereign wealth fund, investing the state's oil and gas income worldwide.",
+  "explain": "QIA is part of a wave of Gulf state money flowing into AI labs, joining xAI's Series C and Series E rounds."
+}

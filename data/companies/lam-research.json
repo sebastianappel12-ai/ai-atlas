@@ -1,0 +1,30 @@
+{
+  "id": "lam-research",
+  "name": "Lam Research",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "NASDAQ:LRCX",
+  "cik": "0000707549",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.lamresearch.com",
+  "aliases": [
+    "Lam Research Corporation",
+    "Lam"
+  ],
+  "revenue": {
+    "amount_usd": 23232690000,
+    "period": "FY2026 (ended 2026-06-28)",
+    "as_of": "2026-06-28",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-07",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 23,232,690,000 USD for 2025-06-30 to 2026-06-28 (10-K, accession 0000707549-26-000037)."
+    }
+  },
+  "description": "US maker of chipmaking equipment, especially etch and deposition tools used heavily in memory and advanced logic.",
+  "explain": "Lam's tools are needed to build the stacked memory (HBM, NAND) and advanced chips used in AI servers, so fab spending by Samsung, SK hynix, TSMC and Micron flows to it."
+}

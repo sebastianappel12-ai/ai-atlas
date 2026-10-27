@@ -1,0 +1,13 @@
+{
+  "id": "fibrebond",
+  "name": "Fibrebond",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "LA",
+  "aliases": [
+    "Fibrebond Corporation"
+  ],
+  "description": "Builds pre-integrated modular power enclosures for data centers and utilities; acquired by Eaton in 2025.",
+  "explain": "Fibrebond's factory-built power rooms let data centers get electricity hooked up faster. Eaton bought it for about $1.4 billion."
+}

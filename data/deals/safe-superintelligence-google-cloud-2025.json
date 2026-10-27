@@ -1,0 +1,24 @@
+{
+  "id": "safe-superintelligence-google-cloud-2025",
+  "from": "safe-superintelligence",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Safe Superintelligence picks Google Cloud TPUs as main compute",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-09",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/",
+      "publisher": "TechCrunch",
+      "date": "2025-04-09",
+      "kind": "news",
+      "quote": "SSI’s deal with Google Cloud suggests the former will spend a large chunk of its computing budget with Google Cloud; a source familiar tells TechCrunch that Google Cloud is SSI’s primary computing provider."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Ilya Sutskever's AI lab Safe Superintelligence rents Google's TPU chips through Google Cloud for its research, and Google Cloud is reportedly its main computing provider. No amount was disclosed."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "google-nextera-duane-arnold-ppa-2025",
+  "from": "google",
+  "to": "nextera",
+  "type": "power_deal",
+  "title": "Google signs 25-year PPA to restart NextEra's Duane Arnold nuclear plant",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-27",
+  "length_years": 25,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330825000055/neeq32025exhibit99.htm",
+      "publisher": "NextEra Energy Form 8-K EX-99 (SEC)",
+      "date": "2025-10-28",
+      "kind": "sec_filing",
+      "quote": "First, a subsidiary of NextEra Energy Resources has entered into a 25-year power purchase agreement (PPA) with Google that, pending regulatory approvals, will enable it to continue the recommissioning of the Duane Arnold nuclear plant in Palo, Iowa."
+    },
+    {
+      "url": "https://newsroom.nexteraenergy.com/NextEra-Energy-and-Google-Announce-New-Collaboration-to-Accelerate-Nuclear-Energy-Deployment-in-the-U-S",
+      "publisher": "NextEra Energy Newsroom",
+      "date": "2025-10-27",
+      "kind": "press_release",
+      "quote": "Once operational, Google will purchase power from the 615-MW plant as a 24/7 carbon-free energy source to help power Google's growing cloud and AI infrastructure in Iowa, while also strengthening local grid reliability, creating thousands of direct and indirect jobs, and driving significant economic investment to the Midwest region."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google will buy power from Iowa's Duane Arnold nuclear plant for 25 years, which lets NextEra restart the 615 MW plant (closed in 2020) by early 2029; a local co-op, CIPCO, takes 50 MW on the same terms. Price not disclosed. Plant: Duane Arnold Energy Center, Palo, Iowa."
+}

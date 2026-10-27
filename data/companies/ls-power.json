@@ -1,0 +1,14 @@
+{
+  "id": "ls-power",
+  "name": "LS Power",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.lspower.com",
+  "aliases": [
+    "LS Power Equity Advisors"
+  ],
+  "description": "Private power and transmission developer and investor.",
+  "explain": "LS Power sold NRG 13 GW of gas plants and the CPower demand-response business for about $12B, closed January 2026."
+}

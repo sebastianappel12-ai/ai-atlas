@@ -1,0 +1,31 @@
+{
+  "id": "google-entergy-arkansas-west-memphis-2025",
+  "from": "google",
+  "to": "entergy",
+  "type": "power_deal",
+  "title": "Google signs long-term special rate contract with Entergy Arkansas",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-31",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598425000132/etr-20250930.htm",
+      "publisher": "Entergy Corp. Form 10-Q (SEC)",
+      "date": "2025-10-31",
+      "kind": "sec_filing",
+      "quote": "Special Rate Contract and Arkansas Cypress Solar In September 2025, Entergy Arkansas filed an application with the APSC seeking approval of a long-term special rate contract between Altitude, LLC, a subsidiary of Alphabet, Inc. (Google) and Entergy Arkansas for the sale of electricity to a new large-scale data center in West Memphis, Arkansas."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598426000174/etr-20251231.htm",
+      "publisher": "Entergy Corp. Form 10-K (SEC)",
+      "date": "2026-02-19",
+      "kind": "sec_filing",
+      "quote": "In December 2025 the APSC issued an order approving the special rate contract but denying the requested ratemaking treatment of Google’s upfront payments and deferring a decision on the treatment under the contract pricing providing for the deferral and amortization of the investment tax credits from the Arkansas Cypress Solar facility (discussed below)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google (through its subsidiary Altitude, LLC) signed a long-term contract to buy electricity from Entergy Arkansas for a new data center in West Memphis, including upfront payments and power from a new Arkansas Cypress Solar plant; regulators approved it in December 2025. Value not disclosed. Entergy filed it in September 2025; the date here is when Entergy first reported it in a filing. Plant: Arkansas Cypress Solar (planned), plus Entergy Arkansas system power."
+}

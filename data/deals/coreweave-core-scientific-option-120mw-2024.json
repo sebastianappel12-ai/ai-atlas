@@ -1,0 +1,25 @@
+{
+  "id": "coreweave-core-scientific-option-120mw-2024",
+  "from": "coreweave",
+  "to": "core-scientific",
+  "type": "data_center",
+  "title": "CoreWeave exercises final option for ~120 MW at Core Scientific (~$2.0B)",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-10-22",
+  "length_years": 12,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024043341/corescientifichpcoption3re.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2024-10-22",
+      "kind": "sec_filing",
+      "quote": "The new contract with CoreWeave is expected to add approximately $2.0 billion in projected additional cumulative revenue over the hosting contract’s 12-year term to the $6.7 billion in projected cumulative revenue associated with previously announced contracts with CoreWeave, for a total of $8.7 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave exercised its last option to rent about 120 more megawatts from Core Scientific, bringing its total to about 500 megawatts and adding roughly $2 billion of expected revenue over 12 years."
+}

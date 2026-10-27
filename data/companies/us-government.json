@@ -1,0 +1,18 @@
+{
+  "id": "us-government",
+  "name": "U.S. Government",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "DC",
+  "website": "https://www.usa.gov",
+  "aliases": [
+    "United States Government",
+    "U.S. Department of Commerce",
+    "CHIPS Program Office",
+    "U.S. Department of Energy",
+    "DOE Loan Programs Office"
+  ],
+  "description": "The U.S. federal government, which funds chip factories and energy projects through CHIPS Act grants, loans and equity stakes.",
+  "explain": "Washington pays tens of billions to bring chipmaking and power to the US: CHIPS Act grants to Intel, TSMC, Samsung and Micron, a roughly 10% equity stake in Intel, and Energy Department loans for nuclear power and power lines."
+}

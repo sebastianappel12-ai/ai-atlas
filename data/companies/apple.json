@@ -1,0 +1,29 @@
+{
+  "id": "apple",
+  "name": "Apple",
+  "sector": "ai_lab",
+  "public": true,
+  "ticker": "NASDAQ:AAPL",
+  "cik": "0000320193",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.apple.com",
+  "aliases": [
+    "Apple Inc."
+  ],
+  "revenue": {
+    "amount_usd": 416161000000,
+    "period": "FY2025 (ended 2025-09-27)",
+    "as_of": "2025-09-27",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-10-31",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 416,161,000,000 USD for 2024-09-29 to 2025-09-27 (10-K, accession 0000320193-25-000079)."
+    }
+  },
+  "description": "Maker of the iPhone and Mac; builds Apple Intelligence features and licenses outside AI models.",
+  "explain": "Apple spends less on its own AI data centers than its peers and instead pays partners such as Google for AI models, making it a major customer rather than a builder."
+}

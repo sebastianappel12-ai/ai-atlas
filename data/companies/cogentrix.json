@@ -1,0 +1,13 @@
+{
+  "id": "cogentrix",
+  "name": "Cogentrix Energy",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "NC",
+  "aliases": [
+    "Cogentrix"
+  ],
+  "description": "Owner of about 5.5 GW of natural gas power plants in PJM, New England and Texas; owned by Quantum Capital Group funds.",
+  "explain": "Vistra agreed to buy Cogentrix for about $4.0B in January 2026 to add gas plants for growing demand, including from data centers."
+}

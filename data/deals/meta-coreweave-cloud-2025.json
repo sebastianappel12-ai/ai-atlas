@@ -1,0 +1,25 @@
+{
+  "id": "meta-coreweave-cloud-2025",
+  "from": "meta",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "Meta commits up to $14.2B for CoreWeave AI cloud",
+  "amount_usd": 14200000000,
+  "amount_kind": "up_to",
+  "date": "2025-09-25",
+  "length_years": 6,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000050/crwv-20250925.htm",
+      "publisher": "CoreWeave 8-K (SEC)",
+      "date": "2025-09-30",
+      "kind": "sec_filing",
+      "quote": "Subject to any termination described below and satisfaction of delivery and availability of service requirements, Meta has initially committed to pay the Company up to approximately $14.2 billion through December 14, 2031 under the Order Form, with the option to materially expand its commitment through 2032 for additional cloud computing capacity under the Order Form."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to pay CoreWeave up to about $14.2 billion through December 2031 to rent AI computing capacity, with an option to buy more. It made Meta one of CoreWeave's largest customers alongside Microsoft and OpenAI."
+}

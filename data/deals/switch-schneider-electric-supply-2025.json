@@ -1,0 +1,24 @@
+{
+  "id": "switch-schneider-electric-supply-2025",
+  "from": "switch",
+  "to": "schneider-electric",
+  "type": "supply",
+  "title": "Switch signs $1.9B power and cooling supply deal with Schneider",
+  "amount_usd": 1900000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-19",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-and-switch-expand-partnership-with-1-9-billion-supply-capacity-agreement-to-power-ai-factories-691d16cc3a880bee320a9cc6/",
+      "publisher": "Schneider Electric Newsroom",
+      "date": "2025-11-19",
+      "kind": "press_release",
+      "quote": "Schneider Electric, a global energy technology leader, and Switch, a premier provider of AI, cloud and enterprise data centers, today announced a two-phase supply capacity agreement (SCA) totaling $1.9 billion in sales."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Data center operator Switch reserved $1.9 billion of Schneider Electric's factory output of prefabricated power modules and chillers for its AI data centers. Locking in supply ahead of time is how builders avoid long waits for scarce electrical and cooling gear."
+}

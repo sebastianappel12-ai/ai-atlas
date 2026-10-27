@@ -1,0 +1,49 @@
+{
+  "id": "vantage-tx1",
+  "name": "Vantage TX1",
+  "owner": "vantage-data-centers",
+  "tenants": [],
+  "location": {
+    "lat": 29.4169,
+    "lon": -98.7902,
+    "city": "San Antonio"
+  },
+  "state": "TX",
+  "power_mw_now": 32,
+  "power_mw_planned": 179,
+  "status": "operating",
+  "est_chips": {
+    "count": 154624,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 4848896000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-12-15",
+      "event": "Land clearing begins for both Building 1 & Building 2"
+    },
+    {
+      "date": "2026-02-15",
+      "event": "Building 1 operational; Roads around Building 1 complete, all cooling and side generator equipment construction has since finished as well. Although this is still earlier than the completion date reported on TDLR, based on the appearance, w"
+    },
+    {
+      "date": "2027-08-31",
+      "event": "Estimated construction completion date of Building 2. [Construction Project Filing](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026001234)"
+    }
+  ],
+  "epoch_id": "Vantage TX1",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Vantage TX1: current power 32 MW; owner unlisted."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Vantage TX1 is an operating AI data center in San Antonio, TX, owned by vantage-data-centers. Epoch AI estimates it draws 32 MW today and 179 MW when finished."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "oklo",
+  "name": "Oklo",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:OKLO",
+  "cik": "0001849056",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://oklo.com",
+  "aliases": [
+    "Oklo Inc."
+  ],
+  "description": "Developer of Aurora small fast-neutron nuclear reactors ('powerhouses') that sell power to customers.",
+  "explain": "Oklo has no operating reactors yet but has signed large AI-related power agreements, including a 12 GW framework with Switch and a Meta prepayment for a 1.2 GW campus in Ohio."
+}

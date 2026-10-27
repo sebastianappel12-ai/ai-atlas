@@ -1,0 +1,43 @@
+{
+  "id": "kkr",
+  "name": "KKR",
+  "sector": "investor",
+  "public": true,
+  "ticker": "NYSE:KKR",
+  "cik": "0001404912",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.kkr.com",
+  "aliases": [
+    "KKR & Co. Inc.",
+    "Kohlberg Kravis Roberts"
+  ],
+  "revenue": {
+    "amount_usd": 19464307000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000007/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 19,464,307,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001404912-26-000007)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 796000000000,
+    "period": "AUM",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000022/q226earningsrelease_vf.htm",
+      "publisher": "KKR Form 8-K earnings release (SEC EDGAR)",
+      "date": "2026-07-30",
+      "kind": "sec_filing",
+      "quote": "Assets Under Management (“AUM”) of $796 billion, up 16% year-over-year"
+    }
+  },
+  "description": "Global private equity and infrastructure investor that owns data center operators such as CyrusOne.",
+  "explain": "KKR buys and grows data center landlords with its infrastructure funds; it took CyrusOne private with GIP in a roughly $15 billion deal."
+}

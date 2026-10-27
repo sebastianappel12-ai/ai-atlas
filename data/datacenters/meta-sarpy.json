@@ -1,0 +1,49 @@
+{
+  "id": "meta-sarpy",
+  "name": "Meta Sarpy",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 41.2004,
+    "lon": -96.1388,
+    "city": "NE"
+  },
+  "state": "NE",
+  "power_mw_now": 80,
+  "power_mw_planned": 105,
+  "status": "operating",
+  "est_chips": {
+    "count": 91966,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 3030560000,
+  "grid_region": "SWPP",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-08-01",
+      "event": "Building 1 grading underway."
+    },
+    {
+      "date": "2026-05-04",
+      "event": "Building 1 shell, electrical and cooling equipment looks complete, with minimal construction work, so we expect it to be operational within 3 months."
+    },
+    {
+      "date": "2026-08-02",
+      "event": "Building 1 is operational (estimate)."
+    }
+  ],
+  "epoch_id": "Meta Sarpy",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Sarpy: current power 80 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Sarpy is an operating AI data center in NE, NE, owned by meta. Epoch AI estimates it draws 80 MW today and 105 MW when finished."
+}

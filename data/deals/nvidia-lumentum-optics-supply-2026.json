@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-lumentum-optics-supply-2026",
+  "from": "nvidia",
+  "to": "lumentum",
+  "type": "supply",
+  "title": "Nvidia signs multi-billion laser purchase commitment with Lumentum",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-03-02",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm",
+      "publisher": "Lumentum (8-K Ex. 99.1)",
+      "date": "2026-03-02",
+      "kind": "sec_filing",
+      "quote": "The non-exclusive agreement includes an NVIDIA multi-billion purchase commitment and future capacity access rights for advanced laser components."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Alongside its $2 billion investment, Nvidia promised to buy laser components from Lumentum over several years. The companies called it a multi-billion purchase commitment but gave no exact figure, so the amount is left blank here."
+}

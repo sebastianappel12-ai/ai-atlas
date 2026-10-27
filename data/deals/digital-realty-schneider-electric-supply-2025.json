@@ -1,0 +1,24 @@
+{
+  "id": "digital-realty-schneider-electric-supply-2025",
+  "from": "digital-realty",
+  "to": "schneider-electric",
+  "type": "supply",
+  "title": "Digital Realty signs $373M power equipment deal with Schneider",
+  "amount_usd": 373000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-19",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-and-digital-realty-announce-373m-supply-capacity-agreement-to-meet-rising-data-center-demand-691d192005c0c16f5902ca3c",
+      "publisher": "Schneider Electric Newsroom",
+      "date": "2025-11-19",
+      "kind": "press_release",
+      "quote": "Schneider Electric, a global energy technology leader, today announced that Digital Realty, (NYSE: DLR) the leading global provider of carrier-neutral data center, colocation, and interconnection solutions, has signed a $373 million Supply Capacity Agreement (SCA) for Uninterruptible Power Supply (UPS), Low Voltage Switchgear (LVS), and Pre-Fabricated Skids."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Data center landlord Digital Realty reserved $373 million of Schneider Electric's production of backup power systems (UPS), switchgear and prefabricated equipment skids, guaranteeing it gets the gear on time for new data centers."
+}

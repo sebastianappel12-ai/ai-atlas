@@ -1,0 +1,31 @@
+{
+  "id": "amazon-anthropic-financing-facility-2026",
+  "from": "amazon",
+  "to": "anthropic",
+  "type": "financing",
+  "title": "Amazon offers Anthropic up to $20B more in funding",
+  "amount_usd": 20000000000,
+  "amount_kind": "up_to",
+  "date": "2026-04-20",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "publisher": "Amazon 10-Q (SEC)",
+      "date": "2026-07-31",
+      "kind": "sec_filing",
+      "quote": "Additionally, we entered into a financing arrangement to make available to Anthropic an aggregate facility not to exceed $20.0 billion that will expire 30 months after an Anthropic liquidity event, including an initial public offering (“IPO”)."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "In May 2026 (unaudited), Amazon invested $5.0 billion in the Company’s Series H redeemable convertible preferred stock financing, which reduced the amount available for issuance under the Amazon 2026 NPA to $15.0 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Besides its $5 billion share purchase, Amazon set up a facility that lets Anthropic draw up to $20 billion more as Amazon delivers computing capacity. Amazon has already used $5 billion of it to join Anthropic's Series H round, leaving $15 billion."
+}

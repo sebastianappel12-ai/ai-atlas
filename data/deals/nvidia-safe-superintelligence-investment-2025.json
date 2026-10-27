@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-safe-superintelligence-investment-2025",
+  "from": "nvidia",
+  "to": "safe-superintelligence",
+  "type": "investment",
+  "title": "Nvidia invests in Safe Superintelligence",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-14",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.businesstoday.in/amp/technology/news/story/google-nvidia-invest-in-openai-co-founder-ilya-sutskevers-ai-startup-safe-superintelligence-471877-2025-04-14",
+      "publisher": "Business Today (Reuters)",
+      "date": "2025-04-14",
+      "kind": "news",
+      "quote": "Alphabet and Nvidia have invested in Safe Superintelligence (SSI), the stealth-mode AI startup co-founded by former OpenAI chief scientist Ilya Sutskever, sources told Reuters."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested an undisclosed amount in Safe Superintelligence, Ilya Sutskever's AI lab, around a funding round that valued it at $32 billion. This comes from sources speaking to Reuters, not the companies."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-crusoe-investment-2024",
+  "from": "nvidia",
+  "to": "crusoe",
+  "type": "investment",
+  "title": "Nvidia joins Crusoe's $600M Series D",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding",
+      "publisher": "Crusoe Newsroom",
+      "date": "2024-12-12",
+      "kind": "press_release",
+      "quote": "The investment was led by Founders Fund, with participation from new and existing investors, including Fidelity, Long Journey Ventures, Mubadala, NVIDIA, Ribbit Capital, and Valor Equity Partners."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested an undisclosed amount in Crusoe's $600 million Series D. Crusoe builds AI data centers and runs a cloud filled with Nvidia GPUs."
+}

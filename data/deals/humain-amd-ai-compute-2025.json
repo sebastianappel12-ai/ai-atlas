@@ -1,0 +1,24 @@
+{
+  "id": "humain-amd-ai-compute-2025",
+  "from": "humain",
+  "to": "amd",
+  "type": "chip_order",
+  "title": "Humain and AMD plan 500 MW of AMD-based AI compute",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-05-13",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://newsroom.amd.com/news/amd-and-humain-form-strategic-10b-collaboration/",
+      "publisher": "AMD Newsroom",
+      "date": "2025-05-13",
+      "kind": "press_release",
+      "quote": "As part of the agreement, the parties will invest up to $10B to deploy 500 megawatts of AI compute capacity over the next five years."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Humain will build AI data centers using AMD chips and software, 500 megawatts over five years. The headline $10B is what both companies together plan to invest, not a price Humain pays AMD, so the amount is shown as undisclosed."
+}

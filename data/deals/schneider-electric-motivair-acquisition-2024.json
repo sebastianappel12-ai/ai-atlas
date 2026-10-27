@@ -1,0 +1,31 @@
+{
+  "id": "schneider-electric-motivair-acquisition-2024",
+  "from": "schneider-electric",
+  "to": "motivair",
+  "type": "acquisition",
+  "title": "Schneider Electric buys 75% of liquid-cooling maker Motivair for $850M",
+  "amount_usd": 850000000,
+  "amount_kind": "confirmed",
+  "date": "2024-10-17",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://silicon.co.uk/cloud/datacenter/schneider-electric-motivair-acquisition-584617",
+      "publisher": "Silicon UK",
+      "date": "2024-10-17",
+      "kind": "news",
+      "quote": "Under the terms of the transaction, Schneider Electric will acquire an initial 75 percent controlling interest in the equity of Motivair for $850 million in cash."
+    },
+    {
+      "url": "https://sustainabletechpartner.com/news/ma-schneider-electric-acquires-liquid-cooling-data-center-specialist-motivair/",
+      "publisher": "Sustainable Tech Partner",
+      "date": "2024-10-17",
+      "kind": "news",
+      "quote": "The $850 million purchase price involves 75% of Motivair."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Schneider Electric paid $850 million in cash for 75% of Motivair, a Buffalo, New York maker of liquid cooling equipment for supercomputers and AI servers, and plans to buy the remaining 25% in 2028. The deal closed in early 2025."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "coreweave-applied-digital-polaris-forge-expansion-2025",
+  "from": "coreweave",
+  "to": "applied-digital",
+  "type": "data_center",
+  "title": "CoreWeave adds 150 MW lease at Applied Digital's Polaris Forge 1 (~$4B)",
+  "amount_usd": 4000000000,
+  "amount_kind": "estimated",
+  "date": "2025-08-29",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315225012458/ex99-1.htm",
+      "publisher": "Applied Digital (SEC 8-K EX-99.1)",
+      "date": "2025-08-29",
+      "kind": "sec_filing",
+      "quote": "This new lease agreement with CoreWeave brings Applied Digital’s total anticipated contracted lease revenue to approximately $11B, which includes $7B in revenue from the initial two approximately 15-year leases executed in May of this year."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave signed a third long-term lease for another 150 megawatts at Applied Digital's North Dakota campus, bringing its total there to 400 megawatts. The ~$4 billion figure is derived: Applied Digital said total CoreWeave lease revenue rose to about $11 billion from the earlier $7 billion."
+}

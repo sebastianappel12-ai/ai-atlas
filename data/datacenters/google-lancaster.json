@@ -1,0 +1,57 @@
+{
+  "id": "google-lancaster",
+  "name": "Google Lancaster",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 39.727,
+    "lon": -82.6831,
+    "city": "Lancaster"
+  },
+  "state": "OH",
+  "power_mw_now": 137,
+  "power_mw_planned": 164,
+  "status": "operating",
+  "est_chips": {
+    "count": 130369,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 5189834000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2021-10-01",
+      "event": "Land clearing in progress for the site"
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Building 1 operational. This is estimated based on construction progress in [October 2023](https://earth.google.com/web/@39.72490515,-82.68845499,280.4138206a,1128.806013d,35y,-0h,0t,0r/data=CnUaXRJXCiUweDg4NDc4OWI3MDRhZGE1MWQ6MHg0Y2Q1MjE2Z"
+    },
+    {
+      "date": "2025-09-11",
+      "event": "Building 2 is close to completion. Structurally it is already complete, but there is still some equipment strewn around the building that suggests commissioning is ongoing."
+    },
+    {
+      "date": "2025-10-31",
+      "event": "Building 2 operational. This is supported by the state of Building 2 a month prior, which is entirely complete outside of some equipment that was removed later on."
+    },
+    {
+      "date": "2026-03-12",
+      "event": "At this point, Building 1 and 2 have since already been operational. Additionally, there is visible steam showing clear evidence of operational for both before this date."
+    }
+  ],
+  "epoch_id": "Google Lancaster",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Lancaster: current power 137 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Lancaster is an operating AI data center in Lancaster, OH, owned by google. Epoch AI estimates it draws 137 MW today and 164 MW when finished."
+}

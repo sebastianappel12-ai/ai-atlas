@@ -1,0 +1,28 @@
+{
+  "id": "qts",
+  "name": "QTS Data Centers",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "KS",
+  "website": "https://qtsdatacenters.com",
+  "aliases": [
+    "QTS Realty Trust",
+    "Quality Technology Services"
+  ],
+  "valuation": {
+    "amount_usd": 10000000000,
+    "period": "2021 take-private",
+    "as_of": "2021-06-07",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1577368/000110465921077392/tm2118899d1_ex99-1.htm",
+      "publisher": "QTS Realty Trust (SEC 8-K EX-99.1)",
+      "date": "2021-06-07",
+      "kind": "sec_filing",
+      "quote": "will acquire all outstanding shares of common stock of QTS Realty Trust for $78.00 per share in an all-cash transaction valued at approximately $10 billion"
+    }
+  },
+  "description": "Hyperscale data center developer and operator owned by Blackstone since 2021.",
+  "explain": "QTS builds giant data center campuses leased to cloud and AI companies. Blackstone bought it for about $10 billion (including debt) in 2021 and has poured billions more into expansion."
+}

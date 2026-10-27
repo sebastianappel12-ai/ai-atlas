@@ -1,0 +1,14 @@
+{
+  "id": "sambanova",
+  "name": "SambaNova",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://sambanova.ai",
+  "aliases": [
+    "SambaNova Systems"
+  ],
+  "description": "Designs reconfigurable dataflow (RDU) AI chips and sells AI systems and cloud inference.",
+  "explain": "SambaNova is a venture-backed AI chip startup. Intel discussed buying it in 2025 and instead became an investor and partner in 2026."
+}

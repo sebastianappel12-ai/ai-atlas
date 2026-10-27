@@ -1,0 +1,24 @@
+{
+  "id": "amazon-intel-custom-ai-chips-2024",
+  "from": "amazon",
+  "to": "intel",
+  "type": "supply",
+  "title": "AWS and Intel strike multi-billion-dollar custom chip deal",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-09-16",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.intc.com/news-events/press-releases/detail/1709/intel-and-aws-expand-strategic-collaboration-helping",
+      "publisher": "Intel Investor Relations",
+      "date": "2024-09-16",
+      "kind": "press_release",
+      "quote": "Intel Corp. (INTC) and Amazon Web Services. Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), today announced a co-investment in custom chip designs under a multi-year, multi-billion-dollar framework covering product and wafers from Intel."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon Web Services agreed to buy custom chips from Intel, including an AI networking chip on Intel's newest 18A process and a custom Xeon 6 server chip, under a multi-year framework the companies called multi-billion-dollar. The exact amount was not disclosed."
+}

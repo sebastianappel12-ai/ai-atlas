@@ -1,0 +1,31 @@
+{
+  "id": "openai-microsoft-azure-2025",
+  "from": "openai",
+  "to": "microsoft",
+  "type": "cloud_contract",
+  "title": "OpenAI commits to buy an extra $250B of Microsoft Azure cloud services",
+  "amount_usd": 250000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-10-28",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+      "publisher": "Official Microsoft Blog",
+      "date": "2025-10-28",
+      "kind": "press_release",
+      "quote": "OpenAI has contracted to purchase an incremental $250B of Azure services, and Microsoft will no longer have a right of first refusal to be OpenAI’s compute provider."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm",
+      "publisher": "Microsoft Form 10-Q (SEC EDGAR)",
+      "date": "2025-10-29",
+      "kind": "sec_filing",
+      "quote": "Under the new agreement, OpenAI has contracted to purchase an incremental $250 billion of Azure services, and Microsoft will no longer have a right of first refusal to be OpenAI's compute provider."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "When OpenAI restructured into a for-profit public benefit corporation in October 2025, it signed a new deal with Microsoft promising to buy another $250 billion of Azure cloud computing. In return Microsoft gave up its right to be first in line for OpenAI's new computing needs."
+}

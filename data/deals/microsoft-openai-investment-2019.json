@@ -1,0 +1,31 @@
+{
+  "id": "microsoft-openai-investment-2019",
+  "from": "microsoft",
+  "to": "openai",
+  "type": "investment",
+  "title": "Microsoft invests $1B in OpenAI",
+  "amount_usd": 1000000000,
+  "amount_kind": "confirmed",
+  "date": "2019-07-22",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2019/07/22/microsoft-invests-1-billion-in-openai-in-new-multiyear-partnership/",
+      "publisher": "TechCrunch",
+      "date": "2019-07-22",
+      "kind": "news",
+      "quote": "This $1 billion isn’t a lump-sum up-front investment — instead, it’s a total amount that can be delivered anytime over the next decade, in installments that correspond with funding efforts on OpenAI’s side that feed back into Microsoft’s own AI ambitions, as detailed by The New York Times."
+    },
+    {
+      "url": "https://www.pbs.org/newshour/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai",
+      "publisher": "PBS NewsHour (AP)",
+      "date": "2023-01-23",
+      "kind": "news",
+      "quote": "The tech giant on Monday described its new agreement as the third stage of a growing partnership with San Francisco-based OpenAI that began with a $1 billion investment in 2019."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft put $1 billion into OpenAI in 2019, paid in stages, and OpenAI agreed to run its work on Microsoft's Azure cloud. This was the start of the partnership that made Microsoft OpenAI's biggest backer."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "figure-ai",
+  "name": "Figure AI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.figure.ai",
+  "aliases": [
+    "Figure"
+  ],
+  "valuation": {
+    "amount_usd": 39000000000,
+    "period": "Series C (post-money)",
+    "as_of": "2025-09-16",
+    "estimate": false,
+    "source": {
+      "url": "https://www.figure.ai/news/series-c",
+      "publisher": "Figure AI",
+      "date": "2025-09-16",
+      "kind": "press_release",
+      "quote": "Today we’re announcing that we have exceeded more than $1 billion in committed capital through our Series C financing round, at a post-money valuation of $39 billion."
+    }
+  },
+  "description": "Builds general-purpose humanoid robots and the Helix AI system that controls them.",
+  "explain": "Figure is the best-funded humanoid-robot startup, backed by Nvidia, Intel, Qualcomm and others; its robots need large amounts of AI computing to train."
+}

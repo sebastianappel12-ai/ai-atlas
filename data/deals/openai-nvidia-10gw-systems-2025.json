@@ -1,0 +1,24 @@
+{
+  "id": "openai-nvidia-10gw-systems-2025",
+  "from": "openai",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "OpenAI plans to deploy at least 10 GW of Nvidia systems",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-22",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-09-22",
+      "kind": "press_release",
+      "quote": "OpenAI and NVIDIA today announced a letter of intent for a landmark strategic partnership to deploy at least 10 gigawatts of NVIDIA systems for OpenAI's next-generation AI infrastructure to train and run its next generation of models on the path to deploying superintelligence."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI signed a letter of intent (a non-binding plan) to use at least 10 gigawatts of Nvidia computers, with the first gigawatt due in the second half of 2026. No price was given; Nvidia separately said it intends to invest up to $100B in OpenAI as the systems are deployed, so money flows both ways."
+}

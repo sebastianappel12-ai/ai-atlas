@@ -1,0 +1,32 @@
+{
+  "id": "applied-materials-kokusai-electric-acquisition-2021",
+  "from": "applied-materials",
+  "to": "kokusai-electric",
+  "type": "acquisition",
+  "title": "Applied's raised $3.5B Kokusai Electric deal (terminated)",
+  "amount_usd": 3500000000,
+  "amount_kind": "confirmed",
+  "date": "2021-01-01",
+  "status": "canceled",
+  "supersedes": "applied-materials-kokusai-electric-acquisition-2019",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695121000013/amat-20210131.htm",
+      "publisher": "Applied Materials 10-Q (Q1 FY2021)",
+      "date": "2021-02-25",
+      "kind": "sec_filing",
+      "quote": "On January 1, 2021, the parties to the SPA entered into an amendment, pursuant to which they agreed, among other things, to extend the Outside Date to March 19, 2021 (Extended Outside Date); increase the base purchase price to $3.5 billion"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312521097484/d165560dex991.htm",
+      "publisher": "Applied Materials (SEC 8-K Exhibit 99.1)",
+      "date": "2021-03-29",
+      "kind": "sec_filing",
+      "quote": "Applied Materials, Inc. today announced that the amended Kokusai Electric Corporation share purchase agreement with KKR HKE Investment L.P. terminated as of March 19, 2021 as Applied did not receive confirmation of timely approval from the regulator in China."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Applied Materials raised its offer for Kokusai Electric to $3.5 billion while waiting for Chinese antitrust approval. The approval never came, the agreement expired in March 2021, and Applied paid KKR a $154 million termination fee instead of buying the company."
+}

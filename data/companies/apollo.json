@@ -1,0 +1,43 @@
+{
+  "id": "apollo",
+  "name": "Apollo Global Management",
+  "sector": "investor",
+  "public": true,
+  "ticker": "NYSE:APO",
+  "cik": "0001858681",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.apollo.com",
+  "aliases": [
+    "Apollo",
+    "Apollo Global Management, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 32049000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 32,049,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001858681-26-000013)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 1050000000000,
+    "period": "AUM",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000036/agmearningsrelease2q2026.htm",
+      "publisher": "Apollo Form 8-K earnings release (SEC EDGAR)",
+      "date": "2026-08-04",
+      "kind": "sec_filing",
+      "quote": "Total AUM of $1.05 trillion benefited from inflows of $60 billion in the second quarter and $298 billion over the last twelve months"
+    }
+  },
+  "description": "Alternative asset manager and private credit lender that funds large industrial and chip-factory projects.",
+  "explain": "Apollo provides big private-credit and equity checks to capital-hungry tech builders, such as the $11 billion it led for a 49% stake in Intel's Fab 34 in Ireland."
+}

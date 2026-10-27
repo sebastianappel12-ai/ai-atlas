@@ -1,0 +1,29 @@
+{
+  "id": "bloom-energy",
+  "name": "Bloom Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:BE",
+  "cik": "0001664703",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.bloomenergy.com",
+  "aliases": [
+    "Bloom Energy Corp"
+  ],
+  "revenue": {
+    "amount_usd": 2001614000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-09",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 2,001,614,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001628280-26-006516)."
+    }
+  },
+  "description": "Maker of solid oxide fuel cells that generate on-site electricity from natural gas or hydrogen.",
+  "explain": "Bloom's fuel cells let data centers get power on site without waiting for the grid; Oracle, AEP and CoreWeave have signed large deals with it."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "talen-energy",
+  "name": "Talen Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NASDAQ:TLN",
+  "cik": "0001622536",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://talenenergy.com",
+  "aliases": [
+    "Talen Energy Corp"
+  ],
+  "revenue": {
+    "amount_usd": 2518000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162253626000017/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 2,518,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001622536-26-000017)."
+    }
+  },
+  "description": "Independent power producer that owns the Susquehanna nuclear plant in Pennsylvania and gas plants.",
+  "explain": "Talen sold Amazon a data center campus next to its Susquehanna nuclear plant and agreed to supply Amazon up to 1,920 MW of nuclear power through 2042, one of the first big nuclear-for-AI deals."
+}

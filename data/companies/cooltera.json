@@ -1,0 +1,12 @@
+{
+  "id": "cooltera",
+  "name": "CoolTera",
+  "sector": "networking",
+  "public": false,
+  "country": "GB",
+  "aliases": [
+    "CoolTera Ltd"
+  ],
+  "description": "UK maker of coolant distribution units and piping for data center liquid cooling; acquired by Vertiv in 2023.",
+  "explain": "CoolTera's equipment feeds coolant to liquid-cooled AI racks. Vertiv bought it for an undisclosed price."
+}

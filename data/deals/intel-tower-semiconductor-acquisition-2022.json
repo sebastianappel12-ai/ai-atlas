@@ -1,0 +1,31 @@
+{
+  "id": "intel-tower-semiconductor-acquisition-2022",
+  "from": "intel",
+  "to": "tower-semiconductor",
+  "type": "acquisition",
+  "title": "Intel's $5.4B deal to buy Tower Semiconductor (canceled)",
+  "amount_usd": 5400000000,
+  "amount_kind": "confirmed",
+  "date": "2022-02-15",
+  "status": "canceled",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522043022/d318338dex991.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2022-02-15",
+      "kind": "sec_filing",
+      "quote": "Intel Corporation (Nasdaq: INTC) and Tower Semiconductor (Nasdaq: TSEM), a leading foundry for analog semiconductor solutions, today announced a definitive agreement under which Intel will acquire Tower for $53 per share in cash, representing a total enterprise value of approximately $5.4 billion."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/928876/000117891323002897/exhibit_99-1.htm",
+      "publisher": "Tower Semiconductor (SEC 6-K Exhibit 99.1)",
+      "date": "2023-08-16",
+      "kind": "sec_filing",
+      "quote": "Pursuant to the terms of the merger agreement, and in connection with this termination, Intel will pay to Tower a reverse termination fee equal to $353 million."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Intel agreed to buy Israeli contract chipmaker Tower Semiconductor for about $5.4 billion to grow its foundry business. The deal was called off in August 2023 after Intel failed to get a required regulatory approval (China) in time, so this money never moved."
+}

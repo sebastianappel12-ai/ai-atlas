@@ -1,0 +1,32 @@
+{
+  "id": "nvidia-coreweave-capacity-backstop-2025",
+  "from": "nvidia",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "Nvidia agrees to buy CoreWeave's unsold capacity, $6.3B initial value",
+  "amount_usd": 6300000000,
+  "amount_kind": "up_to",
+  "date": "2025-09-09",
+  "length_years": 6.5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+      "publisher": "CoreWeave 8-K (SEC)",
+      "date": "2025-09-15",
+      "kind": "sec_filing",
+      "quote": "Under the terms of agreement, in instances where the Company’s datacenter capacity is not fully utilized by its own customers, NVIDIA is obligated to purchase the residual unsold capacity through April 13, 2032, subject to any termination described below and satisfaction of delivery and availability of service requirements."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+      "publisher": "CoreWeave 8-K (SEC)",
+      "date": "2025-09-15",
+      "kind": "sec_filing",
+      "quote": "In addition to the MSA, NVIDIA supplies the Company with NVIDIA GPUs and is a stockholder of the Company."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia agreed to buy any CoreWeave computing capacity that CoreWeave's own customers don't use, through April 2032; the order has an initial value of $6.3 billion. Nvidia pays only for leftover capacity, so the real amount could be lower. Nvidia also sells CoreWeave its GPUs and owns CoreWeave shares, so money flows both ways."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "intel",
+  "name": "Intel",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "NASDAQ:INTC",
+  "cik": "0000050863",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.intel.com",
+  "aliases": [
+    "Intel Corporation",
+    "Intel Foundry",
+    "Intel Foundry Services",
+    "IFS"
+  ],
+  "revenue": {
+    "amount_usd": 52853000000,
+    "period": "FY2025 (ended 2025-12-27)",
+    "as_of": "2025-12-27",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-01-23",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 52,853,000,000 USD for 2024-12-29 to 2025-12-27 (10-K, accession 0000050863-26-000011)."
+    }
+  },
+  "description": "US chipmaker that designs PC and server processors and is building a contract manufacturing (foundry) business.",
+  "explain": "Intel is the main US-owned maker of leading-edge chips. Struggling to keep up, it has raised money from Nvidia, SoftBank, the US government and private-equity partners while trying to win foundry customers like Microsoft and Amazon."
+}

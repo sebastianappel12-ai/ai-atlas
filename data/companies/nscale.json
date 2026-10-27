@@ -1,0 +1,26 @@
+{
+  "id": "nscale",
+  "name": "Nscale",
+  "sector": "neocloud",
+  "public": false,
+  "country": "GB",
+  "website": "https://www.nscale.com",
+  "aliases": [
+    "Nscale Ltd"
+  ],
+  "valuation": {
+    "amount_usd": 14600000000,
+    "period": "Series C",
+    "as_of": "2026-03-09",
+    "estimate": false,
+    "source": {
+      "url": "https://www.nscale.com/press-releases/nscale-series-c",
+      "publisher": "Nscale Newsroom",
+      "date": "2026-03-09",
+      "kind": "press_release",
+      "quote": "This round values Nscale at $14.6 billion."
+    }
+  },
+  "description": "London-based AI cloud building GPU campuses in the UK, Norway, Portugal and Texas, with Microsoft as anchor customer.",
+  "explain": "Nscale grew from a small European cloud into a major Microsoft supplier in about two years, funded by investors including Nvidia, Dell and Nokia, the companies that sell it hardware."
+}

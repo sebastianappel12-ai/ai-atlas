@@ -1,0 +1,31 @@
+{
+  "id": "softbank-openai-follow-on-2026",
+  "from": "softbank",
+  "to": "openai",
+  "type": "investment",
+  "title": "SoftBank invests another $30B in OpenAI",
+  "amount_usd": 30000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-27",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20260227",
+      "publisher": "SoftBank Group",
+      "date": "2026-02-27",
+      "kind": "press_release",
+      "quote": "Upon completion of the Follow-on Investment, SBG’s cumulative investment in OpenAI is expected to total USD 64.6 billion, representing an ownership interest of approximately 13%."
+    },
+    {
+      "url": "https://group.softbank/en/news/press/20261001",
+      "publisher": "SoftBank Group",
+      "date": "2026-10-01",
+      "kind": "press_release",
+      "quote": "Following the Third Tranche Investment, SBG has now completed the USD 30.0 billion follow-on investments in OpenAI previously announced."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "In February 2026 SoftBank agreed to put another $30 billion into OpenAI's new funding round, paid in three $10 billion pieces in April, July and October 2026, partly with borrowed money. That brought SoftBank's total OpenAI investment to $64.6 billion for about 13% of the company."
+}

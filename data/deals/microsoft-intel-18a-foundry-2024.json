@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-intel-18a-foundry-2024",
+  "from": "microsoft",
+  "to": "intel",
+  "type": "supply",
+  "title": "Microsoft picks Intel 18A to manufacture a custom chip",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-02-21",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2024-04-25",
+      "kind": "sec_filing",
+      "quote": "This quarter, Microsoft also announced its plans to design a chip on Intel 18A."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "At Intel's foundry launch event in February 2024, Microsoft said it would have one of its own chip designs manufactured on Intel's 18A process. It was a marquee customer win for Intel's contract manufacturing business; the value was not disclosed."
+}

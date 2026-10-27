@@ -1,0 +1,14 @@
+{
+  "id": "sequoia",
+  "name": "Sequoia Capital",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.sequoiacap.com",
+  "aliases": [
+    "Sequoia"
+  ],
+  "description": "Venture capital firm based in Menlo Park, California, investing in AI labs and AI software companies.",
+  "explain": "Sequoia is a repeat backer of frontier AI labs: it co-led Anthropic's $65 billion Series H and invested in xAI and Safe Superintelligence."
+}

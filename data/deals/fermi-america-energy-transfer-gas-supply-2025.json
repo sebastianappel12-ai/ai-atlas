@@ -1,0 +1,24 @@
+{
+  "id": "fermi-america-energy-transfer-gas-supply-2025",
+  "from": "fermi-america",
+  "to": "energy-transfer",
+  "type": "supply",
+  "title": "Fermi America secures firm gas supply from Energy Transfer for Project Matador",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-09",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000010/frmi-20251231.htm",
+      "publisher": "Fermi Inc. Form 10-K (SEC)",
+      "date": "2026-03-30",
+      "kind": "sec_filing",
+      "quote": "Natural Gas Supply and Fuel Infrastructure On October 9, 2025, we announced that we secured firm natural gas supply arrangements with Energy Transfer intended to support Phase 1 operations."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fermi America, which is building the 'Project Matador' private power-and-data-center campus near Amarillo, Texas, arranged firm natural gas supply from Energy Transfer for its first phase of gas-fired generation. Volumes and price not disclosed."
+}

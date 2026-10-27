@@ -1,0 +1,49 @@
+{
+  "id": "meta-gallatin",
+  "name": "Meta Gallatin",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 36.3883,
+    "lon": -86.4476,
+    "city": "Gallatin"
+  },
+  "state": "TN",
+  "power_mw_now": 87,
+  "power_mw_planned": 114,
+  "status": "operating",
+  "est_chips": {
+    "count": 99545,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 3295734000,
+  "grid_region": "TVA",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-09-11",
+      "event": "Land clearing starts for Building 1."
+    },
+    {
+      "date": "2026-02-09",
+      "event": "Building 1 shell and cooling looks complete, but construction equipment is still seen around cooling and building."
+    },
+    {
+      "date": "2026-08-24",
+      "event": "Building 1 is operational, based on a lack of construction activity around the shell and cooling equipment, and about 6 months passing after structural completion."
+    }
+  ],
+  "epoch_id": "Meta Gallatin",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Gallatin: current power 87 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Gallatin is an operating AI data center in Gallatin, TN, owned by meta. Epoch AI estimates it draws 87 MW today and 114 MW when finished."
+}

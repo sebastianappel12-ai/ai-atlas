@@ -1,0 +1,29 @@
+{
+  "id": "astera-labs",
+  "name": "Astera Labs",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NASDAQ:ALAB",
+  "cik": "0001736297",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.asteralabs.com",
+  "aliases": [
+    "Astera Labs Inc"
+  ],
+  "revenue": {
+    "amount_usd": 852525000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000010/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-20",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 852,525,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001736297-26-000010)."
+    }
+  },
+  "description": "Designs connectivity chips that link GPUs, CPUs and memory inside AI servers.",
+  "explain": "Astera Labs sells the small chips that keep data flowing between processors and memory inside AI servers, so it grows with every AI server shipped."
+}

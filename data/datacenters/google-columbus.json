@@ -1,0 +1,69 @@
+{
+  "id": "google-columbus",
+  "name": "Google Columbus",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 39.8615,
+    "lon": -83.004,
+    "city": "Columbus"
+  },
+  "state": "OH",
+  "power_mw_now": 303,
+  "power_mw_planned": 464,
+  "status": "operating",
+  "est_chips": {
+    "count": 576049,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 14622452000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-07-01",
+      "event": "Building 2 foundation work begins. Building 1 generators seem complete, cooling towers still under construction."
+    },
+    {
+      "date": "2024-04-01",
+      "event": "Building 1 operational. No visible construction and roads/parking complete around the building. Building 2 chillers are beginning construction. Foundation work begins for Building 3."
+    },
+    {
+      "date": "2025-03-01",
+      "event": "Building 2 operational. Parking complete, no more visible construction."
+    },
+    {
+      "date": "2025-10-01",
+      "event": "Building 3 operational. Surrounding roads finished, no more visible construction."
+    },
+    {
+      "date": "2026-02-21",
+      "event": "Buildings 1-3 are visibly operational, with steam coming out of the cooling towers. Meanwhile Building 4 is extremely close to completion, with all backup generators complete with only 3 cooling towers missing their fans. ~1/2 the generator"
+    },
+    {
+      "date": "2026-05-01",
+      "event": "Building 4 operational. No more visible construction, and since only 3 fans needed to be installed since Feburary, operational date was likely soon after. Building 5 roof almost complete."
+    },
+    {
+      "date": "2026-08-05",
+      "event": "Confirmation that Building 4 is complete. Building 5 has progressed since February, with a complete roof, all backup generators in place, and five cooling towers in place."
+    },
+    {
+      "date": "2027-07-01",
+      "event": "Building 5 operational. The [transmission line construction notice](https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf) that expands site by"
+    }
+  ],
+  "epoch_id": "Google Columbus",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Columbus: current power 303 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Columbus is an operating AI data center in Columbus, OH, owned by google. Epoch AI estimates it draws 303 MW today and 464 MW when finished."
+}

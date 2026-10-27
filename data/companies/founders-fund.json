@@ -1,0 +1,14 @@
+{
+  "id": "founders-fund",
+  "name": "Founders Fund",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://foundersfund.com",
+  "aliases": [
+    "Founders Fund"
+  ],
+  "description": "San Francisco venture capital firm co-founded by Peter Thiel.",
+  "explain": "Founders Fund co-led Anthropic's $30 billion Series G in 2026, part of the venture money pouring into frontier AI labs."
+}

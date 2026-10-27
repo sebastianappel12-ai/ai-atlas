@@ -1,0 +1,32 @@
+{
+  "id": "microsoft-arista-switch-purchases-2024",
+  "from": "microsoft",
+  "to": "arista",
+  "type": "supply",
+  "title": "Microsoft bought about $1.4B of Arista network gear in 2024",
+  "amount_usd": 1400000000,
+  "amount_kind": "estimated",
+  "date": "2024-12-31",
+  "length_years": 1,
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "publisher": "Arista Networks (10-K)",
+      "date": "2025-02-19",
+      "kind": "sec_filing",
+      "quote": "For example, sales to our end customer Microsoft represented 20%, 18% and 16% of our total revenue for the years ended 2024, 2023 and 2022 respectively."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "publisher": "Arista Networks (10-K)",
+      "date": "2025-02-19",
+      "kind": "sec_filing",
+      "quote": "Total revenue $ 7,003,146 $ 5,860,168 $ 4,381,310"
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft is one of Arista's two biggest customers for the high-speed switches that link servers in its cloud and AI data centers. Arista's annual report says Microsoft was 20% of its 2024 revenue of $7.0 billion, so roughly $1.4 billion; that dollar figure is our calculation, not a number Arista reported."
+}

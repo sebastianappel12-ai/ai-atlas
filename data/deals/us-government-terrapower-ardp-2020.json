@@ -1,0 +1,31 @@
+{
+  "id": "us-government-terrapower-ardp-2020",
+  "from": "us-government",
+  "to": "terrapower",
+  "type": "investment",
+  "title": "Energy Department gives TerraPower $80M to start Natrium reactor demo",
+  "amount_usd": 80000000,
+  "amount_kind": "confirmed",
+  "date": "2020-10-13",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.energy.gov/ne/articles/us-department-energy-announces-160-million-first-awards-under-advanced-reactor",
+      "publisher": "U.S. Department of Energy",
+      "date": "2020-10-13",
+      "kind": "press_release",
+      "quote": "DOE is awarding TerraPower LLC (Bellevue, Washington) and X-energy (Rockville, Maryland) $80 million each in initial funding to build two advanced nuclear reactors that can be operational within seven years."
+    },
+    {
+      "url": "https://www.energy.gov/ne/articles/us-department-energy-announces-160-million-first-awards-under-advanced-reactor",
+      "publisher": "U.S. Department of Energy",
+      "date": "2020-10-13",
+      "kind": "press_release",
+      "quote": "The Department will invest a total of $3.2 billion over seven years, subject to the availability of future appropriations, with our industry partners providing matching funds."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Energy Department granted TerraPower $80 million in first-year money to build a demonstration Natrium advanced reactor. DOE said it would put up to $3.2 billion over seven years into this and X-energy's project combined, depending on future budgets."
+}

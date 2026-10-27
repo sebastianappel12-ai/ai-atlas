@@ -1,0 +1,16 @@
+{
+  "id": "spacex",
+  "name": "SpaceX",
+  "sector": "ai_lab",
+  "public": true,
+  "ticker": "NASDAQ:SPCX",
+  "cik": "0001181412",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.spacex.com",
+  "aliases": [
+    "Space Exploration Technologies Corp."
+  ],
+  "description": "Rocket, Starlink and AI company; owns xAI (Grok, X) since February 2026 and Cursor maker Anysphere since August 2026.",
+  "explain": "SpaceX became an AI lab by buying xAI and Cursor, so the AI spending of both now sits inside a public company that also earns cash from Starlink and launches."
+}

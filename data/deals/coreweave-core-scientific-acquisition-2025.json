@@ -1,0 +1,31 @@
+{
+  "id": "coreweave-core-scientific-acquisition-2025",
+  "from": "coreweave",
+  "to": "core-scientific",
+  "type": "acquisition",
+  "title": "CoreWeave's ~$9B all-stock bid for Core Scientific (voted down)",
+  "amount_usd": 9000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-07-07",
+  "status": "canceled",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000119312525155925/d52423dex991.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2025-07-07",
+      "kind": "sec_filing",
+      "quote": "As of July 3, 2025, the agreed-upon exchange ratio implies a total equity value of approximately $9.0 billion."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/ef20057995_ex99-1.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2025-10-30",
+      "kind": "sec_filing",
+      "quote": "On October 30, 2025, pursuant to and in accordance with the merger agreement, Core Scientific terminated the merger agreement with CoreWeave, effective immediately."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave agreed to buy its landlord Core Scientific with its own shares, valued at about $9 billion. Core Scientific shareholders voted it down in October 2025 and the deal was terminated, so no money changed hands."
+}

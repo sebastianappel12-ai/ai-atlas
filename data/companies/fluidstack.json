@@ -1,0 +1,27 @@
+{
+  "id": "fluidstack",
+  "name": "Fluidstack",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.fluidstack.io",
+  "aliases": [
+    "FluidStack"
+  ],
+  "valuation": {
+    "amount_usd": 7500000000,
+    "period": "Series A",
+    "as_of": "2026-01-31",
+    "estimate": false,
+    "source": {
+      "url": "https://fluidstack.io/news/series-a-announcement",
+      "publisher": "Fluidstack Newsroom",
+      "date": "2026-07-20",
+      "kind": "press_release",
+      "quote": "In January, Fluidstack raised an $830M Series A at a $7.5B valuation, led by Situational Awareness, with participation from world-leading investors."
+    }
+  },
+  "description": "AI cloud and data center developer building custom GPU campuses for frontier labs, including Anthropic.",
+  "explain": "Fluidstack was picked by Anthropic to build and run custom data centers in Texas and New York as part of a $50 billion US infrastructure plan, turning a small GPU cloud into a major builder."
+}

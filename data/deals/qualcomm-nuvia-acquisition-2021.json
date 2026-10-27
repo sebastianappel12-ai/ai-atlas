@@ -1,0 +1,24 @@
+{
+  "id": "qualcomm-nuvia-acquisition-2021",
+  "from": "qualcomm",
+  "to": "nuvia",
+  "type": "acquisition",
+  "title": "Qualcomm buys CPU designer Nuvia for about $1.4B",
+  "amount_usd": 1100000000,
+  "amount_kind": "confirmed",
+  "date": "2021-01-13",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894921000043/qcom-20210328.htm",
+      "publisher": "Qualcomm (Form 10-Q)",
+      "date": "2021-04-28",
+      "kind": "sec_filing",
+      "quote": "Acquisitions On March 16, 2021 (the Closing Date), we completed the acquisition of NuVia, Inc. (NUVIA) for $1.1 billion (net of cash acquired), substantially all of which was paid in cash."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Qualcomm bought Nuvia, a startup founded by former Apple chip designers, to build its own high-performance processors. It was announced at about $1.4B; Qualcomm's filing shows $1.1B net of Nuvia's cash, the amount shown."
+}

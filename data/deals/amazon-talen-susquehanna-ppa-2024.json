@@ -1,0 +1,26 @@
+{
+  "id": "amazon-talen-susquehanna-ppa-2024",
+  "from": "amazon",
+  "to": "talen-energy",
+  "type": "power_deal",
+  "title": "AWS signs PPA for up to 960 MW from Talen's Susquehanna nuclear plant",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-03-04",
+  "length_years": 18,
+  "status": "revised",
+  "superseded_by": "amazon-talen-susquehanna-ppa-2025",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025008786/tln-20241231.htm",
+      "publisher": "Talen Energy Form 10-K (SEC)",
+      "date": "2025-02-28",
+      "kind": "sec_filing",
+      "quote": "Under the AWS PPA, AWS has minimum contractual power commitments that increase in 120 MW increments annually (or earlier, at AWS’s option), with a one-time option to either cap commitments at 480 MW or otherwise purchase, in continuing annual steps, up to 960 MW."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Alongside buying the Cumulus data center campus in March 2024, AWS signed a fixed-price deal (initial term 18 years) to buy power directly from Talen's Susquehanna nuclear plant, ramping up to 960 MW. It was replaced in June 2025 by a larger 1,920 MW grid-connected PPA. Plant: Susquehanna Steam Electric Station, Pennsylvania."
+}

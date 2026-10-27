@@ -1,0 +1,31 @@
+{
+  "id": "spacex-anysphere-acquisition-2026",
+  "from": "spacex",
+  "to": "anysphere",
+  "type": "acquisition",
+  "title": "SpaceX acquires Cursor maker Anysphere",
+  "amount_usd": 60000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-06-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "publisher": "SpaceX 10-Q (SEC)",
+      "date": "2026-10-22",
+      "kind": "sec_filing",
+      "quote": "The Exchange Ratio was calculated based on an implied equity value of Cursor of $60 billion and VWAP of the Company's Class A common stock over the seven consecutive trading days immediately preceding the closing of the Cursor Merger of $128.65."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "publisher": "SpaceX 10-Q (SEC)",
+      "date": "2026-10-22",
+      "kind": "sec_filing",
+      "quote": "Cursor Merger On June 16, 2026, the Company entered into an Agreement and Plan of Merger (\"Cursor Merger Agreement\") with Anysphere, Inc."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SpaceX bought Anysphere, maker of the Cursor coding app, paying in SpaceX shares based on a $60 billion value for Cursor. The deal was signed June 16 and closed August 14, 2026; SpaceX booked total consideration of about $42.5 billion at the closing share price."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "amazon-intel-packaging-2021",
+  "from": "amazon",
+  "to": "intel",
+  "type": "supply",
+  "title": "AWS named first customer of Intel's foundry packaging services",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2021-07-26",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312521224438/d199788dex991.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2021-07-26",
+      "kind": "sec_filing",
+      "quote": "Intel announced that AWS will be the first customer to use IFS packaging solutions"
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon Web Services became the first customer for Intel Foundry Services' advanced chip packaging, which joins multiple chip pieces into one package. It was an early sign of outside demand for Intel's foundry push; terms were not disclosed."
+}

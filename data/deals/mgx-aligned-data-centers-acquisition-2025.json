@@ -1,0 +1,24 @@
+{
+  "id": "mgx-aligned-data-centers-acquisition-2025",
+  "from": "mgx",
+  "to": "aligned-data-centers",
+  "type": "acquisition",
+  "title": "MGX co-buys Aligned Data Centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-15",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://w.media/aip-led-consortium-completes-us-40-billion-acquisition-of-aligned-data-centers/",
+      "publisher": "W.Media",
+      "date": "2026-07-23",
+      "kind": "news",
+      "quote": "July 23, 2026 at 3:11 PM GMT+8 Log in to save A consortium led by the Artificial Intelligence Infrastructure Partnership (AIP), Abu Dhabi investment firm MGX, and BlackRock’s Global Infrastructure Partners (GIP) has officially completed its acquisition of Aligned Data Centers from infrastructure funds managed by Macquarie Asset Management and its co-investors."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Abu Dhabi's MGX was one of the buyers of Aligned Data Centers in the roughly $40 billion deal (counted in full on the BlackRock record); MGX's share was not disclosed."
+}

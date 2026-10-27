@@ -1,0 +1,31 @@
+{
+  "id": "microsoft-helion-fusion-ppa-2023",
+  "from": "microsoft",
+  "to": "helion",
+  "type": "power_deal",
+  "title": "Microsoft signs first fusion power purchase agreement with Helion",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-05-10",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/",
+      "publisher": "Helion",
+      "date": "2023-05-10",
+      "kind": "press_release",
+      "quote": "Today we announced that Microsoft has agreed to purchase electricity from Helion’s first fusion power plant, scheduled for deployment in 2028."
+    },
+    {
+      "url": "https://www.cnbc.com/2023/05/10/microsoft-agrees-to-buy-power-from-sam-altman-backed-helion-in-2028.html",
+      "publisher": "CNBC",
+      "date": "2023-05-10",
+      "kind": "news",
+      "quote": "Photo courtesy Helion Microsoft said Wednesday it has signed a power purchase agreement with nuclear fusion startup Helion Energy to buy electricity from it in 2028."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft agreed to buy electricity from Helion's first fusion power plant, targeted for 2028 in Washington state (reported as at least 50 MW). It was the first-ever fusion power purchase agreement; financial terms were not disclosed. Plant: Helion's planned Orion fusion plant, Malaga, Washington (not yet operating)."
+}

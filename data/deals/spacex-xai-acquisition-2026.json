@@ -1,0 +1,31 @@
+{
+  "id": "spacex-xai-acquisition-2026",
+  "from": "spacex",
+  "to": "xai",
+  "type": "acquisition",
+  "title": "SpaceX acquires xAI in an all-stock deal",
+  "amount_usd": 250000000000,
+  "amount_kind": "estimated",
+  "date": "2026-02-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "publisher": "SpaceX 10-Q (SEC)",
+      "date": "2026-10-22",
+      "kind": "sec_filing",
+      "quote": "On February 2, 2026 (“xAI Merger Date”), the Company completed its acquisition of X.AI Holdings Corp."
+    },
+    {
+      "url": "https://www.nst.com.my/amp/business/corporate/2026/02/1370202/spacex-acquires-xai-musk-moves-unite-ai-space-ambitions",
+      "publisher": "New Straits Times (Reuters)",
+      "date": "2026-02-03",
+      "kind": "news",
+      "quote": "The transaction values SpaceX at US$1 trillion, and xAI at US$250 billion, according to a person familiar with the matter."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SpaceX bought xAI (which already owned X, formerly Twitter) by swapping xAI shares for SpaceX shares, so little cash changed hands. A source put xAI's value at about $250 billion. Both companies are controlled by Elon Musk."
+}

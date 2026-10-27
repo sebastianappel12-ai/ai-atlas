@@ -1,0 +1,24 @@
+{
+  "id": "lumentum-neophotonics-acquisition-2021",
+  "from": "lumentum",
+  "to": "neophotonics",
+  "type": "acquisition",
+  "title": "Lumentum buys optical components maker NeoPhotonics for $918M",
+  "amount_usd": 918000000,
+  "amount_kind": "confirmed",
+  "date": "2021-11-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312521319601/d248799dex991.htm",
+      "publisher": "Lumentum (8-K Ex. 99.1)",
+      "date": "2021-11-04",
+      "kind": "sec_filing",
+      "quote": "today announced that they have entered into a definitive agreement under which Lumentum will acquire NeoPhotonics for $16.00 per share in cash, which represents a total equity value of approximately $918 million."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Lumentum paid NeoPhotonics shareholders $16 a share in cash, about $918 million, for its lasers and optical parts used in high-speed data center and telecom links. The deal closed in August 2022."
+}

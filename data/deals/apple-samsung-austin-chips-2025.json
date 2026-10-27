@@ -1,0 +1,24 @@
+{
+  "id": "apple-samsung-austin-chips-2025",
+  "from": "apple",
+  "to": "samsung",
+  "type": "supply",
+  "title": "Apple to source chips from Samsung's Austin, Texas fab",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "publisher": "Apple Newsroom",
+      "date": "2025-08-06",
+      "kind": "press_release",
+      "quote": "Apple is also working with Samsung at its fab in Austin, Texas, to launch an innovative new technology for making chips, which has never been used before anywhere in the world."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "As part of its US manufacturing push, Apple said Samsung's chip factory in Austin, Texas, will supply chips for Apple products, including iPhones, using a new chipmaking technology. No dollar figure was given."
+}

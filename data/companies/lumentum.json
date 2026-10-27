@@ -1,0 +1,29 @@
+{
+  "id": "lumentum",
+  "name": "Lumentum",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NASDAQ:LITE",
+  "cik": "0001633978",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.lumentum.com",
+  "aliases": [
+    "Lumentum Holdings Inc"
+  ],
+  "revenue": {
+    "amount_usd": 3014000000,
+    "period": "FY2026 (ended 2026-06-27)",
+    "as_of": "2026-06-27",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828026057358/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-17",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 3,014,000,000 USD for 2025-06-29 to 2026-06-27 (10-K, accession 0001628280-26-057358)."
+    }
+  },
+  "description": "Makes lasers and optical components and modules for data center and telecom networks.",
+  "explain": "Lumentum makes the lasers inside the optical links between AI chips. Nvidia agreed in 2026 to invest $2 billion in it and to buy billions of dollars of its lasers."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-enfabrica-license-hire-2025",
+  "from": "nvidia",
+  "to": "enfabrica",
+  "type": "licensing",
+  "title": "Nvidia reportedly pays $900M+ to license Enfabrica tech and hire its CEO",
+  "amount_usd": 900000000,
+  "amount_kind": "estimated",
+  "date": "2025-09-18",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.entrepreneur.com/business-news/nvidia-spends-nearly-a-billion-on-ai-startup-to-hire-ceo/497348",
+      "publisher": "Entrepreneur",
+      "date": "2025-09-19",
+      "kind": "news",
+      "quote": "According to a CNBC report on Thursday, Nvidia spent more than $900 million in cash and stock to hire Rochan Sankar, the CEO of AI chip startup Enfabrica, as well as several other employees at the company."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia reportedly paid more than $900M in cash and stock to hire Enfabrica's CEO and engineers and license its technology for linking huge numbers of AI chips together. The companies did not confirm the figure."
+}

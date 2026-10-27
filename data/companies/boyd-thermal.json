@@ -1,0 +1,13 @@
+{
+  "id": "boyd-thermal",
+  "name": "Boyd Thermal",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Boyd Corporation thermal business"
+  ],
+  "description": "Maker of liquid cooling and thermal systems for data centers and aerospace; acquired by Eaton in 2026.",
+  "explain": "Boyd Thermal makes liquid cooling for hot AI chips. Eaton paid $9.5 billion for it."
+}

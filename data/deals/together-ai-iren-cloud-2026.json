@@ -1,0 +1,24 @@
+{
+  "id": "together-ai-iren-cloud-2026",
+  "from": "together-ai",
+  "to": "iren",
+  "type": "cloud_contract",
+  "title": "Together AI signs multi-year cloud contract with IREN",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-07-20",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "publisher": "IREN 10-K (SEC)",
+      "date": "2026-08-27",
+      "kind": "sec_filing",
+      "quote": "In July 2026, we entered into multi-year cloud services contracts with leading AI developers including Prometheus, Perplexity and Together AI, representing approximately $2.8 billion in aggregate total contract value."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Together AI, itself an AI cloud, agreed to rent GPU capacity from IREN for several years. Its share of the $2.8 billion signed with three customers was not disclosed."
+}

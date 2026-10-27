@@ -1,0 +1,25 @@
+{
+  "id": "fluidstack-terawulf-abernathy-jv-2025",
+  "from": "fluidstack",
+  "to": "terawulf",
+  "type": "data_center",
+  "title": "Fluidstack signs 25-year, 168 MW lease with TeraWulf's Abernathy JV (~$9.5B)",
+  "amount_usd": 9500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-10-28",
+  "length_years": 25,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925102858/tm2529509d1_ex99-1.htm",
+      "publisher": "TeraWulf (SEC 8-K EX-99.1)",
+      "date": "2025-10-28",
+      "kind": "sec_filing",
+      "quote": "The 25-year hosting commitment represents approximately $9.5 billion in contracted revenue to the joint venture."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fluidstack committed to 25 years of rent for 168 megawatts at a new campus in Abernathy, Texas, owned by a joint venture that was 51% TeraWulf and 49% Fluidstack. In July 2026 TeraWulf agreed to sell its stake in that venture to a Fluidstack-led group."
+}

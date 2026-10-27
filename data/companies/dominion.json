@@ -1,0 +1,30 @@
+{
+  "id": "dominion",
+  "name": "Dominion Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:D",
+  "cik": "0000715957",
+  "country": "US",
+  "hq_state": "VA",
+  "website": "https://www.dominionenergy.com",
+  "aliases": [
+    "Dominion Energy, Inc",
+    "Dominion Energy Virginia"
+  ],
+  "revenue": {
+    "amount_usd": 16523000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526063120/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-23",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 16,523,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001193125-26-063120)."
+    }
+  },
+  "description": "Utility serving Virginia and the Carolinas, including Northern Virginia's 'Data Center Alley'.",
+  "explain": "Dominion's Virginia utility serves the world's largest cluster of data centers, so its grid buildout is central to how fast AI capacity can grow there."
+}

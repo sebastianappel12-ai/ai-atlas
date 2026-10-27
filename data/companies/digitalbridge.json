@@ -1,0 +1,43 @@
+{
+  "id": "digitalbridge",
+  "name": "DigitalBridge",
+  "sector": "investor",
+  "public": false,
+  "cik": "0001679688",
+  "country": "US",
+  "hq_state": "FL",
+  "website": "https://www.digitalbridge.com",
+  "aliases": [
+    "DigitalBridge Group, Inc.",
+    "DBRG",
+    "Colony Capital"
+  ],
+  "revenue": {
+    "amount_usd": 93959000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1679688/000167968826000021/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 93,959,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001679688-26-000021)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 108000000000,
+    "period": "AUM",
+    "as_of": "2025-12-29",
+    "estimate": false,
+    "source": {
+      "url": "https://group.softbank/en/news/press/20251229",
+      "publisher": "SoftBank Group",
+      "date": "2025-12-29",
+      "kind": "press_release",
+      "quote": "With a heritage of more than 30 years investing in and operating businesses across the digital ecosystem, including cell towers, data centers, fiber, small cells, and edge infrastructure, DigitalBridge manages $108 billion of infrastructure assets on behalf of its limited partners and shareholders."
+    }
+  },
+  "description": "Digital infrastructure investment manager (data centers, towers, fiber), owned by SoftBank Group since September 2026.",
+  "explain": "DigitalBridge's funds took data center operator Switch private in an $11 billion deal; SoftBank bought the firm in 2026 to get a ready-made data center investing platform."
+}

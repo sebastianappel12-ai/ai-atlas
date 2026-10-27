@@ -1,0 +1,24 @@
+{
+  "id": "amd-pensando-acquisition-2022",
+  "from": "amd",
+  "to": "pensando",
+  "type": "acquisition",
+  "title": "AMD buys Pensando for $1.9B",
+  "amount_usd": 1900000000,
+  "amount_kind": "confirmed",
+  "date": "2022-04-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/amd-20220326.htm",
+      "publisher": "AMD (Form 10-Q)",
+      "date": "2022-05-04",
+      "kind": "sec_filing",
+      "quote": "NOTE 14 – Subsequent Events On April 3, 2022, the Company entered into a definitive agreement to acquire Pensando Systems, Inc., for $1.9 billion (Pensando Merger), subject to certain working capital adjustments."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD bought Pensando, a maker of data-center networking chips (DPUs) that offload work from servers, for about $1.9B. Pensando's technology now goes into AMD's AI server racks."
+}

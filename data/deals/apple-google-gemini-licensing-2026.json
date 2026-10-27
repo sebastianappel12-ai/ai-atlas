@@ -1,0 +1,38 @@
+{
+  "id": "apple-google-gemini-licensing-2026",
+  "from": "apple",
+  "to": "google",
+  "type": "licensing",
+  "title": "Apple to base next Siri and Apple Intelligence models on Google Gemini (~$1B a year reported)",
+  "amount_usd": 1000000000,
+  "amount_kind": "estimated",
+  "date": "2026-01-12",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
+      "publisher": "Google Blog",
+      "date": "2026-01-12",
+      "kind": "press_release",
+      "quote": "Apple and Google have entered into a multi-year collaboration under which the next generation of Apple Foundation Models will be based on Google's Gemini models and cloud technology."
+    },
+    {
+      "url": "https://mezha.ua/en/news/nova-siri-vid-apple-pracyuvatime-na-bazi-google-gemini-306103/amp/",
+      "publisher": "Mezha (citing Bloomberg)",
+      "date": "2025-11-06",
+      "kind": "news",
+      "quote": "Apple will pay Google about $1 billion a year to use a model with 1.2 trillion parameters."
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/06/26/apple-paying-google-billion-year-for-ai-winner/",
+      "publisher": "The Motley Fool",
+      "date": "2026-06-26",
+      "kind": "news",
+      "quote": "The price tag is rumored to be roughly $1 billion a year, though neither company has confirmed terms."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Apple is paying Google to use its Gemini AI models as the base for the next Siri and Apple Intelligence. The deal is multi-year; Bloomberg reported Apple would pay about $1 billion per year (the amount shown is one year, not the total), and neither company has confirmed the price."
+}

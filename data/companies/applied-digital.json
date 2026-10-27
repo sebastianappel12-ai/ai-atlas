@@ -1,0 +1,31 @@
+{
+  "id": "applied-digital",
+  "name": "Applied Digital",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:APLD",
+  "cik": "0001144879",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.applieddigital.com",
+  "aliases": [
+    "Applied Digital Corp",
+    "Applied Digital Corporation",
+    "APLD"
+  ],
+  "revenue": {
+    "amount_usd": 611311000,
+    "period": "FY2026 (ended 2026-05-31)",
+    "as_of": "2026-05-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487926000048/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-07-29",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 611,311,000 USD for 2025-06-01 to 2026-05-31 (10-K, accession 0001144879-26-000048)."
+    }
+  },
+  "description": "Builds and leases 'AI Factory' data center campuses, including Polaris Forge 1 in North Dakota leased to CoreWeave.",
+  "explain": "Applied Digital went from hosting crypto miners to building AI data centers. Long leases with CoreWeave and unnamed investment-grade hyperscalers make it a landlord for AI compute."
+}

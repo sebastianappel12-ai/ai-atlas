@@ -1,0 +1,13 @@
+{
+  "id": "innovium",
+  "name": "Innovium",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Innovium, Inc."
+  ],
+  "description": "Designer of Ethernet switch chips for cloud data centers; part of Marvell since 2021.",
+  "explain": "Marvell bought Innovium for $1.1B in stock to add data-center switch chips."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "energy-harbor",
+  "name": "Energy Harbor",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "OH",
+  "aliases": [
+    "Energy Harbor Corp."
+  ],
+  "description": "Former owner of Ohio and Pennsylvania nuclear plants; merged into Vistra in March 2024.",
+  "explain": "Vistra's purchase of Energy Harbor brought it the Perry, Davis-Besse and Beaver Valley nuclear plants that now supply Meta."
+}

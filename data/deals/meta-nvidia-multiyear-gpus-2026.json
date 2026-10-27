@@ -1,0 +1,24 @@
+{
+  "id": "meta-nvidia-multiyear-gpus-2026",
+  "from": "meta",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "Meta signs multiyear deal for millions of Nvidia GPUs and CPUs",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-17",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2026-02-17",
+      "kind": "press_release",
+      "quote": "This partnership will enable the large-scale deployment of NVIDIA CPUs and millions of NVIDIA Blackwell and Rubin GPUs, as well as the integration of NVIDIA Spectrum-X™ Ethernet switches for Meta's Facebook Open Switching System platform."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to buy millions of Nvidia's current and next-generation AI chips, plus Nvidia CPUs and network switches, over several years. Terms were not disclosed; analysts estimate tens of billions of dollars."
+}

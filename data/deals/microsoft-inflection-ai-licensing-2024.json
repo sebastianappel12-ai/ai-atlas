@@ -1,0 +1,31 @@
+{
+  "id": "microsoft-inflection-ai-licensing-2024",
+  "from": "microsoft",
+  "to": "inflection-ai",
+  "type": "licensing",
+  "title": "Microsoft pays ~$650M to license Inflection's AI",
+  "amount_usd": 650000000,
+  "amount_kind": "estimated",
+  "date": "2024-03-19",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.ischool.berkeley.edu/news/2024/microsoft-paid-ai-startup-650-million-prof-emeritus-steve-weber-reflects-deal",
+      "publisher": "UC Berkeley School of Information (Reuters)",
+      "date": "2024-03-21",
+      "kind": "news",
+      "quote": "has agreed to pay AI startup Inflection about $650 million in cash in an unusual deal that would allow Microsoft to use Inflection’s models and hire most of the startup’s staff including its co-founders, a person familiar with the matter told Reuters on Thursday."
+    },
+    {
+      "url": "https://www.maginative.com/article/microsoft-reportedly-paying-inflection-650-million-for-ai-talent-and-tech/",
+      "publisher": "Maginative",
+      "date": "2024-03-21",
+      "kind": "news",
+      "quote": "According to The Information, Microsoft has agreed to pay approximately $650 million to Inflection AI."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft hired Inflection's founders and most of its staff and paid the startup about $650 million, mostly as a fee to license its AI models. The amount comes from people familiar with the deal; Microsoft did not confirm it."
+}

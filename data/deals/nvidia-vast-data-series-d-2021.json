@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-vast-data-series-d-2021",
+  "from": "nvidia",
+  "to": "vast-data",
+  "type": "investment",
+  "title": "Nvidia invests in VAST Data's $83M Series D",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2021-05-04",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://vastdata.com/news-post/vast-data-triples-valuation-in-one-year-to-3-7-billion/",
+      "publisher": "VAST Data",
+      "date": "2021-05-04",
+      "kind": "press_release",
+      "quote": "The round features strong participation from NVIDIA and several other existing investors, and is driven by VAST’s unique combination of rapid customer adoption and positive cash flow."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia was a major participant in VAST Data's $83 million funding round led by Tiger Global, which valued the storage software company at $3.7 billion. Nvidia's own amount was not disclosed."
+}

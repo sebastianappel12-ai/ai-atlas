@@ -1,0 +1,24 @@
+{
+  "id": "google-tva-hermes-2-clean-energy-2025",
+  "from": "google",
+  "to": "tva",
+  "type": "power_deal",
+  "title": "Google to get Hermes 2 nuclear clean energy attributes through TVA",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-18",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://kairospower.com/external_updates/google-kairos-power-tva-collaborate-to-meet-americas-growing-energy-needs/",
+      "publisher": "Kairos Power",
+      "date": "2025-08-18",
+      "kind": "press_release",
+      "quote": "Through this agreement, Google will receive the clean energy attributes from the plant through the TVA system to further decarbonize its data center operations in Montgomery County, Tennessee, and Jackson County, Alabama, and support future growth in the region."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google will receive the clean-energy credits from Kairos Power's 50 MW Hermes 2 reactor through TVA, the utility that powers its data centers in Montgomery County, Tennessee and Jackson County, Alabama. Payment terms were not disclosed. Plant: Kairos Power Hermes 2, Oak Ridge, Tennessee."
+}

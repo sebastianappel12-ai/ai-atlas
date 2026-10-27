@@ -1,0 +1,49 @@
+{
+  "id": "meta-jeffersonville",
+  "name": "Meta Jeffersonville",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 38.2791,
+    "lon": -85.739,
+    "city": "IN"
+  },
+  "state": "IN",
+  "power_mw_now": 178,
+  "power_mw_planned": 241,
+  "status": "operating",
+  "est_chips": {
+    "count": 203133,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6742996000,
+  "grid_region": "LGEE",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-02-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2026-03-06",
+      "event": "Building 1 and 2 shell and cooling look complete, but there's still construction activity. We give it another 3 months to operational."
+    },
+    {
+      "date": "2026-06-04",
+      "event": "Building 1 and 2 are operational."
+    }
+  ],
+  "epoch_id": "Meta Jeffersonville",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Jeffersonville: current power 178 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Jeffersonville is an operating AI data center in IN, IN, owned by meta. Epoch AI estimates it draws 178 MW today and 241 MW when finished."
+}

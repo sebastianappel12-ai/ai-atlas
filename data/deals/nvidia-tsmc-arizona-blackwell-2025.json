@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-tsmc-arizona-blackwell-2025",
+  "from": "nvidia",
+  "to": "tsmc",
+  "type": "supply",
+  "title": "Nvidia starts Blackwell chip production at TSMC Arizona",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-14",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-04-14",
+      "kind": "press_release",
+      "quote": "NVIDIA Blackwell chips have started production at TSMC’s chip plants in Phoenix, Arizona."
+    },
+    {
+      "url": "https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-10-17",
+      "kind": "press_release",
+      "quote": "NVIDIA founder and CEO Jensen Huang today visited TSMC’s semiconductor manufacturing facility in Phoenix to celebrate the first NVIDIA Blackwell wafer produced on U.S. soil, representing that Blackwell has reached volume production."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia pays TSMC to manufacture its AI chips; in 2025 it began making Blackwell AI chips at TSMC's Arizona factories, as part of a plan to build up to $500 billion of AI infrastructure in the US over four years. The value of Nvidia's TSMC orders is not disclosed."
+}

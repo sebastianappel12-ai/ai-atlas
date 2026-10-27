@@ -1,0 +1,43 @@
+{
+  "id": "blue-owl",
+  "name": "Blue Owl Capital",
+  "sector": "investor",
+  "public": true,
+  "ticker": "NYSE:OWL",
+  "cik": "0001823945",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.blueowl.com",
+  "aliases": [
+    "Blue Owl Capital Inc.",
+    "Blue Owl"
+  ],
+  "revenue": {
+    "amount_usd": 2870178000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1823945/000182394526000009/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-19",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 2,870,178,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001823945-26-000009)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 319000000000,
+    "period": "AUM",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1823945/000182394526000036/a63026-ex991xearningspress.htm",
+      "publisher": "Blue Owl Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2026-07-30",
+      "kind": "sec_filing",
+      "quote": "With $319 billion in assets under management as of June 30, 2026, we invest across three multi-strategy platforms: Credit, Real Assets and GP Strategic Capital."
+    }
+  },
+  "description": "Alternative asset manager that funds data center campuses through joint ventures and private credit.",
+  "explain": "Blue Owl's funds put up much of the money for giant AI campuses that others run, such as Meta's Hyperion site in Louisiana and Crusoe's Abilene, Texas campus."
+}

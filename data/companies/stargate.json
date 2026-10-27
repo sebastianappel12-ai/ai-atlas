@@ -1,0 +1,16 @@
+{
+  "id": "stargate",
+  "name": "Stargate (OpenAI/SoftBank/Oracle/MGX venture)",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "DE",
+  "website": "https://openai.com/index/announcing-the-stargate-project/",
+  "aliases": [
+    "Stargate",
+    "The Stargate Project",
+    "Stargate LLC"
+  ],
+  "description": "Joint venture announced Jan 2025 to build AI data centers for OpenAI in the US; equity from SoftBank, OpenAI, Oracle and MGX.",
+  "explain": "Stargate is the vehicle OpenAI and its partners use to fund AI data centers, with a stated plan of $500 billion over four years. SoftBank has financial responsibility and OpenAI operational responsibility. hq_state reflects a US entity; no HQ city has been announced."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-mistral-ai-investment-2024",
+  "from": "microsoft",
+  "to": "mistral-ai",
+  "type": "investment",
+  "title": "Microsoft invests €15M in Mistral AI",
+  "amount_usd": 16300000,
+  "amount_kind": "confirmed",
+  "date": "2024-02-26",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "publisher": "TechCrunch",
+      "date": "2024-02-27",
+      "kind": "news",
+      "quote": "As part of the partnership, Microsoft is investing €15 million ($16.3 million at today’s exchange rate) in the French startup."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft made a small €15 million (about $16.3 million) investment in Mistral as part of a deal to offer Mistral's models on its Azure cloud. It was small in money but drew attention from European regulators."
+}

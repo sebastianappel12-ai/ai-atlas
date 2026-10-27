@@ -1,0 +1,25 @@
+{
+  "id": "fluidstack-terawulf-lake-mariner-2025",
+  "from": "fluidstack",
+  "to": "terawulf",
+  "type": "data_center",
+  "title": "Fluidstack signs 10-year, 200+ MW leases at TeraWulf's Lake Mariner (~$3.7B)",
+  "amount_usd": 3700000000,
+  "amount_kind": "confirmed",
+  "date": "2025-08-14",
+  "length_years": 10,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925078084/tm2523008d2_ex99-1.htm",
+      "publisher": "TeraWulf (SEC 8-K EX-99.1)",
+      "date": "2025-08-14",
+      "kind": "sec_filing",
+      "quote": "The agreements represent approximately $3.7 billion in contracted revenue over the initial 10-year terms and include two five-year extension options which, if exercised, would bring the total contract revenue to approximately $8.7 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fluidstack, an AI cloud provider, will rent more than 200 megawatts at TeraWulf's Lake Mariner campus in New York for 10 years, worth about $3.7 billion. Google backstops part of Fluidstack's rent and received warrants for a stake in TeraWulf."
+}

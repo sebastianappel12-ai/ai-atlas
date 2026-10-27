@@ -1,0 +1,27 @@
+{
+  "id": "cyrusone",
+  "name": "CyrusOne",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.cyrusone.com",
+  "aliases": [
+    "CyrusOne Inc"
+  ],
+  "valuation": {
+    "amount_usd": 15000000000,
+    "period": "2022 take-private",
+    "as_of": "2022-03-25",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1553023/000110465922038090/tm229713d1_ex99-1.htm",
+      "publisher": "CyrusOne (SEC 8-K EX-99.1)",
+      "date": "2022-03-25",
+      "kind": "sec_filing",
+      "quote": "(NASDAQ: CONE) (the “Company” or “CyrusOne”) today announced the completion of its acquisition by funds managed by KKR, a leading global investment firm, and Global Infrastructure Partners (“GIP”), one of the world’s leading infrastructure investors, in an all-cash transaction valued at approximately $15 billion, including the assumption of debt (the “Transaction”)."
+    }
+  },
+  "description": "Data center developer and operator owned by KKR and Global Infrastructure Partners since 2022.",
+  "explain": "CyrusOne leases large data centers to cloud and AI companies. KKR and GIP bought it for about $15 billion including debt in 2022."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "us-government-x-energy-ardp-2020",
+  "from": "us-government",
+  "to": "x-energy",
+  "type": "investment",
+  "title": "Energy Department gives X-energy $80M to start Xe-100 reactor demo",
+  "amount_usd": 80000000,
+  "amount_kind": "confirmed",
+  "date": "2020-10-13",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.energy.gov/ne/articles/us-department-energy-announces-160-million-first-awards-under-advanced-reactor",
+      "publisher": "U.S. Department of Energy",
+      "date": "2020-10-13",
+      "kind": "press_release",
+      "quote": "DOE is awarding TerraPower LLC (Bellevue, Washington) and X-energy (Rockville, Maryland) $80 million each in initial funding to build two advanced nuclear reactors that can be operational within seven years."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Energy Department granted X-energy $80 million in first-year money to build a demonstration of its Xe-100 small gas-cooled reactor, part of a program DOE said could total $3.2 billion over seven years for two projects."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "openai-stargate-equity-2025",
+  "from": "openai",
+  "to": "stargate",
+  "type": "investment",
+  "title": "OpenAI to put ~$19B of equity into Stargate (reported)",
+  "amount_usd": 19000000000,
+  "amount_kind": "estimated",
+  "date": "2025-01-21",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250122",
+      "publisher": "SoftBank Group",
+      "date": "2025-01-22",
+      "kind": "press_release",
+      "quote": "The initial equity funders in Stargate are SoftBank, OpenAI, Oracle, and MGX."
+    },
+    {
+      "url": "https://techcrunch.com/2025/01/23/openai-and-softbank-are-reportedly-putting-19b-each-into-stargate/",
+      "publisher": "TechCrunch",
+      "date": "2025-01-23",
+      "kind": "news",
+      "quote": "SoftBank and OpenAI each plan to commit $19 billion of capital to Stargate, according to The Information."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI is one of four equity owners of Stargate, the venture formed to build AI data centers for OpenAI in the US. The companies did not say how much each puts in; The Information reported OpenAI would commit about $19 billion for roughly a 40% stake."
+}

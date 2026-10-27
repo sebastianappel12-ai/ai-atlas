@@ -1,0 +1,15 @@
+{
+  "id": "tokyo-electron",
+  "name": "Tokyo Electron",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "TSE:8035",
+  "country": "JP",
+  "website": "https://www.tel.com",
+  "aliases": [
+    "Tokyo Electron Limited",
+    "TEL"
+  ],
+  "description": "Japan's largest chipmaking equipment maker, known for coater/developer, etch and deposition tools.",
+  "explain": "Tokyo Electron supplies tools to every major chip factory; it benefits when TSMC, Samsung, Intel and memory makers expand capacity for AI chips."
+}

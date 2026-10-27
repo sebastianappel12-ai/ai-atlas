@@ -1,0 +1,31 @@
+{
+  "id": "us-government-tsmc-chips-grant-2024",
+  "from": "us-government",
+  "to": "tsmc",
+  "type": "investment",
+  "title": "U.S. awards TSMC Arizona up to $6.6B CHIPS grant",
+  "amount_usd": 6600000000,
+  "amount_kind": "up_to",
+  "date": "2024-11-15",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.nist.gov/chips/tsmc-arizona-phoenix",
+      "publisher": "NIST CHIPS for America",
+      "date": "2024-11-15",
+      "kind": "press_release",
+      "quote": "Department of Commerce awarded TSMC Arizona up to $6.6 billion in direct funding under the CHIPS and Science Act."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000126/tsmc2024q3consolidatedfina.htm",
+      "publisher": "TSMC Form 6-K (SEC EDGAR)",
+      "date": "2024-11-14",
+      "kind": "sec_filing",
+      "quote": "TSMC Arizona signed an agreement with the U.S. Department of Commerce in November 2024, based on the “CHIPS and Science Act,” which could provide a subsidy of up to US$6.6 billion, aligned with the construction schedule of the TSMC Arizona facility."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The U.S. government agreed to give TSMC up to $6.6 billion in grants, paid out as construction milestones are hit, for its chip factories in Phoenix, Arizona. Up to $5 billion in government loans was also made available."
+}

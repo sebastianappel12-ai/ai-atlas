@@ -1,0 +1,31 @@
+{
+  "id": "meta-amd-6gw-instinct-2026",
+  "from": "meta",
+  "to": "amd",
+  "type": "chip_order",
+  "title": "Meta to deploy up to 6 GW of AMD Instinct GPUs",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-24",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000045/pressreleasedatedfebruary2.htm",
+      "publisher": "AMD (8-K Exhibit 99.1)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "AMD and Meta agree to a definitive multi-year, multi-generation partnership to deploy up to 6 gigawatts of AMD Instinct™ GPUs"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000045/pressreleasedatedfebruary2.htm",
+      "publisher": "AMD (8-K Exhibit 99.1)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "As part of the agreement, to further align strategic interests, AMD has issued Meta a performance-based warrant for up to 160 million shares of AMD common stock, structured to vest as specific milestones associated with Instinct GPU shipments are achieved."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta signed a definitive deal to buy AMD AI chips worth up to 6 gigawatts of capacity, starting with 1 gigawatt in late 2026. AMD gave Meta a warrant for up to 160 million AMD shares that vests as shipments happen. AMD gave no dollar figure; press reports ranged from about $60B to over $100B."
+}

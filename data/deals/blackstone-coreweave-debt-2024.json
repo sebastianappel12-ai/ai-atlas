@@ -1,0 +1,24 @@
+{
+  "id": "blackstone-coreweave-debt-2024",
+  "from": "blackstone",
+  "to": "coreweave",
+  "type": "financing",
+  "title": "Blackstone and Magnetar lead $7.6B loan to CoreWeave",
+  "amount_usd": 7600000000,
+  "amount_kind": "confirmed",
+  "date": "2024-05-16",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525058309/d899798ds1a.htm",
+      "publisher": "CoreWeave Form S-1/A (SEC EDGAR)",
+      "date": "2025-03-20",
+      "kind": "sec_filing",
+      "quote": "Our recent raise of $7.6 billion in committed GPU infrastructure-backed debt led by Blackstone and Magnetar represents one of the largest private debt financings in history and signals the confidence that debt investors have in funding our company to build and scale the next generation AI cloud."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Blackstone funds and Magnetar led a $7.6 billion GPU-backed loan facility for CoreWeave (reported as $7.5 billion in May 2024 and later amended), used mainly to buy GPU servers for customer contracts. The amount is the whole facility, including other lenders."
+}

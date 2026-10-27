@@ -1,0 +1,24 @@
+{
+  "id": "humain-nvidia-600k-gpus-2025",
+  "from": "humain",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "Humain plans up to 600,000 Nvidia GPUs over three years",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-11-19",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.middleeastainews.com/p/humain-to-deploy-600000-nvidia-gpus",
+      "publisher": "Middle East AI News",
+      "date": "2025-11-20",
+      "kind": "news",
+      "quote": "The Saudi Public Investment Fund’s AI company HUMAIN and NVIDIA have announced an expanded strategic partnership, together with plans to deploy up to 600,000 of NVIDIA’s latest AI infrastructure technologies over the next three years including Blackwell (GB300) platforms."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Humain widened its Nvidia plan at the US-Saudi Investment Forum: up to 600,000 Nvidia AI chips over three years, in Saudi Arabia and the US. This is a plan with no price; analyst cost estimates are not included."
+}

@@ -1,0 +1,63 @@
+{
+  "id": "microsoft-goodyear",
+  "name": "Microsoft Goodyear",
+  "owner": "microsoft",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 33.409,
+    "lon": -112.3648,
+    "city": "Goodyear"
+  },
+  "state": "AZ",
+  "power_mw_now": 202,
+  "power_mw_planned": 263,
+  "status": "operating",
+  "est_chips": {
+    "count": 205154,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 7652164000,
+  "grid_region": "AZPS",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2021-06-21",
+      "event": "Land clearing begins for Building 1."
+    },
+    {
+      "date": "2023-04-24",
+      "event": "Building 1 operational. Based on interpolating satellite images from Sentinel-2 and Google Earth."
+    },
+    {
+      "date": "2025-01-16",
+      "event": "Building 2 operational. Based on interpolating satellite images from Sentinel-2 and Google Earth."
+    },
+    {
+      "date": "2025-09-01",
+      "event": "Building 3 and 4 operational. Based on interpolating satellite images from Sentinel-2 and Google Earth."
+    },
+    {
+      "date": "2025-11-12",
+      "event": "Confirmation that Building 3 and 4 look complete."
+    },
+    {
+      "date": "2026-04-27",
+      "event": "Foundations appear to be underway for Building 5 and 6, just north of Building 4."
+    }
+  ],
+  "epoch_id": "Microsoft Goodyear",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Microsoft Goodyear: current power 202 MW; owner Microsoft."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Microsoft Goodyear is an operating AI data center in Goodyear, AZ, owned by microsoft and used by openai. Epoch AI estimates it draws 202 MW today and 263 MW when finished."
+}

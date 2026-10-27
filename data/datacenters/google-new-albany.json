@@ -1,0 +1,65 @@
+{
+  "id": "google-new-albany",
+  "name": "Google New Albany",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 40.0701,
+    "lon": -82.754,
+    "city": "New Albany"
+  },
+  "state": "OH",
+  "power_mw_now": 333,
+  "power_mw_planned": 400,
+  "status": "operating",
+  "est_chips": {
+    "count": 323901,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 12614706000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-04-20",
+      "event": "Building 1 is operational. Based on ~7 months since roof being completed, and cooling towers being installed sometime within that period. Building 2 roof is complete."
+    },
+    {
+      "date": "2024-09-13",
+      "event": "Building 2 is operational. Google Earth imagery shows 6 cooling towers installed as of 2024-04-20, and a final 7th unit appeared as of 2024-09-13, with minimal construction around the building. Building 3 roof is also complete."
+    },
+    {
+      "date": "2025-06-01",
+      "event": "Building 3 is operational, based on all cooling units and tanks installed, minimal construction work around the building. Building 4 still has some work around the cooling towers. Work is underway on Building 5 - some walls and a few backup"
+    },
+    {
+      "date": "2025-10-14",
+      "event": "Building 4 is operational, based on all cooling units and tanks installed, minimal construction work around the building. Building 5 roof is half complete. About half of the backup generators are in place. One cooling tower is partly built."
+    },
+    {
+      "date": "2026-01-18",
+      "event": "Water vapor from cooling towers is present across Building 1-4, confirming their operation. Building 5 roof is still incomplete, but most backup generators and 5 cooling towers have been installed."
+    },
+    {
+      "date": "2026-03-12",
+      "event": "Building 5 has more cooling towers installed but not complete, and the roof is almost complete."
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Building 5 has all cooling towers installed, and all other components look complete, but there is still light work around the building. Based on that, we estimate 3 more months until operational."
+    }
+  ],
+  "epoch_id": "Google New Albany",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google New Albany: current power 333 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google New Albany is an operating AI data center in New Albany, OH, owned by google. Epoch AI estimates it draws 333 MW today and 400 MW when finished."
+}

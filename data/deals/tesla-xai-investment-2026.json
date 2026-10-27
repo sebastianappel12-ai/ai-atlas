@@ -1,0 +1,31 @@
+{
+  "id": "tesla-xai-investment-2026",
+  "from": "tesla",
+  "to": "xai",
+  "type": "investment",
+  "title": "Tesla invests about $2B in xAI",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-01-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm",
+      "publisher": "Tesla 8-K Exhibit 99.1 (SEC)",
+      "date": "2026-01-28",
+      "kind": "sec_filing",
+      "quote": "On January 16, 2026, Tesla entered into an agreement to invest approximately $2 billion to acquire shares of Series E Preferred Stock of xAI as part of their recent publicly-disclosed financing round."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm",
+      "publisher": "SpaceX prospectus (SEC)",
+      "date": "2026-06-12",
+      "kind": "sec_filing",
+      "quote": "In January 2026, Tesla entered into an agreement with xAI to invest $2,000 million via a purchase of xAI Series E Redeemable Convertible Preferred Stock."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Tesla agreed to put about $2 billion into Elon Musk's AI company xAI in its Series E round. After SpaceX bought xAI, Tesla's stake was converted into SpaceX shares."
+}

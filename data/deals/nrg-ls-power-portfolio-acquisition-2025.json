@@ -1,0 +1,38 @@
+{
+  "id": "nrg-ls-power-portfolio-acquisition-2025",
+  "from": "nrg",
+  "to": "ls-power",
+  "type": "acquisition",
+  "title": "NRG buys 13 GW gas fleet and CPower from LS Power for $12B",
+  "amount_usd": 12000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-05-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465925047007/tm2514561d1_ex99-1.htm",
+      "publisher": "NRG Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2025-05-12",
+      "kind": "sec_filing",
+      "quote": "This acquisition doubles NRG's generation capacity with the addition of 18 natural gas-fired facilities totaling approximately 13 GW."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387125000020/nrg-20250630.htm",
+      "publisher": "NRG Energy Form 10-Q (SEC)",
+      "date": "2025-08-06",
+      "kind": "sec_filing",
+      "quote": "The consideration will consist of 24.25 million shares of NRG common stock and $6.4 billion in cash, subject to working capital adjustments as set forth in the purchase agreement."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926008567/tm264311d1_ex99-1.htm",
+      "publisher": "NRG Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2026-01-30",
+      "kind": "sec_filing",
+      "quote": "HOUSTON-January 30, 2026-NRG Energy, Inc. (NYSE: NRG) today announced that it has completed the acquisition of a portfolio of generation assets and CPower from LS Power."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "NRG bought about 13 GW of natural-gas power plants and the CPower demand-response business from LS Power for $6.4 billion in cash plus 24.25 million NRG shares; NRG's May 12, 2025 release values the deal at about $12.0 billion including $3.2 billion of assumed debt, doubling its fleet to ~25 GW to serve rising demand including data centers. Closed January 30, 2026. Plants: LS Power gas portfolio, not itemized in the release."
+}

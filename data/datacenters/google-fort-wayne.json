@@ -1,0 +1,69 @@
+{
+  "id": "google-fort-wayne",
+  "name": "Google Fort Wayne",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 41.0309,
+    "lon": -85.0536,
+    "city": "Fort Wayne"
+  },
+  "state": "IN",
+  "power_mw_now": 0,
+  "power_mw_planned": 1035,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 2940879,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 32692166000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-10-01",
+      "event": "Building 2 looks externally complete"
+    },
+    {
+      "date": "2026-03-01",
+      "event": "The cooling towers for Buildings 2 and 3 are both a little less than half done and the buildings still look like active construction sites."
+    },
+    {
+      "date": "2026-08-19",
+      "event": "Building 2 has all cooling towers installed and is likely undergoing fit-out and commissioning. So we give it about 3 more months until it's operational. Building 3 appears to be slightly further than Building 2 was in March, so we estimate"
+    },
+    {
+      "date": "2026-12-01",
+      "event": "Estimated operational date of Building 2."
+    },
+    {
+      "date": "2027-03-31",
+      "event": "Estimated operational date of Building 3. Based on Building 3 construction looking about 4 months behind Building 2."
+    },
+    {
+      "date": "2027-08-28",
+      "event": "Estimated operational date of Building 4. Based on Building 4 construction looking about 10 months behind Building 2."
+    },
+    {
+      "date": "2028-01-25",
+      "event": "Estimated operational date of Building 5. Based on previous buildings being separated by about 5 months."
+    },
+    {
+      "date": "2028-06-23",
+      "event": "Estimated operational date of Building 6. Based on previous buildings being separated by about 5 months."
+    }
+  ],
+  "epoch_id": "Google Fort Wayne",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Fort Wayne: current power 0 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Fort Wayne is an under-construction AI data center in Fort Wayne, IN, owned by google. Epoch AI estimates it draws 0 MW today and 1,035 MW when finished."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lightmatter",
+  "name": "Lightmatter",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://lightmatter.co",
+  "aliases": [
+    "Lightmatter, Inc."
+  ],
+  "description": "Designs photonic chips and interconnects that use light to move data between AI processors.",
+  "explain": "Lightmatter is a startup using light instead of electricity to connect AI chips, aiming to make very large AI clusters faster and less power hungry."
+}

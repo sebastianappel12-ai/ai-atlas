@@ -1,0 +1,31 @@
+{
+  "id": "amd-vultr-investment-2024",
+  "from": "amd",
+  "to": "vultr",
+  "type": "investment",
+  "title": "AMD Ventures co-leads Vultr's $333M round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-18",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2024/12/18/amd-backs-333m-funding-round-cloud-infrastructure-provider-vultr/",
+      "publisher": "SiliconANGLE",
+      "date": "2024-12-18",
+      "kind": "news",
+      "quote": "LuminArx Capital Management and AMD Ventures jointly led the investment."
+    },
+    {
+      "url": "https://refreshmiami.com/news/with-3-5b-valuation-vultr-raises-333-million-to-expand-ai-infrastructure/",
+      "publisher": "Refresh Miami",
+      "date": "2024-12-18",
+      "kind": "news",
+      "quote": "The company today announced a fresh $333 million investment led by AMD Ventures and LuminArx Capital Management, vaulting it to a $3.5 billion valuation, becoming a key player in the race to dominate AI infrastructure."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD's venture arm co-led a $333 million funding round in cloud provider Vultr at a $3.5 billion valuation. AMD's own share was not disclosed; Vultr uses AMD GPUs, so AMD is backing a chip buyer."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "humain-nvidia-gb300-ai-factories-2025",
+  "from": "humain",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "Humain buys 18,000 Nvidia GB300 chips for Saudi AI factories",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-05-13",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-05-13",
+      "kind": "press_release",
+      "quote": "The first phase of deployment will be an 18,000 NVIDIA GB300 Grace Blackwell AI supercomputer with NVIDIA InfiniBand networking."
+    },
+    {
+      "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-05-13",
+      "kind": "press_release",
+      "quote": "HUMAIN is making a major investment to build AI factories in the Kingdom of Saudi Arabia with a projected capacity of up to 500 megawatts powered by several hundred thousand of NVIDIA's most advanced GPUs over the next five years."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Humain, the AI company owned by Saudi Arabia's sovereign wealth fund, is buying Nvidia chips for data centers of up to 500 megawatts, starting with 18,000 top-end GB300 chips. No price was given."
+}

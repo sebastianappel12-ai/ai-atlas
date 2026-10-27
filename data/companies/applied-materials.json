@@ -1,0 +1,31 @@
+{
+  "id": "applied-materials",
+  "name": "Applied Materials",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "NASDAQ:AMAT",
+  "cik": "0000006951",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.appliedmaterials.com",
+  "aliases": [
+    "Applied Materials, Inc.",
+    "AMAT",
+    "Applied"
+  ],
+  "revenue": {
+    "amount_usd": 28368000000,
+    "period": "FY2025 (ended 2025-10-26)",
+    "as_of": "2025-10-26",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828025056742/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-12-12",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 28,368,000,000 USD for 2024-10-28 to 2025-10-26 (10-K, accession 0001628280-25-056742)."
+    }
+  },
+  "description": "Largest US maker of chipmaking equipment, covering deposition, etching, inspection and other wafer processing steps.",
+  "explain": "When chipmakers build new fabs for AI chips, a large share of the equipment budget goes to toolmakers like Applied Materials."
+}

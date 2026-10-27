@@ -1,0 +1,15 @@
+{
+  "id": "greenoaks",
+  "name": "Greenoaks",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://greenoaks.com",
+  "aliases": [
+    "Greenoaks Capital Partners",
+    "Greenoaks Capital"
+  ],
+  "description": "San Francisco growth investment firm backing AI labs such as Safe Superintelligence and Anthropic.",
+  "explain": "Greenoaks led Safe Superintelligence's 2025 round and co-led Anthropic's $65 billion Series H."
+}

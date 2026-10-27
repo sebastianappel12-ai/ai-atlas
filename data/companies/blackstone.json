@@ -1,0 +1,44 @@
+{
+  "id": "blackstone",
+  "name": "Blackstone",
+  "sector": "investor",
+  "public": true,
+  "ticker": "NYSE:BX",
+  "cik": "0001393818",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.blackstone.com",
+  "aliases": [
+    "Blackstone Inc.",
+    "Blackstone Infrastructure",
+    "Blackstone Tactical Opportunities"
+  ],
+  "revenue": {
+    "amount_usd": 14450265000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526082531/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 14,450,265,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001193125-26-082531)."
+    }
+  },
+  "valuation": {
+    "amount_usd": 1368300000000,
+    "period": "AUM",
+    "as_of": "2026-09-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526428297/d160590dex991.htm",
+      "publisher": "Blackstone Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2026-10-22",
+      "kind": "sec_filing",
+      "quote": "Total AUM increased to $1,368.3 billion, up 10% year-over-year, with $63.3 billion of inflows in the quarter and $271.6 billion over the LTM."
+    }
+  },
+  "description": "World's largest alternative asset manager; owns data center developer QTS and lends to AI cloud companies.",
+  "explain": "Blackstone owns QTS, one of the biggest US data center builders, and led multi-billion-dollar GPU-backed loans to CoreWeave, so it earns from both AI buildings and AI chips."
+}

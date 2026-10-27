@@ -1,0 +1,28 @@
+{
+  "id": "tva",
+  "name": "Tennessee Valley Authority",
+  "sector": "power",
+  "public": false,
+  "cik": "0001376986",
+  "country": "US",
+  "hq_state": "TN",
+  "website": "https://www.tva.com",
+  "aliases": [
+    "TVA"
+  ],
+  "revenue": {
+    "amount_usd": 13672000000,
+    "period": "FY2025 (ended 2025-09-30)",
+    "as_of": "2025-09-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698625000056/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-11-13",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RegulatedAndUnregulatedOperatingRevenue = 13,672,000,000 USD for 2024-10-01 to 2025-09-30 (10-K, accession 0001376986-25-000056)."
+    }
+  },
+  "description": "U.S. federally owned power company serving Tennessee and parts of six nearby states.",
+  "explain": "TVA is the government-owned utility for the Tennessee Valley; it signed the first U.S. utility deal to buy power from Kairos Power's advanced reactor, supplying Google's data centers."
+}

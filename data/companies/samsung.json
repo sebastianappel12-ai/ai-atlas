@@ -1,0 +1,16 @@
+{
+  "id": "samsung",
+  "name": "Samsung Electronics",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "KRX:005930",
+  "country": "KR",
+  "website": "https://www.samsung.com",
+  "aliases": [
+    "Samsung",
+    "Samsung Foundry",
+    "Samsung Semiconductor"
+  ],
+  "description": "Korean electronics giant that makes memory chips (DRAM, HBM, flash) and runs the world's second-largest contract chip foundry.",
+  "explain": "Samsung both sells memory used in AI servers and manufactures chips for other companies, such as Tesla's next AI chips at its Texas fab. It competes with TSMC and SK hynix."
+}

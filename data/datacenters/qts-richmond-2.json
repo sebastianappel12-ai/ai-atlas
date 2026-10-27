@@ -1,0 +1,69 @@
+{
+  "id": "qts-richmond-2",
+  "name": "QTS Richmond 2",
+  "owner": "qts",
+  "tenants": [],
+  "location": {
+    "lat": 37.5107,
+    "lon": -77.3116,
+    "city": "Sandston"
+  },
+  "state": "VA",
+  "power_mw_now": 180,
+  "power_mw_planned": 252,
+  "status": "operating",
+  "est_chips": {
+    "count": 182921,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6818760000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2022-04-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2024-01-29",
+      "event": "Building 1 and 2 look complete but we don't think they are operational, as the substation is still under construction."
+    },
+    {
+      "date": "2024-06-23",
+      "event": "Still not many cars parked at Building 1 and 2, and the east substation looks very close to completion, based on a [Google Earth image](https://earth.google.com/web/@37.48655608,-77.24244153,55.96289131a,2859.52501034d,30.00094375y,0h,0.591"
+    },
+    {
+      "date": "2025-02-04",
+      "event": "Building 1 and 2 are operational, based on the east substation looking complete and the carparks being more full. Building 3 has cooling and generators mostly installed. Building 4 roof is partly completed."
+    },
+    {
+      "date": "2025-11-19",
+      "event": "The west substation looks complete, based on a [Google Earth image](https://earth.google.com/web/@37.48673632,-77.24119214,61.15398527a,3616.77426559d,30.00094375y,0.00000001h,0.59183057t,0r/data=CgwqBggBEgAYAUICCAEyKQonCiUKITFZU1hJZlBmRzJ1"
+    },
+    {
+      "date": "2025-12-31",
+      "event": "Building 3 and 4 are operational, based on the substation being completed earlier, the buildings looking complete, and carparks being moderately full. Building 5 still has construction work."
+    },
+    {
+      "date": "2026-02-13",
+      "event": "Building 5 still has construction work at the perimeter, but given how close it looks to completion, we estimate it's only about 3 months away from operational."
+    },
+    {
+      "date": "2026-05-14",
+      "event": "Building 5 is estimated to be operational, based on the previous entry."
+    }
+  ],
+  "epoch_id": "QTS Richmond 2",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "QTS Richmond 2: current power 180 MW; owner unlisted."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "QTS Richmond 2 is an operating AI data center in Sandston, VA, owned by qts. Epoch AI estimates it draws 180 MW today and 252 MW when finished."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "supermicro-lambda-investment-2025",
+  "from": "supermicro",
+  "to": "lambda",
+  "type": "investment",
+  "title": "Supermicro makes strategic investment in Lambda",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-02-19",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.silicon.co.uk/press-release/lambda-raises-480m-to-expand-ai-cloud-platform",
+      "publisher": "Silicon UK (Business Wire release)",
+      "date": "2025-02-19",
+      "kind": "press_release",
+      "quote": "The round was co-led by Andra Capital and SGW with participation from new investors Andrej Karpathy, ARK Invest, Fincadia Advisors, G Squared, In-Q-Tel (IQT), KHK & Partners, and NVIDIA, among others, as well as strategic investment from Pegatron, Supermicro, Wistron, and Wiwynn, as well as many existing investors including 1517, Crescent Cove, and USIT."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Server maker Supermicro put an undisclosed amount into Lambda's $480 million Series D. Lambda buys servers to fill its data centers, so suppliers are investing in a customer."
+}

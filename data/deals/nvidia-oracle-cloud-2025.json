@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-oracle-cloud-2025",
+  "from": "nvidia",
+  "to": "oracle",
+  "type": "cloud_contract",
+  "title": "Nvidia signs new cloud commitment with Oracle",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-12-10",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm",
+      "publisher": "Oracle Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2025-12-10",
+      "kind": "sec_filing",
+      "quote": "“Remaining Performance Obligations (RPO) increased by $68 billion in Q2—up 15% sequentially to $523 billion—highlighted by new commitments from Meta, NVIDIA, and others,” said Oracle Principal Financial Officer, Doug Kehring."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia, which sells the chips inside Oracle's data centers, also buys computing back from Oracle's cloud. Oracle named Nvidia as one of the customers behind a $68 billion jump in its contracted backlog in late 2025, without saying how much Nvidia committed."
+}

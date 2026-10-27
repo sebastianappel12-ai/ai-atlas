@@ -1,0 +1,32 @@
+{
+  "id": "meta-vistra-nuclear-ppa-2026",
+  "from": "meta",
+  "to": "vistra",
+  "type": "power_deal",
+  "title": "Meta signs 20-year PPAs for 2,609 MW from Vistra nuclear plants",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-01-09",
+  "length_years": 20,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526008508/d20785d8k.htm",
+      "publisher": "Vistra Corp. Form 8-K (SEC)",
+      "date": "2026-01-09",
+      "kind": "sec_filing",
+      "quote": "In January 2026, Vistra Corp. (“Vistra” or the “Company”) announced that it has entered into 20-year power purchase agreements (“PPAs”) with Meta Platforms, Inc. (“Meta”), pursuant to which the Company has agreed to supply Meta with a total of 2,609 MW of carbon-free power and capacity from the Company’s PJM nuclear power plants as follows:"
+    },
+    {
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "publisher": "Meta Newsroom",
+      "date": "2026-01-09",
+      "kind": "press_release",
+      "quote": "Through additional 20-year nuclear energy agreements, we will purchase more than 2.1 GW of energy from two operating Vistra nuclear power plants in Ohio (Perry and Davis-Besse), in addition to the energy from expansions (uprates) at these two Ohio plants and a third Vistra nuclear plant in Pennsylvania (Beaver Valley)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta will buy power for 20 years from Vistra's nuclear plants: 1,268 MW from Perry and 908 MW from Davis-Besse (Ohio), plus 433 MW of new 'uprate' capacity at Perry, Davis-Besse and Beaver Valley (Pennsylvania), 2,609 MW in total. No dollar value was disclosed. Plants: Perry Nuclear Power Plant, Davis-Besse Nuclear Power Station, Beaver Valley Power Station."
+}

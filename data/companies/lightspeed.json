@@ -1,0 +1,14 @@
+{
+  "id": "lightspeed",
+  "name": "Lightspeed Venture Partners",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://lsvp.com",
+  "aliases": [
+    "Lightspeed"
+  ],
+  "description": "Venture capital firm based in Menlo Park, California, and a major investor in Anthropic.",
+  "explain": "Lightspeed led Anthropic's $3.5 billion Series E in 2025 and co-led its $13 billion Series F, helping fund Anthropic's huge cloud computing bills."
+}

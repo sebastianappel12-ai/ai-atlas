@@ -1,0 +1,30 @@
+{
+  "id": "credo",
+  "name": "Credo Technology",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NASDAQ:CRDO",
+  "cik": "0001807794",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://credosemi.com",
+  "aliases": [
+    "Credo Technology Group Holding Ltd",
+    "Credo"
+  ],
+  "revenue": {
+    "amount_usd": 1335116000,
+    "period": "FY2026 (ended 2026-05-02)",
+    "as_of": "2026-05-02",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1807794/000162828026043303/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-06-15",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 1,335,116,000 USD for 2025-05-04 to 2026-05-02 (10-K, accession 0001628280-26-043303)."
+    }
+  },
+  "description": "Designs high-speed connectivity chips and active electrical cables for data centers.",
+  "explain": "Credo's cables and chips carry data short distances between AI servers and switches, a fast-growing need as AI clusters get bigger."
+}

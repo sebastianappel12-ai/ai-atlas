@@ -1,0 +1,31 @@
+{
+  "id": "aep-bloom-energy-wyoming-fuel-cells-2026",
+  "from": "aep",
+  "to": "bloom-energy",
+  "type": "supply",
+  "title": "AEP commits $2.65B to Bloom fuel cells for a Wyoming power project",
+  "amount_usd": 2650000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-12",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/aep-20251231.htm",
+      "publisher": "American Electric Power Form 10-K (SEC)",
+      "date": "2026-02-12",
+      "kind": "sec_filing",
+      "quote": "In January 2026, under the existing option to acquire additional fuel cells, an unregulated AEP subsidiary entered into an agreement to acquire solid oxide fuel cells for approximately $2.65 billion to develop a fuel cell generation facility near Cheyenne, Wyoming."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000011/a4q20258kpressreleaseex991.htm",
+      "publisher": "American Electric Power Form 8-K EX-99 (SEC)",
+      "date": "2026-02-12",
+      "kind": "sec_filing",
+      "quote": "AEP was proactive in securing Bloom Energy fuel cells which has positioned the company very well to pursue early development of a generation facility project in Wyoming, backed by $2.65 billion in fuel cell purchase commitments."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Using its option from the 2024 deal, an AEP subsidiary agreed in January 2026 to buy about $2.65 billion of Bloom Energy fuel cells for a power plant near Cheyenne, Wyoming, aimed at data center demand. AEP's filings give only the month (January 2026), so the date here is when AEP disclosed it (Feb 12, 2026). Plant: planned AEP fuel cell facility near Cheyenne, Wyoming."
+}

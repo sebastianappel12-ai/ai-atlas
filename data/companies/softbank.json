@@ -1,0 +1,17 @@
+{
+  "id": "softbank",
+  "name": "SoftBank Group",
+  "sector": "investor",
+  "public": true,
+  "ticker": "TSE:9984",
+  "country": "JP",
+  "website": "https://group.softbank/en",
+  "aliases": [
+    "SoftBank Group Corp.",
+    "SBG",
+    "SoftBank Vision Fund 2",
+    "SVF2"
+  ],
+  "description": "Japanese tech holding company and Vision Fund investor; OpenAI's largest outside backer and owner of Arm and Ampere.",
+  "explain": "SoftBank has put about $65 billion into OpenAI, leads the Stargate data center project, and bought chip designer Ampere and data center investor DigitalBridge, making it one of the biggest sources of cash in the AI build-out."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "coreweave-vast-data-platform-2025",
+  "from": "coreweave",
+  "to": "vast-data",
+  "type": "supply",
+  "title": "CoreWeave signs $1.17B deal making VAST Data its main data platform",
+  "amount_usd": 1170000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-06",
+  "status": "announced",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave",
+      "publisher": "VAST Data",
+      "date": "2025-11-06",
+      "kind": "press_release",
+      "quote": "VAST Data, the AI Operating System company, today announced it has signed a commercial agreement valued at $1.17 billion with CoreWeave, the essential cloud for AI."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave, which rents out Nvidia GPUs, agreed to pay VAST Data about $1.17 billion for the software that stores and moves the data its AI customers train and run models on. It makes VAST the main data layer across CoreWeave's cloud."
+}

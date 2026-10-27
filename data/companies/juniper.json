@@ -1,0 +1,28 @@
+{
+  "id": "juniper",
+  "name": "Juniper Networks",
+  "sector": "networking",
+  "public": false,
+  "cik": "0001043604",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.juniper.net",
+  "aliases": [
+    "Juniper Networks Inc"
+  ],
+  "revenue": {
+    "amount_usd": 5073600000,
+    "period": "FY2024 (ended 2024-12-31)",
+    "as_of": "2024-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1043604/000104360425000025/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-02-21",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 5,073,600,000 USD for 2024-01-01 to 2024-12-31 (10-K, accession 0001043604-25-000025)."
+    }
+  },
+  "description": "Maker of network routers, switches and security gear; acquired by HPE in July 2025.",
+  "explain": "Juniper's routers and data center switches are now part of HPE, which paid about $14 billion for it."
+}

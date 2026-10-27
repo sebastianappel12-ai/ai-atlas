@@ -1,0 +1,14 @@
+{
+  "id": "etched",
+  "name": "Etched",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.etched.com",
+  "aliases": [
+    "Etched.ai"
+  ],
+  "description": "Designs Sohu, an AI chip built only to run transformer models.",
+  "explain": "Etched is betting that a chip hard-wired for one kind of AI model (transformers) can beat general-purpose GPUs on cost and speed."
+}

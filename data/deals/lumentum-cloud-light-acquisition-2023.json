@@ -1,0 +1,24 @@
+{
+  "id": "lumentum-cloud-light-acquisition-2023",
+  "from": "lumentum",
+  "to": "cloud-light",
+  "type": "acquisition",
+  "title": "Lumentum buys optical transceiver maker Cloud Light for $750M",
+  "amount_usd": 750000000,
+  "amount_kind": "confirmed",
+  "date": "2023-10-30",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312523272452/d587006dex991.htm",
+      "publisher": "Lumentum (8-K Ex. 99.1)",
+      "date": "2023-11-07",
+      "kind": "sec_filing",
+      "quote": "Under terms of the merger agreement, Lumentum acquired Cloud Light with a transaction value of approximately $750 million, before certain adjustments."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Lumentum paid about $750 million in cash for Cloud Light, a Hong Kong-based maker of optical transceivers (the plug-in modules that turn electrical signals into light) used inside AI data centers. Announced in October 2023 and closed in November 2023."
+}

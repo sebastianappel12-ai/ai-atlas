@@ -1,0 +1,25 @@
+{
+  "id": "meta-nebius-cloud-2026",
+  "from": "meta",
+  "to": "nebius",
+  "type": "cloud_contract",
+  "title": "Meta signs $12B five-year capacity deal with Nebius",
+  "amount_usd": 12000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-03-16",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm",
+      "publisher": "Nebius 6-K EX-99.1 (SEC)",
+      "date": "2026-03-16",
+      "kind": "sec_filing",
+      "quote": "Under the five-year agreement, Nebius will provide $12 billion of dedicated capacity across multiple locations, based on one of the first large-scale deployments of the NVIDIA Vera Rubin platform."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to buy $12 billion of dedicated AI computing capacity from Nebius over five years, running on Nvidia's next-generation Vera Rubin chips."
+}

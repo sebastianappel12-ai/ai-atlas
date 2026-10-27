@@ -1,0 +1,31 @@
+{
+  "id": "anthropic-google-tpu-2025",
+  "from": "anthropic",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Anthropic expands Google Cloud use to up to one million TPUs, worth tens of billions",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-23",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "publisher": "Anthropic",
+      "date": "2025-10-23",
+      "kind": "press_release",
+      "quote": "The expansion is worth tens of billions of dollars and is expected to bring well over a gigawatt of capacity online in 2026."
+    },
+    {
+      "url": "https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services",
+      "publisher": "Google Cloud Press Corner",
+      "date": "2025-10-23",
+      "kind": "press_release",
+      "quote": "Anthropic will have access to up to one million TPU chips, as well as additional Google Cloud services, which will empower its research and development teams with leading AI-optimized infrastructure for years to come."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic agreed to rent up to one million of Google's TPU AI chips, more than a gigawatt of computing in 2026. The companies said it is worth 'tens of billions of dollars' but gave no exact number, so the amount is left blank."
+}

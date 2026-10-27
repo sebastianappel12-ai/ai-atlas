@@ -1,0 +1,24 @@
+{
+  "id": "character-ai-google-cloud-2023",
+  "from": "character-ai",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Character.AI picks Google Cloud to build and train its AI models",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-05-10",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.googlecloudpresscorner.com/2023-05-10-Character-AI-and-Google-Cloud-Partner-to-Build-the-Next-Generation-of-Conversational-AI",
+      "publisher": "Google Cloud Press Corner",
+      "date": "2023-05-10",
+      "kind": "press_release",
+      "quote": "today announced a strategic partnership with Google Cloud and has selected it as its preferred cloud infrastructure to build and train sophisticated AI models with advanced reasoning and greater accuracy."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Chatbot startup Character.AI chose Google Cloud's AI chips and services to build and train its models. No amount was disclosed."
+}

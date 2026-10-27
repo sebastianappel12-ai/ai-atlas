@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-firmus-investment-2025",
+  "from": "nvidia",
+  "to": "firmus",
+  "type": "investment",
+  "title": "Nvidia backs Firmus's A$330M raise",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-15",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.smartcompany.com.au/startupsmart/firmus-raises-330-million-build-ai-factory-tasmania-1-9-billion-valuation/",
+      "publisher": "SmartCompany",
+      "date": "2025-09-15",
+      "kind": "news",
+      "quote": "Source: Firmus Firmus Technologies has become the latest Australian-founded startup to reach unicorn status, after the artificial intelligence infrastructure company raised $330 million in a round backed by US chip giant Nvidia."
+    },
+    {
+      "url": "https://unite.ai/nvidia-backed-firmus-hits-5-5b-valuation-with-505m-raise",
+      "publisher": "Unite.AI",
+      "date": "2026-04-06",
+      "kind": "news",
+      "quote": "The round marks a steep climb for Firmus, which closed an A$330 million (approximately US$215 million) equity raise in September 2025 led by Ellerston Capital with participation from Nvidia, valuing the company at A$1.85 billion at the time."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia took part in Firmus's A$330 million (about US$215 million) round to build an AI data center in Tasmania. Nvidia's own amount was not disclosed."
+}

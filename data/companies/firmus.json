@@ -1,0 +1,27 @@
+{
+  "id": "firmus",
+  "name": "Firmus",
+  "sector": "neocloud",
+  "public": false,
+  "country": "AU",
+  "website": "https://firmus.co",
+  "aliases": [
+    "Firmus Technologies",
+    "Firmus Grid"
+  ],
+  "valuation": {
+    "amount_usd": 10500000000,
+    "period": "Strategic equity round",
+    "as_of": "2026-08-10",
+    "estimate": false,
+    "source": {
+      "url": "https://www.verdict.co.uk/firmus-2bn-project-southgate-rollout/",
+      "publisher": "Verdict",
+      "date": "2026-08-10",
+      "kind": "news",
+      "quote": "The transaction brings the company’s total new equity raised over the past year to more than $3bn, and it said its post-money valuation is now above $10.5bn."
+    }
+  },
+  "description": "Australian developer of liquid-cooled AI data centers ('AI factories') running Nvidia GPUs, starting in Tasmania.",
+  "explain": "Firmus is building Nvidia-based AI data centers across Australia, backed by repeated Nvidia investments and a $10 billion debt facility from Blackstone and Coatue."
+}

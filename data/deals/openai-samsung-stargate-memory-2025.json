@@ -1,0 +1,31 @@
+{
+  "id": "openai-samsung-stargate-memory-2025",
+  "from": "openai",
+  "to": "samsung",
+  "type": "supply",
+  "title": "OpenAI signs letter of intent for Samsung memory chips for Stargate",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-01",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.businesstoday.in/amp/technology/news/story/openai-samsung-form-alliance-to-develop-ai-data-centres-partner-on-stargate-496518-2025-10-01",
+      "publisher": "Business Today",
+      "date": "2025-10-01",
+      "kind": "news",
+      "quote": "As part of the partnership, Samsung Electronics will work with OpenAI as a strategic memory supplier for its Stargate initiative, aimed at building next-generation AI infrastructure."
+    },
+    {
+      "url": "https://www.sixteen-nine.net/2025/10/07/openai-and-samsung-sign-agreement-to-build-global-ai-infrastructure/",
+      "publisher": "Sixteen:Nine",
+      "date": "2025-10-07",
+      "kind": "news",
+      "quote": "OpenAI and several Samsung affiliates have signed a letter of intent (LOI) to work together on developing global AI data center infrastructure and advancing technologies that are essential for AI model training and inference."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI and Samsung signed a non-binding letter of intent under which Samsung would supply memory chips for OpenAI's Stargate data centers, whose demand OpenAI projects at up to 900,000 DRAM wafers a month. No price or volume commitment was announced, so the money involved is unknown."
+}

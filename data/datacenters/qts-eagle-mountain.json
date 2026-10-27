@@ -1,0 +1,57 @@
+{
+  "id": "qts-eagle-mountain",
+  "name": "QTS Eagle Mountain",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 40.2689,
+    "lon": -112.0343,
+    "city": "Eagle Mountain"
+  },
+  "state": "UT",
+  "power_mw_now": 0,
+  "power_mw_planned": 411,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 346968,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 11516128000,
+  "grid_region": "PACE",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-10-01",
+      "event": "First signs of site preparation show up on satellite imagery."
+    },
+    {
+      "date": "2025-09-08",
+      "event": "Site preparation continues. Outline of a first building that is not the data center of interest Buildings 1 or 2 is visible."
+    },
+    {
+      "date": "2026-05-02",
+      "event": "Building 1 roof finished. Satellite imagery shows construction vehicles and concrete pads with no air cooled chiller units indicating Buildings 1 and 2 cooling install continues. On the other side of each building, emergency generator insta"
+    },
+    {
+      "date": "2026-12-31",
+      "event": "We estimate Buildings 1 and 2 will be fully operational by the end of 2026 because there are at least seven months since cooling and emergency generators have started to be installed. This estimate is also in line with similar QTS data cent"
+    },
+    {
+      "date": "2027-07-01",
+      "event": "We estimate Building 3 will be fully operational by H2 2027 following a similar time line to Buildings 1 and 2 of 14 months from land clearing to operational."
+    }
+  ],
+  "epoch_id": "QTS Eagle Mountain",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "QTS Eagle Mountain: current power 0 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "QTS Eagle Mountain is an under-construction AI data center in Eagle Mountain, UT, owned by meta. Epoch AI estimates it draws 0 MW today and 411 MW when finished."
+}

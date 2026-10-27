@@ -1,0 +1,30 @@
+{
+  "id": "ciena",
+  "name": "Ciena",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:CIEN",
+  "cik": "0000936395",
+  "country": "US",
+  "hq_state": "MD",
+  "website": "https://www.ciena.com",
+  "aliases": [
+    "Ciena Corp",
+    "Ciena Corporation"
+  ],
+  "revenue": {
+    "amount_usd": 4769507000,
+    "period": "FY2025 (ended 2025-11-01)",
+    "as_of": "2025-11-01",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025056698/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-12-12",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 4,769,507,000 USD for 2024-11-03 to 2025-11-01 (10-K, accession 0001628280-25-056698)."
+    }
+  },
+  "description": "Makes optical networking equipment and software for telecoms, cloud companies and data center interconnect.",
+  "explain": "Ciena's optical gear connects data centers to each other. Cloud companies building AI campuses are now among its biggest customers."
+}

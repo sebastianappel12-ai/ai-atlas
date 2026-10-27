@@ -1,0 +1,49 @@
+{
+  "id": "meta-kuna",
+  "name": "Meta Kuna",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 43.4592,
+    "lon": -116.4211,
+    "city": "Kuna ID"
+  },
+  "state": "ID",
+  "power_mw_now": 152,
+  "power_mw_planned": 198,
+  "status": "operating",
+  "est_chips": {
+    "count": 173248,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 5758064000,
+  "grid_region": "IPCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2022-07-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2026-03-15",
+      "event": "Building 1 and 2 look complete from outside, with all electrical and cooling equipment installed. Construction has started on 2 smaller buildings to the north. Meta announced the arrival of the first server rack the following week."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Building 1 and 2 are operational. The 2nd phase of an offsetting solar array goes online on May 31, 2026. Idaho Public Utilities Comission's approval for this start date notes that \"[Meta]’s load is expected to increase so much that it will"
+    }
+  ],
+  "epoch_id": "Meta Kuna",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Kuna: current power 152 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Kuna is an operating AI data center in Kuna ID, ID, owned by meta. Epoch AI estimates it draws 152 MW today and 198 MW when finished."
+}

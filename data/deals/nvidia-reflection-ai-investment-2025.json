@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-reflection-ai-investment-2025",
+  "from": "nvidia",
+  "to": "reflection-ai",
+  "type": "investment",
+  "title": "Nvidia leads Reflection AI's $2B round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-09",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://pulse2.com/reflection-ai-secures-2-billion-series-b-for-building-autonomous-coding-agents-and-frontier-models",
+      "publisher": "Pulse 2.0",
+      "date": "2025-10-10",
+      "kind": "news",
+      "quote": "The funding was led by Nvidia and Lightspeed Venture Partners."
+    },
+    {
+      "url": "https://pulse2.com/reflection-ai-secures-2-billion-series-b-for-building-autonomous-coding-agents-and-frontier-models",
+      "publisher": "Pulse 2.0",
+      "date": "2025-10-10",
+      "kind": "news",
+      "quote": "This investment has propelled the company’s valuation to a striking $8 billion."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia led a $2 billion round in Reflection AI, a US lab building open-weight AI models, valuing it at $8 billion. Nvidia's own share of the round was not disclosed."
+}

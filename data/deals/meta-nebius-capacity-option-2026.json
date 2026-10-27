@@ -1,0 +1,25 @@
+{
+  "id": "meta-nebius-capacity-option-2026",
+  "from": "meta",
+  "to": "nebius",
+  "type": "cloud_contract",
+  "title": "Meta commits to buy up to $15B of extra Nebius capacity",
+  "amount_usd": 15000000000,
+  "amount_kind": "up_to",
+  "date": "2026-03-16",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm",
+      "publisher": "Nebius 6-K EX-99.1 (SEC)",
+      "date": "2026-03-16",
+      "kind": "sec_filing",
+      "quote": "Furthermore, in connection with access to these NVIDIA Vera Rubin deployments, Meta has committed to purchase additional available compute capacity across certain upcoming Nebius clusters up to a total of $15 billion over a five-year period."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "On top of its $12 billion deal, Meta agreed to buy up to $15 billion of spare capacity in upcoming Nebius clusters that Nebius cannot sell to other customers. It works like a backstop, so actual spending may be lower."
+}

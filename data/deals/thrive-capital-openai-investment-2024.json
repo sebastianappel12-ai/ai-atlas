@@ -1,0 +1,24 @@
+{
+  "id": "thrive-capital-openai-investment-2024",
+  "from": "thrive-capital",
+  "to": "openai",
+  "type": "investment",
+  "title": "Thrive leads OpenAI's $6.6B round",
+  "amount_usd": 6600000000,
+  "amount_kind": "confirmed",
+  "date": "2024-10-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.nbcnews.com/business/business-news/openai-closes-funding-157-billion-valuation-microsoft-nvidia-softbank-rcna173693",
+      "publisher": "NBC News (CNBC)",
+      "date": "2024-10-02",
+      "kind": "news",
+      "quote": "While OpenAI didn’t name the investors in Wednesday’s press release, a person with knowledge of the matter said the round was led by Thrive Capital and included participation from existing backer Microsoft as well as chipmaker Nvidia, SoftBank and others."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI raised $6.6 billion at a $157 billion valuation in a round that, according to a person familiar with it, Thrive Capital led. The amount shown is the whole round; CNBC earlier reported Thrive planned to put in about $1 billion."
+}

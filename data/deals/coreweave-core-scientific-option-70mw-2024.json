@@ -1,0 +1,25 @@
+{
+  "id": "coreweave-core-scientific-option-70mw-2024",
+  "from": "coreweave",
+  "to": "core-scientific",
+  "type": "data_center",
+  "title": "CoreWeave exercises option for ~70 MW more at Core Scientific ($1.225B)",
+  "amount_usd": 1225000000,
+  "amount_kind": "confirmed",
+  "date": "2024-06-25",
+  "length_years": 12,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024029900/ex991-finalcorzhpcoptionre.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2024-06-25",
+      "kind": "sec_filing",
+      "quote": "From revenue to gross margin, the new contract with CoreWeave is expected to enhance earnings power and drive shareholder value, adding an additional $1.225 billion in projected cumulative revenue over the 12-year contract timeline to the more than $3.5 billion in projected cumulative revenue associated with previously announced contracts with CoreWeave."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave used an option in its earlier deal to rent about 70 more megawatts from Core Scientific for 12 years, adding about $1.2 billion of expected revenue."
+}

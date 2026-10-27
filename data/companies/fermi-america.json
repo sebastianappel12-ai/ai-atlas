@@ -1,0 +1,18 @@
+{
+  "id": "fermi-america",
+  "name": "Fermi America",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:FRMI",
+  "cik": "0002071778",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://fermiamerica.com",
+  "aliases": [
+    "Fermi Inc",
+    "Fermi",
+    "Project Matador"
+  ],
+  "description": "Developer of Project Matador, a planned multi-gigawatt private-power AI campus near Amarillo, Texas.",
+  "explain": "Fermi plans to generate its own power on site and lease AI data center space. Its first tenant is TensorWave, an AMD-based AI cloud, under a planned $6.5 billion lease."
+}

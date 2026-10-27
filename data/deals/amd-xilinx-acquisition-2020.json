@@ -1,0 +1,24 @@
+{
+  "id": "amd-xilinx-acquisition-2020",
+  "from": "amd",
+  "to": "xilinx",
+  "type": "acquisition",
+  "title": "AMD buys Xilinx in $35B all-stock deal",
+  "amount_usd": 35000000000,
+  "amount_kind": "confirmed",
+  "date": "2020-10-27",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312520277468/d67182dex991.htm",
+      "publisher": "AMD (8-K Exhibit 99.1)",
+      "date": "2020-10-27",
+      "kind": "sec_filing",
+      "quote": "AMD (NASDAQ: AMD) and Xilinx (NASDAQ: XLNX) today announced they have entered into a definitive agreement for AMD to acquire Xilinx in an all-stock transaction valued at $35 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD bought programmable-chip maker Xilinx, paying with AMD shares valued at $35B when announced; the deal closed in February 2022. It expanded AMD's data-center business ahead of its push into AI chips."
+}

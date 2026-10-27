@@ -1,0 +1,24 @@
+{
+  "id": "andreessen-horowitz-safe-superintelligence-2024",
+  "from": "andreessen-horowitz",
+  "to": "safe-superintelligence",
+  "type": "investment",
+  "title": "a16z backs SSI's $1B first round",
+  "amount_usd": 1000000000,
+  "amount_kind": "estimated",
+  "date": "2024-09-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/",
+      "publisher": "TechCrunch",
+      "date": "2024-09-04",
+      "kind": "news",
+      "quote": "Safe Superintelligence (SSI), the AI startup co-founded by former OpenAI chief scientist Ilya Sutskever, has raised over $1 billion in capital from investors including NFDG (an investment partnership run by Nat Friedman and SSI CEO Daniel Gross), a16z, Sequoia, DST Global and SV Angel."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Ilya Sutskever's Safe Superintelligence raised just over $1 billion from a16z, Sequoia, DST Global, SV Angel and NFDG. The amount shown is the whole round as reported; a16z's own share was not disclosed."
+}

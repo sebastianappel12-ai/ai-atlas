@@ -1,0 +1,31 @@
+{
+  "id": "softbank-openai-investment-2025",
+  "from": "softbank",
+  "to": "openai",
+  "type": "investment",
+  "title": "SoftBank invests $30B in OpenAI's $41B round",
+  "amount_usd": 30000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-03-31",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250401",
+      "publisher": "SoftBank Group",
+      "date": "2025-04-01",
+      "kind": "press_release",
+      "quote": "SBG is planning to syndicate out USD 10.0 billion of the up to USD 40.0 billion investment to co-investors."
+    },
+    {
+      "url": "https://group.softbank/en/news/press/20251231",
+      "publisher": "SoftBank Group",
+      "date": "2025-12-31",
+      "kind": "press_release",
+      "quote": "The Company completed the first closing in April 2025, investing $7.5 billion through SoftBank Vision Fund 2 (“SVF2”), and has now completed an additional investment of $22.5 billion at the second closing, also through SVF2."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SoftBank agreed in March 2025 to lead an up-to-$40 billion investment in OpenAI and passed part of it to other investors. It paid its own $30 billion in two steps ($7.5 billion in April and $22.5 billion in December 2025); outside co-investors added $11 billion, for a $41 billion round."
+}

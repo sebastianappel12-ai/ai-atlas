@@ -1,0 +1,14 @@
+{
+  "id": "westinghouse",
+  "name": "Westinghouse Electric Company",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "PA",
+  "website": "https://www.westinghousenuclear.com",
+  "aliases": [
+    "Westinghouse"
+  ],
+  "description": "Nuclear reactor designer (AP1000) and fuel supplier, owned by Brookfield and Cameco.",
+  "explain": "Westinghouse's AP1000 is the main large U.S. reactor design; AI power demand and government support have revived plans for new AP1000 plants."
+}

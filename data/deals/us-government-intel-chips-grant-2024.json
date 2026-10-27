@@ -1,0 +1,32 @@
+{
+  "id": "us-government-intel-chips-grant-2024",
+  "from": "us-government",
+  "to": "intel",
+  "type": "investment",
+  "title": "U.S. awards Intel up to $7.86B CHIPS Act grant",
+  "amount_usd": 7860000000,
+  "amount_kind": "up_to",
+  "date": "2024-11-26",
+  "status": "revised",
+  "superseded_by": "us-government-intel-equity-stake-2025",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000169/a11252024form8-kex991.htm",
+      "publisher": "Intel Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2024-11-26",
+      "kind": "sec_filing",
+      "quote": "Intel Corporation and the Biden-Harris Administration announced today that the U.S. Department of Commerce and Intel have reached agreement on terms to award the company up to $7.86 billion in direct funding for its commercial semiconductor manufacturing projects under the U.S. CHIPS and Science Act."
+    },
+    {
+      "url": "https://www.nist.gov/chips/intel-corporation-arizona-chandler",
+      "publisher": "NIST CHIPS for America",
+      "date": "2024-11-26",
+      "kind": "press_release",
+      "quote": "Direct Funding Amount $7.865 billion"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Commerce Department agreed to give Intel a grant of up to $7.86 billion, paid as factory milestones are met, for chip plants in Arizona, New Mexico, Ohio and Oregon. Intel received $2.2 billion of it as a grant; in August 2025 the unpaid $5.7 billion was turned into a government stake in Intel (see the equity deal)."
+}

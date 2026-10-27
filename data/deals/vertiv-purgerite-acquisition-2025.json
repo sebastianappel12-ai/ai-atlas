@@ -1,0 +1,31 @@
+{
+  "id": "vertiv-purgerite-acquisition-2025",
+  "from": "vertiv",
+  "to": "purgerite",
+  "type": "acquisition",
+  "title": "Vertiv buys liquid-cooling services firm PurgeRite for about $1B",
+  "amount_usd": 1000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-03",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312525261623/d10924dex991.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2025-11-03",
+      "kind": "sec_filing",
+      "quote": "today announced it has entered into an agreement to acquire Purge Rite Intermediate, LLC, (“PurgeRite”) a leading provider of mechanical flushing, purging and filtration services for data centers and other mission-critical facilities, from Milton Street Capital LLC for approximately $1.0 billion in cash consideration at closing"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000031/exhibit991vrt-12042025.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2025-12-05",
+      "kind": "sec_filing",
+      "quote": "today announced the successful completion of its previously reported intent to acquire Purge Rite Intermediate LLC (“PurgeRite”), a leading provider of mechanical flushing, purging and filtration services for data centers and other mission-critical facilities."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vertiv paid about $1 billion in cash to private equity firm Milton Street Capital for PurgeRite, which cleans and fills the pipes of liquid cooling systems in data centers. Liquid cooling is spreading because AI chips run too hot for air cooling. The deal closed in December 2025."
+}

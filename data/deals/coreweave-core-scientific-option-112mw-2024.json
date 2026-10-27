@@ -1,0 +1,25 @@
+{
+  "id": "coreweave-core-scientific-option-112mw-2024",
+  "from": "coreweave",
+  "to": "core-scientific",
+  "type": "data_center",
+  "title": "CoreWeave exercises option for ~112 MW more at Core Scientific (~$2.0B)",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-08-06",
+  "length_years": 12,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024034989/exhibit991-corescientifich.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2024-08-06",
+      "kind": "sec_filing",
+      "quote": "The new contract with CoreWeave is expected to add approximately $2.0 billion in projected additional cumulative revenue over the hosting contract’s 12-year term to the more than $4.7 billion in projected cumulative revenue associated with previously announced contracts with CoreWeave, for a total of $6.7 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave exercised a second option to rent about 112 more megawatts at Core Scientific sites for 12 years, adding roughly $2 billion of expected revenue."
+}

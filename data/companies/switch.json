@@ -1,0 +1,27 @@
+{
+  "id": "switch",
+  "name": "Switch",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "NV",
+  "website": "https://www.switch.com",
+  "aliases": [
+    "Switch Inc"
+  ],
+  "valuation": {
+    "amount_usd": 11000000000,
+    "period": "2022 take-private",
+    "as_of": "2022-12-06",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1710583/000119312522298966/d356989dex991.htm",
+      "publisher": "Switch (SEC 8-K EX-99.1)",
+      "date": "2022-12-06",
+      "kind": "sec_filing",
+      "quote": "for $34.25 per share in cash, or approximately $11 billion, including the repayment of outstanding debt."
+    }
+  },
+  "description": "Operator of large data center campuses in Nevada, Arizona, Georgia and Michigan, owned by DigitalBridge and IFM.",
+  "explain": "Switch runs huge campuses such as its Las Vegas and Reno sites that are increasingly leased for AI. DigitalBridge and IFM took it private for about $11 billion including debt in 2022."
+}

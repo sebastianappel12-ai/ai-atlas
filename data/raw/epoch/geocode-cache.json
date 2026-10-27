@@ -1,0 +1,261 @@
+{
+ "5420 Tulane Rd, Memphis, TN 38109": {
+  "lat": 34.9979829,
+  "lon": -90.0348674
+ },
+ "55001 Larrison Blvd, New Carlisle, IN 46552": null,
+ "New Carlisle, IN": {
+  "lat": 41.7056871,
+  "lon": -86.5098231
+ },
+ "1435 Hwy 54 W, Fayetteville, GA 30214": {
+  "lat": 33.4454917,
+  "lon": -84.5241153
+ },
+ "4581 Webb St, Pryor, OK 74361": {
+  "lat": 36.2411721,
+  "lon": -95.3300473
+ },
+ "1 Community Cir, New Albany, OH 43054": null,
+ "New Albany, OH": {
+  "lat": 40.0811745,
+  "lon": -82.8087864
+ },
+ "5502 Spinks Rd, Abilene, TX 79601": {
+  "lat": 32.4942321,
+  "lon": -99.8009071
+ },
+ "4800 90th St, Mount Pleasant, WI 53403": {
+  "lat": 42.6748722,
+  "lon": -87.8948822
+ },
+ "5076 S High St, Columbus, OH 43207": {
+  "lat": 39.8614521,
+  "lon": -83.0039995
+ },
+ "1101 Beech Rd SW, New Albany, OH 43054": {
+  "lat": 40.070051,
+  "lon": -82.754042
+ },
+ "3231 Riverport Rd, Memphis, TN 38109": {
+  "lat": 35.0735511,
+  "lon": -90.0873144
+ },
+ "10410 Bunge Ave, Council Bluffs, IA 51503": {
+  "lat": 41.1666499,
+  "lon": -95.7977408
+ },
+ "8171 Jim Christal Rd, Denton, TX 76207": {
+  "lat": 33.2192732,
+  "lon": -97.174715
+ },
+ "6000 Technology Blvd, Sandston, VA 23150": {
+  "lat": 37.4888273,
+  "lon": -77.24749
+ },
+ "1772-2396 145th St, Rosemount, MN 55068, USA": null,
+ "MN 55068, MN": {
+  "lat": 44.7354555,
+  "lon": -93.1435704
+ },
+ "13001 Rollins Ford Road, Bristow, VA 20136": null,
+ "Bristow, VA": {
+  "lat": 38.7311636,
+  "lon": -77.5480241
+ },
+ "14250 W Broadway Rd, Goodyear, AZ 85338": {
+  "lat": 33.4089905,
+  "lon": -112.3647996
+ },
+ "500 8th St, Jeffersonville, IN 47130, USA": {
+  "lat": 38.279131,
+  "lon": -85.739009
+ },
+ "2310 Eberhardt Rd, Temple, TX 76504": {
+  "lat": 31.1259599,
+  "lon": -97.3598178
+ },
+ "11110 State St, Omaha, NE 68142": {
+  "lat": 41.3356809,
+  "lon": -96.0523625
+ },
+ "5475 Cloud Ct, Lincoln, NE 68514": {
+  "lat": 40.907472,
+  "lon": -96.6457832
+ },
+ "6030–6070 Technology Blvd, Sandston, VA 23150": null,
+ "Sandston, VA": {
+  "lat": 37.5107225,
+  "lon": -77.3115564
+ },
+ "3500 River Rd, The Dalles, OR": {
+  "lat": 45.6253889,
+  "lon": -121.2023887
+ },
+ "3525–3543 Portugee Rd, Sandston, VA 23150": null,
+ "Co Rd 42, Montgomery, AL 36105, USA": null,
+ "AL 36105, AL": {
+  "lat": 31.4097135,
+  "lon": -86.6076566
+ },
+ "601 Kuna Mora Rd, Kuna ID 83634": {
+  "lat": 43.4592072,
+  "lon": -116.4211106
+ },
+ "5400 Prosperity Dr NW, Toney, AL": null,
+ "Toney, AL": {
+  "lat": 34.8981438,
+  "lon": -86.7335699
+ },
+ "984 County Road 112, Afton, TX 79220": null,
+ "Afton, TX": {
+  "lat": 33.7628599,
+  "lon": -100.8168001
+ },
+ "5855 SW Kerry St, Cumming, IA 50061": null,
+ "Cumming, IA": {
+  "lat": 41.4833235,
+  "lon": -93.7624442
+ },
+ "1275 N Community Cir, Eagle Mountain, UT 84005": null,
+ "Eagle Mountain, UT": {
+  "lat": 40.3093488,
+  "lon": -112.0119825
+ },
+ "3250 Railport Parkway, Midlothian, TX 76065": {
+  "lat": 32.438927,
+  "lon": -97.0507991
+ },
+ "4250 Messenger Lp, Los Lunas, NM 87031": {
+  "lat": 34.8301645,
+  "lon": -106.7838267
+ },
+ "105 Whiley Rd, Lancaster, OH 43130": {
+  "lat": 39.7270407,
+  "lon": -82.6831433
+ },
+ "4755 NE Huffman St, Hillsboro, OR 97124": {
+  "lat": 45.5588758,
+  "lon": -122.9296051
+ },
+ "42575 Arcola Blvd, Sterling, VA 20166": null,
+ "Sterling, VA": {
+  "lat": 39.003685,
+  "lon": -77.4083096
+ },
+ "330 Austin Blvd, Red Oak, TX 75154": {
+  "lat": 32.5376266,
+  "lon": -96.7966747
+ },
+ "14651-15249 Gold Coast Rd 68138 Papillion Nebraska, USA": null,
+ "USA, NE": {
+  "lat": 41.7370229,
+  "lon": -99.5873816
+ },
+ "1 Meta Lp, Gallatin, TN 37066": null,
+ "Gallatin, TN": {
+  "lat": 36.3883031,
+  "lon": -86.4475898
+ },
+ "9685 87th Ave SE, Ellendale, ND 58436": {
+  "lat": 46.0102576,
+  "lon": -98.5686907
+ },
+ "14436-14998 Fairview Rd, Springfield, NE 68059, USA": null,
+ "NE 68059, NE": {
+  "lat": 41.2004469,
+  "lon": -96.1388242
+ },
+ "1401 Meadowville Technology Parkway, Chester, VA": null,
+ "Chester, VA": {
+  "lat": 37.3489475,
+  "lon": -77.438379
+ },
+ "1125 Electron Ave, Berwick, PA 18603": {
+  "lat": 41.0838485,
+  "lon": -76.1435333
+ },
+ "155 Palmer Ln, Marble, NC 28905": {
+  "lat": 35.1849883,
+  "lon": -83.9141225
+ },
+ "7601 State Hwy 105, Trenton, SC 29847, USA": null,
+ "SC 29847, SC": null,
+ "7725 Lake Rd, Barker, NY 14012": {
+  "lat": 43.3586546,
+  "lon": -78.604128
+ },
+ "15000 Lambda Drive, San Antonio, TX 78245": null,
+ "San Antonio, TX": {
+  "lat": 29.4246002,
+  "lon": -98.4951405
+ },
+ "9590 Hornbaker Rd, Manassas, VA 20109": {
+  "lat": 38.7458055,
+  "lon": -77.5377246
+ },
+ "3963 S Lincoln Ave, Vineland, New Jersey": {
+  "lat": 39.4281986,
+  "lon": -75.0184088
+ },
+ "3545 Wiseman Boulevard, San Antonio, TX 78251": {
+  "lat": 29.4728631,
+  "lon": -98.681767
+ },
+ "14720 Omicron Dr, San Antonio, TX 78245": {
+  "lat": 29.4168571,
+  "lon": -98.7901875
+ },
+ "2205 Industrial South Rd, Dalton, GA, 30721": {
+  "lat": 34.7134428,
+  "lon": -84.9521507
+ },
+ "1025 Jefferson Street NW, Atlanta, GA 30318": {
+  "lat": 33.7771892,
+  "lon": -84.4195499
+ },
+ "216 Greenfield Rd, Lancaster, PA": {
+  "lat": 40.048747,
+  "lon": -76.256144
+ },
+ "1525 W 43rd St S, Muskogee, OK 74401, USA": {
+  "lat": 35.6969243,
+  "lon": -95.3842747
+ },
+ "10001 Lima Rd, Claude, TX 79019": null,
+ "Claude, TX": {
+  "lat": 35.1081103,
+  "lon": -101.362741
+ },
+ "5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404": {
+  "lat": 41.9221755,
+  "lon": -91.7156674
+ },
+ "6015 Adams Center Road, Fort Wayne, IN 46806": {
+  "lat": 41.0309293,
+  "lon": -85.0536261
+ },
+ "12356 Middleton Pike, Bowling Green, OH 43402": null,
+ "Bowling Green, OH": {
+  "lat": 41.3747744,
+  "lon": -83.6513229
+ },
+ "2300 Hallock Young Rd, Warren, OH 44481": null,
+ "Warren, OH": {
+  "lat": 39.4203978,
+  "lon": -84.180897
+ },
+ "175 Private Road 1604, Abilene, TX 79601, Shackelford County": null,
+ "TX 79601, TX": {
+  "lat": 32.4866848,
+  "lon": -99.6806265
+ },
+ "6200 76th Ave SW, Fairfax, IA 52228": {
+  "lat": 41.9056197,
+  "lon": -91.7510775
+ },
+ "652 E Hyperscale Way, Eagle Mountain, UT 84013": {
+  "lat": 40.2688855,
+  "lon": -112.0342942
+ }
+}

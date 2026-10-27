@@ -1,0 +1,32 @@
+{
+  "id": "applied-materials-kokusai-electric-acquisition-2019",
+  "from": "applied-materials",
+  "to": "kokusai-electric",
+  "type": "acquisition",
+  "title": "Applied Materials agrees to buy Kokusai Electric for $2.2B",
+  "amount_usd": 2200000000,
+  "amount_kind": "confirmed",
+  "date": "2019-07-01",
+  "status": "revised",
+  "superseded_by": "applied-materials-kokusai-electric-acquisition-2021",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312519186522/d11288d8k.htm",
+      "publisher": "Applied Materials (SEC 8-K)",
+      "date": "2019-07-01",
+      "kind": "sec_filing",
+      "quote": "Subject to the terms and conditions set forth in the Share Purchase Agreement, at the Closing, Buyer will pay $2.2 billion in cash for the Company, subject to adjustments for net debt, transaction expenses and net working capital, as further described in the Share Purchase Agreement."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312519186522/d11288dex991.htm",
+      "publisher": "Applied Materials (SEC 8-K Exhibit 99.1)",
+      "date": "2019-07-01",
+      "kind": "sec_filing",
+      "quote": "(Nasdaq: AMAT) today announced a definitive agreement under which Applied will acquire all outstanding shares of Kokusai Electric Corporation"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Applied Materials, the largest US chip-equipment maker, agreed to buy Japanese equipment maker Kokusai Electric from private-equity firm KKR for $2.2 billion in cash. The price was later raised to $3.5 billion, and the deal ultimately collapsed."
+}

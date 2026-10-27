@@ -1,0 +1,24 @@
+{
+  "id": "amd-tensorwave-investment-2025",
+  "from": "amd",
+  "to": "tensorwave",
+  "type": "investment",
+  "title": "AMD Ventures co-leads TensorWave's $100M Series A",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-05-14",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.silicon.co.uk/press-release/tensorwave-secures-100-million-series-a-funding-co-led-by-magnetar-and-amd-ventures",
+      "publisher": "Silicon UK (Business Wire release)",
+      "date": "2025-05-14",
+      "kind": "press_release",
+      "quote": "Magnetar and AMD Ventures led the round, with continued support from Maverick Silicon, Nexus Venture Partners, and new investor Prosperity7."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD's venture arm co-led a $100 million round in TensorWave, a cloud built entirely on AMD GPUs. AMD's own share was not disclosed."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "amd",
+  "name": "AMD",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:AMD",
+  "cik": "0000002488",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.amd.com",
+  "newsroom_feed": "https://ir.amd.com/news-events/press-releases/rss",
+  "aliases": [
+    "Advanced Micro Devices",
+    "Advanced Micro Devices, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 34639000000,
+    "period": "FY2025 (ended 2025-12-27)",
+    "as_of": "2025-12-27",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000018/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-04",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 34,639,000,000 USD for 2024-12-29 to 2025-12-27 (10-K, accession 0000002488-26-000018)."
+    }
+  },
+  "description": "Designs CPUs and Instinct AI GPUs for data centers, PCs and game consoles.",
+  "explain": "AMD is the main alternative to Nvidia for AI GPUs. It has signed multi-gigawatt chip deals with OpenAI and Meta, paying them partly in AMD share warrants that vest as they buy."
+}

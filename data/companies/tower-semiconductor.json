@@ -1,0 +1,29 @@
+{
+  "id": "tower-semiconductor",
+  "name": "Tower Semiconductor",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "NASDAQ:TSEM",
+  "cik": "0000928876",
+  "country": "IL",
+  "website": "https://towersemi.com",
+  "aliases": [
+    "Tower Semiconductor Ltd.",
+    "TowerJazz"
+  ],
+  "revenue": {
+    "amount_usd": 1566104000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/928876/000117891326002318/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-04-30",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 1,566,104,000 USD for 2025-01-01 to 2025-12-31 (20-F, accession 0001178913-26-002318)."
+    }
+  },
+  "description": "Israeli contract chipmaker specializing in analog, radio-frequency and silicon photonics chips.",
+  "explain": "Tower makes specialty chips, including optical (silicon photonics) parts used in AI data center networking. Intel tried to buy it for $5.4 billion in 2022 before the deal collapsed."
+}

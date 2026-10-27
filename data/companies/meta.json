@@ -1,0 +1,31 @@
+{
+  "id": "meta",
+  "name": "Meta Platforms",
+  "sector": "ai_lab",
+  "public": true,
+  "ticker": "NASDAQ:META",
+  "cik": "0001326801",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://about.meta.com",
+  "aliases": [
+    "Meta",
+    "Facebook",
+    "Meta Platforms, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 200966000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-01-29",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 200,966,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001628280-26-003942)."
+    }
+  },
+  "description": "Owner of Facebook, Instagram and WhatsApp; builds the Llama AI models and some of the largest AI data centers.",
+  "explain": "Meta is one of the biggest spenders on AI data centers and chips, paid for out of its advertising profits, and bought a 49% stake in Scale AI."
+}

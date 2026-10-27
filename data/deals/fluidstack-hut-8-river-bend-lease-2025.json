@@ -1,0 +1,25 @@
+{
+  "id": "fluidstack-hut-8-river-bend-lease-2025",
+  "from": "fluidstack",
+  "to": "hut-8",
+  "type": "data_center",
+  "title": "Fluidstack signs 15-year, 245 MW lease at Hut 8's River Bend ($7.0B)",
+  "amount_usd": 7000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-12-17",
+  "length_years": 15,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm",
+      "publisher": "Hut 8 (SEC 8-K EX-99.1)",
+      "date": "2025-12-17",
+      "kind": "sec_filing",
+      "quote": "Base-Term Contract Value: Total contract value of $7.0 billion over a 15-year base lease term, inclusive of a 3.0% annual base rent escalator."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fluidstack signed a 15-year, $7 billion lease for 245 megawatts at Hut 8's River Bend campus in Louisiana; Google backstops the lease payments. The capacity is widely tied to Anthropic, which works with Fluidstack."
+}

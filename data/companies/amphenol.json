@@ -1,0 +1,30 @@
+{
+  "id": "amphenol",
+  "name": "Amphenol",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:APH",
+  "cik": "0000820313",
+  "country": "US",
+  "hq_state": "CT",
+  "website": "https://www.amphenol.com",
+  "aliases": [
+    "Amphenol Corp",
+    "Amphenol Corporation"
+  ],
+  "revenue": {
+    "amount_usd": 23094700000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465926013549/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-11",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 23,094,700,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001104659-26-013549)."
+    }
+  },
+  "description": "Makes electrical and fiber optic connectors, cables and antennas, including high-speed interconnects for AI servers.",
+  "explain": "Amphenol makes the connectors and cables inside AI server racks. It paid $10.5 billion for CommScope's fiber connectivity business in 2025-26."
+}

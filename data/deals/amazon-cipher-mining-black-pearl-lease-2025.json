@@ -1,0 +1,25 @@
+{
+  "id": "amazon-cipher-mining-black-pearl-lease-2025",
+  "from": "amazon",
+  "to": "cipher-mining",
+  "type": "data_center",
+  "title": "Amazon (AWS) signs 15-year lease with Cipher (~$5.5B)",
+  "amount_usd": 5500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-03",
+  "length_years": 15,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm",
+      "publisher": "Cipher Mining (SEC 8-K EX-99.1)",
+      "date": "2025-11-03",
+      "kind": "sec_filing",
+      "quote": "Cipher today announced an approximately $5.5 billion, 15-year lease agreement with Amazon Web Services to provide turnkey space and power for AI workloads."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon Web Services agreed to rent 300 megawatts of capacity from Cipher (at its Black Pearl site in Texas) for 15 years for about $5.5 billion, Cipher's first lease directly with a big cloud company."
+}

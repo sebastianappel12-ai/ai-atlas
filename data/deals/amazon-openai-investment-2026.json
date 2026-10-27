@@ -1,0 +1,31 @@
+{
+  "id": "amazon-openai-investment-2026",
+  "from": "amazon",
+  "to": "openai",
+  "type": "investment",
+  "title": "Amazon invests $50B in OpenAI",
+  "amount_usd": 50000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-27",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/tm267374d1_ex99-1.htm",
+      "publisher": "Amazon 8-K Exhibit 99.1 (SEC)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "Amazon will also invest $50 billion in OpenAI, starting with an initial $15 billion investment and followed by another $35 billion in the coming months when certain conditions are met."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "publisher": "Amazon 10-Q (SEC)",
+      "date": "2026-07-31",
+      "kind": "sec_filing",
+      "quote": "Subsequent to June 30, 2026, we invested the remaining $21.3 billion Commitment Amount in shares of Series C Preferred Stock of OpenAI."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon agreed to buy $50 billion of OpenAI preferred shares: $15 billion up front and $35 billion later, which it had fully paid by mid-2026. Alongside it, OpenAI expanded its spending on Amazon's AWS cloud, so part of the money circles back to Amazon."
+}

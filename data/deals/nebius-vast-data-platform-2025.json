@@ -1,0 +1,31 @@
+{
+  "id": "nebius-vast-data-platform-2025",
+  "from": "nebius",
+  "to": "vast-data",
+  "type": "supply",
+  "title": "Nebius adds VAST Data platform to its AI cloud",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-03-11",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.vastdata.com/press-releases/vast-data-and-nebius-partner-to-accelerate-global-enterprise-ai-adoption",
+      "publisher": "VAST Data",
+      "date": "2025-03-11",
+      "kind": "press_release",
+      "quote": "To meet the increasing demands of data-intensive enterprise AI customers, Nebius recognized the need to extend its AI Cloud with a fully featured, multi-tenant, high-performance data platform."
+    },
+    {
+      "url": "https://www.vastdata.com/press-releases/vast-data-and-nebius-partner-to-accelerate-global-enterprise-ai-adoption",
+      "publisher": "VAST Data",
+      "date": "2025-03-11",
+      "kind": "press_release",
+      "quote": "By integrating the cutting-edge VAST Data Platform, Nebius can provide unparalleled performance, scalability, and reliability for enterprises running advanced AI and machine learning workloads."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nebius, a GPU cloud provider, integrated VAST Data's storage platform into its AI cloud to serve enterprise customers, so Nebius pays VAST for the data layer. No price was disclosed."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "core-scientific",
+  "name": "Core Scientific",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:CORZ",
+  "cik": "0001839341",
+  "country": "US",
+  "hq_state": "DE",
+  "website": "https://corescientific.com",
+  "aliases": [
+    "Core Scientific Inc",
+    "CORZ"
+  ],
+  "revenue": {
+    "amount_usd": 319019000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828026013305/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-03-02",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 319,019,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001628280-26-013305)."
+    }
+  },
+  "description": "Former bitcoin miner converting its sites into high-density AI data centers leased to CoreWeave and AMD.",
+  "explain": "Core Scientific is a landlord to CoreWeave (about 590 MW of 12-year contracts) and, from 2026, AMD. CoreWeave tried to buy it for about $9 billion in 2025, but shareholders voted no."
+}

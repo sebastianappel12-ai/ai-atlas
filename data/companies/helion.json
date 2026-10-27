@@ -1,0 +1,14 @@
+{
+  "id": "helion",
+  "name": "Helion Energy",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "WA",
+  "website": "https://www.helionenergy.com",
+  "aliases": [
+    "Helion"
+  ],
+  "description": "Fusion energy startup building its first commercial fusion power plant in Washington state.",
+  "explain": "Helion signed the world's first fusion power purchase agreement, with Microsoft, for power from 2028; OpenAI CEO Sam Altman is a major backer."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eaton",
+  "name": "Eaton",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:ETN",
+  "cik": "0001551182",
+  "country": "IE",
+  "website": "https://www.eaton.com",
+  "aliases": [
+    "Eaton Corporation plc",
+    "Eaton Corp plc"
+  ],
+  "revenue": {
+    "amount_usd": 27448000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 27,448,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001551182-26-000007)."
+    }
+  },
+  "description": "Makes electrical power equipment such as switchgear, UPS systems and power distribution for data centers.",
+  "explain": "Eaton supplies the electrical equipment that brings power into data centers. It bought Boyd Thermal for $9.5 billion and Fibrebond for $1.4 billion to grow its AI data center business."
+}

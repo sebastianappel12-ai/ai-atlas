@@ -1,0 +1,30 @@
+{
+  "id": "western-digital",
+  "name": "Western Digital",
+  "sector": "memory",
+  "public": true,
+  "ticker": "NASDAQ:WDC",
+  "cik": "0000106040",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.westerndigital.com",
+  "aliases": [
+    "WD",
+    "Western Digital Corp"
+  ],
+  "revenue": {
+    "amount_usd": 12919000000,
+    "period": "FY2026 (ended 2026-07-03)",
+    "as_of": "2026-07-03",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026057139/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-14",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 12,919,000,000 USD for 2025-06-28 to 2026-07-03 (10-K, accession 0001628280-26-057139)."
+    }
+  },
+  "description": "US maker of high-capacity hard disk drives used in cloud and AI data centers.",
+  "explain": "Most of the world's data still sits on hard drives. Western Digital sells the big drives cloud companies use to store AI training data, and says its capacity is booked out by large customers."
+}

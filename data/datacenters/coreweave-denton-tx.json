@@ -1,0 +1,71 @@
+{
+  "id": "coreweave-denton-tx",
+  "name": "CoreWeave Denton TX",
+  "owner": "coreweave",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 33.2193,
+    "lon": -97.1747,
+    "city": "Denton"
+  },
+  "state": "TX",
+  "power_mw_now": 262,
+  "power_mw_planned": 395,
+  "status": "operating",
+  "est_chips": {
+    "count": 271854,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 10682724000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-11-01",
+      "event": "Construction start - The [Texas Department of Licensing and Regulation](https://www.tdlr.texas.gov/TABS/Search/Print/TABS2025005706) reports Core Scientific is converting existing Bitcoin mining buildings into AI data centers, planning to b"
+    },
+    {
+      "date": "2025-05-31",
+      "event": "First 8 MW billable tranche dedicated to AI [starts running at the site](https://investors.corescientific.com/sec-filings/all-sec-filings/content/0001628280-25-023161/q12025corescientificinc-ea.htm), with another 40 scheduled by the end of "
+    },
+    {
+      "date": "2025-12-31",
+      "event": "Half the campus energized. 67 billable MW [are now dedicated](https://d1io3yog0oux5.cloudfront.net/_68280da94b2098ec46fcbe3f4628ea40/corescientific/db/1085/11265/presentation/Q4+FY25+earnings+deck+vfinal.2+PDF.pdf) to CoreWeave's GPUs acros"
+    },
+    {
+      "date": "2026-02-23",
+      "event": "Buildings 1-3 (Denton North) are largely built out/operational, and Denton South has its first data hall plus support equipment substantially installed. Remaining Denton South buildings (4-7) still under construction. This is according to s"
+    },
+    {
+      "date": "2026-03-02",
+      "event": "Buildings 1-3 (Denton North) are fully operational running AI (Denton North at 90 MW, Denton South partially running at 41). This is according to an [earnings call](https://www.fool.com/earnings/call-transcripts/2026/03/02/core-scientific-c"
+    },
+    {
+      "date": "2026-07-03",
+      "event": "Buildings 1-7 are operational and running, with no construction work visible. This is based on both satellite imagery, and the [Q2 2026 Earnings call](https://d1io3yog0oux5.cloudfront.net/_68280da94b2098ec46fcbe3f4628ea40/corescientific/db/"
+    },
+    {
+      "date": "2026-09-01",
+      "event": "Building 8 interior fit-out scheduled to begin. [TDLR project TABS2026028247](https://www.tdlr.texas.gov/TABS/Projects/TABS2026028247) schedules a $110M interior fit-out of the existing 27,678.22 sq ft Building A as a data hall beginning Se"
+    },
+    {
+      "date": "2027-05-31",
+      "event": "Building 8 projected operational. [TDLR project TABS2026028247](https://www.tdlr.texas.gov/TABS/Projects/TABS2026028247) schedules Building A's data-hall fit-out for completion by this date."
+    }
+  ],
+  "epoch_id": "CoreWeave Denton TX",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "CoreWeave Denton TX: current power 262 MW; owner CoreWeave."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "CoreWeave Denton TX is an operating AI data center in Denton, TX, owned by coreweave and used by openai. Epoch AI estimates it draws 262 MW today and 395 MW when finished."
+}

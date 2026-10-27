@@ -1,0 +1,46 @@
+{
+  "id": "google",
+  "name": "Alphabet (Google)",
+  "sector": "cloud",
+  "public": true,
+  "ticker": "NASDAQ:GOOGL",
+  "cik": "0001652044",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://abc.xyz",
+  "newsroom_feed": "https://blog.google/rss/",
+  "aliases": [
+    "Alphabet Inc",
+    "Google",
+    "Google Cloud",
+    "Google LLC"
+  ],
+  "revenue": {
+    "amount_usd": 402836000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-05",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 402,836,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001652044-26-000018)."
+    }
+  },
+  "backlog": {
+    "amount_usd": 513900000000,
+    "period": "Q2 2026",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+      "publisher": "Alphabet Form 10-Q (SEC EDGAR)",
+      "date": "2026-07-23",
+      "kind": "sec_filing",
+      "quote": "As of June 30, 2026, we had $519.5 billion of remaining performance obligations (“revenue backlog”), of which $513.9 billion related to Google Cloud."
+    }
+  },
+  "description": "Parent of Google; builds Gemini AI models and rents its own TPU AI chips and other computing power through Google Cloud.",
+  "explain": "Google Cloud sells computing power, especially its in-house TPU chips, to AI labs such as Anthropic and Meta. Its contracted backlog jumped past $500 billion in 2026 as those labs signed huge multi-year deals. The backlog figure here is the Google Cloud portion."
+}

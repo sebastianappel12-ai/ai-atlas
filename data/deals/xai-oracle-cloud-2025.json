@@ -1,0 +1,24 @@
+{
+  "id": "xai-oracle-cloud-2025",
+  "from": "xai",
+  "to": "oracle",
+  "type": "cloud_contract",
+  "title": "xAI uses Oracle cloud to train and run next Grok models",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-17",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.oracle.com/news/announcement/xais-grok-models-are-now-on-oracle-cloud-infrastructure-2025-06-17/",
+      "publisher": "Oracle News",
+      "date": "2025-06-17",
+      "kind": "press_release",
+      "quote": "xAI will also leverage the scalability, performance, and cost efficiency of OCI’s leading AI infrastructure to train and run inferencing for its next-generation Grok models."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Elon Musk's xAI said it would rent Oracle's cloud to train and run its Grok models, while Oracle also resells Grok to its business customers. No dollar amount was disclosed."
+}

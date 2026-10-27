@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-lambda-investment-2025",
+  "from": "nvidia",
+  "to": "lambda",
+  "type": "investment",
+  "title": "Nvidia joins Lambda's $480M Series D",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-02-19",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://lambda.ai/blog/lambda-raises-480m-to-expand-ai-cloud-platform",
+      "publisher": "Lambda Newsroom",
+      "date": "2025-02-19",
+      "kind": "press_release",
+      "quote": "Today, we’re excited to announce a $480M Series D co-led by Andra Capital and SGW with participation from new investors Andrej Karpathy, ARK Invest, Fincadia Advisors, G Squared, In-Q-Tel (IQT), KHK & Partners, NVIDIA, and others."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested an undisclosed amount in Lambda's $480 million funding round. Lambda rents out Nvidia GPUs, so Nvidia is backing one of its own customers."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blue-owl-crusoe-abilene-jv-2025",
+  "from": "blue-owl",
+  "to": "crusoe",
+  "type": "investment",
+  "title": "Blue Owl JV with Crusoe grows to $15B for Abilene campus",
+  "amount_usd": 15000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-05-21",
+  "status": "in_progress",
+  "supersedes": "blue-owl-crusoe-abilene-jv-2024",
+  "sources": [
+    {
+      "url": "https://crusoe.ai/newsroom/crusoe-blue-owl-capital-and-primary-digital-infrastructure-enter-joint-venture/",
+      "publisher": "Crusoe Newsroom",
+      "date": "2025-05-21",
+      "kind": "press_release",
+      "quote": "Crusoe, a vertically-integrated AI infrastructure company, Blue Owl Capital Inc. (“Blue Owl”), a leading alternative asset manager, and Primary Digital Infrastructure, an advisory and data center investment platform, announced today the second phase of a $15 billion joint-venture to fund the 1.2 gigawatt AI data center in Abilene, Texas."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Crusoe, Blue Owl's funds and Primary Digital Infrastructure expanded their Abilene, Texas joint venture to $15 billion to fund a 1.2 gigawatt AI campus. The amount is the whole venture, including Crusoe's and Primary Digital's parts; Blue Owl's own share was not disclosed."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "aep-bloom-energy-fuel-cells-2024",
+  "from": "aep",
+  "to": "bloom-energy",
+  "type": "supply",
+  "title": "AEP agrees to buy up to 1 GW of Bloom fuel cells for data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-11-14",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/aep-20251231.htm",
+      "publisher": "American Electric Power Form 10-K (SEC)",
+      "date": "2026-02-12",
+      "kind": "sec_filing",
+      "quote": "Fuel Cell Agreement In November 2024, AEP executed a purchase agreement to acquire 100 MWs of solid oxide fuel cells with an option to acquire up to one gigawatt in total by the end of 2025."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm",
+      "publisher": "Bloom Energy Form 10-K (SEC)",
+      "date": "2026-02-09",
+      "kind": "sec_filing",
+      "quote": "Bloom Energy and American Electric Power (AEP) entered into a strategic partnership under a landmark supply agreement announced in November 2024, under which AEP is expected to procure up to 1 GW of Bloom’s solid oxide fuel cells to support high-demand commercial applications such as AI data centers."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Utility AEP bought 100 MW of Bloom Energy fuel cells, with an option for up to 1 GW, to put on-site power at data centers (such as AWS and Cologix sites in Ohio) while grid lines are built. Price not disclosed."
+}

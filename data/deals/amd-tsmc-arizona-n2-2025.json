@@ -1,0 +1,24 @@
+{
+  "id": "amd-tsmc-arizona-n2-2025",
+  "from": "amd",
+  "to": "tsmc",
+  "type": "supply",
+  "title": "AMD becomes lead customer for TSMC 2nm and Arizona fab",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-14",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://newsroom.amd.com/news/amd-achieves-first-tsmc-n2-product-silicon-milesto/",
+      "publisher": "AMD Newsroom",
+      "date": "2025-04-14",
+      "kind": "press_release",
+      "quote": "AMD also announced the successful bring up and validation of its 5th Gen AMD EPYC™ CPU products at TSMC’s new fabrication facility in Arizona, underscoring its commitment to U.S. manufacturing."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD designs chips but pays TSMC to manufacture them. In 2025 AMD said its next server CPU (Venice) is the first high-performance chip on TSMC's 2nm process and that its current EPYC CPUs are being made at TSMC's Arizona fab. Order values are not disclosed."
+}

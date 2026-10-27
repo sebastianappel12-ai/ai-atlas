@@ -1,0 +1,31 @@
+{
+  "id": "us-government-sk-hynix-chips-grant-2024",
+  "from": "us-government",
+  "to": "sk-hynix",
+  "type": "investment",
+  "title": "U.S. awards SK hynix up to $458M CHIPS grant",
+  "amount_usd": 458000000,
+  "amount_kind": "up_to",
+  "date": "2024-12-19",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.nist.gov/chips/sk-hynix-indiana-west-lafayette",
+      "publisher": "NIST CHIPS for America",
+      "date": "2024-12-19",
+      "kind": "press_release",
+      "quote": "The U.S. Department of Commerce awarded SK hynix up to $458 million in direct funding under the CHIPS and Science Act to establish a high-bandwidth memory (HBM) advanced packaging fabrication and research and development (R&D) facility."
+    },
+    {
+      "url": "https://insideindianabusiness.com/articles/feds-finalize-deal-to-give-sk-hynix-458m-for-west-lafayette-facility",
+      "publisher": "Inside Indiana Business",
+      "date": "2024-12-19",
+      "kind": "news",
+      "quote": "Federal officials confirmed early Thursday that South Korean chip manufacturer SK Hynix Inc. will receive up to $458 million in federal CHIPS Act funding to build its $3.87 billion semiconductor packaging facility at the Purdue Research Park in West Lafayette."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The government agreed to give SK hynix up to $458 million in grants for a plant in West Lafayette, Indiana that will package high-bandwidth memory (HBM), the stacked memory chips used next to AI processors."
+}

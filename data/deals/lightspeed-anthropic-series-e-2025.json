@@ -1,0 +1,31 @@
+{
+  "id": "lightspeed-anthropic-series-e-2025",
+  "from": "lightspeed",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Lightspeed leads Anthropic's $3.5B Series E",
+  "amount_usd": 3500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-03-03",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2025-03-03",
+      "kind": "press_release",
+      "quote": "Anthropic has raised $3.5 billion at a $61.5 billion post-money valuation."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2025-03-03",
+      "kind": "press_release",
+      "quote": "The round was led by Lightspeed Venture Partners, with participation from Bessemer Venture Partners, Cisco Investments, D1 Capital Partners, Fidelity Management & Research Company, General Catalyst, Jane Street, Menlo Ventures and Salesforce Ventures, among other new and existing investors."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Lightspeed led a $3.5 billion funding round for Anthropic at a $61.5 billion valuation. The amount shown is the whole round; Lightspeed's own share was not disclosed."
+}

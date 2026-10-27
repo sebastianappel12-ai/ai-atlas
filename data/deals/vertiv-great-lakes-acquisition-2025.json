@@ -1,0 +1,31 @@
+{
+  "id": "vertiv-great-lakes-acquisition-2025",
+  "from": "vertiv",
+  "to": "great-lakes-data-racks",
+  "type": "acquisition",
+  "title": "Vertiv buys data center rack maker Great Lakes for $200M",
+  "amount_usd": 200000000,
+  "amount_kind": "confirmed",
+  "date": "2025-07-17",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025035130/exhibit991vrt-pressrelease.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2025-07-17",
+      "kind": "sec_filing",
+      "quote": "today announced it has entered into an agreement to acquire the Great Lakes Data Racks & Cabinets family of companies (collectively “Great Lakes”) for $200 million."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000011/ex991-pressrelease8202025.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2025-08-20",
+      "kind": "sec_filing",
+      "quote": "today announced the successful completion of its previously reported intent to acquire the Great Lakes Data Racks & Cabinets family of companies"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vertiv paid $200 million for Great Lakes, a Pennsylvania maker of the metal racks and cabinets that hold servers in data centers, including racks built for dense AI hardware. The deal closed in August 2025."
+}

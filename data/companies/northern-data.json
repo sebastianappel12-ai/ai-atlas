@@ -1,0 +1,15 @@
+{
+  "id": "northern-data",
+  "name": "Northern Data",
+  "sector": "neocloud",
+  "public": true,
+  "ticker": "XETR:NB2",
+  "country": "DE",
+  "website": "https://northerndata.de",
+  "aliases": [
+    "Northern Data AG",
+    "Taiga Cloud"
+  ],
+  "description": "German AI cloud and data center operator (Taiga Cloud, Ardent); majority-owned by Rumble since June 2026.",
+  "explain": "Northern Data runs one of Europe's larger Nvidia GPU fleets. Long controlled by stablecoin issuer Tether, it was taken over by video platform Rumble in an all-stock deal completed in June 2026."
+}

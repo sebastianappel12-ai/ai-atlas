@@ -1,0 +1,61 @@
+{
+  "id": "anthropic-lake-mariner",
+  "name": "Anthropic Lake Mariner",
+  "owner": "anthropic",
+  "tenants": [],
+  "location": {
+    "lat": 43.3587,
+    "lon": -78.6041,
+    "city": "Barker"
+  },
+  "state": "NY",
+  "power_mw_now": 42,
+  "power_mw_planned": 441,
+  "status": "operating",
+  "est_chips": {
+    "count": 527084,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 14319396000,
+  "grid_region": "NYIS",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-06-11",
+      "event": "Land clearing begins for Building 1 (AKA CB3)."
+    },
+    {
+      "date": "2026-03-02",
+      "event": "Building 1 appears to have a complete shell and cooling equipment. Building 2 shell is still under construction, but 17 cooling units are already loaded on the roof. The outline of Building 3 is visible at the foundation."
+    },
+    {
+      "date": "2026-05-31",
+      "event": "Building 1 is operational. On February 26, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB3 was expected to be energized by mid-May 2"
+    },
+    {
+      "date": "2026-07-23",
+      "event": "Building 1 looks complete, consistent with it going operational back in May. Building 2 is mostly complete, with the row of backup generators on the east side of the building still being installed. Building 3 shell is complete, with rooftop"
+    },
+    {
+      "date": "2026-10-31",
+      "event": "Building 2 (AKA CB4) is operational. On February 26, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB4 was expected to be energized by"
+    },
+    {
+      "date": "2027-03-31",
+      "event": "Building 3 (AKA CB5) is operational. On February 26, 2026, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB5 was expected to be energi"
+    }
+  ],
+  "epoch_id": "Anthropic Lake Mariner",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Anthropic Lake Mariner: current power 42 MW; owner AI XPV Platform."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Anthropic Lake Mariner is an operating AI data center in Barker, NY, owned by anthropic. Epoch AI estimates it draws 42 MW today and 441 MW when finished."
+}

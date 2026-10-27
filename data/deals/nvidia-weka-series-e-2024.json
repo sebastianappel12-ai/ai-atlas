@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-weka-series-e-2024",
+  "from": "nvidia",
+  "to": "weka",
+  "type": "investment",
+  "title": "Nvidia joins WEKA's $140M Series E",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-05-15",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+      "publisher": "WEKA",
+      "date": "2024-05-15",
+      "kind": "press_release",
+      "quote": "Generation Investment Management, NVIDIA, Atreides Management, 10D, Hitachi Ventures, Ibex Investors, Key1 Capital, Lumir Ventures, MoreTech Ventures, and Qualcomm Ventures joined Valor in contributing to the round."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested again in WEKA, which makes software that feeds data to GPUs fast enough for AI training. The $140 million round, led by Valor Equity Partners, valued WEKA at $1.6 billion; Nvidia's share was not disclosed."
+}

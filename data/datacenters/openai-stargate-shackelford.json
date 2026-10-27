@@ -1,0 +1,71 @@
+{
+  "id": "openai-stargate-shackelford",
+  "name": "OpenAI Stargate Shackelford",
+  "owner": "oracle",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 32.4867,
+    "lon": -99.6806,
+    "city": "TX"
+  },
+  "state": "TX",
+  "power_mw_now": 0,
+  "power_mw_planned": 1960,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 4562911,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 53034800000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2027-11-18",
+      "event": "Building 3 is operational (estimate). TDLR lists the construction completion date for Building 3 as 2027-05-18. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-02-11",
+      "event": "Building 4 is operational (estimate). TDLR lists the construction completion date for Building 4 as 2027-08-11. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-03-08",
+      "event": "Building 5 is operational (estimate). TDLR lists the construction completion date for Building 5 as 2027-09-08. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-04-04",
+      "event": "Building 6 is operational (estimate). TDLR lists the construction completion date for Building 6 as 2027-10-04. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-05-12",
+      "event": "Building 7 is operational (estimate). TDLR lists the construction completion date for Building 7 as 2027-11-12. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-10-17",
+      "event": "Building 8 is operational (estimate). TDLR lists the construction completion date for Building 8 as 2028-04-17. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-10-18",
+      "event": "Building 9 is operational (estimate). TDLR lists the construction completion date for Building 9 as 2028-04-18. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    },
+    {
+      "date": "2028-11-11",
+      "event": "Building 10 is operational (estimate). TDLR lists the construction completion date for Building 10 as 2028-05-11. We add 6 months for commissioning, installation etc. before assuming the building is fully operational."
+    }
+  ],
+  "epoch_id": "OpenAI Stargate Shackelford",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "OpenAI Stargate Shackelford: current power 0 MW; owner Oracle."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "OpenAI Stargate Shackelford is an under-construction AI data center in TX, TX, owned by oracle and used by openai. Epoch AI estimates it draws 0 MW today and 1,960 MW when finished."
+}

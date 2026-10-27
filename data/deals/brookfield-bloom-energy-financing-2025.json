@@ -1,0 +1,25 @@
+{
+  "id": "brookfield-bloom-energy-financing-2025",
+  "from": "brookfield",
+  "to": "bloom-energy",
+  "type": "financing",
+  "title": "Brookfield sets up to $5B to fund Bloom fuel cells for AI",
+  "amount_usd": 5000000000,
+  "amount_kind": "up_to",
+  "date": "2025-10-13",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm",
+      "publisher": "Bloom Energy Form 10-Q (SEC EDGAR)",
+      "date": "2025-10-28",
+      "kind": "sec_filing",
+      "quote": "In August 2025, Bloom Energy concluded a transaction with Brookfield Asset Management (“Brookfield”) for a prospective financing framework structure (the “Financing Structure”) of up to $5.0 billion over five years for future Bloom Energy fuel cell projects that meet certain investment criteria and contractual criteria or are otherwise approved by Brookfield."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Brookfield agreed to provide up to $5 billion over five years to pay for Bloom Energy fuel-cell power systems at sites such as AI data centers, which Bloom then installs. Money flows only as qualifying projects are approved."
+}

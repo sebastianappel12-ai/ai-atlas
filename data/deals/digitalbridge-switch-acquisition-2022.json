@@ -1,0 +1,31 @@
+{
+  "id": "digitalbridge-switch-acquisition-2022",
+  "from": "digitalbridge",
+  "to": "switch",
+  "type": "acquisition",
+  "title": "DigitalBridge and IFM take Switch private for $11B",
+  "amount_usd": 11000000000,
+  "amount_kind": "confirmed",
+  "date": "2022-05-11",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1710583/000119312522298966/d356989dex991.htm",
+      "publisher": "Switch Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2022-12-06",
+      "kind": "sec_filing",
+      "quote": "funds affiliated with the investment management platform of DigitalBridge and an affiliate of IFM Investors acquired all outstanding common shares of Switch, Inc."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1710583/000119312522298966/d356989dex991.htm",
+      "publisher": "Switch Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2022-12-06",
+      "kind": "sec_filing",
+      "quote": "for $34.25 per share in cash, or approximately $11 billion, including the repayment of outstanding debt."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "DigitalBridge's investment funds and Australian pension investor IFM bought data center operator Switch for $34.25 a share, about $11 billion including debt. The full price is shown on this record; IFM's share is not split out."
+}

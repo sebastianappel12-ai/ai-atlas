@@ -1,0 +1,32 @@
+{
+  "id": "sandisk-kioxia-yokkaichi-jv-extension-2026",
+  "from": "sandisk",
+  "to": "kioxia",
+  "type": "supply",
+  "title": "Sandisk to pay Kioxia $1.165B to extend flash joint venture to 2034",
+  "amount_usd": 1165000000,
+  "amount_kind": "confirmed",
+  "date": "2026-01-29",
+  "length_years": 4,
+  "status": "in_progress",
+  "confidence": "high",
+  "sources": [
+    {
+      "url": "https://www.kioxia.com/en-jp/about/news/2026/20260130-1.html",
+      "publisher": "Kioxia",
+      "date": "2026-01-30",
+      "kind": "press_release",
+      "quote": "As part of this renewed agreement, Sandisk will pay Kioxia USD 1.165 billion for manufacturing services and continued availability of supply."
+    },
+    {
+      "url": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-01-29-kioxia-and-sandisk-extend-yokkaichi-joint-venture-agreement-through-2034",
+      "publisher": "Sandisk",
+      "date": "2026-01-29",
+      "kind": "press_release",
+      "quote": "As part of this renewed agreement, Sandisk will pay Kioxia USD 1.165 billion for manufacturing services and continued availability of supply."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sandisk and Kioxia make flash memory together in Japanese factories. To keep that arrangement going through 2034, Sandisk will pay Kioxia $1.165 billion in installments from 2026 to 2029 for manufacturing services and guaranteed access to supply."
+}

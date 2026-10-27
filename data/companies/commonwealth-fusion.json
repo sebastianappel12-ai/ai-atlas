@@ -1,0 +1,14 @@
+{
+  "id": "commonwealth-fusion",
+  "name": "Commonwealth Fusion Systems",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "MA",
+  "website": "https://cfs.energy",
+  "aliases": [
+    "CFS"
+  ],
+  "description": "MIT spin-out building the SPARC fusion demo machine and the planned ARC fusion power plant in Virginia.",
+  "explain": "Google signed to buy 200 MW from CFS's first fusion power plant and invested in the company; Nvidia joined its $863M 2025 round."
+}

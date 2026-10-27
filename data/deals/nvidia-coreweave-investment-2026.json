@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-coreweave-investment-2026",
+  "from": "nvidia",
+  "to": "coreweave",
+  "type": "investment",
+  "title": "Nvidia invests $2B in CoreWeave stock",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-01-26",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000044/ex991pressrelease_final.htm",
+      "publisher": "CoreWeave 8-K EX-99.1 (SEC)",
+      "date": "2026-01-26",
+      "kind": "sec_filing",
+      "quote": "In addition, NVIDIA has invested $2 billion in CoreWeave Class A common stock at a purchase price of $87.20 per share."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia bought $2 billion of new CoreWeave shares at $87.20 each. CoreWeave spends heavily on Nvidia chips, so part of this money can cycle back to Nvidia as GPU purchases."
+}

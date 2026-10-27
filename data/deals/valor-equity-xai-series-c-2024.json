@@ -1,0 +1,24 @@
+{
+  "id": "valor-equity-xai-series-c-2024",
+  "from": "valor-equity",
+  "to": "xai",
+  "type": "investment",
+  "title": "Valor-backed $6B Series C for xAI",
+  "amount_usd": 6000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-12-23",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-c",
+      "publisher": "xAI News",
+      "date": "2024-12-23",
+      "kind": "press_release",
+      "quote": "We have closed our Series C funding round of $6 billion with participation from key investors including A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "xAI raised another $6 billion from a group including Valor, a16z, BlackRock, Fidelity, MGX, QIA, Sequoia and Vy Capital. No lead was named; the whole round is shown on this Valor record and each investor's own amount was not disclosed."
+}

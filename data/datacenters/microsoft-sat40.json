@@ -1,0 +1,53 @@
+{
+  "id": "microsoft-sat40",
+  "name": "Microsoft SAT40",
+  "owner": "microsoft",
+  "tenants": [],
+  "location": {
+    "lat": 29.4246,
+    "lon": -98.4951,
+    "city": "San Antonio"
+  },
+  "state": "TX",
+  "power_mw_now": 75,
+  "power_mw_planned": 106,
+  "status": "operating",
+  "est_chips": {
+    "count": 64679,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 2841150000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2018-12-28",
+      "event": "Land clearing begins for the site, specifically digging up a parking lot and making outlines for the buildings. Evident on [Google Earth](https://earth.google.com/web/@29.4149522,-98.80304495,292.48816289a,1532.49619452d,35y,0h,0t,0r/)."
+    },
+    {
+      "date": "2024-05-24",
+      "event": "Building 1 operational. Estimated 3 months out from February, when there was still construction equipment."
+    },
+    {
+      "date": "2025-12-01",
+      "event": "Building 2 operational. No more construction on building, and surrounding roads are also complete."
+    },
+    {
+      "date": "2026-02-04",
+      "event": "Site has already been completed, with no more visible construction on any building."
+    }
+  ],
+  "epoch_id": "Microsoft SAT40",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Microsoft SAT40: current power 75 MW; owner Microsoft."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Microsoft SAT40 is an operating AI data center in San Antonio, TX, owned by microsoft. Epoch AI estimates it draws 75 MW today and 106 MW when finished."
+}

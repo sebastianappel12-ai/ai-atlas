@@ -1,0 +1,27 @@
+{
+  "id": "intersect-power",
+  "name": "Intersect",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.intersectpower.com",
+  "aliases": [
+    "Intersect Power"
+  ],
+  "valuation": {
+    "amount_usd": 4750000000,
+    "period": "acquisition 2025",
+    "as_of": "2025-12-22",
+    "estimate": true,
+    "source": {
+      "url": "https://kirkland.com/news/press-release/2025/12/kirkland-advises-tpg-rise-climate-adaptive-infrastructure-on-sale-of-intersect",
+      "publisher": "Kirkland & Ellis (advisor to sellers)",
+      "date": "2025-12-23",
+      "kind": "other",
+      "quote": "Kirkland & Ellis advised a group of investors in Intersect on a definitive agreement to sell Intersect, which provides data center and energy infrastructure solutions, for $4.75 billion in cash, plus the assumption of debt, to Alphabet (NASDAQ: GOOG)."
+    }
+  },
+  "description": "Developer of power plants and co-located data center campuses; being acquired by Alphabet.",
+  "explain": "Alphabet agreed to buy Intersect for $4.75B plus debt so Google can build data centers together with their own new power supply."
+}

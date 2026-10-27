@@ -1,0 +1,24 @@
+{
+  "id": "g42-cerebras-series-f2-2024",
+  "from": "g42",
+  "to": "cerebras",
+  "type": "investment",
+  "title": "G42 agrees to buy $335M of Cerebras stock",
+  "amount_usd": 335000000,
+  "amount_kind": "confirmed",
+  "date": "2024-05-01",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "publisher": "Cerebras Systems (Form S-1)",
+      "date": "2024-09-30",
+      "kind": "sec_filing",
+      "quote": "Pursuant to the Preferred Stock Purchase Agreement, G42 agreed to purchase an aggregate of approximately 22.9 million shares of our Series F-2 redeemable convertible preferred stock (or, if purchased following the completion of this offering, shares of our Class N common stock) at $14.66 per share, for anticipated gross proceeds to us of $335.0 million (the “G42 Primary Purchase”)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Besides buying Cerebras systems, G42 agreed in May 2024 to invest $335M in Cerebras non-voting shares, a deal reviewed by the US national-security body CFIUS. Exact signing day in May was not given, so the date is approximate."
+}

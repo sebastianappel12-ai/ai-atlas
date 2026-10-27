@@ -1,0 +1,31 @@
+{
+  "id": "openai-amd-6gw-instinct-2025",
+  "from": "openai",
+  "to": "amd",
+  "type": "chip_order",
+  "title": "OpenAI to deploy 6 GW of AMD Instinct GPUs",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312525230895/d28189dex991.htm",
+      "publisher": "AMD (8-K Exhibit 99.1)",
+      "date": "2025-10-06",
+      "kind": "sec_filing",
+      "quote": "OpenAI to deploy 6 gigawatts of AMD GPUs based on a multi-year, multi-generation agreement"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312525230895/d28189dex991.htm",
+      "publisher": "AMD (8-K Exhibit 99.1)",
+      "date": "2025-10-06",
+      "kind": "sec_filing",
+      "quote": "“Our partnership with OpenAI is expected to deliver tens of billions of dollars in revenue for AMD while accelerating OpenAI’s AI infrastructure buildout,” said Jean Hu, EVP, CFO and treasurer, AMD."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI agreed to buy AMD's Instinct AI chips over several years, enough to use 6 gigawatts of power, starting with 1 gigawatt in late 2026. AMD gave no exact price but said it expects 'tens of billions of dollars' of revenue. AMD also gave OpenAI a warrant for up to 160 million AMD shares that vests as purchases grow."
+}

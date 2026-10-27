@@ -1,0 +1,14 @@
+{
+  "id": "nubis",
+  "name": "Nubis Communications",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "NJ",
+  "aliases": [
+    "Nubis Communications Inc",
+    "Nubis"
+  ],
+  "description": "Startup making compact, low-power optical and electrical interconnects for AI; acquired by Ciena in 2025.",
+  "explain": "Nubis builds links that move data between AI chips. Ciena paid $270 million for it."
+}

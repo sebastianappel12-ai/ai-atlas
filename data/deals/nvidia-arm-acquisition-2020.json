@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-arm-acquisition-2020",
+  "from": "nvidia",
+  "to": "arm",
+  "type": "acquisition",
+  "title": "Nvidia's $40B bid for Arm (canceled 2022)",
+  "amount_usd": 40000000000,
+  "amount_kind": "up_to",
+  "date": "2020-09-13",
+  "status": "canceled",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119312520244601/d13958dex991.htm",
+      "publisher": "NVIDIA (8-K Exhibit 99.1)",
+      "date": "2020-09-14",
+      "kind": "sec_filing",
+      "quote": "Under the terms of the transaction, which has been approved by the boards of directors of NVIDIA, SBG and Arm, NVIDIA will pay to SoftBank a total of $21.5 billion in NVIDIA common stock and $12 billion in cash, which includes $2 billion payable at signing."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000005/nvda-20220208.htm",
+      "publisher": "NVIDIA (Form 8-K)",
+      "date": "2022-02-08",
+      "kind": "sec_filing",
+      "quote": "The parties agreed to terminate the Purchase Agreement because of significant regulatory challenges preventing the consummation of the transaction."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia agreed to buy chip-design firm Arm from SoftBank for up to $40B in stock and cash (including a $5B performance earn-out and $1.5B of stock for Arm staff). Regulators in the US, UK and EU pushed back, and the deal was called off in February 2022; Nvidia wrote off a $1.25B prepayment."
+}

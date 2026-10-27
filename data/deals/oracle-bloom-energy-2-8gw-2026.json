@@ -1,0 +1,24 @@
+{
+  "id": "oracle-bloom-energy-2-8gw-2026",
+  "from": "oracle",
+  "to": "bloom-energy",
+  "type": "power_deal",
+  "title": "Oracle plans to procure up to 2.8 GW of Bloom fuel cells",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-04-13",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.bloomenergy.com/news/bloom-energy-and-oracle-expand-strategic-partnership-to-deploy-up-to-2-8-gw-to-accelerate-ai-infrastructure-build-out/",
+      "publisher": "Bloom Energy Newsroom",
+      "date": "2026-04-13",
+      "kind": "press_release",
+      "quote": "Under a master services agreement, Oracle intends to procure up to 2.8 gigawatts (GW) of Bloom’s fuel cell systems."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Oracle expanded its Bloom Energy deal with a master services agreement under which it intends to procure up to 2.8 GW of Bloom fuel cell systems for U.S. cloud and AI data centers. 'Intends to' and 'up to' mean this is a ceiling, not a firm order; no price was disclosed."
+}

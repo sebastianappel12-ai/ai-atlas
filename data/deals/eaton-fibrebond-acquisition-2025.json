@@ -1,0 +1,31 @@
+{
+  "id": "eaton-fibrebond-acquisition-2025",
+  "from": "eaton",
+  "to": "fibrebond",
+  "type": "acquisition",
+  "title": "Eaton buys data center power enclosure maker Fibrebond for $1.4B",
+  "amount_usd": 1400000000,
+  "amount_kind": "confirmed",
+  "date": "2025-03-10",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://pulse2.com/eaton-signs-deal-to-buy-fibrebond-for-1-4-billion/",
+      "publisher": "Pulse 2.0",
+      "date": "2025-03-14",
+      "kind": "news",
+      "quote": "Under the terms of the agreement, Eaton will pay $1.4 billion for the acquisition of Fibrebond, which is expected to generate $110 million of estimated 2025 adjusted EBITDA."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000011/etn03312025exhibit99.htm",
+      "publisher": "Eaton (8-K Ex. 99)",
+      "date": "2025-05-02",
+      "kind": "sec_filing",
+      "quote": "On April 1, 2025, Eaton acquired Fibrebond Corporation (Fibrebond) for $1.45 billion, net of cash acquired."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Eaton agreed to pay $1.4 billion for Fibrebond, a Louisiana company that builds pre-wired modular power enclosures used to bring electricity into data centers quickly. The deal closed on April 1, 2025, at $1.45 billion net of cash."
+}

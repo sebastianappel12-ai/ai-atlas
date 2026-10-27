@@ -1,0 +1,71 @@
+{
+  "id": "anthropic-amazon-new-carlisle",
+  "name": "Anthropic-Amazon New Carlisle",
+  "owner": "amazon",
+  "tenants": [
+    "anthropic"
+  ],
+  "location": {
+    "lat": 41.7057,
+    "lon": -86.5098,
+    "city": "New Carlisle"
+  },
+  "state": "IN",
+  "power_mw_now": 1037,
+  "power_mw_planned": 2310,
+  "status": "operating",
+  "est_chips": {
+    "count": 1746038,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 72922850000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-09-26",
+      "event": "Roof complete on building 16. Generators are being installed for buildings 8-15. In the north, Building 17 and 18 are under construction. To the south of buildings 8-16, a concrete pad is visible, and an expanded car park next to it."
+    },
+    {
+      "date": "2025-10-17",
+      "event": "Confirmation that nearly 500,000 chips are operational, which fits buildings 1-7. In an [interview](https://www.youtube.com/watch?v=jwgW_gHI1Vs&t=220s), AWS CEO says \"they're already running...about 500,000 [Trainium2] chips in Indiana toda"
+    },
+    {
+      "date": "2025-12-23",
+      "event": "Buildings 8-11 are operational, given it's been over 7 months since their roofs were complete, and the backup generators and roof chimneys look complete. The roof is almost complete for Building 17 and 18."
+    },
+    {
+      "date": "2026-02-09",
+      "event": "Buildings 12-16 still have a few generators that look incomplete, so they are unlikely to be operational just yet. Buildings 17-18 still have ongoing roof work, no generators. Just south of Buildings 9-16, the outlines of a site for Buildin"
+    },
+    {
+      "date": "2026-03-23",
+      "event": "Buildings 12-16 are operational. Based on how long previous buildings took, when they were in a similar state to Buildings 12-16 in December."
+    },
+    {
+      "date": "2026-06-03",
+      "event": "Buildings 17-18 fully roofed but still having surrounding generators/cooling under construction. Cleared land for buildings 19-32 is still bare, with no building foundations visible yet. Based on satellite imagery."
+    },
+    {
+      "date": "2026-10-19",
+      "event": "Buildings 17-18 are operational. This is an estimate based on a rule of thumb of \"operational 5 months after roof is complete\", assuming the roofs took one more month after 2025-12-23. Also added four more months to account for commissionin"
+    },
+    {
+      "date": "2028-03-17",
+      "event": "Buildings 19-32 are operational. This is an estimate based on how long Buildings 1-16 took to become operational. In May 2026, the foundation of several buildings and a substation was visible at the site of Buildings 19-32. Buildings 1-16 t"
+    }
+  ],
+  "epoch_id": "Anthropic-Amazon New Carlisle",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Anthropic-Amazon New Carlisle: current power 1037 MW; owner Amazon."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Anthropic-Amazon New Carlisle is an operating AI data center in New Carlisle, IN, owned by amazon and used by anthropic. Epoch AI estimates it draws 1,037 MW today and 2,310 MW when finished."
+}

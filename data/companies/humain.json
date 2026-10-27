@@ -1,0 +1,13 @@
+{
+  "id": "humain",
+  "name": "Humain",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "SA",
+  "website": "https://www.humain.com",
+  "aliases": [
+    "HUMAIN"
+  ],
+  "description": "Saudi Arabia's national AI company, owned by the Public Investment Fund, building data centers and AI models.",
+  "explain": "Humain is Saudi Arabia's vehicle for buying large amounts of AI chips and building data centers, with deals across Nvidia, AMD, Qualcomm and US clouds."
+}

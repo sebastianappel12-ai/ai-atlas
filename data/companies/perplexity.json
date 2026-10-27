@@ -1,0 +1,40 @@
+{
+  "id": "perplexity",
+  "name": "Perplexity",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.perplexity.ai",
+  "aliases": [
+    "Perplexity AI"
+  ],
+  "revenue": {
+    "amount_usd": 750000000,
+    "period": "2026 (annualized run rate)",
+    "as_of": "2026-08-24",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sheppnews.com.au/?p=326205",
+      "publisher": "Shepparton News (Reuters)",
+      "date": "2026-08-24",
+      "kind": "news",
+      "quote": "Perplexity's ‌annualised revenue ⁠has risen to more than $US750 million ($A1 billion) from less ​than $US250 million ($A349 million) at the start of the year, the report said."
+    }
+  },
+  "valuation": {
+    "amount_usd": 20000000000,
+    "period": "2025 funding round",
+    "as_of": "2025-09-11",
+    "estimate": true,
+    "source": {
+      "url": "https://techeconomy.ng/perplexity-raises-200m-at-20b-valuation",
+      "publisher": "Techeconomy",
+      "date": "2025-09-11",
+      "kind": "news",
+      "quote": "Perplexity has reportedly raised $200 million in fresh funding, pushing its valuation to $20 billion barely two months after it secured $100 million at an $18 billion valuation."
+    }
+  },
+  "description": "AI-powered answer engine and Comet browser that searches the web and cites sources.",
+  "explain": "Perplexity rents its computing from clouds such as Microsoft Azure and competes with Google search; investors include Nvidia."
+}

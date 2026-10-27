@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-nscale-cloud-2025",
+  "from": "microsoft",
+  "to": "nscale",
+  "type": "cloud_contract",
+  "title": "Microsoft signs four-country AI infrastructure contract with Nscale",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-15",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.nscale.com/press-releases/nscale-microsoft-2025",
+      "publisher": "Nscale Newsroom",
+      "date": "2025-10-15",
+      "kind": "press_release",
+      "quote": "Nscale is an ideal partner for this mission, given its deep expertise in providing AI infrastructure services at scale.”Nscale will deliver approximately 104,000 NVIDIA GB300 GPUs in a ~240MW hyperscale AI campus in Texas, supporting the phased delivery of NVIDIA AI infrastructure services to Microsoft from Q3 2026."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft contracted Nscale to deliver Nvidia GB300 GPU capacity across Texas, Portugal, the UK and Norway, including about 104,000 GPUs in Texas. The contract value was not disclosed."
+}

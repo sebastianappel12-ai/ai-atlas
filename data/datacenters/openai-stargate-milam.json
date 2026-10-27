@@ -1,0 +1,55 @@
+{
+  "id": "openai-stargate-milam",
+  "name": "OpenAI Stargate Milam",
+  "owner": "softbank",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 30.79,
+    "lon": -96.98,
+    "city": "Milam County"
+  },
+  "state": "TX",
+  "power_mw_now": 0,
+  "power_mw_planned": 1200,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 2496210,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 32464874000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-09-27",
+      "event": "Land clearing begins for the site"
+    },
+    {
+      "date": "2026-01-04",
+      "event": "Small sections of building foundation construction begins, and land clearing appears to be mostly finished"
+    },
+    {
+      "date": "2026-03-23",
+      "event": "Steel framing and roofing is underway for Building 1."
+    },
+    {
+      "date": "2028-12-31",
+      "event": "All buildings finished, site is fully operational. Our reasoning is that examples so far take a median of 2-2.5 years to go from land clearing to 1 GW. This suggests around 2028-01-01 here. However, due to delays being more likely than spee"
+    }
+  ],
+  "epoch_id": "OpenAI Stargate Milam",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "OpenAI Stargate Milam: current power 0 MW; owner Softbank."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "OpenAI Stargate Milam is an under-construction AI data center in Milam County, TX, owned by softbank and used by openai. Epoch AI estimates it draws 0 MW today and 1,200 MW when finished."
+}

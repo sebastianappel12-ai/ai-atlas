@@ -1,0 +1,65 @@
+{
+  "id": "qts-richmond-3",
+  "name": "QTS Richmond 3",
+  "owner": "qts",
+  "tenants": [],
+  "location": {
+    "lat": 37.5107,
+    "lon": -77.3116,
+    "city": "Sandston"
+  },
+  "state": "VA",
+  "power_mw_now": 144,
+  "power_mw_planned": 336,
+  "status": "operating",
+  "est_chips": {
+    "count": 291056,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 9091680000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-04-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2025-02-04",
+      "event": "Building 1 shell is mostly complete, with some chillers installed on the roof. Building 2 shell is under construction."
+    },
+    {
+      "date": "2025-11-19",
+      "event": "The substation is still under construction, based on a [Google Earth image](https://earth.google.com/web/@37.48033002,-77.25002949,65.53442036a,2152.9927926d,30.00094375y,-0.00000001h,0.59169466t,0r/data=CgwqBggBEgAYAUICCAEyKQonCiUKITFZU1hJ"
+    },
+    {
+      "date": "2025-12-31",
+      "event": "The substation looks complete, but we expect Building 1 still needs commissioning before it is fully operational."
+    },
+    {
+      "date": "2026-02-13",
+      "event": "Building 1 is operational, based on the substation being completed earlier and cars in the carpark. Building 2 and 3 are not operational, based on minor construction work at the perimeter and no cars in the carpark, but we expect they will "
+    },
+    {
+      "date": "2026-05-14",
+      "event": "Building 2 and 3 are operational, based on the previous entry."
+    },
+    {
+      "date": "2027-02-13",
+      "event": "Building 4 and 5 are operational, based on Building 5 being roughly 1 year behind Building 1 in satellite imagery."
+    }
+  ],
+  "epoch_id": "QTS Richmond 3",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "QTS Richmond 3: current power 144 MW; owner unlisted."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "QTS Richmond 3 is an operating AI data center in Sandston, VA, owned by qts. Epoch AI estimates it draws 144 MW today and 336 MW when finished."
+}

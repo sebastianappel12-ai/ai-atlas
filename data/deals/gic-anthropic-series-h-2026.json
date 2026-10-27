@@ -1,0 +1,24 @@
+{
+  "id": "gic-anthropic-series-h-2026",
+  "from": "gic",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "GIC and Coatue co-lead Anthropic's Series H",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-05-28",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/series-h",
+      "publisher": "Anthropic News",
+      "date": "2026-05-28",
+      "kind": "press_release",
+      "quote": "The round was co-led by Capital Group, Coatue, D1 Capital Partners, GIC, ICONIQ, and XN."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "GIC co-led Anthropic's $65 billion Series H alongside Coatue, ICONIQ and others (counted in full on the Sequoia record). GIC's own amount was not disclosed."
+}

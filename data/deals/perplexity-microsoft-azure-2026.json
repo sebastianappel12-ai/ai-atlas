@@ -1,0 +1,32 @@
+{
+  "id": "perplexity-microsoft-azure-2026",
+  "from": "perplexity",
+  "to": "microsoft",
+  "type": "cloud_contract",
+  "title": "Perplexity signs ~$750M, three-year Microsoft Azure deal",
+  "amount_usd": 750000000,
+  "amount_kind": "estimated",
+  "date": "2026-01-29",
+  "length_years": 3,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.koreajoongangdaily.com/business/perplexity-signs-750-million-ai-cloud-deal-with-microsoft-bloomberg-news-reports/12125102",
+      "publisher": "Korea JoongAng Daily (Reuters)",
+      "date": "2026-01-30",
+      "kind": "news",
+      "quote": "AI startup Perplexity has signed a $750 million agreement with Microsoft to use its Azure cloud service, Bloomberg News reported on Thursday, citing people familiar with the matter."
+    },
+    {
+      "url": "https://www.storyboard18.com/amp/digital/perplexity-signs-750-million-microsoft-azure-deal-for-multi-model-ai-access-88522.htm",
+      "publisher": "Storyboard18",
+      "date": "2026-01-30",
+      "kind": "news",
+      "quote": "The deal, valued at about $750 million, gives the Nvidia-backed company access to Microsoft’s Foundry platform, which aggregates models from multiple developers including OpenAI, Anthropic and xAI."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AI search company Perplexity agreed to spend about $750 million over three years on Microsoft's Azure cloud, mainly to use AI models from several labs through Microsoft's Foundry service. The figure comes from Bloomberg's sources, not the companies; AWS remains Perplexity's main cloud."
+}

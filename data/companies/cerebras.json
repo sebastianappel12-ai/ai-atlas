@@ -1,0 +1,17 @@
+{
+  "id": "cerebras",
+  "name": "Cerebras",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:CBRS",
+  "cik": "0002021728",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.cerebras.ai",
+  "aliases": [
+    "Cerebras Systems",
+    "Cerebras Systems Inc."
+  ],
+  "description": "Designs wafer-scale AI chips and systems, and sells fast AI inference as a cloud service.",
+  "explain": "Cerebras builds dinner-plate-sized AI chips. It went public in May 2026 after landing OpenAI as a customer for 750 MW of compute; before that most of its revenue came from Abu Dhabi's G42."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "amazon-anthropic-investment-2026",
+  "from": "amazon",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Amazon invests $5B more in Anthropic",
+  "amount_usd": 5000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-04-20",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "In April 2026, the Company entered into a stock purchase and convertible note facility agreement (“Amazon 2026 NPA”) with Amazon under which Amazon purchased 19.3 million shares of the Company’s Series G-2 non-voting redeemable convertible preferred stock for approximately $5.0 billion"
+    },
+    {
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/amazon-and-anthropic-deepen-ties-with-investment-and-hardware-pact/",
+      "publisher": "PYMNTS",
+      "date": "2026-04-21",
+      "kind": "news",
+      "quote": "Separately, Amazon will invest another $5 billion in Anthropic today and up to an additional $20 billion in the future, depending upon certain commercial milestones."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon bought $5 billion of Anthropic shares in April 2026, at the same time as Anthropic promised to spend more than $100 billion on AWS over ten years. Amazon also offered up to $20 billion more later (a separate record)."
+}

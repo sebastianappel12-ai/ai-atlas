@@ -1,0 +1,31 @@
+{
+  "id": "meta-williams-socrates-power-2025",
+  "from": "meta",
+  "to": "williams",
+  "type": "power_deal",
+  "title": "Williams builds $1.6B Socrates on-site gas power for Meta's Ohio campus",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-05-05",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726325000100/wmb_20250331xer.htm",
+      "publisher": "Williams Companies Form 8-K EX-99.1 (SEC)",
+      "date": "2025-05-05",
+      "kind": "sec_filing",
+      "quote": "Commercialized Socrates, a $1.6 billion Power Innovation project to serve growing AI demand in Ohio, backed by a long-term, fixed-price power purchase agreement"
+    },
+    {
+      "url": "https://www.power-eng.com/onsite-power/onsite-gas-turbines-reciprocating-engines-to-power-meta-data-center/",
+      "publisher": "Power Engineering",
+      "date": "2025-06-11",
+      "kind": "news",
+      "quote": "In project filings, the data center electricity consumer is listed as Sidecat, LLC, an affiliate of Meta."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Williams is building and running the Socrates gas power plants that feed Meta's data center campus in New Albany, Ohio, and is paid under a long-term fixed-price power purchase agreement. The $1.6 billion figure is Williams' project cost, not the contract value, which was not disclosed. Plants: Socrates South and Socrates North power generation facilities (New Albany, Ohio), about 556 MW combined per Williams' 2026 10-Q."
+}

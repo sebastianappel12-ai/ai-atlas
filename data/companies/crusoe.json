@@ -1,0 +1,28 @@
+{
+  "id": "crusoe",
+  "name": "Crusoe",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "CO",
+  "website": "https://www.crusoe.ai",
+  "aliases": [
+    "Crusoe Energy",
+    "Crusoe Energy Systems"
+  ],
+  "valuation": {
+    "amount_usd": 30900000000,
+    "period": "Series F",
+    "as_of": "2026-09-17",
+    "estimate": false,
+    "source": {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+      "publisher": "Crusoe Newsroom",
+      "date": "2026-09-17",
+      "kind": "press_release",
+      "quote": "Share: DENVER – September 17, 2026 – Crusoe, the industry’s first vertically-integrated AI infrastructure provider, today announced the initial closing of its anticipated $3.9 billion Series F funding round, at a $30.9 billion post-money valuation."
+    }
+  },
+  "description": "Builds and powers large AI data centers (including Stargate's Abilene campus for Oracle) and runs its own GPU cloud.",
+  "explain": "Crusoe both builds giant data centers for others, such as the Abilene, Texas Stargate campus used by Oracle and OpenAI, and rents GPUs through Crusoe Cloud. Nvidia has invested in several of its funding rounds."
+}

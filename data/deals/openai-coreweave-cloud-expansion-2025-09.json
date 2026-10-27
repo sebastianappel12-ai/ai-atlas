@@ -1,0 +1,32 @@
+{
+  "id": "openai-coreweave-cloud-expansion-2025-09",
+  "from": "openai",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "OpenAI expands CoreWeave deal by up to $6.5B",
+  "amount_usd": 6500000000,
+  "amount_kind": "up_to",
+  "date": "2025-09-25",
+  "length_years": 5.5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525216497/d17274d8k.htm",
+      "publisher": "CoreWeave 8-K (SEC)",
+      "date": "2025-09-25",
+      "kind": "sec_filing",
+      "quote": "Subject to any termination described below and satisfaction of delivery and availability of service requirements, OpenAI has committed to pay the Company up to approximately $6.5 billion through May 31, 2031 under the Order Form."
+    },
+    {
+      "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
+      "publisher": "CoreWeave Newsroom",
+      "date": "2025-09-25",
+      "kind": "press_release",
+      "quote": "The agreement announced today brings the total contract value with OpenAI up to approximately $22.4 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "A third OpenAI order with CoreWeave worth up to $6.5 billion through May 2031, bringing OpenAI's total CoreWeave commitments to about $22.4 billion."
+}

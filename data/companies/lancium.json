@@ -1,0 +1,14 @@
+{
+  "id": "lancium",
+  "name": "Lancium",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://lancium.com",
+  "aliases": [
+    "Lancium Technologies"
+  ],
+  "description": "Texas energy and data center campus developer; owns the Abilene site behind the first Stargate campus.",
+  "explain": "Lancium secures land and grid power in West Texas and develops campuses on it, including the Abilene site built out with Crusoe for Oracle and OpenAI."
+}

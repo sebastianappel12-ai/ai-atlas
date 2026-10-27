@@ -1,0 +1,24 @@
+{
+  "id": "intel-figure-ai-investment-2025",
+  "from": "intel",
+  "to": "figure-ai",
+  "type": "investment",
+  "title": "Intel Capital invests in Figure's $1B+ Series C",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.figure.ai/news/series-c",
+      "publisher": "Figure AI",
+      "date": "2025-09-16",
+      "kind": "press_release",
+      "quote": "The round was led by Parkway Venture Capital with significant investment from Brookfield Asset Management, NVIDIA, Macquarie Capital, Intel Capital, Align Ventures, Tamarack Global, LG Technology Ventures, Salesforce, T-Mobile Ventures, and Qualcomm Ventures."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Intel Capital put an undisclosed amount into humanoid-robot maker Figure's Series C, which raised more than $1 billion at a $39 billion valuation."
+}

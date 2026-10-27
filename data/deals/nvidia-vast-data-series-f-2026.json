@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-vast-data-series-f-2026",
+  "from": "nvidia",
+  "to": "vast-data",
+  "type": "investment",
+  "title": "Nvidia joins VAST Data's Series F at a $30B valuation",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-04-22",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.vastdata.com/press-releases/vast-series-f-financing-at-30-billion-valuation",
+      "publisher": "VAST Data",
+      "date": "2026-04-22",
+      "kind": "press_release",
+      "quote": "The latest round was led by Drive Capital, with Access Industries acting as co-lead, and included participation from existing investors including Fidelity Management & Research Company, NEA, and NVIDIA, alongside new investors."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia put more money into VAST Data, a maker of AI data storage software, in a roughly $1 billion round (new shares plus shares sold by existing holders) that valued VAST at $30 billion. Nvidia's own share of the round was not disclosed."
+}

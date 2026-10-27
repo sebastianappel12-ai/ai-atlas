@@ -1,0 +1,31 @@
+{
+  "id": "google-xcel-energy-minnesota-2026",
+  "from": "google",
+  "to": "xcel-energy",
+  "type": "power_deal",
+  "title": "Xcel to power Google's Minnesota data center with 1.9 GW of new clean energy",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-24",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000070/xcelearningsreleaseq12026.htm",
+      "publisher": "Xcel Energy Form 8-K EX-99.01 (SEC)",
+      "date": "2026-04-30",
+      "kind": "sec_filing",
+      "quote": "NSP System — Large Load Agreement — In the first quarter of 2026, NSP-Minnesota entered into an electric service agreement to power a new Google data center in Minnesota."
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/",
+      "publisher": "Google Blog",
+      "date": "2026-02-24",
+      "kind": "press_release",
+      "quote": "The agreement includes adding an additional 1,400 megawatts (MW) of wind, 200 MW of solar and 300 MW of iron-air battery storage from Form Energy to Xcel’s grid, providing a thoughtfully designed grid balanced solution."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google signed an electric service agreement with Xcel Energy for a new data center in Pine Island, Minnesota, paying all costs of its service; the deal adds 1,400 MW of wind, 200 MW of solar and 300 MW of iron-air batteries to Xcel's grid, and Google gives $50 million to Xcel's Capacity*Connect battery program. Total value not disclosed. Plants: new, unnamed Xcel wind, solar and Form Energy storage projects."
+}

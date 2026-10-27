@@ -1,0 +1,32 @@
+{
+  "id": "pure-storage",
+  "name": "Everpure (formerly Pure Storage)",
+  "sector": "memory",
+  "public": true,
+  "ticker": "NYSE:P",
+  "cik": "0001474432",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.purestorage.com",
+  "aliases": [
+    "Pure Storage",
+    "Everpure",
+    "Pure Storage Inc",
+    "PSTG"
+  ],
+  "revenue": {
+    "amount_usd": 3662843000,
+    "period": "FY2026 (ended 2026-02-01)",
+    "as_of": "2026-02-01",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1474432/000147443226000027/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-03-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 3,662,843,000 USD for 2025-02-03 to 2026-02-01 (10-K, accession 0001474432-26-000027)."
+    }
+  },
+  "description": "US maker of all-flash data storage systems; renamed from Pure Storage to Everpure in January 2026.",
+  "explain": "Pure sells flash-based storage that replaces hard disks. It won a deal for Meta to use its flash technology in Meta's next-generation data centers, a sign hyperscalers are moving AI data onto flash."
+}

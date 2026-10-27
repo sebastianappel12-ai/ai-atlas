@@ -1,0 +1,31 @@
+{
+  "id": "us-government-amkor-chips-grant-2024",
+  "from": "us-government",
+  "to": "amkor",
+  "type": "investment",
+  "title": "U.S. awards Amkor up to $407M CHIPS grant",
+  "amount_usd": 407000000,
+  "amount_kind": "up_to",
+  "date": "2024-12-20",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.nist.gov/chips/amkor-technology-inc-arizona-peoria",
+      "publisher": "NIST CHIPS for America",
+      "date": "2024-12-20",
+      "kind": "press_release",
+      "quote": "The U.S. Department of Commerce awarded Amkor Technology Arizona, Inc., a subsidiary of Amkor Technology, Inc., up to $407 million in direct funding to support the construction of a new advanced packaging and test facility."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1047127/000104712725000030/amkr-20241231.htm",
+      "publisher": "Amkor Form 10-K (SEC EDGAR)",
+      "date": "2025-02-21",
+      "kind": "sec_filing",
+      "quote": "In December 2024, Commerce awarded us up to $407 million in direct funding pursuant to the CHIPS Act for the Arizona Facility."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The government agreed to give Amkor up to $407 million in grants for an advanced chip packaging and testing plant in Peoria, Arizona, the step that joins AI chips to their memory."
+}

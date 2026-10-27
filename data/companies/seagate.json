@@ -1,0 +1,29 @@
+{
+  "id": "seagate",
+  "name": "Seagate Technology",
+  "sector": "memory",
+  "public": true,
+  "ticker": "NASDAQ:STX",
+  "cik": "0001137789",
+  "country": "IE",
+  "website": "https://www.seagate.com",
+  "aliases": [
+    "Seagate",
+    "Seagate Technology Holdings plc"
+  ],
+  "revenue": {
+    "amount_usd": 12195000000,
+    "period": "FY2026 (ended 2026-07-03)",
+    "as_of": "2026-07-03",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000159/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-04",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 12,195,000,000 USD for 2025-06-28 to 2026-07-03 (10-K, accession 0001137789-26-000159)."
+    }
+  },
+  "description": "Hard disk drive maker (Irish-incorporated, executive offices in Singapore) supplying mass storage to cloud data centers.",
+  "explain": "Seagate and Western Digital make nearly all the world's hard drives. Cloud giants buy them in bulk to store the data AI models are trained on."
+}

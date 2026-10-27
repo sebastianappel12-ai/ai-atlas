@@ -1,0 +1,31 @@
+{
+  "id": "blackrock-aligned-data-centers-acquisition-2025",
+  "from": "blackrock",
+  "to": "aligned-data-centers",
+  "type": "acquisition",
+  "title": "BlackRock's GIP and AIP buy Aligned Data Centers for $40B",
+  "amount_usd": 40000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-10-15",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://w.media/ai-infrastructure-consortium-acquires-aligned-data-centers-for-us-40-billion/",
+      "publisher": "W.Media",
+      "date": "2025-10-16",
+      "kind": "news",
+      "quote": "October 16, 2025 at 2:57 PM GMT+8 Log in to save A newly formed consortium comprising the Artificial Intelligence Infrastructure Partnership (AIP), MGX, and BlackRock’s Global Infrastructure Partners (GIP) has announced the acquisition of Aligned Data Centers in a transaction valued at US$ 40 billion."
+    },
+    {
+      "url": "https://w.media/aip-led-consortium-completes-us-40-billion-acquisition-of-aligned-data-centers/",
+      "publisher": "W.Media",
+      "date": "2026-07-23",
+      "kind": "news",
+      "quote": "The transaction values Aligned at an enterprise value of approximately US$ 40 billion, making it one of the largest private transactions in the digital infrastructure sector."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "A group made up of BlackRock's Global Infrastructure Partners, the BlackRock-founded AI Infrastructure Partnership (with Microsoft, Nvidia and MGX) and MGX bought data center builder Aligned for about $40 billion including debt. The full price is shown here once; the deal closed in July 2026."
+}

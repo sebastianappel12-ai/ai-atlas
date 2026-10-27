@@ -1,0 +1,24 @@
+{
+  "id": "google-broadcom-tpu-long-term-2026",
+  "from": "google",
+  "to": "broadcom",
+  "type": "chip_order",
+  "title": "Google signs long-term deal for Broadcom to supply future TPUs",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-04-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/d87999d8k.htm",
+      "publisher": "Broadcom (Form 8-K)",
+      "date": "2026-04-06",
+      "kind": "sec_filing",
+      "quote": "Broadcom Inc. (“Broadcom”) and Google LLC (“Google”) have entered into a Long Term Agreement for Broadcom to develop and supply custom Tensor Processing Units (“TPUs”) for Google’s future generations of TPUs and a Supply Assurance Agreement for Broadcom to supply networking and other components to be used in Google’s next-generation AI racks through up to 2031."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google pays Broadcom to co-design and supply its custom AI chips (TPUs) for future generations, plus networking parts for its AI racks, through as late as 2031. No dollar amount was disclosed."
+}

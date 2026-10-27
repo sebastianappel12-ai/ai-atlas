@@ -1,0 +1,31 @@
+{
+  "id": "blue-owl-meta-hyperion-jv-2025",
+  "from": "blue-owl",
+  "to": "meta",
+  "type": "financing",
+  "title": "Blue Owl funds take 80% of Meta's ~$27B Hyperion data center",
+  "amount_usd": 7000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-10-21",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center/",
+      "publisher": "Meta Newsroom",
+      "date": "2025-10-21",
+      "kind": "press_release",
+      "quote": "The funds managed by Blue Owl Capital made a cash contribution of approximately $7 billion to the joint venture, and Meta received a one-time distribution from the joint venture in the amount of approximately $3 billion."
+    },
+    {
+      "url": "https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center/",
+      "publisher": "Meta Newsroom",
+      "date": "2025-10-21",
+      "kind": "press_release",
+      "quote": "The parties have committed to fund their respective pro rata share of the approximately $27 billion in total development costs for the buildings and long-lived power, cooling, and connectivity infrastructure at the campus."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Blue Owl's funds own 80% of a joint venture building Meta's Hyperion AI campus in Louisiana; Meta keeps 20% and leases all the buildings from the venture. Blue Owl put in about $7 billion of cash up front (shown here) and agreed to fund its 80% share of roughly $27 billion in total costs, partly with bonds sold to PIMCO and others."
+}

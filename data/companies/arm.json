@@ -1,0 +1,31 @@
+{
+  "id": "arm",
+  "name": "Arm Holdings",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:ARM",
+  "cik": "0001973239",
+  "country": "GB",
+  "website": "https://www.arm.com",
+  "newsroom_feed": "https://newsroom.arm.com/rss",
+  "aliases": [
+    "Arm",
+    "Arm Holdings plc",
+    "ARM Ltd"
+  ],
+  "revenue": {
+    "amount_usd": 4920000000,
+    "period": "FY2026 (ended 2026-03-31)",
+    "as_of": "2026-03-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1973239/000197323926000097/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-05-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 4,920,000,000 USD for 2025-04-01 to 2026-03-31 (20-F, accession 0001973239-26-000097)."
+    }
+  },
+  "description": "Designs and licenses the Arm processor architecture used in most phones and a growing share of data-center chips.",
+  "explain": "Arm doesn't sell chips; it earns license fees and royalties when others (Apple, Nvidia, Amazon, Qualcomm) build chips on its designs. SoftBank owns most of it after Nvidia's $40B takeover failed."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "crusoe-vast-data-shared-disks-2024",
+  "from": "crusoe",
+  "to": "vast-data",
+  "type": "supply",
+  "title": "Crusoe builds its cloud storage product on VAST Data",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-09-26",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://crusoe.ai/newsroom/crusoe-vast-data-to-deliver-high-performance-data/",
+      "publisher": "Crusoe",
+      "date": "2024-09-26",
+      "kind": "press_release",
+      "quote": "“Crusoe chose the VAST Data Platform because of its exceptional ability to deliver the reliable file storage that our customers need without any depletion of performance as AI models are scaled,” said Patrick McGregor, Crusoe’s Chief Product Officer."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Crusoe, an AI cloud and data center company, launched a storage service for its customers built on VAST Data's platform, making Crusoe a VAST customer. No price was disclosed."
+}

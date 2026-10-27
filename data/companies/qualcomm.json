@@ -1,0 +1,29 @@
+{
+  "id": "qualcomm",
+  "name": "Qualcomm",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:QCOM",
+  "cik": "0000804328",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.qualcomm.com",
+  "aliases": [
+    "QUALCOMM Incorporated"
+  ],
+  "revenue": {
+    "amount_usd": 44284000000,
+    "period": "FY2025 (ended 2025-09-28)",
+    "as_of": "2025-09-28",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432825000085/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-11-05",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 44,284,000,000 USD for 2024-09-30 to 2025-09-28 (10-K, accession 0000804328-25-000085)."
+    }
+  },
+  "description": "Designs smartphone processors and modems, and since 2025 data-center AI inference chips (AI200/AI250).",
+  "explain": "Best known for phone chips, Qualcomm is moving into AI data centers, with Saudi Arabia's Humain as its first big customer and acquisitions like Alphawave to build out the business."
+}

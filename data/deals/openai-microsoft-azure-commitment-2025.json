@@ -1,0 +1,24 @@
+{
+  "id": "openai-microsoft-azure-commitment-2025",
+  "from": "openai",
+  "to": "microsoft",
+  "type": "cloud_contract",
+  "title": "OpenAI makes a new, large Azure commitment as Stargate launches",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-01-21",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2025/01/21/microsoft-and-openai-evolve-partnership-to-drive-the-next-phase-of-ai/",
+      "publisher": "Official Microsoft Blog",
+      "date": "2025-01-21",
+      "kind": "press_release",
+      "quote": "In addition to this, OpenAI recently made a new, large Azure commitment that will continue to support all OpenAI products as well as training."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "When OpenAI announced its Stargate data-center project in January 2025, Microsoft said OpenAI had also signed a new, large commitment to keep buying Azure cloud computing. No amount was given."
+}

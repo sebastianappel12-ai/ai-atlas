@@ -1,0 +1,65 @@
+{
+  "id": "google-papillion",
+  "name": "Google Papillion",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 41.737,
+    "lon": -99.5874,
+    "city": "USA"
+  },
+  "state": "NE",
+  "power_mw_now": 237,
+  "power_mw_planned": 284,
+  "status": "operating",
+  "est_chips": {
+    "count": 100556,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 8978034000,
+  "grid_region": "SWPP",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2020-03-04",
+      "event": "Land clearing begins for Building 1 of expansion."
+    },
+    {
+      "date": "2022-10-16",
+      "event": "Building 2 under construction. Building 3 begins construction."
+    },
+    {
+      "date": "2023-01-23",
+      "event": "Building 1 assumed operational due to vapor from cooling towers. Building 2 4/7 cooling towers installed. Building 3 roof complete coverage but unfinished."
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Building 2 assumed operational due to vapor from cooling towers. Building 3 5/7 cooling towers installed."
+    },
+    {
+      "date": "2024-08-03",
+      "event": "Building 3 looks operational."
+    },
+    {
+      "date": "2025-11-03",
+      "event": "Land cleared for Building 4 and 5."
+    },
+    {
+      "date": "2026-05-04",
+      "event": "Building 4 shell mostly complete, Building 5 steel framing is underway."
+    }
+  ],
+  "epoch_id": "Google Papillion",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Papillion: current power 237 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Papillion is an operating AI data center in USA, NE, owned by google. Epoch AI estimates it draws 237 MW today and 284 MW when finished."
+}

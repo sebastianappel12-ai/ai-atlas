@@ -1,0 +1,24 @@
+{
+  "id": "mgx-stargate-investment-2025",
+  "from": "mgx",
+  "to": "stargate",
+  "type": "investment",
+  "title": "MGX named an initial equity funder of Stargate",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-01-21",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250122",
+      "publisher": "SoftBank Group",
+      "date": "2025-01-22",
+      "kind": "press_release",
+      "quote": "The initial equity funders in Stargate are SoftBank, OpenAI, Oracle, and MGX."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Abu Dhabi's MGX is one of four initial equity funders of Stargate, the joint venture building AI data centers for OpenAI. Its amount was not disclosed."
+}

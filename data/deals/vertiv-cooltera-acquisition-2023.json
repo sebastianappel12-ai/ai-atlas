@@ -1,0 +1,31 @@
+{
+  "id": "vertiv-cooltera-acquisition-2023",
+  "from": "vertiv",
+  "to": "cooltera",
+  "type": "acquisition",
+  "title": "Vertiv buys UK liquid-cooling firm CoolTera",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-12-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023040528/exhibit991vrt-projectnova1.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2023-12-04",
+      "kind": "sec_filing",
+      "quote": "today announced that subsidiaries of the company have entered into a definitive agreement to acquire all of the shares of CoolTera Ltd. (CoolTera), a provider of coolant distribution infrastructure for data center liquid cooling technology"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024005765/exhibit991vrt02212024.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2024-02-21",
+      "kind": "sec_filing",
+      "quote": "Our fourth quarter acquisition of CoolTera and our continued commitment to supporting our customers reinforce our strong position in liquid cooling for high density compute applications driven by AI demand."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vertiv bought CoolTera, a UK company that designs coolant distribution units, the pumps and heat exchangers that feed liquid to AI server racks. The price was not disclosed."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "openai-oracle-oci-2024",
+  "from": "openai",
+  "to": "oracle",
+  "type": "cloud_contract",
+  "title": "OpenAI taps Oracle Cloud Infrastructure for extra Azure AI capacity",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-06-11",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11/",
+      "publisher": "Oracle News",
+      "date": "2024-06-11",
+      "kind": "press_release",
+      "quote": "Oracle, Microsoft, and OpenAl are partnering to extend the Microsoft Azure Al platform to Oracle Cloud Infrastructure (OCI) to provide additional capacity for OpenAl."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI's first deal to use Oracle's cloud: Oracle supplied extra AI computing that plugged into Microsoft's Azure platform. No amount was given; it was the start of a relationship that grew into the much larger Stargate contracts."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "amazon-cerebras-aws-inference-2026",
+  "from": "amazon",
+  "to": "cerebras",
+  "type": "chip_order",
+  "title": "AWS to deploy Cerebras systems in its own data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-03-13",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026035214/cerebras-424b4.htm",
+      "publisher": "Cerebras Systems prospectus (424B4)",
+      "date": "2026-05-14",
+      "kind": "sec_filing",
+      "quote": "In March 2026, we signed a term sheet with AWS, under which AWS will become the first hyperscaler to deploy Cerebras in its own data centers."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon Web Services signed a binding term sheet to lease and buy Cerebras AI inference systems for its own data centers, paired with Amazon's Trainium chips. Cerebras also agreed to give AWS a warrant for up to about 2.7 million shares tied to large purchases. No dollar value was given."
+}

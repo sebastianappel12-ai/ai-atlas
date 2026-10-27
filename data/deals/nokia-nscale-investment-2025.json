@@ -1,0 +1,24 @@
+{
+  "id": "nokia-nscale-investment-2025",
+  "from": "nokia",
+  "to": "nscale",
+  "type": "investment",
+  "title": "Nokia joins Nscale's $1.1B Series B",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-25",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.nscale.com/press-releases/nscale-series-b",
+      "publisher": "Nscale Newsroom",
+      "date": "2025-09-25",
+      "kind": "press_release",
+      "quote": "The financing was led by Aker ASA, with continued support from existing shareholders, including Sandton Capital, and participation from Blue Owl Managed Funds, Dell, Fidelity Management & Research Company, G Squared, Nokia, NVIDIA, Point72 and T.Capital."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Networking gear maker Nokia invested an undisclosed amount in Nscale's $1.1 billion Series B."
+}

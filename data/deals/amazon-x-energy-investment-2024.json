@@ -1,0 +1,31 @@
+{
+  "id": "amazon-x-energy-investment-2024",
+  "from": "amazon",
+  "to": "x-energy",
+  "type": "investment",
+  "title": "Amazon invests in X-energy and targets 5 GW of Xe-100 reactors by 2039",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-10-16",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/tm2527015-22_424b4.htm",
+      "publisher": "X-Energy, Inc. Prospectus 424B4 (SEC)",
+      "date": "2026-04-27",
+      "kind": "sec_filing",
+      "quote": "We have three publicly announced customers in (1) Dow, (2) Amazon, both of whom have made an equity investment in X-energy and (3) Centrica."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/tm2527015-22_424b4.htm",
+      "publisher": "X-Energy, Inc. Prospectus 424B4 (SEC)",
+      "date": "2026-04-27",
+      "kind": "sec_filing",
+      "quote": "Amazon and Energy Northwest entered into a Carbon Free Development and Funding Agreement for an initial deployment of four reactors representing 320 MWe, with the potential to upsize the power capacity to 960 MWe."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon became an owner of small-reactor developer X-energy in October 2024, alongside plans for more than 5 GW of Xe-100 reactors by 2039 (first: four reactors with Energy Northwest in Washington). Amazon's exact check was not disclosed; X-energy's prospectus shows a $20M Amazon convertible note plus a warrant later worth about $285M, within a $626.5M 2024 round. Plants: planned Xe-100 units near Richland, Washington (Energy Northwest)."
+}

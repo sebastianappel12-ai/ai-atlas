@@ -1,0 +1,31 @@
+{
+  "id": "oracle-crusoe-abilene-campus-2025",
+  "from": "oracle",
+  "to": "crusoe",
+  "type": "data_center",
+  "title": "Crusoe's 1.2 GW Abilene campus built for Oracle (Stargate)",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-30",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-flagship-abilene-data-center-is-live",
+      "publisher": "Crusoe Newsroom",
+      "date": "2025-09-30",
+      "kind": "press_release",
+      "quote": "Share: ABILENE, TX — September 30, 2025 — Crusoe, the industry’s first vertically integrated AI infrastructure provider, today announced that the first phase of Stargate’s flagship data center campus in Abilene, Texas, is now up and running on Oracle Cloud Infrastructure (OCI) and continues to progress rapidly."
+    },
+    {
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoes-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-centers-and-cloud",
+      "publisher": "Crusoe Newsroom",
+      "date": "2026-06-09",
+      "kind": "press_release",
+      "quote": "At its flagship 1.2 GW Abilene, Texas campus – purpose built for Oracle - the first two buildings are operational and an additional six buildings are under construction."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Crusoe designed and built the 1.2-gigawatt Abilene, Texas campus for Oracle, which uses it to serve OpenAI under the Stargate project. Terms were not disclosed, and the campus is financed through a joint venture of Crusoe, Blue Owl and Primary Digital, so Oracle's payments go to that venture rather than to Crusoe alone."
+}

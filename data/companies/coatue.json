@@ -1,0 +1,14 @@
+{
+  "id": "coatue",
+  "name": "Coatue Management",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.coatue.com",
+  "aliases": [
+    "Coatue"
+  ],
+  "description": "New York technology investment firm running hedge funds and growth-stage venture funds.",
+  "explain": "Coatue co-led Anthropic's $30 billion Series G and co-led its Series H, and has also lent to AI cloud companies such as CoreWeave."
+}

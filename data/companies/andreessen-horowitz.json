@@ -1,0 +1,15 @@
+{
+  "id": "andreessen-horowitz",
+  "name": "Andreessen Horowitz",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://a16z.com",
+  "aliases": [
+    "a16z",
+    "AH Capital Management"
+  ],
+  "description": "Silicon Valley venture capital firm investing in AI labs and infrastructure startups.",
+  "explain": "a16z backs several new AI labs early, leading Thinking Machines Lab's $2 billion seed round and investing in xAI and Safe Superintelligence."
+}

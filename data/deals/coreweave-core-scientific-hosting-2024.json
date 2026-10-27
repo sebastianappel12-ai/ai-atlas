@@ -1,0 +1,25 @@
+{
+  "id": "coreweave-core-scientific-hosting-2024",
+  "from": "coreweave",
+  "to": "core-scientific",
+  "type": "data_center",
+  "title": "CoreWeave signs 12-year, ~200 MW hosting deals with Core Scientific (>$3.5B)",
+  "amount_usd": 3500000000,
+  "amount_kind": "confirmed",
+  "date": "2024-06-03",
+  "length_years": 12,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024026483/corzcoreweavehpc.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2024-06-04",
+      "kind": "sec_filing",
+      "quote": "Once the approximately 200 MW of HPC infrastructure is operational, the project is estimated to generate total cumulative revenue for Core Scientific of over $3.5 billion during the initial 12-year terms of the contracts."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave agreed to rent about 200 megawatts of converted bitcoin-mining sites from Core Scientific for 12 years to house its Nvidia GPUs. Core Scientific expects more than $3.5 billion in revenue over the contracts."
+}

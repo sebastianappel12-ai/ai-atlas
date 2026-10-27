@@ -1,0 +1,31 @@
+{
+  "id": "meta-oklo-pike-county-prepayment-2026",
+  "from": "meta",
+  "to": "oklo",
+  "type": "power_deal",
+  "title": "Meta prepays Oklo to develop a 1.2 GW nuclear campus in Ohio",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-01-09",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/oklo-20260630.htm",
+      "publisher": "Oklo Inc. Form 10-Q (SEC)",
+      "date": "2026-08-07",
+      "kind": "sec_filing",
+      "quote": "On January 5, 2026, we entered into a prepayment agreement (the \"Prepayment Agreement\") with Meta Platforms, Inc. (\"Meta\") that advances plans to develop a 1.2 gigawatt power campus in Pike County, Ohio, to support Meta’s data centers."
+    },
+    {
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "publisher": "Meta Newsroom",
+      "date": "2026-01-09",
+      "kind": "press_release",
+      "quote": "Our partnership with Oklo helps advance the development of entirely new nuclear energy in Pike County, Ohio."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta is paying Oklo in advance for future power so Oklo can buy nuclear fuel and start building a planned 1.2 GW campus of Aurora reactors in Pike County, Ohio. The prepayment amount was not disclosed. The agreement was signed January 5, 2026 and announced January 9. Plants: planned Oklo Aurora powerhouses, Pike County, Ohio (not yet built)."
+}

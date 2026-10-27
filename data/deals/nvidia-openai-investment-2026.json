@@ -1,0 +1,39 @@
+{
+  "id": "nvidia-openai-investment-2026",
+  "from": "nvidia",
+  "to": "openai",
+  "type": "investment",
+  "title": "Nvidia invests $30B in OpenAI, replacing the $100B plan",
+  "amount_usd": 30000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-02-27",
+  "status": "completed",
+  "supersedes": "nvidia-openai-investment-2025",
+  "sources": [
+    {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-closes-122bn-funding-round-093126735.html",
+      "publisher": "Verdict (via Yahoo Finance)",
+      "date": "2026-04-01",
+      "kind": "news",
+      "quote": "Nvidia and SoftBank are each investing $30bn."
+    },
+    {
+      "url": "https://techloy.com/nvidias-30-billion-openai-bet-is-set-to-close-this-weekend",
+      "publisher": "Techloy",
+      "date": "2026-02-20",
+      "kind": "news",
+      "quote": "Nvidia is close to finalising a $30 billion equity investment in OpenAI, the Financial Times reported Thursday, in a deal that replaces the $100 billion multiyear infrastructure commitment the two companies announced last September."
+    },
+    {
+      "url": "https://capacityglobal.com/news/nvidia-close-to-30bn-openai-investment/",
+      "publisher": "Capacity Media",
+      "date": "2026-02-20",
+      "kind": "news",
+      "quote": "Under the proposed terms, Nvidia would take a direct stake in OpenAI, replacing a previously mooted $100 billion multi‑year investment announced in 2025 but never formalised."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Instead of the earlier 'up to $100 billion' plan tied to data center build-outs, Nvidia bought $30 billion of OpenAI shares outright in OpenAI's 2026 funding round, which closed at $122 billion. Much of OpenAI's new money is expected to flow back to Nvidia for chips."
+}

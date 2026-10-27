@@ -1,0 +1,27 @@
+{
+  "id": "inphi",
+  "name": "Inphi",
+  "sector": "chip_designer",
+  "public": false,
+  "cik": "0001160958",
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Inphi Corporation"
+  ],
+  "revenue": {
+    "amount_usd": 682954000,
+    "period": "FY2020 (ended 2020-12-31)",
+    "as_of": "2020-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1160958/000143774921004113/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2021-02-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 682,954,000 USD for 2020-01-01 to 2020-12-31 (10-K, accession 0001437749-21-004113)."
+    }
+  },
+  "description": "Designer of high-speed optical and electrical data-connection chips; part of Marvell since 2021.",
+  "explain": "Marvell bought Inphi for about $10B; its optical chips now carry much of the data flowing between AI servers."
+}

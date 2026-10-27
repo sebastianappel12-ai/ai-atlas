@@ -1,0 +1,24 @@
+{
+  "id": "lambda-vast-data-platform-2023",
+  "from": "lambda",
+  "to": "vast-data",
+  "type": "supply",
+  "title": "Lambda selects VAST Data to power its GPU cloud storage",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-10-23",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.vastdata.com/press-releases/lambda-vast-deliver-hybrid-ai-cloud",
+      "publisher": "VAST Data",
+      "date": "2023-10-23",
+      "kind": "press_release",
+      "quote": "Lambda has selected the VAST Data Platform, the data platform designed from the ground up for the AI era, to power Lambda’s On-Demand GPU Cloud, providing customers with the fastest and most optimized GPU deployments for Large Language Model (LLM) training and inference workloads in the market."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Lambda, a GPU cloud company, chose VAST Data's storage software for its on-demand GPU cloud, so Lambda pays VAST for the storage layer its AI customers use. No price was disclosed."
+}

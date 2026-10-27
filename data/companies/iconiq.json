@@ -1,0 +1,15 @@
+{
+  "id": "iconiq",
+  "name": "ICONIQ",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.iconiqcapital.com",
+  "aliases": [
+    "ICONIQ Capital",
+    "ICONIQ Growth"
+  ],
+  "description": "San Francisco investment firm and family office for tech founders, with a growth-stage venture arm.",
+  "explain": "ICONIQ led Anthropic's $13 billion Series F in September 2025 and co-led later rounds, making it one of the lab's biggest financial backers."
+}

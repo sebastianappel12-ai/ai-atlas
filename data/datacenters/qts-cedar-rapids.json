@@ -1,0 +1,61 @@
+{
+  "id": "qts-cedar-rapids",
+  "name": "QTS Cedar Rapids",
+  "owner": "qts",
+  "tenants": [],
+  "location": {
+    "lat": 41.9056,
+    "lon": -91.7511,
+    "city": "Fairfax"
+  },
+  "state": "IA",
+  "power_mw_now": 0,
+  "power_mw_planned": 1587,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 3668823,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 42920306000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-01-17",
+      "event": "Land clearing begins for Building 1-3."
+    },
+    {
+      "date": "2025-10-27",
+      "event": "Building 1 roof complete, with air-cooled chillers in place. Building 2 and 3 roofs are partly completed. Building 4 and 5 have a foundation."
+    },
+    {
+      "date": "2026-04-16",
+      "event": "Based on satellite imagery, the Buildings 1-3 shells look complete. Buildings 4-6 are far along, with roofs largely in place, while the eastern Building 7 foundation is well underway. No buildings operational yet."
+    },
+    {
+      "date": "2026-05-07",
+      "event": "Similar to April, Buildings 1-3 shells look complete. Buildings 4-6 are still far along, and the eastern Building 7 foundation is still underway."
+    },
+    {
+      "date": "2026-11-15",
+      "event": "Buildings 1-3 are operational. Based on the expected completion date reported by [local news](https://corridorbusiness.com/scope-of-qts-data-project-in-cedar-rapids-continuing-to-grow/): “A QTS spokesperson said in July [2025] that the firs"
+    },
+    {
+      "date": "2027-11-15",
+      "event": "Buildings 4-7 are operational. Based on the expected completion date reported by [local news](https://corridorbusiness.com/scope-of-qts-data-project-in-cedar-rapids-continuing-to-grow/): “A QTS spokesperson said in July [2025] that [...] Th"
+    }
+  ],
+  "epoch_id": "QTS Cedar Rapids",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "QTS Cedar Rapids: current power 0 MW; owner unlisted."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "QTS Cedar Rapids is an under-construction AI data center in Fairfax, IA, owned by qts. Epoch AI estimates it draws 0 MW today and 1,587 MW when finished."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "microsoft-sat14",
+  "name": "Microsoft SAT14",
+  "owner": "microsoft",
+  "tenants": [],
+  "location": {
+    "lat": 29.4729,
+    "lon": -98.6818,
+    "city": "San Antonio"
+  },
+  "state": "TX",
+  "power_mw_now": 47,
+  "power_mw_planned": 66,
+  "status": "operating",
+  "est_chips": {
+    "count": 45174,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 1780454000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2022-02-18",
+      "event": "Land clearing for the site is almost complete. Informed using imagery on [Google Earth](https://earth.google.com/web/@29.476115,-98.68118,277.21295794a,724.52967601d,35y,0h,0t,0r/)"
+    },
+    {
+      "date": "2024-07-01",
+      "event": "Building 1 operational. The first 2 data halls of Building 1 (with chillers already installed) are likely to be already operational. Although construction was completed prior, the on-site substation was previously incomplete, so we believe "
+    },
+    {
+      "date": "2025-08-03",
+      "event": "Building 2 chiller installation is a little more than halfway complete, and chiller installation for the last data hall of Building 1 is also around halfway complete."
+    },
+    {
+      "date": "2026-02-28",
+      "event": "No more visible construction around either building, just a little equipment. Roads fully built around buildings as well."
+    },
+    {
+      "date": "2026-03-31",
+      "event": "Building 2 fully operational, Building 1 expanded. Construction is already visibly complete. Additionally, construction phases [Phase 2](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2021019471), [Phase 3](https://www.tdlr.texas.gov/TA"
+    }
+  ],
+  "epoch_id": "Microsoft SAT14",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Microsoft SAT14: current power 47 MW; owner Microsoft."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Microsoft SAT14 is an operating AI data center in San Antonio, TX, owned by microsoft. Epoch AI estimates it draws 47 MW today and 66 MW when finished."
+}

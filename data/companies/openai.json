@@ -1,0 +1,42 @@
+{
+  "id": "openai",
+  "name": "OpenAI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://openai.com",
+  "aliases": [
+    "OpenAI Group PBC",
+    "OpenAI Global, LLC",
+    "OpenAI Foundation"
+  ],
+  "revenue": {
+    "amount_usd": 20000000000,
+    "period": "2025 (annualized run rate)",
+    "as_of": "2025-12-31",
+    "estimate": true,
+    "source": {
+      "url": "https://finance.yahoo.com/news/openai-cfo-says-annualized-revenue-173519097.html",
+      "publisher": "Reuters (via Yahoo Finance)",
+      "date": "2026-01-19",
+      "kind": "news",
+      "quote": "the company's annualized revenue has surpassed $20 billion in 2025, up from $6 billion in 2024 with growth closely tracking an expansion in computing capacity."
+    }
+  },
+  "valuation": {
+    "amount_usd": 852000000000,
+    "period": "2026 funding round (post-money)",
+    "as_of": "2026-03-31",
+    "estimate": true,
+    "source": {
+      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-closes-122bn-funding-round-093126735.html",
+      "publisher": "Verdict (via Yahoo Finance)",
+      "date": "2026-04-01",
+      "kind": "news",
+      "quote": "OpenAI has closed its latest financing round with $122bn in committed capital, giving the AI company a post-money valuation of $852bn."
+    }
+  },
+  "description": "Maker of ChatGPT and the GPT models; restructured in 2025 into OpenAI Group PBC controlled by the OpenAI Foundation.",
+  "explain": "OpenAI is the biggest buyer in the AI money web: it has promised hundreds of billions of dollars to cloud and chip companies, and raises record sums from Microsoft, Amazon, Nvidia and SoftBank to pay for it."
+}

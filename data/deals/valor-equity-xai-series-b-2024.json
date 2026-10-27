@@ -1,0 +1,24 @@
+{
+  "id": "valor-equity-xai-series-b-2024",
+  "from": "valor-equity",
+  "to": "xai",
+  "type": "investment",
+  "title": "Valor-backed $6B Series B for xAI",
+  "amount_usd": 6000000000,
+  "amount_kind": "confirmed",
+  "date": "2024-05-26",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-b",
+      "publisher": "xAI News",
+      "date": "2024-05-26",
+      "kind": "press_release",
+      "quote": "Our Series B funding round of $6 billion with participation from key investors including Valor Equity Partners, Vy Capital, Andreessen Horowitz, Sequoia Capital, Fidelity Management & Research Company, Prince Alwaleed Bin Talal and Kingdom Holding, amongst others."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "xAI raised $6 billion from Valor Equity Partners, Vy Capital, Andreessen Horowitz, Sequoia, Fidelity and others. xAI named no lead; the whole round is shown on this Valor record (Valor is listed first) and each investor's own amount was not disclosed."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "together-ai",
+  "name": "Together AI",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.together.ai",
+  "aliases": [
+    "Together Computer"
+  ],
+  "valuation": {
+    "amount_usd": 8300000000,
+    "period": "Series C",
+    "as_of": "2026-07-01",
+    "estimate": true,
+    "source": {
+      "url": "https://www.verdict.co.uk/together-ai-secures-800m-series-c/",
+      "publisher": "Verdict",
+      "date": "2026-07-02",
+      "kind": "news",
+      "quote": "Together AI, a San Francisco-based company specialising in open-source AI models, has raised $800m in a Series C financing round, bringing its post-money valuation to $8.3bn."
+    }
+  },
+  "description": "AI cloud focused on running and training open-source models, selling both API access and GPU clusters.",
+  "explain": "Together AI sells AI model access and GPU clusters to developers, and itself rents capacity from other neoclouds such as IREN. Nvidia has invested in its rounds."
+}

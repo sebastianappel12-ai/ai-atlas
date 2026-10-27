@@ -1,0 +1,24 @@
+{
+  "id": "crusoe-ge-vernova-turbines-2025",
+  "from": "crusoe",
+  "to": "ge-vernova",
+  "type": "supply",
+  "title": "Crusoe orders 29 GE Vernova gas turbines for AI data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-07-22",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.gevernova.com/news/press-releases/ge-vernova-crusoe-announce-major-29-unit-aeroderivative-gas-turbine-deliver-ai-data-centers",
+      "publisher": "GE Vernova Newsroom",
+      "date": "2025-07-22",
+      "kind": "press_release",
+      "quote": "GE Vernova Inc. (NYSE: GEV) and Crusoe, the industry’s first vertically integrated AI infrastructure provider, today announced a significant deal to deliver 29 units of GE Vernova’s breakthrough LM2500XPRESS aeroderivative gas turbine packages to Crusoe AI data centers."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AI cloud company Crusoe ordered 29 truck-sized gas turbines (about 35 megawatts each, nearly 1 gigawatt in total) from GE Vernova to generate its own power on site at AI data centers. 10 units were ordered in December 2024 and 19 more in June 2025. The price was not disclosed."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "d-matrix",
+  "name": "d-Matrix",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.d-matrix.ai",
+  "aliases": [
+    "d-Matrix Corporation"
+  ],
+  "description": "Designs in-memory computing chips for AI inference in data centers.",
+  "explain": "d-Matrix builds inference chips that do math inside memory to save power, one of several startups chasing the market for running AI models."
+}

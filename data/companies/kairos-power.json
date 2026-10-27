@@ -1,0 +1,14 @@
+{
+  "id": "kairos-power",
+  "name": "Kairos Power",
+  "sector": "power",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://kairospower.com",
+  "aliases": [
+    "Kairos Power LLC"
+  ],
+  "description": "Private developer of molten-salt-cooled small nuclear reactors, building demonstration units in Oak Ridge, Tennessee.",
+  "explain": "Kairos signed the first corporate deal for a fleet of small reactors (500 MW for Google) and a power deal with TVA for its Hermes 2 plant."
+}

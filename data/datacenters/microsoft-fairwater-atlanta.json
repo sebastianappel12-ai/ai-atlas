@@ -1,0 +1,59 @@
+{
+  "id": "microsoft-fairwater-atlanta",
+  "name": "Microsoft Fairwater Atlanta",
+  "owner": "microsoft",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 33.4455,
+    "lon": -84.5241,
+    "city": "Fayetteville"
+  },
+  "state": "GA",
+  "power_mw_now": 636,
+  "power_mw_planned": 859,
+  "status": "operating",
+  "est_chips": {
+    "count": 768769,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 24092952000,
+  "grid_region": "SOCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-04-09",
+      "event": "Land clearing begins for southern part (Building 1-2)"
+    },
+    {
+      "date": "2025-10-14",
+      "event": "Building 1 and 2 are [operational](https://news.microsoft.com/source/features/ai/from-wisconsin-to-atlanta-microsoft-connects-datacenters-to-build-its-first-ai-superfactory/). Building 1 looked operational sooner, but the buildings [are pai"
+    },
+    {
+      "date": "2026-02-13",
+      "event": "Building 4 roof is complete and all mechanical equipment appears to be installed. However, there is still a lot of construction activity around the building."
+    },
+    {
+      "date": "2026-05-15",
+      "event": "Building 4 still has some equipment strewn around the perimeter, so we think it is still going through commissioning. Two new buildings at the campus have shells underway, but we don't know if Microsoft is the tenant for those."
+    },
+    {
+      "date": "2026-06-14",
+      "event": "Building 3 and 4 are operational."
+    }
+  ],
+  "epoch_id": "Microsoft Fairwater Atlanta",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Microsoft Fairwater Atlanta: current power 636 MW; owner Microsoft."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Microsoft Fairwater Atlanta is an operating AI data center in Fayetteville, GA, owned by microsoft and used by openai. Epoch AI estimates it draws 636 MW today and 859 MW when finished."
+}

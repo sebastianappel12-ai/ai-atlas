@@ -1,0 +1,27 @@
+{
+  "id": "commscope-ccs",
+  "name": "CommScope Connectivity and Cable Solutions",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "NC",
+  "aliases": [
+    "CommScope CCS",
+    "CCS"
+  ],
+  "revenue": {
+    "amount_usd": 3600000000,
+    "period": "2025",
+    "as_of": "2025-12-31",
+    "estimate": true,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465925073344/tm2522435d1_ex99-1.htm",
+      "publisher": "Amphenol (8-K Ex. 99.1)",
+      "date": "2025-08-04",
+      "kind": "sec_filing",
+      "quote": "Anticipates CCS will generate sales and EBITDA margins of approximately $3.6 billion and 26% in 2025, respectively"
+    }
+  },
+  "description": "Fiber and copper cabling and connectivity business sold by CommScope to Amphenol in January 2026.",
+  "explain": "This business makes the fiber cabling used inside data centers. Amphenol paid CommScope $10.5 billion for it."
+}

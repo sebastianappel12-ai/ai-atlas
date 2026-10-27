@@ -1,0 +1,30 @@
+{
+  "id": "sandisk",
+  "name": "Sandisk",
+  "sector": "memory",
+  "public": true,
+  "ticker": "NASDAQ:SNDK",
+  "cik": "0002023554",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.sandisk.com",
+  "aliases": [
+    "SanDisk",
+    "Sandisk Corp"
+  ],
+  "revenue": {
+    "amount_usd": 20248000000,
+    "period": "FY2026 (ended 2026-07-03)",
+    "as_of": "2026-07-03",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-17",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 20,248,000,000 USD for 2025-06-28 to 2026-07-03 (10-K, accession 0001628280-26-057406)."
+    }
+  },
+  "description": "US maker of NAND flash memory and SSDs, spun off from Western Digital in February 2025.",
+  "explain": "AI data centers store huge amounts of data on flash drives. Sandisk co-owns flash factories in Japan with Kioxia and sells the SSDs that AI servers use."
+}

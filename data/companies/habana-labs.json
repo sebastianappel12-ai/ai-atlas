@@ -1,0 +1,14 @@
+{
+  "id": "habana-labs",
+  "name": "Habana Labs",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "IL",
+  "website": "https://habana.ai",
+  "aliases": [
+    "Habana",
+    "Habana Labs Ltd."
+  ],
+  "description": "Israeli designer of Gaudi AI training and inference chips; part of Intel since 2019.",
+  "explain": "Intel bought Habana for about $2B in 2019; its Gaudi chips became Intel's main AI accelerator line."
+}

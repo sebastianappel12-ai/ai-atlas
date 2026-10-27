@@ -1,0 +1,53 @@
+{
+  "id": "meta-aiken",
+  "name": "Meta Aiken",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 33.74,
+    "lon": -81.84,
+    "city": "Trenton"
+  },
+  "state": "SC",
+  "power_mw_now": 69,
+  "power_mw_planned": 168,
+  "status": "operating",
+  "est_chips": {
+    "count": 147044,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 4886778000,
+  "grid_region": "SCEG",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-05-30",
+      "event": "Land clearing begins"
+    },
+    {
+      "date": "2026-04-08",
+      "event": "Buildings 1 and 2 are nearly complete, but there's still some equipment strewn around the site. We expect around 3 more months needed for commissioning and server installation."
+    },
+    {
+      "date": "2026-08-07",
+      "event": "Building 1 is confirmed operational via drone imagery with 8/9 group of coolers with spinning fans. Imagery also confirms all cooling and power infrastructure in place for Building 2."
+    },
+    {
+      "date": "2026-11-05",
+      "event": "Building 2 is operational assuming a 3 month lag compared to Building 1."
+    }
+  ],
+  "epoch_id": "Meta Aiken",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Aiken: current power 69 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Aiken is an operating AI data center in Trenton, SC, owned by meta. Epoch AI estimates it draws 69 MW today and 168 MW when finished."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "us-government-intel-equity-stake-2025",
+  "from": "us-government",
+  "to": "intel",
+  "type": "investment",
+  "title": "U.S. government takes $8.9B equity stake in Intel",
+  "amount_usd": 8900000000,
+  "amount_kind": "confirmed",
+  "date": "2025-08-22",
+  "status": "in_progress",
+  "supersedes": "us-government-intel-chips-grant-2024",
+  "sources": [
+    {
+      "url": "https://newsroom.intel.com/corporate/intel-and-trump-administration-reach-historic-agreement",
+      "publisher": "Intel Newsroom",
+      "date": "2025-08-22",
+      "kind": "press_release",
+      "quote": "Under terms of the agreement, the United States government will make an $8.9 billion investment in Intel common stock, reflecting the confidence the Administration has in Intel to advance key national priorities and the critically important role the company plays in expanding the domestic semiconductor industry."
+    },
+    {
+      "url": "https://newsroom.intel.com/corporate/intel-and-trump-administration-reach-historic-agreement",
+      "publisher": "Intel Newsroom",
+      "date": "2025-08-22",
+      "kind": "press_release",
+      "quote": "The $8.9 billion investment is in addition to the $2.2 billion in CHIPS grants Intel has received to date, making for a total investment of $11.1 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Instead of paying the rest of Intel's CHIPS grants as gifts, the government used the $5.7 billion still owed plus $3.2 billion from the Secure Enclave defense chip program to buy about 10% of Intel's stock. Some shares are released only as the Secure Enclave money is paid."
+}

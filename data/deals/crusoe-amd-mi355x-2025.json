@@ -1,0 +1,24 @@
+{
+  "id": "crusoe-amd-mi355x-2025",
+  "from": "crusoe",
+  "to": "amd",
+  "type": "chip_order",
+  "title": "Crusoe to buy about $400M of AMD MI355X chips",
+  "amount_usd": 400000000,
+  "amount_kind": "estimated",
+  "date": "2025-06-12",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://whbl.com/?p=840489",
+      "publisher": "Reuters via WHBL",
+      "date": "2025-06-12",
+      "kind": "news",
+      "quote": "Cherney SAN FRANCISCO (Reuters) -Crusoe CEO Chase Lochmiller said on Thursday the artificial intelligence data center builder planned to purchase roughly $400 million worth of AI chips from Advanced Micro Devices to add to its portfolio of computing power."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Crusoe, which rents AI computing to customers, said it planned to buy about $400M of AMD's MI355X chips (roughly 13,000) for a new US data center. The figure came from Crusoe's CEO in a Reuters interview, not a filing."
+}

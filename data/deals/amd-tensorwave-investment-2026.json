@@ -1,0 +1,24 @@
+{
+  "id": "amd-tensorwave-investment-2026",
+  "from": "amd",
+  "to": "tensorwave",
+  "type": "investment",
+  "title": "AMD Ventures co-leads TensorWave's $350M Series B",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-06-10",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://pulse2.com/tensorwave-raises-350-million-series-b-at-1-55-billion-valuation-to-expand-amd-powered-ai-infrastructure/",
+      "publisher": "Pulse 2.0",
+      "date": "2026-06-10",
+      "kind": "news",
+      "quote": "The round was co-led by Magnetar and AMD Ventures, with continued participation from Maverick Silicon, Nexus Venture Partners, and Western Frontier."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD's venture arm co-led TensorWave's $350 million Series B at a $1.55 billion valuation. The money funds more AMD GPU clusters, so part of it flows back to AMD."
+}

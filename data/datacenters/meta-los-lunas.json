@@ -1,0 +1,57 @@
+{
+  "id": "meta-los-lunas",
+  "name": "Meta Los Lunas",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 34.8302,
+    "lon": -106.7838,
+    "city": "Los Lunas"
+  },
+  "state": "NM",
+  "power_mw_now": 118,
+  "power_mw_planned": 273,
+  "status": "operating",
+  "est_chips": {
+    "count": 869126,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 8258276000,
+  "grid_region": "PNM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-07-24",
+      "event": "Land clearing starts for new building."
+    },
+    {
+      "date": "2026-03-01",
+      "event": "Building 1 is operational, based on no construction activity around the shell and cooling equipment, and about 5 months passing after structural completion."
+    },
+    {
+      "date": "2026-07-28",
+      "event": "Building 2 (a tent-like building) shell is complete, but we don't believe it's operational because there is unpaved ground, no cars parked right in front, the first tent buildings at Meta Prometheus took about 16 months (it's been 10 months"
+    },
+    {
+      "date": "2026-10-26",
+      "event": "Building 2 (a tent like building) is operational. Based on a default estimate of 3 months for fit-out after structural completion in July."
+    },
+    {
+      "date": "2028-01-01",
+      "event": "Building 3 is estimated to be operational. This is estimated from the timeline of similar buildings at other Meta sites."
+    }
+  ],
+  "epoch_id": "Meta Los Lunas",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Los Lunas: current power 118 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Los Lunas is an operating AI data center in Los Lunas, NM, owned by meta. Epoch AI estimates it draws 118 MW today and 273 MW when finished."
+}

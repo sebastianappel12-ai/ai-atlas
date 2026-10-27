@@ -1,0 +1,24 @@
+{
+  "id": "vistra-energy-harbor-acquisition-2023",
+  "from": "vistra",
+  "to": "energy-harbor",
+  "type": "acquisition",
+  "title": "Vistra acquires Energy Harbor and its nuclear fleet for $3B cash",
+  "amount_usd": 3000000000,
+  "amount_kind": "confirmed",
+  "date": "2023-03-06",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312523062837/d445413dex991.htm",
+      "publisher": "Vistra Corp. Form 8-K EX-99.1 (SEC)",
+      "date": "2023-03-06",
+      "kind": "sec_filing",
+      "quote": "Total compensation will consist of $3 billion cash and a 15% equity interest in Vistra Vision."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vistra paid Energy Harbor's owners $3 billion in cash plus a 15% stake in its new Vistra Vision unit (and took on ~$430M of debt) for Energy Harbor's nuclear and retail businesses. That deal gave Vistra the Ohio and Pennsylvania nuclear plants it later contracted to Meta. Plants acquired: Perry, Davis-Besse and Beaver Valley nuclear plants."
+}

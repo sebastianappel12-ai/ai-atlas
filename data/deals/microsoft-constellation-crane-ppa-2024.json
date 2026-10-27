@@ -1,0 +1,32 @@
+{
+  "id": "microsoft-constellation-crane-ppa-2024",
+  "from": "microsoft",
+  "to": "constellation",
+  "type": "power_deal",
+  "title": "Microsoft signs 20-year PPA to restart Three Mile Island Unit 1 (Crane)",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-09-20",
+  "length_years": 20,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+      "publisher": "Constellation Newsroom",
+      "date": "2024-09-20",
+      "kind": "press_release",
+      "quote": "Under the agreement, Microsoft will purchase energy from the renewed plant as part of its goal to help match the power its data centers in PJM use with carbon-free energy."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000032/ceg-20251231.htm",
+      "publisher": "Constellation Energy Form 10-K (SEC)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "In September 2024, we executed a 20-year PPA with Microsoft that will support the restart of Three Mile Island Unit 1, renamed as the Crane Clean Energy Center, which was retired in 2019 for economic reasons."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft agreed to buy all the power from the shut-down Three Mile Island Unit 1 reactor in Pennsylvania for 20 years, which pays for Constellation to restart it (about 835 MW, expected online around 2028). Price not disclosed. Plant: Crane Clean Energy Center (Three Mile Island Unit 1), Pennsylvania."
+}

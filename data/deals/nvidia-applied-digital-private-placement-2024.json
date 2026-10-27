@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-applied-digital-private-placement-2024",
+  "from": "nvidia",
+  "to": "applied-digital",
+  "type": "investment",
+  "title": "Nvidia joins $160M private placement in Applied Digital",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-09-05",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487924000235/exh991-apldxform8xkgspipe.htm",
+      "publisher": "Applied Digital (SEC 8-K EX-99.1)",
+      "date": "2024-09-05",
+      "kind": "sec_filing",
+      "quote": "We’re proud of our strong relationship with NVIDIA, and the confidence that both they and Related Companies, along with institutional investors, have placed in us."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia was one of several buyers of new Applied Digital shares in a $160 million private placement that also included Related Companies and other investors. Nvidia's own share of the $160 million was not disclosed."
+}

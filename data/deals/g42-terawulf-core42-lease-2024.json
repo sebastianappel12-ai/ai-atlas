@@ -1,0 +1,24 @@
+{
+  "id": "g42-terawulf-core42-lease-2024",
+  "from": "g42",
+  "to": "terawulf",
+  "type": "data_center",
+  "title": "G42's Core42 leases 70+ MW at TeraWulf's Lake Mariner",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-23",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000095014224002980/eh240568556_8k.htm",
+      "publisher": "TeraWulf (SEC 8-K)",
+      "date": "2024-12-23",
+      "kind": "sec_filing",
+      "quote": "Under the Lease Agreements, TeraWulf will deliver over 70 megawatts (“MW”) of turn-key data center infrastructure to host Core42’s deployment at the Lake Mariner facility in Upstate New York."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Core42, part of Abu Dhabi's G42, signed long-term leases to host its GPU clusters in more than 70 megawatts of TeraWulf data center space in New York. The dollar value was not disclosed."
+}

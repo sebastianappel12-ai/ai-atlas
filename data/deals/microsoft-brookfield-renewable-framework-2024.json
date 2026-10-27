@@ -1,0 +1,25 @@
+{
+  "id": "microsoft-brookfield-renewable-framework-2024",
+  "from": "microsoft",
+  "to": "brookfield-renewable",
+  "type": "power_deal",
+  "title": "Microsoft and Brookfield sign 10.5 GW renewable energy framework",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-05-01",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1533232/000117184324002391/exh_991.htm",
+      "publisher": "Brookfield Renewable Partners Form 6-K EX-99.1 (SEC)",
+      "date": "2024-05-01",
+      "kind": "sec_filing",
+      "quote": "The agreement provides a pathway for Brookfield to deliver over 10.5 gigawatts of new renewable energy capacity between 2026 and 2030 in the U.S. and Europe."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "A framework under which Brookfield plans to build over 10.5 GW of new wind, solar and other carbon-free capacity in the U.S. and Europe in 2026-2030 for Microsoft to buy. Individual contracts and prices were not disclosed (press reports estimated about $10B, not confirmed by the companies). Plants: future Brookfield projects, not named."
+}

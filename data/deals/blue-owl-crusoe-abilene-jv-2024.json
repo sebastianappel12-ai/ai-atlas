@@ -1,0 +1,25 @@
+{
+  "id": "blue-owl-crusoe-abilene-jv-2024",
+  "from": "blue-owl",
+  "to": "crusoe",
+  "type": "investment",
+  "title": "Blue Owl co-funds $3.4B Crusoe data center JV in Abilene",
+  "amount_usd": 3400000000,
+  "amount_kind": "confirmed",
+  "date": "2024-10-15",
+  "status": "revised",
+  "superseded_by": "blue-owl-crusoe-abilene-jv-2025",
+  "sources": [
+    {
+      "url": "https://crusoe.ai/newsroom/crusoe-blue-owl-capital-primary-digital-joint-venture/",
+      "publisher": "Crusoe Newsroom",
+      "date": "2024-10-15",
+      "kind": "press_release",
+      "quote": "announced today a $3.4 billion joint-venture to fund purpose-built data center capacity at the previously announced Lancium Clean Campus in Abilene, Texas."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Blue Owl's real estate funds and Primary Digital Infrastructure agreed to fund a $3.4 billion joint venture for Crusoe's first 200+ megawatt AI data center buildings in Abilene, Texas. The amount is the whole venture; it was later expanded to $15 billion."
+}

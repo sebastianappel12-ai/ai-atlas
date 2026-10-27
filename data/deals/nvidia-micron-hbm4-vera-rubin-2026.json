@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-micron-hbm4-vera-rubin-2026",
+  "from": "nvidia",
+  "to": "micron",
+  "type": "supply",
+  "title": "Micron ships HBM4 memory for Nvidia's Vera Rubin",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-03-17",
+  "status": "in_progress",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.storagenewsletter.com/2026/03/17/nvidia-gtc-2026-micron-in-high-volume-production-of-hbm4-designed-for-nvidia-vera-rubin-pcie-gen6-ssd-and-socamm2/",
+      "publisher": "StorageNewsletter (Micron release)",
+      "date": "2026-03-17",
+      "kind": "news",
+      "quote": "Micron Technology, Inc., has begun volume shipment of its HBM4 36GB 12H in the first quarter of calendar year 2026 and is designed for Nvidia Vera Rubin."
+    },
+    {
+      "url": "https://evertiq.com/news/2026-04-06-micron-begins-volume-shipment-of-hbm4-36gb-12h",
+      "publisher": "Evertiq",
+      "date": "2026-04-06",
+      "kind": "news",
+      "quote": "Micron Technology has begun volume shipment of its HBM4 36GB 12H in the first quarter of calendar year 2026 and is designed for Nvidia Vera Rubin."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Micron began volume shipments of its next-generation HBM4 memory designed for Nvidia's Vera Rubin AI platform in early 2026, so Nvidia is paying Micron for this memory. The value was not disclosed."
+}

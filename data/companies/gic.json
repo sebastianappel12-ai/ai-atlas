@@ -1,0 +1,14 @@
+{
+  "id": "gic",
+  "name": "GIC",
+  "sector": "investor",
+  "public": false,
+  "country": "SG",
+  "website": "https://www.gic.com.sg",
+  "aliases": [
+    "GIC Private Limited",
+    "Government of Singapore Investment Corporation"
+  ],
+  "description": "Singapore's sovereign wealth fund, managing the country's foreign reserves.",
+  "explain": "GIC co-led Anthropic's $30 billion Series G in February 2026 and co-led the $65 billion Series H, putting Singapore's reserves behind one of the largest AI labs."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "meta-rivos-acquisition-2025",
+  "from": "meta",
+  "to": "rivos",
+  "type": "acquisition",
+  "title": "Meta to acquire RISC-V chip startup Rivos",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-09-30",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://rcrwireless.com/20251001/ai-infrastructure/meta-chip",
+      "publisher": "RCR Wireless News",
+      "date": "2025-10-01",
+      "kind": "news",
+      "quote": "Meta Platforms is set to acquire Rivos, a Santa Clara-based chip startup specializing in RISC-V architecture, Reuters reported, citing a source familiar with the matter."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to buy Rivos, a startup designing chips on the open RISC-V standard, to speed up its in-house AI chip program and rely less on Nvidia. Terms were not disclosed."
+}

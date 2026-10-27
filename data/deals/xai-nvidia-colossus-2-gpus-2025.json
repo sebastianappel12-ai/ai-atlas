@@ -1,0 +1,24 @@
+{
+  "id": "xai-nvidia-colossus-2-gpus-2025",
+  "from": "xai",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "xAI reportedly to spend $18B+ on Nvidia GPUs for Colossus 2",
+  "amount_usd": 18000000000,
+  "amount_kind": "estimated",
+  "date": "2025-10-05",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://siliconangle.com/2025/10/06/xai-will-reportedly-spend-18b-nvidia-chips-colossus-2/",
+      "publisher": "SiliconANGLE",
+      "date": "2025-10-06",
+      "kind": "news",
+      "quote": "The purchase is expected to set back the company at least $18 billion, a sum that doesn’t include related equipment such as servers."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Wall Street Journal reported that xAI would buy about 300,000 Nvidia AI chips for its Colossus 2 data center in Memphis, costing at least $18B. The figure comes from an unnamed source; reports said the chips would be bought through a financing vehicle that leases them to xAI."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "cisco",
+  "name": "Cisco",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NASDAQ:CSCO",
+  "cik": "0000858877",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.cisco.com",
+  "aliases": [
+    "Cisco Systems",
+    "Cisco Systems Inc"
+  ],
+  "revenue": {
+    "amount_usd": 63325000000,
+    "period": "FY2026 (ended 2026-07-25)",
+    "as_of": "2026-07-25",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000132/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-09-02",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 63,325,000,000 USD for 2025-07-27 to 2026-07-25 (10-K, accession 0000858877-26-000132)."
+    }
+  },
+  "description": "Makes networking equipment, optics and security software for enterprises, telecoms and data centers.",
+  "explain": "Cisco is the largest traditional networking company. It sells switches, routers and optics into AI data centers and has bought optical companies such as Acacia to compete there."
+}

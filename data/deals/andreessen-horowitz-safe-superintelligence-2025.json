@@ -1,0 +1,24 @@
+{
+  "id": "andreessen-horowitz-safe-superintelligence-2025",
+  "from": "andreessen-horowitz",
+  "to": "safe-superintelligence",
+  "type": "investment",
+  "title": "a16z joins SSI's $2B round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-04-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.maginative.com/article/sutskevers-safe-superintelligence-raises-another-2b-at-32b-valuation/",
+      "publisher": "Maginative",
+      "date": "2025-04-12",
+      "kind": "news",
+      "quote": "Key Points SSI was founded in June 2024 by Ilya Sutskever, Daniel Gross, and Daniel Levy The company has now raised $3B in total funding The $2B round was led by Greenoaks, with Lightspeed and Andreessen Horowitz participating The startup was founded last June by Sutskever, alongside Daniel Gross, formerly of Apple, and AI researcher Daniel Levy."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Andreessen Horowitz reportedly took part again in Safe Superintelligence's $2 billion 2025 round led by Greenoaks; its amount was not disclosed."
+}

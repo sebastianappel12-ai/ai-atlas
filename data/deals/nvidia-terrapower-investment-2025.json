@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-terrapower-investment-2025",
+  "from": "nvidia",
+  "to": "terrapower",
+  "type": "investment",
+  "title": "Nvidia's NVentures joins TerraPower's $650M fundraise",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-18",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://terrapower.com/terrapower-announces-650-million-fundraise",
+      "publisher": "TerraPower",
+      "date": "2025-06-18",
+      "kind": "press_release",
+      "quote": "This fundraise was comprised of both new investors, including NVentures, the venture capital arm of NVIDIA, and current investors, including TerraPower-founder Bill Gates and HD Hyundai, an industry leader in shipbuilding."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia's venture arm invested in Bill Gates-founded TerraPower as part of a $650 million round to build its first Natrium reactor in Kemmerer, Wyoming. Nvidia's own amount was not disclosed."
+}

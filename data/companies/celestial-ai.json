@@ -1,0 +1,14 @@
+{
+  "id": "celestial-ai",
+  "name": "Celestial AI",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.celestial.ai",
+  "aliases": [
+    "Celestial AI Inc."
+  ],
+  "description": "Designer of Photonic Fabric optical interconnects that link AI chips and memory using light; part of Marvell since 2026.",
+  "explain": "Marvell paid $3.25B upfront (up to $5.5B) for Celestial AI, betting that light-based links will be needed to connect ever-larger AI chip clusters."
+}

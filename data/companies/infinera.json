@@ -1,0 +1,28 @@
+{
+  "id": "infinera",
+  "name": "Infinera",
+  "sector": "networking",
+  "public": false,
+  "cik": "0001138639",
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Infinera Corp",
+    "Infinera Corporation"
+  ],
+  "revenue": {
+    "amount_usd": 1418446000,
+    "period": "FY2024 (ended 2024-12-28)",
+    "as_of": "2024-12-28",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1138639/000113863925000035/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-02-28",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 1,418,446,000 USD for 2023-12-31 to 2024-12-28 (10-K, accession 0001138639-25-000035)."
+    }
+  },
+  "description": "Maker of optical networking equipment and optical chips; acquired by Nokia in February 2025.",
+  "explain": "Infinera's optical gear connects data centers over long distances. Nokia bought it for $2.3 billion to sell more to cloud companies."
+}

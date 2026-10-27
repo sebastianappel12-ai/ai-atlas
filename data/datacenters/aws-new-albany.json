@@ -1,0 +1,57 @@
+{
+  "id": "aws-new-albany",
+  "name": "AWS New Albany",
+  "owner": "amazon",
+  "tenants": [],
+  "location": {
+    "lat": 40.14,
+    "lon": -82.75,
+    "city": "New Albany"
+  },
+  "state": "OH",
+  "power_mw_now": 213,
+  "power_mw_planned": 405,
+  "status": "operating",
+  "est_chips": {
+    "count": 351693,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 12804116000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2022-07-01",
+      "event": "Land clearing begins for Buildings 5-9 (eastern campus)."
+    },
+    {
+      "date": "2024-12-01",
+      "event": "Buildings 5-9 (eastern campus) operational. [New Albany’s Dec. 2024 report](https://newalbanyohio.org/wp-content/uploads/2025/01/CD-2024-12.pdf) lists AWS partial occupancy for 5 buildings at the eastern campus. Note that we're only includi"
+    },
+    {
+      "date": "2026-03-12",
+      "event": "Middle campus Buildings 10, 12, 13, and 14 appear complete/likely operational. Building 11 is still installing backup generators, so it is not counted as operational. Based on satellite imagery, northern campus Buildings 1-3 appear in late "
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Satellite imagery shows Building 1 in the northern campus still appears structurally finished, with no visible change from the prior two months, but we're still not counting it operational due to visible construction work around the perimet"
+    },
+    {
+      "date": "2027-07-01",
+      "event": "Expected operational date for the remaining tracked buildings (11, and 1-4) across the three campuses. This estimate is based on the previous buildings taking roughly 1.5 years from steel framing to complete operational status. Note that we"
+    }
+  ],
+  "epoch_id": "AWS New Albany",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "AWS New Albany: current power 213 MW; owner Amazon."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "AWS New Albany is an operating AI data center in New Albany, OH, owned by amazon. Epoch AI estimates it draws 213 MW today and 405 MW when finished."
+}

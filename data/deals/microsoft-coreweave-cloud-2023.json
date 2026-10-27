@@ -1,0 +1,31 @@
+{
+  "id": "microsoft-coreweave-cloud-2023",
+  "from": "microsoft",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "Microsoft agrees to spend potentially billions on CoreWeave",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-06-01",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html",
+      "publisher": "CNBC",
+      "date": "2023-06-01",
+      "kind": "news",
+      "quote": "CNBC has learned from people with knowledge of the matter that Microsoft has agreed to spend potentially billions of dollars over multiple years on cloud computing infrastructure from startup CoreWeave, which announced Wednesday that it raised $200 million."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525067651/d899798d424b4.htm",
+      "publisher": "CoreWeave IPO prospectus (SEC)",
+      "date": "2025-03-31",
+      "kind": "sec_filing",
+      "quote": "For the years ended December 31, 2023 and 2024, our largest customer was Microsoft, which accounted for 35% and 62% of our revenue, respectively."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft rents GPU computing from CoreWeave, largely to meet OpenAI's demand. No contract total was published, but Microsoft made up 62% of CoreWeave's 2024 revenue, making it CoreWeave's biggest customer."
+}

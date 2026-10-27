@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-nscale-investment-2026",
+  "from": "nvidia",
+  "to": "nscale",
+  "type": "investment",
+  "title": "Nvidia joins Nscale's $2B Series C",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-03-09",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.nscale.com/press-releases/nscale-series-c",
+      "publisher": "Nscale Newsroom",
+      "date": "2026-03-09",
+      "kind": "press_release",
+      "quote": "The funding round was supported by Astra Capital Management, Citadel, Dell, Jane Street, Lenovo, Linden Advisors, Nokia, NVIDIA, and Point72."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia invested again in Nscale's $2 billion Series C, which valued Nscale at $14.6 billion. Nvidia's own amount was not disclosed."
+}

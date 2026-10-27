@@ -1,0 +1,38 @@
+{
+  "id": "meta-scale-ai-investment-2025",
+  "from": "meta",
+  "to": "scale-ai",
+  "type": "investment",
+  "title": "Meta invests $14.3B for 49% of Scale AI",
+  "amount_usd": 14300000000,
+  "amount_kind": "confirmed",
+  "date": "2025-06-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
+      "publisher": "CNBC",
+      "date": "2025-06-12",
+      "kind": "news",
+      "quote": "Meta is pumping $14.3 billion into Scale AI as part of the deal, and will have a 49% stake in the artificial intelligence startup, but will not have any voting power, a Scale AI spokesperson said."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+      "publisher": "Meta 10-Q (SEC)",
+      "date": "2025-07-31",
+      "kind": "sec_filing",
+      "quote": "In June 2025, we completed an investment in Scale AI by acquiring a non-voting minority of its outstanding equity."
+    },
+    {
+      "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+      "publisher": "Scale AI",
+      "date": "2025-06-12",
+      "kind": "press_release",
+      "quote": "In addition, Scale will distribute proceeds from Meta’s investment to Scale shareholders and vested equity holders, providing them with substantial liquidity as well as the opportunity to continue participating in Scale’s success as ongoing equity holders of the Company."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta paid $14.3 billion for a 49% non-voting stake in Scale AI, which labels data used to train AI models, and hired Scale's founder Alexandr Wang to lead its AI push. Most of the money went out to Scale's existing shareholders."
+}

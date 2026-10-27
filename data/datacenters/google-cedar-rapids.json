@@ -1,0 +1,65 @@
+{
+  "id": "google-cedar-rapids",
+  "name": "Google Cedar Rapids",
+  "owner": "google",
+  "tenants": [],
+  "location": {
+    "lat": 41.9222,
+    "lon": -91.7157,
+    "city": "IA"
+  },
+  "state": "IA",
+  "power_mw_now": 0,
+  "power_mw_planned": 314,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 670136,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 9887202000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-06-14",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2025-10-27",
+      "event": "Building 1 cooling towers and generators starting to be put in place. There's a foundation for Building 2 and 3."
+    },
+    {
+      "date": "2025-12-29",
+      "event": "About half of Building 1 generators are in place. Building 2 roofing has started - about where Google Omaha Building 3 was on 2025-03-16."
+    },
+    {
+      "date": "2026-04-16",
+      "event": "Building 1's generators are still only about halfway in place, and ~1/2 the cooling towers are still under construction. Building 2 roofing has been completed, and visible foundations have been built for cooling towers and generators."
+    },
+    {
+      "date": "2026-12-31",
+      "event": "Building 1 is operational. There is still work to be done since April, and Q4 2026 operational estimate was based on visible progress then."
+    },
+    {
+      "date": "2027-02-22",
+      "event": "Building 2 is operational. Based on Google Omaha Building 3 taking about 14 months from starting the roof to operation."
+    },
+    {
+      "date": "2027-05-23",
+      "event": "Building 3 is operational. Earlier satellite images suggest it was about 3 months behind Building 2."
+    }
+  ],
+  "epoch_id": "Google Cedar Rapids",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Google Cedar Rapids: current power 0 MW; owner Google."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Google Cedar Rapids is an under-construction AI data center in IA, IA, owned by google. Epoch AI estimates it draws 0 MW today and 314 MW when finished."
+}

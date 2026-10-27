@@ -1,0 +1,30 @@
+{
+  "id": "constellation",
+  "name": "Constellation Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NASDAQ:CEG",
+  "cik": "0001868275",
+  "country": "US",
+  "hq_state": "MD",
+  "website": "https://www.constellationenergy.com",
+  "aliases": [
+    "Constellation Energy Corp",
+    "CEG"
+  ],
+  "revenue": {
+    "amount_usd": 22663000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000032/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 22,663,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001868275-26-000032)."
+    }
+  },
+  "description": "Largest U.S. nuclear plant owner; also owns Calpine's gas and geothermal fleet since January 2026.",
+  "explain": "Constellation is the go-to seller of 24/7 carbon-free nuclear power to tech giants: it is restarting Three Mile Island Unit 1 for Microsoft and signed a 20-year deal with Meta for its Clinton plant."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "coreweave-core-scientific-denton-expansion-2025",
+  "from": "coreweave",
+  "to": "core-scientific",
+  "type": "data_center",
+  "title": "CoreWeave expands at Core Scientific's Denton, TX site ($1.2B)",
+  "amount_usd": 1200000000,
+  "amount_kind": "confirmed",
+  "date": "2025-02-26",
+  "length_years": 12,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828025008312/ex991-coreweavepressrelease.htm",
+      "publisher": "Core Scientific (SEC 8-K EX-99.1)",
+      "date": "2025-02-26",
+      "kind": "sec_filing",
+      "quote": "The new agreement brings $1.2 billion in contracted revenue across Core Scientific’s Denton TX location, solidifying Core Scientific’s position as a premier provider of application-specific data centers for HPC workloads."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave added about 70 megawatts at Core Scientific's Denton, Texas site, worth $1.2 billion in contracted revenue. That took CoreWeave to about 590 megawatts and $10.2 billion of contracts with Core Scientific."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tenstorrent",
+  "name": "Tenstorrent",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "CA",
+  "website": "https://tenstorrent.com",
+  "aliases": [
+    "Tenstorrent Inc."
+  ],
+  "description": "Designs RISC-V CPUs and AI accelerator chips and licenses its chip designs.",
+  "explain": "Tenstorrent, led by veteran chip architect Jim Keller, sells AI chips and licenses its designs, positioning itself as an open alternative to Nvidia."
+}

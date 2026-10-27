@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-anthropic-investment-2025",
+  "from": "nvidia",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Nvidia to invest up to $10B in Anthropic",
+  "amount_usd": 10000000000,
+  "amount_kind": "up_to",
+  "date": "2025-11-18",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "publisher": "Microsoft Official Blog",
+      "date": "2025-11-18",
+      "kind": "press_release",
+      "quote": "As part of the partnership, NVIDIA and Microsoft are committing to invest up to $10 billion and up to $5 billion respectively in Anthropic."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "publisher": "Nvidia 10-Q (SEC)",
+      "date": "2025-11-19",
+      "kind": "sec_filing",
+      "quote": "In November 2025, we entered into an agreement, subject to certain closing conditions, to invest up to $10 billion in Anthropic."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia agreed to invest up to $10 billion in Anthropic, subject to closing conditions, as part of a three-way deal in which Anthropic will run Claude on Nvidia systems in Microsoft's cloud."
+}

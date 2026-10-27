@@ -1,0 +1,31 @@
+{
+  "id": "meta-entergy-hyperion-gas-plants-2025",
+  "from": "meta",
+  "to": "entergy",
+  "type": "power_deal",
+  "title": "Entergy Louisiana to build 2.3 GW of gas plants to serve Meta's Hyperion",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-20",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598425000046/etr-20250331.htm",
+      "publisher": "Entergy Corp. Form 10-Q (SEC)",
+      "date": "2025-05-01",
+      "kind": "sec_filing",
+      "quote": "The filing requests LPSC certification of three new combined cycle combustion turbine generation resources totaling 2,262 MW, each of which will be enabled for future carbon capture and storage, a new 500 kV transmission line, and 500 kV substation upgrades."
+    },
+    {
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/entergy-to-build-three-gas-plants-for-meta-s-biggest-data-center",
+      "publisher": "Data Center Knowledge (Bloomberg)",
+      "date": "2025-08-21",
+      "kind": "news",
+      "quote": "Josh Saul ,Bloomberg NewsAugust 21, 2025 2 Min Read Image: Bloomberg (Bloomberg) -- Louisiana regulators approved Entergy Corporation’s plan to build three natural gas plants to power Meta Platform’s biggest data center."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta signed an electric service agreement with Entergy Louisiana for its Hyperion AI data center in Richland Parish. Entergy is building three combined-cycle gas units (2,262 MW total) plus a 500 kV line, with Meta contributing to the costs; Louisiana regulators approved the plan on August 20, 2025 (the date used here). Contract value not disclosed. Plants: three new Entergy Louisiana combined-cycle units, two near the Richland Parish site and one at the existing Waterford site (St. Charles Parish)."
+}

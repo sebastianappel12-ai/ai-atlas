@@ -1,0 +1,49 @@
+{
+  "id": "meta-rosemount",
+  "name": "Meta Rosemount",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 44.7355,
+    "lon": -93.1436,
+    "city": "MN"
+  },
+  "state": "MN",
+  "power_mw_now": 178,
+  "power_mw_planned": 241,
+  "status": "operating",
+  "est_chips": {
+    "count": 215675,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6742996000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-05-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2026-03-21",
+      "event": "Both buildings and their cooling infrastructure look complete, but the site probably is likely still under commissioning, and few cars are parked to the right of Building 1. We give another 3 months before it's operational."
+    },
+    {
+      "date": "2026-06-19",
+      "event": "Buildings 1 and 2 are estimated to be operational."
+    }
+  ],
+  "epoch_id": "Meta Rosemount",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Rosemount: current power 178 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Rosemount is an operating AI data center in MN, MN, owned by meta. Epoch AI estimates it draws 178 MW today and 241 MW when finished."
+}

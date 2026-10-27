@@ -1,0 +1,46 @@
+{
+  "id": "openai-oracle-cloud-2025",
+  "from": "openai",
+  "to": "oracle",
+  "type": "cloud_contract",
+  "title": "OpenAI reportedly to buy about $300B of Oracle cloud computing over five years",
+  "amount_usd": 300000000000,
+  "amount_kind": "estimated",
+  "date": "2025-09-10",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.argaam.com/en/article/articledetail/id/1842499",
+      "publisher": "Argaam",
+      "date": "2025-09-10",
+      "kind": "news",
+      "quote": "OpenAI signed a $300 billion contract with Oracle to purchase cloud computing capacity over five years, the Wall Street Journal reported, citing people familiar with the matter."
+    },
+    {
+      "url": "https://www.verdict.co.uk/openai-oracle-300bn-cloud-deal/",
+      "publisher": "Verdict",
+      "date": "2025-09-11",
+      "kind": "news",
+      "quote": "OpenAI has committed to a $300bn cloud computing contract with Oracle, expected to last nearly five years, according to a report by the Wall Street Journal citing undisclosed sources."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525152035/d136779d8k.htm",
+      "publisher": "Oracle Form 8-K (SEC EDGAR)",
+      "date": "2025-06-30",
+      "kind": "sec_filing",
+      "quote": "Our MultiCloud database revenue continues to grow at over 100%, and we signed multiple large cloud services agreements including one that is expected to contribute more than $30 billion in annual revenue starting in FY28."
+    },
+    {
+      "url": "https://rcrwireless.com/20250703/ai-infrastructure/30-billion-oracle",
+      "publisher": "RCR Wireless News",
+      "date": "2025-07-03",
+      "kind": "news",
+      "quote": "Multiple news outlets have confirmed that the eye-popping, $30 billion-a-year contract that Oracle revealed earlier this week is with artificial intelligence company OpenAI."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI is renting about 4.5 gigawatts of data-center computing from Oracle as part of its Stargate build-out. Oracle disclosed an unnamed $30B-a-year contract in June 2025 that reporters tied to OpenAI; the Wall Street Journal put the total at about $300B over roughly five years starting in 2027. Neither company has confirmed the total."
+}

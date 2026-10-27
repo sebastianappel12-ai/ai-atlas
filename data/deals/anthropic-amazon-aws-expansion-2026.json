@@ -1,0 +1,39 @@
+{
+  "id": "anthropic-amazon-aws-expansion-2026",
+  "from": "anthropic",
+  "to": "amazon",
+  "type": "cloud_contract",
+  "title": "Anthropic commits more than $100B to AWS over ten years",
+  "amount_usd": 100000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-04-20",
+  "length_years": 10,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+      "publisher": "Amazon News",
+      "date": "2026-04-20",
+      "kind": "press_release",
+      "quote": "Expanding on this success, today Amazon and Anthropic are deepening their collaboration with a commitment from Anthropic to spend more than $100 billion over the next ten years on AWS technologies."
+    },
+    {
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "publisher": "Anthropic",
+      "date": "2026-04-20",
+      "kind": "press_release",
+      "quote": "We are committing more than $100 billion over the next ten years to AWS technologies, securing up to 5GW of new capacity to train and run Claude."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "publisher": "Amazon Form 10-Q (SEC EDGAR)",
+      "date": "2026-07-31",
+      "kind": "sec_filing",
+      "quote": "In Q2 2026, AWS and Anthropic announced an expansion of the strategic collaboration and existing multi-year commitment by more than $100.0 billion over 10.0 years, which includes contractual obligations related to the performance of AWS chips."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic promised to spend more than $100 billion over ten years on Amazon's cloud, securing up to 5 gigawatts of computing built largely on Amazon's Trainium chips. At the same time Amazon agreed to invest $5 billion more in Anthropic, with up to $20 billion more later. The $100 billion here is a floor."
+}

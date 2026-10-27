@@ -1,0 +1,25 @@
+{
+  "id": "cisco-acacia-acquisition-2019",
+  "from": "cisco",
+  "to": "acacia",
+  "type": "acquisition",
+  "title": "Cisco agrees to buy optical-module maker Acacia for $2.6B",
+  "amount_usd": 2600000000,
+  "amount_kind": "confirmed",
+  "date": "2019-07-09",
+  "status": "revised",
+  "superseded_by": "cisco-acacia-acquisition-2021",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000119312519190942/d776281dex991.htm",
+      "publisher": "Cisco (8-K Ex. 99.1)",
+      "date": "2019-07-09",
+      "kind": "sec_filing",
+      "quote": "Under the terms of the agreement, Cisco has agreed to acquire Acacia for $70.00 per share in cash, or for approximately $2.6 billion on a fully diluted basis, net of cash and marketable securities."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Cisco first agreed to pay $70 a share (about $2.6 billion) for Acacia, which makes the optical modules that send data over fiber between data centers. A long wait for Chinese regulatory approval led the two sides to renegotiate, and the price was raised in January 2021."
+}

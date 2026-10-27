@@ -1,0 +1,31 @@
+{
+  "id": "globalfoundries",
+  "name": "GlobalFoundries",
+  "sector": "chip_factory",
+  "public": true,
+  "ticker": "NASDAQ:GFS",
+  "cik": "0001709048",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://gf.com",
+  "aliases": [
+    "GlobalFoundries Inc.",
+    "GF",
+    "GLOBALFOUNDRIES"
+  ],
+  "revenue": {
+    "amount_usd": 6791000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1709048/000170904826000022/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "ifrs-full:Revenue = 6,791,000,000 USD for 2025-01-01 to 2025-12-31 (20-F, accession 0001709048-26-000022)."
+    }
+  },
+  "description": "Contract chipmaker focused on mature and specialty processes, with fabs in New York, Vermont, Germany and Singapore.",
+  "explain": "GlobalFoundries makes the less cutting-edge but essential chips (radio, power, networking) that sit around AI processors. It began as AMD's spun-off factories and counts AMD, Qualcomm and Apple as customers."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vistra",
+  "name": "Vistra",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:VST",
+  "cik": "0001692819",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://vistracorp.com",
+  "aliases": [
+    "Vistra Corp."
+  ],
+  "revenue": {
+    "amount_usd": 17586000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 17,586,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001692819-26-000006)."
+    }
+  },
+  "description": "Texas-based power producer and retailer with one of the largest U.S. nuclear and gas fleets.",
+  "explain": "Vistra sells power from big nuclear and gas plants; it signed 20-year deals to supply Meta with 2.6 GW from its Ohio and Pennsylvania nuclear plants and keeps buying gas plants to meet data center demand."
+}

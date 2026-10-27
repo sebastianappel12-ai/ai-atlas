@@ -1,0 +1,13 @@
+{
+  "id": "pensando",
+  "name": "Pensando Systems",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Pensando"
+  ],
+  "description": "Designer of data processing unit (DPU) networking chips; part of AMD since 2022.",
+  "explain": "AMD bought Pensando for $1.9B; its networking chips are part of AMD's AI server racks."
+}

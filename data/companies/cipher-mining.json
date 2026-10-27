@@ -1,0 +1,32 @@
+{
+  "id": "cipher-mining",
+  "name": "Cipher Mining",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:CIFR",
+  "cik": "0001819989",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.cipherdigital.com",
+  "aliases": [
+    "Cipher Digital",
+    "Cipher Digital Inc",
+    "Cipher Mining Inc",
+    "CIFR"
+  ],
+  "revenue": {
+    "amount_usd": 223942000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998926000009/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 223,942,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001819989-26-000009)."
+    }
+  },
+  "description": "Bitcoin miner turned AI data center developer (renamed Cipher Digital in 2026) with sites in Texas.",
+  "explain": "Cipher leases Texas data center campuses to Amazon Web Services and to Fluidstack, whose rent is partly backstopped by Google."
+}

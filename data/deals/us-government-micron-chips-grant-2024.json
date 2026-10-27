@@ -1,0 +1,31 @@
+{
+  "id": "us-government-micron-chips-grant-2024",
+  "from": "us-government",
+  "to": "micron",
+  "type": "investment",
+  "title": "U.S. awards Micron up to $6.165B CHIPS grant",
+  "amount_usd": 6165000000,
+  "amount_kind": "up_to",
+  "date": "2024-12-10",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.nist.gov/news-events/news/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip",
+      "publisher": "NIST CHIPS for America",
+      "date": "2025-06-12",
+      "kind": "press_release",
+      "quote": "Previously, the Department of Commerce awarded up to $6.165 billion in CHIPS Act direct funding on December 10, 2024, as part of Micron’s commitment to build three fabrication facilities in Idaho and New York."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/723125/000110465924127174/tm2430615d1_8k.htm",
+      "publisher": "Micron Form 8-K (SEC EDGAR)",
+      "date": "2024-12-10",
+      "kind": "sec_filing",
+      "quote": "Under the Funding Agreement with Micron New York (the “NY Funding Agreement”) the Department has awarded Micron New York grants in a maximum funding amount of $4.6 billion for the construction of two fab facilities in Clay, New York (the “NY Award” and together with the Idaho Award, the “Project Awards”)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Commerce Department agreed to give memory chip maker Micron up to $6.165 billion in grants for memory factories in Boise, Idaho and Clay, New York, paid as construction and production milestones are met."
+}

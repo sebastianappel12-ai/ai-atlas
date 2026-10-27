@@ -1,0 +1,24 @@
+{
+  "id": "founders-fund-anthropic-series-g-2026",
+  "from": "founders-fund",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Founders Fund co-leads Anthropic's Series G",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-02-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "publisher": "Anthropic News",
+      "date": "2026-02-12",
+      "kind": "press_release",
+      "quote": "The round was co-led by D. E. Shaw Ventures, Dragoneer, Founders Fund, ICONIQ, and MGX."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Founders Fund was one of the co-leads of Anthropic's $30 billion Series G (counted in full on the GIC record). Its own amount was not disclosed."
+}

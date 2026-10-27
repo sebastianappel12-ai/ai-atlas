@@ -1,0 +1,28 @@
+{
+  "id": "mellanox",
+  "name": "Mellanox Technologies",
+  "sector": "chip_designer",
+  "public": false,
+  "cik": "0001356104",
+  "country": "IL",
+  "website": "https://www.nvidia.com/en-us/networking/",
+  "aliases": [
+    "Mellanox",
+    "Mellanox Technologies, Ltd."
+  ],
+  "revenue": {
+    "amount_usd": 1330576000,
+    "period": "FY2019 (ended 2019-12-31)",
+    "as_of": "2019-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1356104/000135610420000008/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2020-02-20",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 1,330,576,000 USD for 2019-01-01 to 2019-12-31 (10-K, accession 0001356104-20-000008)."
+    }
+  },
+  "description": "Israeli designer of high-speed InfiniBand and Ethernet networking chips; part of Nvidia since 2020.",
+  "explain": "Nvidia bought Mellanox for $6.9B, and its networking technology became the backbone that links GPUs together in Nvidia's AI systems."
+}

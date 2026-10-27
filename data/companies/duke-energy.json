@@ -1,0 +1,29 @@
+{
+  "id": "duke-energy",
+  "name": "Duke Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:DUK",
+  "cik": "0001326160",
+  "country": "US",
+  "hq_state": "NC",
+  "website": "https://www.duke-energy.com",
+  "aliases": [
+    "Duke Energy Corp"
+  ],
+  "revenue": {
+    "amount_usd": 31741000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000014/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-26",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerIncludingAssessedTax = 31,741,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001326160-26-000014)."
+    }
+  },
+  "description": "Utility serving the Carolinas, Florida, Indiana, Ohio and Kentucky.",
+  "explain": "Duke is one of the largest U.S. utilities and is planning new gas and nuclear capacity as tech companies build data centers in the Carolinas."
+}

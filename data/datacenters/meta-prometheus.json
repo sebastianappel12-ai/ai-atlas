@@ -1,0 +1,69 @@
+{
+  "id": "meta-prometheus",
+  "name": "Meta Prometheus",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 40.0812,
+    "lon": -82.8088,
+    "city": "New Albany"
+  },
+  "state": "OH",
+  "power_mw_now": 471,
+  "power_mw_planned": 1328,
+  "status": "operating",
+  "est_chips": {
+    "count": 1164337,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 38715404000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2026-03-12",
+      "event": "The Socrates South power plant to the right of Buildings 7-12 now has 10 natural gas turbines in place, judging by the number of exhaust stacks. Battery backup has been installed nearby. To the north, a new section of tent buildings has beg"
+    },
+    {
+      "date": "2026-05-18",
+      "event": "Building 7-11 (Meta tents) look structurally complete but not operational, given there is still construction activity, including at the adjacent Socrates South power plant. Northern tents (Buildings 16-27) are all roofed except for 21 and 2"
+    },
+    {
+      "date": "2026-08-31",
+      "event": "Buildings 7-10 (tents) are operational, based on infrared drone video from RAAD (raad.com) captured on this date. The video suggests that 138.8 MW of nameplate turbine capacity is operating at the Socrates South power plant (about 69% of th"
+    },
+    {
+      "date": "2026-11-30",
+      "event": "Socrates South and Socrates North gas power plants are fully operational, enabling the operability of Buildings 11-12 and 16-21. This completes the 2 sets of 6 tents associated with Socrates South and Socrates North. This is based [on](http"
+    },
+    {
+      "date": "2027-01-15",
+      "event": "Building 13 (Vantage) is operational, based on the pace of construction seen in earlier images."
+    },
+    {
+      "date": "2027-04-15",
+      "event": "Building 14 (Vantage) is operational, based on it starting construction about 3 months after Building 13."
+    },
+    {
+      "date": "2027-07-14",
+      "event": "Building 15 (Vantage) operational, based on it starting construction about 3 months after Building 14."
+    },
+    {
+      "date": "2028-07-01",
+      "event": "Buildings 22-27 (3rd set of 6 Meta tents) are operational. This is a conservative estimate to align with the operability of the [Socrates the Younger](https://drive.google.com/file/d/1Gqu84nBqkyrrwMQy6nSiPykpyQsgLoao/view?usp=sharing) power"
+    }
+  ],
+  "epoch_id": "Meta Prometheus",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Prometheus: current power 471 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Prometheus is an operating AI data center in New Albany, OH, owned by meta. Epoch AI estimates it draws 471 MW today and 1,328 MW when finished."
+}

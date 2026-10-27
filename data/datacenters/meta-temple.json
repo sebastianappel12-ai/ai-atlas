@@ -1,0 +1,65 @@
+{
+  "id": "meta-temple",
+  "name": "Meta Temple",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 31.126,
+    "lon": -97.3598,
+    "city": "Temple"
+  },
+  "state": "TX",
+  "power_mw_now": 178,
+  "power_mw_planned": 231,
+  "status": "operating",
+  "est_chips": {
+    "count": 202473,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6742996000,
+  "grid_region": "ERCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2022-04-01",
+      "event": "Land clearing begins."
+    },
+    {
+      "date": "2023-02-05",
+      "event": "A traditional H-shaped Meta data center is partially built."
+    },
+    {
+      "date": "2023-04-01",
+      "event": "The traditional Meta data center has been demolished mid-construction, in favor of Meta's new AI-optimized design."
+    },
+    {
+      "date": "2025-11-15",
+      "event": "Building 1 and 2 look complete from outside, with all electrical and cooling equipment installed. Space is cleared for Building 3."
+    },
+    {
+      "date": "2025-12-09",
+      "event": "Building 1 and 2 are operational. Activity related to the air quality permit (namely, emergency diesel generators) was reported to have started as of 2025-12-09. This is our best estimate, but note that the planned completion date in this ["
+    },
+    {
+      "date": "2026-02-24",
+      "event": "Building 3 is under construction. An outline is visible for the building which has similar dimensions to those deployed at the Meta Prometheus site."
+    },
+    {
+      "date": "2026-09-30",
+      "event": "Building 3 is operational. Based on the stated completion date in this [regulatory filing](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008019)"
+    }
+  ],
+  "epoch_id": "Meta Temple",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta Temple: current power 178 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta Temple is an operating AI data center in Temple, TX, owned by meta. Epoch AI estimates it draws 178 MW today and 231 MW when finished."
+}

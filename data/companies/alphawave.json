@@ -1,0 +1,14 @@
+{
+  "id": "alphawave",
+  "name": "Alphawave IP Group",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "GB",
+  "website": "https://awavesemi.com",
+  "aliases": [
+    "Alphawave Semi",
+    "Alphawave IP Group plc"
+  ],
+  "description": "Designer of high-speed connectivity IP, chiplets and custom silicon for data centers; part of Qualcomm since December 2025.",
+  "explain": "Qualcomm bought Alphawave for $2.3B to get the high-speed connection technology it needs for data-center AI chips."
+}

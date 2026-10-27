@@ -1,0 +1,31 @@
+{
+  "id": "supermicro",
+  "name": "Supermicro",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NASDAQ:SMCI",
+  "cik": "0001375365",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.supermicro.com",
+  "aliases": [
+    "Super Micro Computer",
+    "Super Micro Computer Inc",
+    "SMCI"
+  ],
+  "revenue": {
+    "amount_usd": 39063072000,
+    "period": "FY2026 (ended 2026-06-30)",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000022/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-31",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 39,063,072,000 USD for 2025-07-01 to 2026-06-30 (10-K, accession 0001375365-26-000022)."
+    }
+  },
+  "description": "Designs and builds servers and rack-scale systems, including GPU servers for AI.",
+  "explain": "Supermicro assembles Nvidia GPU servers for AI labs and cloud companies, so much of the money spent on AI hardware passes through it."
+}

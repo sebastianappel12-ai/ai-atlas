@@ -1,0 +1,55 @@
+{
+  "id": "openai-stargate-lordstown",
+  "name": "OpenAI Stargate Lordstown",
+  "owner": "softbank",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 39.4204,
+    "lon": -84.1809,
+    "city": "Warren"
+  },
+  "state": "OH",
+  "power_mw_now": 0,
+  "power_mw_planned": 300,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 545730,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 8106748000,
+  "grid_region": "PJM",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-10-12",
+      "event": "Land clearing begins in the front of the site (the side facing the Ohio Turnpike), clearing away a parking lot and solar array"
+    },
+    {
+      "date": "2026-02-27",
+      "event": "Still no visible construction, although construction within preexisting facilities"
+    },
+    {
+      "date": "2026-07-30",
+      "event": "Active construction visible on and around the datacenter, with the roofing mostly in place. This is based on satellite imagery. No buildings operational yet."
+    },
+    {
+      "date": "2027-03-01",
+      "event": "Projected operational date. OpenAI [stated](https://openai.com/index/five-new-stargate-sites/) Lordstown and Milam County could scale to 1.5 GW within 18 months of their September 23, 2025 announcement; subtracting Milam County's subsequent"
+    }
+  ],
+  "epoch_id": "OpenAI Stargate Lordstown",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "OpenAI Stargate Lordstown: current power 0 MW; owner Softbank."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "OpenAI Stargate Lordstown is an under-construction AI data center in Warren, OH, owned by softbank and used by openai. Epoch AI estimates it draws 0 MW today and 300 MW when finished."
+}

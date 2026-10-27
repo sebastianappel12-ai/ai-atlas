@@ -1,0 +1,16 @@
+{
+  "id": "fidelity",
+  "name": "Fidelity Investments",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "MA",
+  "website": "https://www.fidelity.com",
+  "aliases": [
+    "Fidelity Management & Research Company",
+    "FMR LLC",
+    "Fidelity"
+  ],
+  "description": "Boston-based mutual fund and investment company whose funds buy stakes in private AI companies.",
+  "explain": "Fidelity's funds co-led Anthropic's $13 billion Series F and joined several xAI rounds."
+}

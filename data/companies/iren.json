@@ -1,0 +1,43 @@
+{
+  "id": "iren",
+  "name": "IREN",
+  "sector": "neocloud",
+  "public": true,
+  "ticker": "NASDAQ:IREN",
+  "cik": "0001878848",
+  "country": "AU",
+  "website": "https://iren.com",
+  "aliases": [
+    "IREN Ltd",
+    "IREN Limited",
+    "Iris Energy"
+  ],
+  "revenue": {
+    "amount_usd": 707007000,
+    "period": "FY2026 (ended 2026-06-30)",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-08-27",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 707,007,000 USD for 2025-07-01 to 2026-06-30 (10-K, accession 0001878848-26-000052)."
+    }
+  },
+  "backlog": {
+    "amount_usd": 16600000000,
+    "period": "FY2026 (June 30, 2026)",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "publisher": "IREN 10-K (SEC)",
+      "date": "2026-08-27",
+      "kind": "sec_filing",
+      "quote": "As of June 30, 2026, the Group’s unsatisfied remaining performance obligations under ASC 606 and the aggregate contracted value of lease arrangements under ASC 842 totaled approximately $16.6 billion."
+    }
+  },
+  "description": "Former bitcoin miner (Iris Energy) turned AI cloud, renting Nvidia GPUs from its own powered data centers in Texas and Canada.",
+  "explain": "IREN converted cheap power and bitcoin-mining sites into AI data centers and signed big GPU rental deals with Microsoft and Nvidia. Nvidia is both its chip supplier and a customer, and holds rights to invest up to $2.1 billion."
+}

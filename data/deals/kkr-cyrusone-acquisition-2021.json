@@ -1,0 +1,24 @@
+{
+  "id": "kkr-cyrusone-acquisition-2021",
+  "from": "kkr",
+  "to": "cyrusone",
+  "type": "acquisition",
+  "title": "KKR and GIP buy CyrusOne for $15B",
+  "amount_usd": 15000000000,
+  "amount_kind": "confirmed",
+  "date": "2021-11-15",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1553023/000110465922038090/tm229713d1_ex99-1.htm",
+      "publisher": "CyrusOne Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2022-03-25",
+      "kind": "sec_filing",
+      "quote": "today announced the completion of its acquisition by funds managed by KKR, a leading global investment firm, and Global Infrastructure Partners (\"GIP\"), one of the world's leading infrastructure investors, in an all-cash transaction valued at approximately $15 billion, including the assumption of debt (the \"Transaction\")."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "KKR and Global Infrastructure Partners (now part of BlackRock) bought data center operator CyrusOne for about $15 billion including debt; the deal closed in March 2022. The full price is shown on this KKR record."
+}

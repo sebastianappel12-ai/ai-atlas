@@ -1,0 +1,24 @@
+{
+  "id": "oracle-energy-transfer-gas-supply-2025",
+  "from": "oracle",
+  "to": "energy-transfer",
+  "type": "supply",
+  "title": "Energy Transfer to supply natural gas to three Oracle data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-11-05",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1276187/000127618725000116/ex991eterq32025.htm",
+      "publisher": "Energy Transfer Form 8-K EX-99.1 (SEC)",
+      "date": "2025-11-05",
+      "kind": "sec_filing",
+      "quote": "Energy Transfer has now executed multiple agreements with Oracle, including previously announced agreements, to supply natural gas to three U.S. data centers, two of which are in Texas."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Pipeline company Energy Transfer signed several agreements to deliver natural gas to three Oracle data centers (two in Texas), which use gas to make their own power on site. Volumes and prices were not disclosed; the date is when Energy Transfer reported the full set of agreements."
+}

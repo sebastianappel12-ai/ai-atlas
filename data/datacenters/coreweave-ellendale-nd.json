@@ -1,0 +1,69 @@
+{
+  "id": "coreweave-ellendale-nd",
+  "name": "CoreWeave Ellendale ND",
+  "owner": "coreweave",
+  "tenants": [],
+  "location": {
+    "lat": 46.0103,
+    "lon": -98.5687,
+    "city": "Ellendale"
+  },
+  "state": "ND",
+  "power_mw_now": 68,
+  "power_mw_planned": 520,
+  "status": "operating",
+  "est_chips": {
+    "count": 505306,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 15152800000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-05-28",
+      "event": "CoreWeave signed the first lease package for 250 MW. No buildings online yet. This is according to an [SEC 8-k filing](https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/form8-k.htm) from this date."
+    },
+    {
+      "date": "2025-08-29",
+      "event": "[A new 150 MW lease](https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with) brings CoreWeave to 400 MW total contracted. The project is now clearly scheduled to be a three-"
+    },
+    {
+      "date": "2025-10-27",
+      "event": "The first 50 MW slice of Building 1 has reached Ready for Service status according to [this report](https://ir.applieddigital.com/news-events/press-releases/detail/133/applied-digital-achieves-ready-for-service-for-phase-1-at). This is the "
+    },
+    {
+      "date": "2025-11-24",
+      "event": "[This Applied Digital report](https://ir.applieddigital.com/news-events/press-releases/detail/137/applied-digital-completes-phase-ii-ready-for-service-at) says the rest of Building 1 has reached Ready for Service, bringing the first buildin"
+    },
+    {
+      "date": "2026-03-27",
+      "event": "According to satellite imagery, Building 1 looks complete and in service, with the surrounding power/cooling equipment also operational. (Note: this image doesn't provide a view of buildings 2 or 3, though it's very safe to assume they're u"
+    },
+    {
+      "date": "2026-06-30",
+      "event": "According to satellite imagery, Building 2 is fully roofed and shell complete, with rooftop chillers mostly installed. Building 3 construction is well underway, with about 1/4 of the roofing done and the foundation laid out."
+    },
+    {
+      "date": "2026-12-31",
+      "event": "According to the [schedule](https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with), Building 2 should be online sometime in the second half of 2026. We can estimate the end"
+    },
+    {
+      "date": "2027-06-01",
+      "event": "According to [schedule](https://ir.applieddigital.com/news-events/press-releases/detail/128/applied-digital-finalizes-additional-150mw-lease-with), Building 3 should come online in the first half of 2027. That would bring the full PF1 campu"
+    }
+  ],
+  "epoch_id": "CoreWeave Ellendale ND",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "CoreWeave Ellendale ND: current power 68 MW; owner CoreWeave."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "CoreWeave Ellendale ND is an operating AI data center in Ellendale, ND, owned by coreweave. Epoch AI estimates it draws 68 MW today and 520 MW when finished."
+}

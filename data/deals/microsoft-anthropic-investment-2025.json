@@ -1,0 +1,31 @@
+{
+  "id": "microsoft-anthropic-investment-2025",
+  "from": "microsoft",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Microsoft to invest up to $5B in Anthropic",
+  "amount_usd": 5000000000,
+  "amount_kind": "up_to",
+  "date": "2025-11-18",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "publisher": "Microsoft Official Blog",
+      "date": "2025-11-18",
+      "kind": "press_release",
+      "quote": "As part of the partnership, NVIDIA and Microsoft are committing to invest up to $10 billion and up to $5 billion respectively in Anthropic."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "Amazon, Google, and Microsoft, through their respective affiliates, have made significant equity investments in our company."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft committed up to $5 billion to Anthropic in November 2025, as Anthropic agreed to buy $30 billion of computing on Microsoft's Azure cloud. Anthropic's IPO filing confirms Microsoft is now a shareholder but does not give the amount paid."
+}

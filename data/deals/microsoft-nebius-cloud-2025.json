@@ -1,0 +1,32 @@
+{
+  "id": "microsoft-nebius-cloud-2025",
+  "from": "microsoft",
+  "to": "nebius",
+  "type": "cloud_contract",
+  "title": "Microsoft signs $17.4B GPU capacity deal with Nebius",
+  "amount_usd": 17400000000,
+  "amount_kind": "confirmed",
+  "date": "2025-09-08",
+  "length_years": 5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+      "publisher": "Nebius 6-K (SEC)",
+      "date": "2025-09-08",
+      "kind": "sec_filing",
+      "quote": "Subject to the satisfaction of the deployment and availability of the GPU Services, the total contract value is about $17.4 billion through 2031."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+      "publisher": "Nebius 6-K (SEC)",
+      "date": "2025-09-08",
+      "kind": "sec_filing",
+      "quote": "Microsoft may also acquire additional services and/or capacity under the Agreement, which would increase the total contract value to about $19.4 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft agreed to pay Nebius about $17.4 billion over five years for dedicated GPU capacity at Nebius's Vineland, New Jersey data center; if Microsoft buys extra capacity the total could reach about $19.4 billion."
+}

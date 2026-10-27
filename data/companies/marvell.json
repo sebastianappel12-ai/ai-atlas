@@ -1,0 +1,30 @@
+{
+  "id": "marvell",
+  "name": "Marvell Technology",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:MRVL",
+  "cik": "0001835632",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.marvell.com",
+  "aliases": [
+    "Marvell",
+    "Marvell Technology, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 8194600000,
+    "period": "FY2026 (ended 2026-01-31)",
+    "as_of": "2026-01-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-03-11",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 8,194,600,000 USD for 2025-02-02 to 2026-01-31 (10-K, accession 0001835632-26-000011)."
+    }
+  },
+  "description": "Designs custom AI chips, optical and networking chips that move data inside and between data centers.",
+  "explain": "Marvell makes custom chips for cloud giants such as Amazon and the optical links that tie AI servers together, and has bought several connectivity startups to grow that business."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lambda-aligned-data-centers-dfw04-2025",
+  "from": "lambda",
+  "to": "aligned-data-centers",
+  "type": "data_center",
+  "title": "Lambda to occupy Aligned's new DFW-04 AI data center in Texas",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-05-07",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://aligneddc.com/aligned-and-lambda-partner-to-power-next-generation-ai-infrastructure/",
+      "publisher": "Aligned Data Centers",
+      "date": "2025-05-07",
+      "kind": "press_release",
+      "quote": "Lambda will occupy Aligned’s newest Dallas-Fort Worth area facility, DFW-04, which will be designed to be a liquid-cooled data center capable of supporting the highest-density Graphics Processing Units (GPUs)."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "GPU cloud company Lambda will be the tenant of Aligned's new liquid-cooled DFW-04 data center in Plano, Texas. Lease terms were not disclosed."
+}

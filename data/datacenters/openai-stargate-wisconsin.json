@@ -1,0 +1,55 @@
+{
+  "id": "openai-stargate-wisconsin",
+  "name": "OpenAI Stargate Wisconsin",
+  "owner": "oracle",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 43.39,
+    "lon": -87.88,
+    "city": "Port Washington"
+  },
+  "state": "WI",
+  "power_mw_now": 0,
+  "power_mw_planned": 1300,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 2627590,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 34169564000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2026-01-02",
+      "event": "Ground broken for the facility, land clearing begins for all buildings"
+    },
+    {
+      "date": "2026-02-14",
+      "event": "Land clearing continues, foundation construction clearly begins for eastern and northern buildings (Building 1-2)"
+    },
+    {
+      "date": "2026-07-24",
+      "event": "Construction continues, Buildings 1 and 2 appear roughly halfway roofed, and building 3 foundation is halfway done."
+    },
+    {
+      "date": "2028-12-31",
+      "event": "Building 4 and supporting facilities/buildings operational, whole facility now operational. Based on the [environmental analysis (page 6)](https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing) filed for the sit"
+    }
+  ],
+  "epoch_id": "OpenAI Stargate Wisconsin",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "OpenAI Stargate Wisconsin: current power 0 MW; owner Oracle."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "OpenAI Stargate Wisconsin is an under-construction AI data center in Port Washington, WI, owned by oracle and used by openai. Epoch AI estimates it draws 0 MW today and 1,300 MW when finished."
+}

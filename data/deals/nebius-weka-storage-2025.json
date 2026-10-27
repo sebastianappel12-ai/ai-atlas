@@ -1,0 +1,24 @@
+{
+  "id": "nebius-weka-storage-2025",
+  "from": "nebius",
+  "to": "weka",
+  "type": "supply",
+  "title": "Nebius selects WEKA storage software for its premium AI cloud tier",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-10",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.prnewswire.com/il/news-releases/weka-and-nebius-partner-to-catalyze-ai-innovation-with-ultra-high-performance-cloud-infrastructure-solution-302477359.html",
+      "publisher": "WEKA via PR Newswire",
+      "date": "2025-06-10",
+      "kind": "press_release",
+      "quote": "To fuel the premium tier of its next-generation platform, Nebius selected WEKA's high-performance storage software to turbocharge its AI Cloud performance while effortlessly scaling from petabytes to exabytes of data."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nebius chose WEKA's storage software for the top tier of its AI cloud, so Nebius pays WEKA to keep its GPUs fed with data. No price was disclosed."
+}

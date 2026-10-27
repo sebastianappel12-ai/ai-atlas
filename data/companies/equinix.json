@@ -1,0 +1,30 @@
+{
+  "id": "equinix",
+  "name": "Equinix",
+  "sector": "dc_builder",
+  "public": true,
+  "ticker": "NASDAQ:EQIX",
+  "cik": "0001101239",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.equinix.com",
+  "aliases": [
+    "Equinix Inc",
+    "Equinix xScale"
+  ],
+  "revenue": {
+    "amount_usd": 9217000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-11",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 9,217,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001101239-26-000032)."
+    }
+  },
+  "description": "Largest global colocation and interconnection data center company, plus xScale campuses built for hyperscalers.",
+  "explain": "Equinix runs the data centers where networks and clouds connect. Its xScale joint ventures build large campuses leased to cloud and AI companies."
+}

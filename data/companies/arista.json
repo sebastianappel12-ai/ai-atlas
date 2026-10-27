@@ -1,0 +1,30 @@
+{
+  "id": "arista",
+  "name": "Arista Networks",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:ANET",
+  "cik": "0001596532",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.arista.com",
+  "aliases": [
+    "Arista Networks Inc",
+    "Arista"
+  ],
+  "revenue": {
+    "amount_usd": 9005700000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000013/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-17",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 9,005,700,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001596532-26-000013)."
+    }
+  },
+  "description": "Makes high-speed Ethernet switches and routers for cloud and AI data centers.",
+  "explain": "Arista sells the switches that connect servers and GPUs inside the biggest cloud and AI data centers. Microsoft and Meta alone buy roughly a third of its gear, so their AI spending flows straight into Arista's revenue."
+}

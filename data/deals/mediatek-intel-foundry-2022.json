@@ -1,0 +1,24 @@
+{
+  "id": "mediatek-intel-foundry-2022",
+  "from": "mediatek",
+  "to": "intel",
+  "type": "supply",
+  "title": "MediaTek signs on as Intel Foundry Services customer",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2022-07-25",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086322000029/q222_earningsrelease.htm",
+      "publisher": "Intel (SEC 8-K Exhibit 99.1)",
+      "date": "2022-07-28",
+      "kind": "sec_filing",
+      "quote": "IFS recently announced a strategic partnership with MediaTek to manufacture chips for a range of smart edge devices using Intel process technologies."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Taiwanese chip designer MediaTek agreed to have Intel manufacture some of its chips for smart devices, one of the first big outside customers for Intel's contract manufacturing (foundry) business. Financial terms were not disclosed."
+}

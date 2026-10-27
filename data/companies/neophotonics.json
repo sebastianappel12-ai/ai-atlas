@@ -1,0 +1,28 @@
+{
+  "id": "neophotonics",
+  "name": "NeoPhotonics",
+  "sector": "networking",
+  "public": false,
+  "cik": "0001227025",
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "NeoPhotonics Corp",
+    "NeoPhotonics Corporation"
+  ],
+  "revenue": {
+    "amount_usd": 290289000,
+    "period": "FY2021 (ended 2021-12-31)",
+    "as_of": "2021-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1227025/000122702522000014/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2022-02-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 290,289,000 USD for 2021-01-01 to 2021-12-31 (10-K, accession 0001227025-22-000014)."
+    }
+  },
+  "description": "Maker of lasers and optical components for data center and telecom links; acquired by Lumentum in 2022.",
+  "explain": "NeoPhotonics made high-speed lasers for optical networks. Lumentum paid about $918 million for it."
+}

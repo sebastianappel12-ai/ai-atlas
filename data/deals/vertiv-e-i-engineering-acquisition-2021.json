@@ -1,0 +1,31 @@
+{
+  "id": "vertiv-e-i-engineering-acquisition-2021",
+  "from": "vertiv",
+  "to": "e-i-engineering",
+  "type": "acquisition",
+  "title": "Vertiv buys switchgear maker E&I Engineering for $1.8B",
+  "amount_usd": 1800000000,
+  "amount_kind": "confirmed",
+  "date": "2021-09-08",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312521267213/d213876dex991.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2021-09-08",
+      "kind": "sec_filing",
+      "quote": "it has entered into a definitive agreement to acquire E&I Engineering Ireland Limited and its affiliate, Powerbar Gulf LLC"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312521267213/d213876dex991.htm",
+      "publisher": "Vertiv (8-K Ex. 99.1)",
+      "date": "2021-09-08",
+      "kind": "sec_filing",
+      "quote": "for approximately $1.8 billion in upfront consideration plus the potential for up to $200 million in cash, based on achieving certain 2022 profit milestones."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vertiv paid about $1.8 billion in cash and stock (plus up to $200 million more tied to 2022 profits) for E&I Engineering, an Irish maker of switchgear and busway that distributes electricity inside data centers. The deal closed in November 2021."
+}

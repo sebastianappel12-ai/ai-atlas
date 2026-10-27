@@ -1,0 +1,24 @@
+{
+  "id": "apple-broadcom-5g-components-2023",
+  "from": "apple",
+  "to": "broadcom",
+  "type": "supply",
+  "title": "Apple signs multibillion-dollar deal for Broadcom US-made components",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-05-23",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.apple.com/newsroom/2023/05/apple-announces-multibillion-dollar-deal-with-broadcom/",
+      "publisher": "Apple Newsroom",
+      "date": "2023-05-23",
+      "kind": "press_release",
+      "quote": "Today Apple announced a new multiyear, multibillion-dollar agreement with Broadcom, a leading U.S. technology and advanced manufacturing company."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Apple agreed to buy 5G radio parts and wireless chips designed and made by Broadcom in the US over several years. Apple called it 'multibillion-dollar' but gave no exact number."
+}

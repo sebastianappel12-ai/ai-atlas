@@ -1,0 +1,24 @@
+{
+  "id": "google-fervo-cape-station-ppa-2026",
+  "from": "google",
+  "to": "fervo-energy",
+  "type": "power_deal",
+  "title": "Google signs 396 MW geothermal PPA with Fervo's Cape Station",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-09-01",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026059707/exhibit991pressrelease9126.htm",
+      "publisher": "Fervo Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2026-09-01",
+      "kind": "sec_filing",
+      "quote": "Fervo Energy (Nasdaq: FRVO), a global pioneer of next-generation geothermal energy, today announced a 396-megawatt (MW) power purchase agreement (PPA) with Google to enable the continued development of the Cape Station enhanced geothermal systems (EGS) GeoCluster, expected to come online in 2028."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google will buy 396 MW of round-the-clock geothermal power from Fervo's Cape Station in Utah (online from 2028) for a potential Utah data center, with an option to expand to nearly 1 GW. Price not disclosed. Plant: Cape Station, Beaver County, Utah."
+}

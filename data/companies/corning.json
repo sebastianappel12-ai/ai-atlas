@@ -1,0 +1,30 @@
+{
+  "id": "corning",
+  "name": "Corning",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:GLW",
+  "cik": "0000024741",
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.corning.com",
+  "aliases": [
+    "Corning Inc",
+    "Corning Incorporated"
+  ],
+  "revenue": {
+    "amount_usd": 15629000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-12",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 15,629,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0000024741-26-000124)."
+    }
+  },
+  "description": "Makes optical fiber, cable and connectivity products, plus specialty glass such as iPhone cover glass.",
+  "explain": "Corning makes the optical fiber that carries data between AI servers. AI data centers need far more fiber than older ones, and Meta signed an up-to-$6 billion fiber deal with Corning in 2026."
+}

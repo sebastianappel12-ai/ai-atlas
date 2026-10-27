@@ -1,0 +1,31 @@
+{
+  "id": "apple-amkor-arizona-packaging-2023",
+  "from": "apple",
+  "to": "amkor",
+  "type": "supply",
+  "title": "Apple becomes first and largest customer of Amkor's Arizona packaging plant",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-11-30",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://hothardware.com/news/us-chip-company-scores-apple-as-customer",
+      "publisher": "HotHardware",
+      "date": "2023-12-01",
+      "kind": "news",
+      "quote": "Amkor Technology, a semiconductor packaging provider, got Apple as its first and biggest customer for its advanced packaging facility being built in Peoria, Arizona."
+    },
+    {
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "publisher": "Apple Newsroom",
+      "date": "2025-08-06",
+      "kind": "press_release",
+      "quote": "Apple is investing in Amkor’s new advanced chip packaging and test facility in Arizona, and will be its first and largest customer."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amkor is building a roughly $2 billion chip packaging and testing plant near Phoenix, and Apple committed to be its first and largest customer, paying Amkor to package Apple chips made at TSMC's nearby Arizona fab. Apple also said in 2025 that it is investing in the facility. Amounts were not disclosed."
+}

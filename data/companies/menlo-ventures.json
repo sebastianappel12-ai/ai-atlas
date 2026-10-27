@@ -1,0 +1,14 @@
+{
+  "id": "menlo-ventures",
+  "name": "Menlo Ventures",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://menlovc.com",
+  "aliases": [
+    "Menlo"
+  ],
+  "description": "Venture capital firm based in the San Francisco Bay Area and an early Anthropic investor.",
+  "explain": "Menlo Ventures is a long-time Anthropic investor and took part in its $3.5 billion Series E in 2025."
+}

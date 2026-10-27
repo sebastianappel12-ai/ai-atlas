@@ -1,0 +1,31 @@
+{
+  "id": "oracle-nvidia-gb200-abilene-2025",
+  "from": "oracle",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "Oracle reportedly to spend ~$40B on Nvidia chips for Stargate Abilene",
+  "amount_usd": 40000000000,
+  "amount_kind": "estimated",
+  "date": "2025-05-23",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sdxcentral.com/news/oracle-to-spend-40bn-on-nvidia-chips-for-openai-texas-data-center-sdx/",
+      "publisher": "SDxCentral",
+      "date": "2025-05-27",
+      "kind": "news",
+      "quote": "According to the FT report, and citing people \"familiar with the matter,\" Oracle will purchase around 400,000 of Nvidia's GB200s to lease to OpenAI."
+    },
+    {
+      "url": "https://en.ain.ua/2025/05/26/oracle-to-buy-nvidia-chips/",
+      "publisher": "AIN.UA",
+      "date": "2025-05-26",
+      "kind": "news",
+      "quote": "Oracle is planning to spend about $40 billion on high-performance Nvidia computer chips to power its new giant OpenAI data center in the United States, the Financial Times reports."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Financial Times reported that Oracle would buy about 400,000 Nvidia GB200 chips, roughly $40B, for the Stargate data center in Abilene, Texas, and rent the computing power to OpenAI. Neither company confirmed the number."
+}

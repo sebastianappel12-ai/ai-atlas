@@ -1,0 +1,24 @@
+{
+  "id": "broadcom-anthropic-financing-2026",
+  "from": "broadcom",
+  "to": "anthropic",
+  "type": "financing",
+  "title": "Broadcom to fund up to $42B of Anthropic notes",
+  "amount_usd": 42000000000,
+  "amount_kind": "up_to",
+  "date": "2026-03-01",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "we have the ability to issue, if needed, up to $42.0 billion in aggregate principal amount of convertible promissory notes to Broadcom or, subject to our consent (not to be unreasonably withheld), a designated financial partner pursuant to a note purchase agreement that we entered into with Broadcom in March 2026"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic can borrow up to $42 billion from Broadcom (or a lender Broadcom picks) through convertible notes, to pay for computing infrastructure it leases. Nothing had been drawn as of the IPO filing. The filing gives only the month, so the date here is March 1, 2026."
+}

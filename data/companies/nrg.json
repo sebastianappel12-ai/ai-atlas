@@ -1,0 +1,29 @@
+{
+  "id": "nrg",
+  "name": "NRG Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NYSE:NRG",
+  "cik": "0001013871",
+  "country": "US",
+  "hq_state": "TX",
+  "website": "https://www.nrg.com",
+  "aliases": [
+    "NRG Energy, Inc."
+  ],
+  "revenue": {
+    "amount_usd": 30347000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000004/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-24",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 30,347,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001013871-26-000004)."
+    }
+  },
+  "description": "Power generator and retail electricity provider in Texas and the Northeast.",
+  "explain": "NRG doubled its power plant fleet to about 25 GW by buying LS Power's gas plants, betting on rising electricity demand from data centers."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "qualcomm-weka-series-e-2024",
+  "from": "qualcomm",
+  "to": "weka",
+  "type": "investment",
+  "title": "Qualcomm Ventures joins WEKA's $140M Series E",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-05-15",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+      "publisher": "WEKA",
+      "date": "2024-05-15",
+      "kind": "press_release",
+      "quote": "Generation Investment Management, NVIDIA, Atreides Management, 10D, Hitachi Ventures, Ibex Investors, Key1 Capital, Lumir Ventures, MoreTech Ventures, and Qualcomm Ventures joined Valor in contributing to the round."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Qualcomm's venture arm took part in WEKA's $140 million round at a $1.6 billion valuation. WEKA sells data storage software used in AI clusters; Qualcomm's amount was not disclosed."
+}

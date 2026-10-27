@@ -1,0 +1,32 @@
+{
+  "id": "meta-google-cloud-2025",
+  "from": "meta",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Meta signs six-year Google Cloud deal reported at more than $10B",
+  "amount_usd": 10000000000,
+  "amount_kind": "estimated",
+  "date": "2025-08-21",
+  "length_years": 6,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.ksl.com/article/51364070/meta-signs-over-10-billion-cloud-deal-with-google-source-says",
+      "publisher": "KSL.com (Reuters)",
+      "date": "2025-08-24",
+      "kind": "news",
+      "quote": "WASHINGTON — Google has struck a six-year cloud computing deal with Meta Platforms worth more than $10 billion, a source familiar with the matter told Reuters on Thursday, the search giant's second big agreement recently after one with OpenAI."
+    },
+    {
+      "url": "https://www.freemalaysiatoday.com/category/business/2025/08/22/meta-makes-huge-cloud-computing-deal-with-google",
+      "publisher": "Free Malaysia Today (AFP)",
+      "date": "2025-08-22",
+      "kind": "news",
+      "quote": "Meta has made a cloud computing deal with Google worth more than US$10 billion over the course of six years, a source close to the transaction told AFP Thursday."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta agreed to rent servers, storage and networking from Google Cloud for six years, a deal sources put at more than $10 billion. It was Meta's first big cloud deal with Google; neither company published the terms."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "vultr",
+  "name": "Vultr",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "FL",
+  "website": "https://www.vultr.com",
+  "aliases": [
+    "The Constant Company"
+  ],
+  "valuation": {
+    "amount_usd": 3500000000,
+    "period": "Equity round",
+    "as_of": "2024-12-18",
+    "estimate": false,
+    "source": {
+      "url": "https://hklaw.com/en/news/pressreleases/2025/01/holland-knight-advises-vultr-on-equity-financing-at",
+      "publisher": "Holland & Knight",
+      "date": "2025-01-15",
+      "kind": "other",
+      "quote": "The transaction, which was announced on December 18, values Vultr at $3.5 billion."
+    }
+  },
+  "description": "Cloud computing provider that added AMD and Nvidia GPU clusters for AI workloads.",
+  "explain": "Vultr is one of the few clouds betting heavily on AMD GPUs, and AMD's venture arm co-led its first big funding round."
+}

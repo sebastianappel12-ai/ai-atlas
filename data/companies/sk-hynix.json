@@ -1,0 +1,27 @@
+{
+  "id": "sk-hynix",
+  "name": "SK hynix",
+  "sector": "memory",
+  "public": true,
+  "ticker": "KRX:000660",
+  "country": "KR",
+  "website": "https://www.skhynix.com",
+  "aliases": [
+    "SK Hynix Inc"
+  ],
+  "revenue": {
+    "amount_usd": 68400000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://news.skhynix.com/en/sk-hynix-announces-fy25-financial-results/",
+      "publisher": "SK hynix Newsroom",
+      "date": "2026-01-28",
+      "kind": "press_release",
+      "quote": "announced today that it has achieved record financial results in 2025 – 97.1467 trillion won in revenue, 47.2063 trillion won in operating profit (with an operating margin of 49%), and 42.9479 trillion won in net profit (with a net margin of 44%)."
+    }
+  },
+  "description": "South Korean memory maker and the largest supplier of high-bandwidth memory (HBM) for AI chips.",
+  "explain": "SK hynix makes most of the HBM memory that sits next to Nvidia's AI chips, which made it one of the biggest winners of the AI build-out. Revenue converted from 97.15 trillion won at roughly 1,420 won per dollar (2025 average)."
+}

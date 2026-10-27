@@ -1,0 +1,24 @@
+{
+  "id": "intel-sambanova-series-e-2026",
+  "from": "intel",
+  "to": "sambanova",
+  "type": "investment",
+  "title": "Intel reportedly to invest about $100M in SambaNova",
+  "amount_usd": 100000000,
+  "amount_kind": "estimated",
+  "date": "2026-02-06",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://whbl.com/2026/02/06/vista-equity-partners-and-intel-to-lead-investment-in-ai-chip-startup-sambanova-sources-say/",
+      "publisher": "Reuters via WHBL",
+      "date": "2026-02-06",
+      "kind": "news",
+      "quote": "Other investors in the oversubscribed round include existing backer Intel Corp, which currently plans to invest about $100 million, with potential commitments of up to $150 million, two of the sources said."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "After talks for Intel to buy SambaNova for about $1.6B stalled, Intel instead planned to put about $100M (possibly up to $150M) into SambaNova's new funding round, according to Reuters sources. Later reports put Intel's actual February investment at a smaller $35M, so the amount is uncertain."
+}

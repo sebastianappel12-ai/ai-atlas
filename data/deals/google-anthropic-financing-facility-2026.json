@@ -1,0 +1,31 @@
+{
+  "id": "google-anthropic-financing-facility-2026",
+  "from": "google",
+  "to": "anthropic",
+  "type": "financing",
+  "title": "Google offers Anthropic up to $30B more in funding",
+  "amount_usd": 30000000000,
+  "amount_kind": "up_to",
+  "date": "2026-04-24",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "In May 2026 (unaudited), Google invested $10.0 billion in the Company’s Series H redeemable convertible preferred stock financing, which reduced the amount available for issuance under the Google 2026 NPA to $20.0 billion."
+    },
+    {
+      "url": "https://www.businesstoday.in/amp/tech-today/news/story/google-to-invest-10-billion-in-anthropic-may-add-30-billion-more-527408-2026-04-24",
+      "publisher": "Business Today",
+      "date": "2026-04-24",
+      "kind": "news",
+      "quote": "The Alphabet Inc.-owned company will invest another $30 billion if Anthropic hits performance targets"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "On top of its $10 billion share purchase, Google agreed to provide up to $30 billion more in debt or equity through 2030, tied to Anthropic hitting compute and revenue targets. Google used $10 billion of it to join Anthropic's Series H round, leaving $20 billion."
+}

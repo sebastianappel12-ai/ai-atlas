@@ -1,0 +1,24 @@
+{
+  "id": "switch-oklo-master-power-agreement-2024",
+  "from": "switch",
+  "to": "oklo",
+  "type": "power_deal",
+  "title": "Switch signs 12 GW Master Power Agreement with Oklo",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-12-18",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm",
+      "publisher": "Oklo Inc. Form 10-K (SEC)",
+      "date": "2025-03-24",
+      "kind": "sec_filing",
+      "quote": "In December 2024, we signed a 12 gigawatt (GW) Master Power Agreement with Switch data centers, one of the largest corporate power purchase agreements in history."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Data center operator Switch signed a framework to buy up to 12 GW from Oklo's planned Aurora small fast reactors through 2044, one of the largest corporate power deals announced. No price was disclosed and the reactors are not yet built. Plants: future Oklo Aurora powerhouses (sites not named)."
+}

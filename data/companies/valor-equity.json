@@ -1,0 +1,15 @@
+{
+  "id": "valor-equity",
+  "name": "Valor Equity Partners",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "IL",
+  "website": "https://www.valorep.com",
+  "aliases": [
+    "Valor",
+    "Valor Equity Partners"
+  ],
+  "description": "Chicago private equity firm led by Antonio Gracias, a long-time investor in Elon Musk's companies.",
+  "explain": "Valor invested in xAI's Series B, C and E rounds, which together raised $32 billion to pay for xAI's supercomputers."
+}

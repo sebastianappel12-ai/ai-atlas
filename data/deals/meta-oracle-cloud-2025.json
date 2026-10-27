@@ -1,0 +1,31 @@
+{
+  "id": "meta-oracle-cloud-2025",
+  "from": "meta",
+  "to": "oracle",
+  "type": "cloud_contract",
+  "title": "Meta signs Oracle cloud deal, reported at about $20B",
+  "amount_usd": 20000000000,
+  "amount_kind": "estimated",
+  "date": "2025-12-10",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm",
+      "publisher": "Oracle Form 8-K Exhibit 99.1 (SEC EDGAR)",
+      "date": "2025-12-10",
+      "kind": "sec_filing",
+      "quote": "“Remaining Performance Obligations (RPO) increased by $68 billion in Q2—up 15% sequentially to $523 billion—highlighted by new commitments from Meta, NVIDIA, and others,” said Oracle Principal Financial Officer, Doug Kehring."
+    },
+    {
+      "url": "https://news.tuoitre.vn/oracle-eyes-20-billion-ai-cloud-computing-deal-with-meta-source-says-103250920111606517.htm",
+      "publisher": "Tuoi Tre News (Reuters)",
+      "date": "2025-09-20",
+      "kind": "news",
+      "quote": "Oracle would provide Meta with computing capacity for training and deploying AI models, in addition to Meta's existing cloud computing providers, the person said."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta is renting AI computing from Oracle. Oracle confirmed a new Meta commitment in its December 2025 earnings release but gave no amount; in September 2025 Reuters and Bloomberg reported the two were negotiating a deal of about $20 billion, so the figure is an estimate."
+}

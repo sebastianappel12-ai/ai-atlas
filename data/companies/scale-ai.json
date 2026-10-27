@@ -1,0 +1,41 @@
+{
+  "id": "scale-ai",
+  "name": "Scale AI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://scale.com",
+  "aliases": [
+    "Scale AI, Inc.",
+    "Scale"
+  ],
+  "revenue": {
+    "amount_usd": 870000000,
+    "period": "2024",
+    "as_of": "2024-12-31",
+    "estimate": true,
+    "source": {
+      "url": "https://www.verdict.co.uk/meta-invest-10bn-scale-ai/",
+      "publisher": "Verdict",
+      "date": "2025-06-09",
+      "kind": "news",
+      "quote": "Scale AI, co-founded by CEO Alexandr Wang in 2016, reported $870m in revenue last year and anticipates sales to exceed $2bn in 2025."
+    }
+  },
+  "valuation": {
+    "amount_usd": 29000000000,
+    "period": "Meta investment (2025)",
+    "as_of": "2025-06-12",
+    "estimate": true,
+    "source": {
+      "url": "https://www.nst.com.my/amp/business/corporate/2025/06/1229902/meta-finalises-investment-scale-ai-valuing-startup-us29bil",
+      "publisher": "New Straits Times (Reuters)",
+      "date": "2025-06-13",
+      "kind": "news",
+      "quote": "KUALA LUMPUR: Meta Platforms has finalised an investment in Scale AI that values the startup at over US$29 billion, Scale AI said on Thursday."
+    }
+  },
+  "description": "Provides labeled training data and AI evaluation services to AI labs, companies and governments.",
+  "explain": "Scale AI supplies the human-labeled data that labs use to train models; Meta owns 49% of it after a $14.3 billion investment in 2025."
+}

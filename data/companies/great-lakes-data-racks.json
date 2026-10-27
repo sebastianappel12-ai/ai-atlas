@@ -1,0 +1,13 @@
+{
+  "id": "great-lakes-data-racks",
+  "name": "Great Lakes Data Racks & Cabinets",
+  "sector": "networking",
+  "public": false,
+  "country": "US",
+  "hq_state": "PA",
+  "aliases": [
+    "Great Lakes"
+  ],
+  "description": "Maker of data center racks and cabinets; acquired by Vertiv in 2025.",
+  "explain": "Great Lakes builds the racks that hold servers, including dense AI hardware. Vertiv paid $200 million for it."
+}

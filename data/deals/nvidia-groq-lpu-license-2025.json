@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-groq-lpu-license-2025",
+  "from": "nvidia",
+  "to": "groq",
+  "type": "licensing",
+  "title": "Nvidia pays $17B to license Groq's inference chip tech and hire its team",
+  "amount_usd": 17000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-12-24",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "publisher": "NVIDIA (Form 10-K)",
+      "date": "2026-02-25",
+      "kind": "sec_filing",
+      "quote": "Total consideration consists of $13.0 billion paid at closing and $4 billion, inclusive of imputed interest, payable within one year included in Accrued and Other Current Liabilities on our Consolidated Balance Sheets."
+    },
+    {
+      "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+      "publisher": "Groq Newsroom",
+      "date": "2025-12-24",
+      "kind": "press_release",
+      "quote": "Today, Groq announced that it has entered into a non-exclusive licensing agreement with Nvidia for Groq’s inference technology."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia paid Groq for a non-exclusive license to its fast AI inference chip design and hired Groq's founder and other staff, without buying the company. Nvidia's annual report puts the total at $17B ($13B at closing plus $4B within a year); early news reports said about $20B."
+}

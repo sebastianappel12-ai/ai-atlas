@@ -1,0 +1,24 @@
+{
+  "id": "anthropic-amazon-aws-training-2024",
+  "from": "anthropic",
+  "to": "amazon",
+  "type": "cloud_contract",
+  "title": "Anthropic makes AWS its primary training partner, using Trainium chips",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-11-22",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai",
+      "publisher": "Amazon News",
+      "date": "2024-11-22",
+      "kind": "press_release",
+      "quote": "Anthropic is now naming AWS its primary training partner, in addition to continuing to be its primary cloud provider, and will use AWS Trainium and Inferentia chips to train and deploy its future foundation models."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "When Amazon added $4 billion to its Anthropic investment, Anthropic agreed to train its future models mainly on Amazon's cloud and Trainium chips, the start of the huge Project Rainier cluster. No spending amount was disclosed."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sk-hynix-asml-euv-2021",
+  "from": "sk-hynix",
+  "to": "asml",
+  "type": "supply",
+  "title": "SK hynix signs ~$4.3B, five-year EUV tool deal with ASML",
+  "amount_usd": 4300000000,
+  "amount_kind": "confirmed",
+  "date": "2021-02-24",
+  "length_years": 5,
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://ca.news.yahoo.com/sk-hynix-signs-five-deal-091243779.html",
+      "publisher": "Reuters via Yahoo News",
+      "date": "2021-02-24",
+      "kind": "news",
+      "quote": "SK Hynix, world's second-largest memory chip maker, said on Wednesday it had agreed a five-year procurement contract worth 4.8 trillion won ($4.34 billion) with ASML Holding N.V. to secure extreme ultraviolet (EUV) scanners used in manufacturing chips."
+    },
+    {
+      "url": "https://thelec.net/news/articleView.html?idxno=2422",
+      "publisher": "TheElec",
+      "date": "2021-02-24",
+      "kind": "news",
+      "quote": "SK Hynix said on Wednesday that it will be spending 4.75 trillion won (around US$4.3 billion) up to December 1, 2025 to procure extreme ultraviolet (EUV) lithography equipment."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SK hynix agreed to buy EUV lithography machines, the most advanced chipmaking tools, which only ASML makes, for about 4.75 trillion won (about $4.3 billion) over five years through 2025, to produce advanced DRAM memory. The figure comes from SK hynix's Korean regulatory filing as reported by news outlets."
+}

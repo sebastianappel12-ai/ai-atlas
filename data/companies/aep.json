@@ -1,0 +1,30 @@
+{
+  "id": "aep",
+  "name": "American Electric Power",
+  "sector": "power",
+  "public": true,
+  "ticker": "NASDAQ:AEP",
+  "cik": "0000004904",
+  "country": "US",
+  "hq_state": "OH",
+  "website": "https://www.aep.com",
+  "aliases": [
+    "American Electric Power Company",
+    "AEP Ohio"
+  ],
+  "revenue": {
+    "amount_usd": 21702000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-12",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 21,702,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0000004904-26-000013)."
+    }
+  },
+  "description": "One of the largest U.S. utilities, with transmission and distribution across 11 states including Ohio and Texas.",
+  "explain": "AEP serves many new data centers in Ohio and Texas and has committed billions to buy Bloom Energy fuel cells to power data centers while its grid is expanded."
+}

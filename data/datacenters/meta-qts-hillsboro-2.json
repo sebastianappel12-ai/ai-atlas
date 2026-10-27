@@ -1,0 +1,61 @@
+{
+  "id": "meta-qts-hillsboro-2",
+  "name": "Meta-QTS Hillsboro 2",
+  "owner": "meta",
+  "tenants": [],
+  "location": {
+    "lat": 45.5589,
+    "lon": -122.9296,
+    "city": "Hillsboro"
+  },
+  "state": "OR",
+  "power_mw_now": 180,
+  "power_mw_planned": 243,
+  "status": "operating",
+  "est_chips": {
+    "count": 123839,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 6818760000,
+  "grid_region": "PGE",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2021-04-01",
+      "event": "First signs of site land clearing appear on satellite imagery."
+    },
+    {
+      "date": "2023-04-29",
+      "event": "Satellite imagery shows Building 3 and 4 cooling start to go on."
+    },
+    {
+      "date": "2023-08-02",
+      "event": "Satellite imagery shows Building 2 and 3 cooling nearing completion and Building 4 cooling install continues. We believe Building 1 is operational now due to the lack of construction equipment on or immediately around the building."
+    },
+    {
+      "date": "2024-11-08",
+      "event": "We believe Buildings 2, 3, and 4 are operational due to the absence of construction vehicles and completed parking lots/concrete around the facilities. There is also a vehicle presence in the parking lot similar to the level seen during nor"
+    },
+    {
+      "date": "2025-04-14",
+      "event": "All four buildings are operational"
+    },
+    {
+      "date": "2026-04-17",
+      "event": "All four buildings are operational."
+    }
+  ],
+  "epoch_id": "Meta-QTS Hillsboro 2",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Meta-QTS Hillsboro 2: current power 180 MW; owner Meta."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Meta-QTS Hillsboro 2 is an operating AI data center in Hillsboro, OR, owned by meta. Epoch AI estimates it draws 180 MW today and 243 MW when finished."
+}

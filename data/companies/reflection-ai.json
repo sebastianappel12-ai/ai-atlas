@@ -1,0 +1,27 @@
+{
+  "id": "reflection-ai",
+  "name": "Reflection AI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://reflection.ai",
+  "aliases": [
+    "Reflection"
+  ],
+  "valuation": {
+    "amount_usd": 8000000000,
+    "period": "Series B (2025)",
+    "as_of": "2025-10-09",
+    "estimate": true,
+    "source": {
+      "url": "https://pulse2.com/reflection-ai-secures-2-billion-series-b-for-building-autonomous-coding-agents-and-frontier-models",
+      "publisher": "Pulse 2.0",
+      "date": "2025-10-10",
+      "kind": "news",
+      "quote": "This investment has propelled the company’s valuation to a striking $8 billion."
+    }
+  },
+  "description": "AI lab founded by former DeepMind researchers, building open-weight frontier models.",
+  "explain": "Reflection AI is backed heavily by Nvidia, which led its $2 billion round; that money mostly buys computing to train its models."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "anthropic-google-tpu-expansion-2026",
+  "from": "anthropic",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Anthropic signs multi-gigawatt Google TPU deal, reportedly worth $200B over five years",
+  "amount_usd": 200000000000,
+  "amount_kind": "estimated",
+  "date": "2026-04-06",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "publisher": "Anthropic",
+      "date": "2026-04-06",
+      "kind": "press_release",
+      "quote": "We have signed a new agreement with Google and Broadcom for multiple gigawatts of next-generation TPU capacity that we expect to come online starting in 2027."
+    },
+    {
+      "url": "https://idahobusinessreview.com/2026/05/06/anthropic-commits-200-billion-google-cloud-chip-capacity/",
+      "publisher": "Idaho Business Review (Reuters)",
+      "date": "2026-05-06",
+      "kind": "news",
+      "quote": "Anthropic has committed to spend $200 billion with Google Cloud over five years as part of a recent agreement, The Information reported on Tuesday, citing a person with knowledge of the matter."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic agreed to rent several gigawatts of Google's TPU AI chips (designed with Broadcom), coming online from 2027. Anthropic gave no price; The Information reported Anthropic committed to spend $200 billion with Google Cloud over five years, which would be a large share of Google Cloud's backlog."
+}

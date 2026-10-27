@@ -1,0 +1,65 @@
+{
+  "id": "amazon-madison-mega-site",
+  "name": "Amazon Madison Mega Site",
+  "owner": "amazon",
+  "tenants": [],
+  "location": {
+    "lat": 32.57,
+    "lon": -90.07,
+    "city": "Canton"
+  },
+  "state": "MS",
+  "power_mw_now": 284,
+  "power_mw_planned": 819,
+  "status": "operating",
+  "est_chips": {
+    "count": 514436,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 25873406000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2023-10-02",
+      "event": "Land clearing begins"
+    },
+    {
+      "date": "2025-03-11",
+      "event": "Generators and chillers still being installed on buildings 1-5."
+    },
+    {
+      "date": "2025-06-23",
+      "event": "Buildings 1-5 are operational, based on roofs being completed 5 months ago and generators being installed by 2025-04-10."
+    },
+    {
+      "date": "2025-10-04",
+      "event": "Confirmation that five buildings are fully equipped with cooling and backup generators."
+    },
+    {
+      "date": "2026-06-04",
+      "event": "Buildings 6 and 7 roof completed. Building 8 roof nearly completed. Building 9 roof half way up. No new operational buildings."
+    },
+    {
+      "date": "2027-03-01",
+      "event": "Buildings 6 and 7 operational, estimated from roofs having been completed 9 months ago (similar timeline to AWS buildings at New Carlisle in 2025)."
+    },
+    {
+      "date": "2028-03-15",
+      "event": "Buildings 8-12 are operational. In June of 2026 only a faint outline of buildings 10,11 and 12 is visible, estimating construction completion to be the end of 2027, alligning with [expected completion by 2027](https://www.datacenterdynamics"
+    }
+  ],
+  "epoch_id": "Amazon Madison Mega Site",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Amazon Madison Mega Site: current power 284 MW; owner Amazon."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Amazon Madison Mega Site is an operating AI data center in Canton, MS, owned by amazon. Epoch AI estimates it draws 284 MW today and 819 MW when finished."
+}

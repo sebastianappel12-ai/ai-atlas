@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-nokia-investment-2025",
+  "from": "nvidia",
+  "to": "nokia",
+  "type": "investment",
+  "title": "Nvidia invests $1B in Nokia",
+  "amount_usd": 1000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-10-28",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000110465925103038/tm2529638d1_6k.htm",
+      "publisher": "Nokia (6-K)",
+      "date": "2025-10-28",
+      "kind": "sec_filing",
+      "quote": "NVIDIA to invest USD 1.0 billion (EUR 0.86 billion) in new Nokia shares at a purchase price of USD 6.01 (EUR 5.16) per share"
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000110465926007608/tm264427d1_6k.htm",
+      "publisher": "Nokia (6-K)",
+      "date": "2026-01-29",
+      "kind": "sec_filing",
+      "quote": "The share issue was completed on 13 November 2025 with NVIDIA becoming an approximately 2.90% shareholder of Nokia."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia bought $1 billion of newly issued Nokia shares, about 2.9% of the company, alongside a partnership on AI-powered mobile networks and data center networking. Nokia said it would use the money to push into networking for AI."
+}

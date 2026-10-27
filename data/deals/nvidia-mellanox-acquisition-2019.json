@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-mellanox-acquisition-2019",
+  "from": "nvidia",
+  "to": "mellanox",
+  "type": "acquisition",
+  "title": "Nvidia buys Mellanox for $6.9B",
+  "amount_usd": 6900000000,
+  "amount_kind": "confirmed",
+  "date": "2019-03-11",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000031/ex991jointpr.htm",
+      "publisher": "NVIDIA (8-K Exhibit 99.1)",
+      "date": "2019-03-11",
+      "kind": "sec_filing",
+      "quote": "Pursuant to the agreement, NVIDIA will acquire all of the issued and outstanding common shares of Mellanox for $125 per share in cash, representing a total enterprise value of approximately $6.9 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia bought Israeli networking-chip maker Mellanox for about $6.9B in cash, closing in April 2020. Mellanox's high-speed links became the networking backbone of Nvidia's AI data-center systems."
+}

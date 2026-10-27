@@ -1,0 +1,24 @@
+{
+  "id": "greenoaks-anthropic-series-h-2026",
+  "from": "greenoaks",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Greenoaks among leads of Anthropic's Series H",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-05-28",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/series-h",
+      "publisher": "Anthropic News",
+      "date": "2026-05-28",
+      "kind": "press_release",
+      "quote": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, valuing the company at $965 billion post-money."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Greenoaks was one of four leads of Anthropic's $65 billion Series H (counted in full on the Sequoia record). Its own amount was not disclosed."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nvidia-micron-hbm3e-h200-2024",
+  "from": "nvidia",
+  "to": "micron",
+  "type": "supply",
+  "title": "Micron HBM3E memory goes into Nvidia's H200 GPUs",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-02-26",
+  "status": "completed",
+  "confidence": "medium",
+  "sources": [
+    {
+      "url": "https://www.edge-ai-vision.com/2024/02/micron-commences-volume-production-of-industry-leading-hbm3e-solution-to-accelerate-the-growth-of-ai/",
+      "publisher": "Edge AI and Vision Alliance (Micron release)",
+      "date": "2024-02-26",
+      "kind": "news",
+      "quote": "Micron’s 24GB 8H HBM3E will be part of NVIDIA H200 Tensor Core GPUs, which will begin shipping in the second calendar quarter of 2024."
+    },
+    {
+      "url": "https://www.micron.com/products/memory/hbm/hbm3e",
+      "publisher": "Micron Technology",
+      "date": "2026-10-26",
+      "kind": "other",
+      "quote": "Micron’s 24GB 8-high HBM3E is shipping with NVIDIA H200 Tensor Core GPUs and production-capable 36GB 12-high HBM3E is also available."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia buys high-bandwidth memory (HBM, the fast memory stacked next to the GPU) from Micron for its H200 AI chips. Micron began volume production for Nvidia in early 2024; the value was not disclosed."
+}

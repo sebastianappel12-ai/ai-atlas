@@ -1,0 +1,31 @@
+{
+  "id": "amazon-talen-cumulus-campus-2024",
+  "from": "amazon",
+  "to": "talen-energy",
+  "type": "data_center",
+  "title": "AWS buys Talen's Cumulus data center campus next to Susquehanna for $650M",
+  "amount_usd": 650000000,
+  "amount_kind": "confirmed",
+  "date": "2024-03-04",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828024036935/tln-20240630.htm",
+      "publisher": "Talen Energy Form 10-Q (SEC)",
+      "date": "2024-08-13",
+      "kind": "sec_filing",
+      "quote": "In March 2024, AWS purchased substantially all the assets of Cumulus Data and certain other assets for gross proceeds of $650 million."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828024038388/a20240826pressreleasecumul.htm",
+      "publisher": "Talen Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2024-08-26",
+      "kind": "sec_filing",
+      "quote": "Cumulus Digital (a Talen subsidiary) has now received all funds previously held in escrow under the terms of the transaction."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Amazon Web Services paid Talen $650 million for the Cumulus data center campus (land, power infrastructure and buildings) next to the Susquehanna nuclear plant in Pennsylvania; $300M was held in escrow until development milestones were met in August 2024. Plant next door: Susquehanna Steam Electric Station."
+}

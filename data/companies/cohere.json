@@ -1,0 +1,13 @@
+{
+  "id": "cohere",
+  "name": "Cohere",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "CA",
+  "website": "https://cohere.com",
+  "aliases": [
+    "Cohere Inc."
+  ],
+  "description": "Toronto-based maker of AI models and tools for businesses and governments.",
+  "explain": "Cohere sells AI to enterprises rather than consumers and is one of Canada's main AI labs; chip makers Nvidia and AMD are among its backers."
+}

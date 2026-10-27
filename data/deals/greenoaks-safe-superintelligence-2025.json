@@ -1,0 +1,24 @@
+{
+  "id": "greenoaks-safe-superintelligence-2025",
+  "from": "greenoaks",
+  "to": "safe-superintelligence",
+  "type": "investment",
+  "title": "Greenoaks leads SSI's $2B round, reportedly with $500M",
+  "amount_usd": 500000000,
+  "amount_kind": "estimated",
+  "date": "2025-04-12",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.maginative.com/article/sutskevers-safe-superintelligence-raises-another-2b-at-32b-valuation/",
+      "publisher": "Maginative",
+      "date": "2025-04-12",
+      "kind": "news",
+      "quote": "Greenoaks led the latest round, committing $500 million, according to sources who spoke to the Financial Times."
+    }
+  ],
+  "confidence": "low",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Greenoaks led a $2 billion round that valued Safe Superintelligence at $32 billion, reportedly putting in $500 million itself. Figures come from press reports, not the companies."
+}

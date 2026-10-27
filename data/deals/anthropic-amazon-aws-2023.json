@@ -1,0 +1,24 @@
+{
+  "id": "anthropic-amazon-aws-2023",
+  "from": "anthropic",
+  "to": "amazon",
+  "type": "cloud_contract",
+  "title": "Anthropic names AWS its primary cloud provider",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-09-25",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://press.aboutamazon.com/2023/9/amazon-and-anthropic-announce-strategic-collaboration-to-advance-generative-ai",
+      "publisher": "Amazon Press Center",
+      "date": "2023-09-25",
+      "kind": "press_release",
+      "quote": "AWS will become Anthropic’s primary cloud provider for mission critical workloads, including safety research and future foundation model development."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Alongside Amazon's first investment in Anthropic, Anthropic agreed to run most of its work on Amazon's cloud and use Amazon's Trainium and Inferentia chips. The cloud spending amount was not disclosed."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "xcel-energy",
+  "name": "Xcel Energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NASDAQ:XEL",
+  "cik": "0000072903",
+  "country": "US",
+  "hq_state": "MN",
+  "website": "https://www.xcelenergy.com",
+  "aliases": [
+    "Xcel Energy Inc",
+    "Northern States Power"
+  ],
+  "revenue": {
+    "amount_usd": 14669000000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000009/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-25",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RegulatedAndUnregulatedOperatingRevenue = 14,669,000,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0000072903-26-000009)."
+    }
+  },
+  "description": "Utility serving Minnesota, Colorado, Texas, New Mexico and other states.",
+  "explain": "Xcel will power Google's new Minnesota data center, with Google paying for 1.9 GW of new wind, solar and storage on Xcel's grid."
+}

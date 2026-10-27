@@ -1,0 +1,31 @@
+{
+  "id": "microsoft-openai-investment-2023",
+  "from": "microsoft",
+  "to": "openai",
+  "type": "investment",
+  "title": "Microsoft deepens OpenAI investment in multiyear deal",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-01-23",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/",
+      "publisher": "Microsoft Official Blog",
+      "date": "2023-01-23",
+      "kind": "press_release",
+      "quote": "This agreement follows our previous investments in 2019 and 2021."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm",
+      "publisher": "Microsoft 10-Q (SEC)",
+      "date": "2025-10-29",
+      "kind": "sec_filing",
+      "quote": "We have an investment in OpenAI Global, LLC (“OpenAI”) and have made total funding commitments of $13 billion, of which $11.6 billion has been funded as of September 30, 2025."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "In January 2023 Microsoft announced a new multiyear, multibillion-dollar investment in OpenAI (widely reported at about $10 billion, but Microsoft did not give a number). Counting 2019, 2021 and 2023, Microsoft says it committed $13 billion in total, of which $11.6 billion had been paid by September 2025."
+}

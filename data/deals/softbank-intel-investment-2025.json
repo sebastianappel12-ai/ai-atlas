@@ -1,0 +1,31 @@
+{
+  "id": "softbank-intel-investment-2025",
+  "from": "softbank",
+  "to": "intel",
+  "type": "investment",
+  "title": "SoftBank buys $2B of Intel stock",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2025-08-18",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://group.softbank/en/news/press/20250819",
+      "publisher": "SoftBank Group",
+      "date": "2025-08-19",
+      "kind": "press_release",
+      "quote": "SoftBank Group Corp. (TOKYO: 9984, “SoftBank”) and Intel Corporation (Nasdaq: INTC) today announced their signing of a definitive securities purchase agreement, under which SoftBank will make a $2 billion investment in Intel common stock."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm",
+      "publisher": "Intel Form 10-Q (SEC EDGAR)",
+      "date": "2025-11-06",
+      "kind": "sec_filing",
+      "quote": "On August 18, 2025, we entered into an agreement to issue and sell 87 million shares of our common stock to SoftBank Group at $23.00 per share, representing an aggregate cash purchase price of $2.0 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "SoftBank bought 87 million new Intel shares at $23 each, giving Intel $2 billion in cash to help fund its chip factories. The sale closed in September 2025."
+}

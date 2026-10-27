@@ -1,0 +1,31 @@
+{
+  "id": "google-anthropic-investment-2026",
+  "from": "google",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Google invests $10B in Anthropic",
+  "amount_usd": 10000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-04-24",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "In March 2026, the Company entered into a financing arrangement, including a note purchase agreement (“Google 2026 NPA”) with Google under which Google purchased 38.6 million shares of the Company’s Series G-2 non-voting redeemable convertible preferred stock for approximately $10.0"
+    },
+    {
+      "url": "https://www.businesstoday.in/amp/tech-today/news/story/google-to-invest-10-billion-in-anthropic-may-add-30-billion-more-527408-2026-04-24",
+      "publisher": "Business Today",
+      "date": "2026-04-24",
+      "kind": "news",
+      "quote": "Alphabet-owned Google will invest $10 billion in artificial intelligence firm Anthropic, with a further $30 billion tied to performance targets, Bloomberg reported, highlighting an expanding partnership between the two companies despite intensifying competition in AI."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google bought about $10 billion of Anthropic shares in 2026 (the agreement was signed in March and made public on April 24). Google also promised up to $30 billion more if Anthropic hits targets (a separate record)."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "xai",
+  "name": "xAI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://x.ai",
+  "aliases": [
+    "X.AI Holdings Corp.",
+    "X.AI Corp.",
+    "SpaceXAI"
+  ],
+  "valuation": {
+    "amount_usd": 250000000000,
+    "period": "Value in SpaceX acquisition",
+    "as_of": "2026-02-02",
+    "estimate": true,
+    "source": {
+      "url": "https://www.nst.com.my/amp/business/corporate/2026/02/1370202/spacex-acquires-xai-musk-moves-unite-ai-space-ambitions",
+      "publisher": "New Straits Times (Reuters)",
+      "date": "2026-02-03",
+      "kind": "news",
+      "quote": "The transaction values SpaceX at US$1 trillion, and xAI at US$250 billion, according to a person familiar with the matter."
+    }
+  },
+  "description": "Elon Musk's AI company, maker of the Grok models and owner of X; a wholly owned subsidiary of SpaceX since February 2026.",
+  "explain": "xAI builds some of the largest GPU supercomputers (Colossus) and buys huge volumes of Nvidia chips; since SpaceX bought it, its spending is funded by SpaceX."
+}

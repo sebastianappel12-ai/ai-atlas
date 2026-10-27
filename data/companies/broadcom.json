@@ -1,0 +1,30 @@
+{
+  "id": "broadcom",
+  "name": "Broadcom",
+  "sector": "chip_designer",
+  "public": true,
+  "ticker": "NASDAQ:AVGO",
+  "cik": "0001730168",
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.broadcom.com",
+  "aliases": [
+    "Broadcom Inc.",
+    "Avago"
+  ],
+  "revenue": {
+    "amount_usd": 63887000000,
+    "period": "FY2025 (ended 2025-11-02)",
+    "as_of": "2025-11-02",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2025-12-18",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 63,887,000,000 USD for 2024-11-04 to 2025-11-02 (10-K, accession 0001730168-25-000121)."
+    }
+  },
+  "description": "Designs custom AI chips (like Google's TPUs) and the networking chips that connect AI data centers.",
+  "explain": "Broadcom builds custom AI chips for big buyers that want an alternative to Nvidia, including Google, Anthropic and OpenAI, and supplies much of the networking inside AI data centers."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nokia-infinera-acquisition-2024",
+  "from": "nokia",
+  "to": "infinera",
+  "type": "acquisition",
+  "title": "Nokia buys optical networking firm Infinera for $2.3B",
+  "amount_usd": 2300000000,
+  "amount_kind": "confirmed",
+  "date": "2024-06-27",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1138639/000119312524171411/d839163dex991.htm",
+      "publisher": "Infinera (8-K Ex. 99.1)",
+      "date": "2024-06-27",
+      "kind": "sec_filing",
+      "quote": "today announced a definitive agreement under which Nokia will acquire Infinera in a transaction valuing the company at $6.65 per share or an enterprise value of US$ 2.3 billion."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000110465925038218/tm2513093d1_6k.htm",
+      "publisher": "Nokia (6-K)",
+      "date": "2025-04-24",
+      "kind": "sec_filing",
+      "quote": "Infinera acquisition completed during Q1, increasing Nokia's scale in Optical Networks and with hyperscalers."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nokia paid $6.65 a share, mostly in cash, for Infinera, a US maker of optical networking equipment that carries data between data centers. Nokia said it wanted more scale selling to hyperscalers (the giant cloud companies). The deal closed in February 2025."
+}

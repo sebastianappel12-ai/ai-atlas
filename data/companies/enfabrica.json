@@ -1,0 +1,13 @@
+{
+  "id": "enfabrica",
+  "name": "Enfabrica",
+  "sector": "chip_designer",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "aliases": [
+    "Enfabrica Corporation"
+  ],
+  "description": "Startup designing networking chips that connect very large numbers of AI processors and memory.",
+  "explain": "Nvidia reportedly paid over $900M to license Enfabrica's technology and hire its CEO and engineers in 2025."
+}

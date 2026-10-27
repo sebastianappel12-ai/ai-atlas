@@ -1,0 +1,28 @@
+{
+  "id": "celestica",
+  "name": "Celestica",
+  "sector": "networking",
+  "public": true,
+  "ticker": "NYSE:CLS",
+  "cik": "0001030894",
+  "country": "CA",
+  "website": "https://www.celestica.com",
+  "aliases": [
+    "Celestica Inc"
+  ],
+  "revenue": {
+    "amount_usd": 12390900000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1030894/000103089426000011/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-02-27",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 12,390,900,000 USD for 2025-01-01 to 2025-12-31 (10-K, accession 0001030894-26-000011)."
+    }
+  },
+  "description": "Contract manufacturer that designs and builds data center switches, servers and storage for cloud companies.",
+  "explain": "Celestica builds networking switches and AI server hardware to order for hyperscalers (the giant cloud companies), so part of their AI spending ends up as Celestica revenue."
+}

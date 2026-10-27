@@ -1,0 +1,31 @@
+{
+  "id": "eaton-boyd-thermal-acquisition-2025",
+  "from": "eaton",
+  "to": "boyd-thermal",
+  "type": "acquisition",
+  "title": "Eaton buys liquid-cooling maker Boyd Thermal for $9.5B",
+  "amount_usd": 9500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-02",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000033/etn09302025exhibit99.htm",
+      "publisher": "Eaton (8-K Ex. 99)",
+      "date": "2025-11-04",
+      "kind": "sec_filing",
+      "quote": "Under the terms of the agreement, Eaton will pay $9.5 billion for Boyd Thermal."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000010/etn03312026exhibit99.htm",
+      "publisher": "Eaton (8-K Ex. 99)",
+      "date": "2026-05-05",
+      "kind": "sec_filing",
+      "quote": "On March 12, 2026, Eaton acquired Boyd Thermal for $9.55 billion, net of cash acquired."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Power equipment maker Eaton agreed to pay $9.5 billion for Boyd Thermal, which makes liquid cooling systems that keep hot AI chips from overheating. The seller was Boyd's owner, Goldman Sachs Asset Management. The deal closed in March 2026 at $9.55 billion net of cash."
+}

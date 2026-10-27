@@ -1,0 +1,24 @@
+{
+  "id": "amd-zt-systems-acquisition-2024",
+  "from": "amd",
+  "to": "zt-systems",
+  "type": "acquisition",
+  "title": "AMD buys AI server builder ZT Systems for $4.9B",
+  "amount_usd": 4900000000,
+  "amount_kind": "confirmed",
+  "date": "2024-08-19",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312524202457/d808469dex991.htm",
+      "publisher": "AMD (8-K Ex. 99.1)",
+      "date": "2024-08-19",
+      "kind": "sec_filing",
+      "quote": "AMD has agreed to acquire ZT Systems in a cash and stock transaction valued at $4.9 billion, inclusive of a contingent payment of up to $400 million based on certain post-closing milestones."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AMD paid cash and stock for ZT Systems, a New Jersey company that designs and builds rack-scale AI servers for the biggest cloud companies, to help it sell complete AI systems against Nvidia. The $4.9 billion includes up to $400 million that depends on later milestones. The deal closed in March 2025; AMD later sold ZT's factory business to Sanmina."
+}

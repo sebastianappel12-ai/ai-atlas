@@ -1,0 +1,12 @@
+{
+  "id": "voltage-park",
+  "name": "Voltage Park",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.voltagepark.com",
+  "aliases": [],
+  "description": "Nonprofit-backed AI cloud renting Nvidia H100 GPU capacity at low cost to AI researchers and startups.",
+  "explain": "Voltage Park was funded by a philanthropic foundation to buy tens of thousands of Nvidia GPUs and rent them cheaply, adding supply outside the big clouds."
+}

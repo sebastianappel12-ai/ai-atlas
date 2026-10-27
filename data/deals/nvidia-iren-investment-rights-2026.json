@@ -1,0 +1,32 @@
+{
+  "id": "nvidia-iren-investment-rights-2026",
+  "from": "nvidia",
+  "to": "iren",
+  "type": "investment",
+  "title": "Nvidia gets right to invest up to $2.1B in IREN",
+  "amount_usd": 2100000000,
+  "amount_kind": "up_to",
+  "date": "2026-05-07",
+  "length_years": 5,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/irenreportsq3fy26results.htm",
+      "publisher": "IREN 8-K EX-99.1 (SEC)",
+      "date": "2026-05-07",
+      "kind": "sec_filing",
+      "quote": "IREN has agreed to sell investment rights to NVIDIA to purchase an aggregate of 30,000,000 ordinary shares in IREN, subject to certain adjustments in accordance with the terms of the investment rights, in a private placement for aggregate gross proceeds of approximately $2.1bn (if fully exercised and subject to any regulatory limitations)."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "publisher": "IREN 10-K (SEC)",
+      "date": "2026-08-27",
+      "kind": "sec_filing",
+      "quote": "We also granted NVIDIA the right to invest up to $2.1 billion in Ordinary shares, subject to delivery of up to 600,000 GPUs, and certain regulatory conditions."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "IREN gave Nvidia the right to buy up to 30 million IREN shares at $70 each (about $2.1 billion) over five years, tied to IREN deploying up to 600,000 Nvidia GPUs. Money only moves if Nvidia exercises the rights."
+}

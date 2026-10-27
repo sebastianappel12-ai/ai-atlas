@@ -1,0 +1,14 @@
+{
+  "id": "stack-infrastructure",
+  "name": "STACK Infrastructure",
+  "sector": "dc_builder",
+  "public": false,
+  "country": "US",
+  "hq_state": "CO",
+  "website": "https://www.stackinfra.com",
+  "aliases": [
+    "STACK"
+  ],
+  "description": "Private developer and operator of hyperscale and wholesale data center campuses worldwide.",
+  "explain": "STACK builds and leases big data center campuses to cloud providers, part of the landlord layer that AI compute depends on."
+}

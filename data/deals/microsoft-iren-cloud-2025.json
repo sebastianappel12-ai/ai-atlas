@@ -1,0 +1,25 @@
+{
+  "id": "microsoft-iren-cloud-2025",
+  "from": "microsoft",
+  "to": "iren",
+  "type": "cloud_contract",
+  "title": "Microsoft signs $9.7B AI cloud contract with IREN",
+  "amount_usd": 9700000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-03",
+  "length_years": 5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_8k.htm",
+      "publisher": "IREN 8-K (SEC)",
+      "date": "2025-11-03",
+      "kind": "sec_filing",
+      "quote": "The total contract value is approximately $9.7 billion through 2031, with 20% of the contract value for each tranche to be paid prior to the applicable delivery date and credited against the service fees due and payable after the 24th calendar month of the applicable GPU Service term on a pro rata basis."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Microsoft agreed to pay IREN about $9.7 billion over roughly five years for Nvidia GB300 GPU capacity at IREN's Childress, Texas campus, with 20% paid upfront before each tranche is delivered."
+}

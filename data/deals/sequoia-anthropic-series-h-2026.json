@@ -1,0 +1,31 @@
+{
+  "id": "sequoia-anthropic-series-h-2026",
+  "from": "sequoia",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Sequoia among leads of Anthropic's $65B Series H",
+  "amount_usd": 65000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-05-28",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.anthropic.com/news/series-h",
+      "publisher": "Anthropic News",
+      "date": "2026-05-28",
+      "kind": "press_release",
+      "quote": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital, valuing the company at $965 billion post-money."
+    },
+    {
+      "url": "https://www.anthropic.com/news/series-h",
+      "publisher": "Anthropic News",
+      "date": "2026-05-28",
+      "kind": "press_release",
+      "quote": "It also includes $15 billion of previously committed investments from hyperscalers, including $5 billion from Amazon."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Sequoia was one of four leads of a $65 billion funding round for Anthropic at a $965 billion valuation. The amount shown is the whole round, and $15 billion of it is money cloud giants such as Amazon had already committed; Sequoia's own share was not disclosed."
+}

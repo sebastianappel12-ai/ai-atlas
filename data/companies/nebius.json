@@ -1,0 +1,42 @@
+{
+  "id": "nebius",
+  "name": "Nebius",
+  "sector": "neocloud",
+  "public": true,
+  "ticker": "NASDAQ:NBIS",
+  "cik": "0001513845",
+  "country": "NL",
+  "website": "https://nebius.com",
+  "aliases": [
+    "Nebius Group N.V.",
+    "Nebius Group"
+  ],
+  "revenue": {
+    "amount_usd": 529800000,
+    "period": "FY2025 (ended 2025-12-31)",
+    "as_of": "2025-12-31",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926052948/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-04-30",
+      "kind": "sec_filing",
+      "quote": "us-gaap:Revenues = 529,800,000 USD for 2025-01-01 to 2025-12-31 (20-F, accession 0001104659-26-052948)."
+    }
+  },
+  "backlog": {
+    "amount_usd": 37490600000,
+    "period": "Q2 2026",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926094844/nbis-20260812xex99d2.htm",
+      "publisher": "Nebius 6-K (SEC)",
+      "date": "2026-08-12",
+      "kind": "sec_filing",
+      "quote": "As of June 30, 2026, the amount of unsatisfied RPO was $37,490.6, of which 36% is expected to be recognized as revenue during the 24 months ending June 30, 2028, 40% between months 25 and 48, and the remainder recognized thereafter."
+    }
+  },
+  "description": "Amsterdam-based AI cloud (spun out of Yandex) that rents Nvidia GPU capacity to Microsoft, Meta and AI developers.",
+  "explain": "Nebius turned large multi-year contracts from Microsoft and Meta into a fast-growing AI cloud, and Nvidia invested $2 billion in it. Its backlog of contracted revenue is many times its current annual sales."
+}

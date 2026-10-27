@@ -1,0 +1,14 @@
+{
+  "id": "mgx",
+  "name": "MGX",
+  "sector": "investor",
+  "public": false,
+  "country": "AE",
+  "website": "https://www.mgx.ae",
+  "aliases": [
+    "MGX Fund Management",
+    "MGX Abu Dhabi"
+  ],
+  "description": "Abu Dhabi state-backed technology investment firm focused on AI and semiconductors, founded by Mubadala and G42.",
+  "explain": "MGX puts Gulf state money into AI: it is an equity funder of Stargate, a partner in the BlackRock-led AI Infrastructure Partnership that bought Aligned Data Centers, and an investor in OpenAI, xAI and Anthropic."
+}

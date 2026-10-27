@@ -1,0 +1,24 @@
+{
+  "id": "coreweave-bloom-energy-volo-2024",
+  "from": "coreweave",
+  "to": "bloom-energy",
+  "type": "power_deal",
+  "title": "CoreWeave picks Bloom fuel cells to power an Illinois AI data center",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2024-08-08",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036108/ex991_q22024financialresul.htm",
+      "publisher": "Bloom Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2024-08-08",
+      "kind": "sec_filing",
+      "quote": "Announced agreement with CoreWeave, a leader in AI, to power the high-performance data center owned by Chirisa Technology Parks located in Volo, Illinois."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "AI cloud provider CoreWeave agreed to use Bloom Energy fuel cells for on-site power at a data center in Volo, Illinois owned by Chirisa Technology Parks. Terms were not disclosed; the date used is when Bloom reported the agreement in its Q2 2024 results, which may be later than the original announcement. Plant: Bloom fuel cells at Chirisa's Volo, Illinois site."
+}

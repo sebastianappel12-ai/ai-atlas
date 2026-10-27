@@ -1,0 +1,40 @@
+{
+  "id": "vast-data",
+  "name": "VAST Data",
+  "sector": "memory",
+  "public": false,
+  "country": "US",
+  "hq_state": "NY",
+  "website": "https://www.vastdata.com",
+  "aliases": [
+    "VAST"
+  ],
+  "revenue": {
+    "amount_usd": 500000000,
+    "period": "FY2025 exit CARR",
+    "as_of": "2026-04-22",
+    "estimate": true,
+    "source": {
+      "url": "https://www.vastdata.com/press-releases/vast-series-f-financing-at-30-billion-valuation",
+      "publisher": "VAST Data",
+      "date": "2026-04-22",
+      "kind": "press_release",
+      "quote": "High Growth, Built for Durability The Company has surpassed $4 billion in cumulative bookings and exited the previous fiscal year with more than $500 million in Committed Annual Recurring Revenue (CARR), along with positive operating margin and free cash flow."
+    }
+  },
+  "valuation": {
+    "amount_usd": 30000000000,
+    "period": "Series F (April 2026)",
+    "as_of": "2026-04-22",
+    "estimate": false,
+    "source": {
+      "url": "https://www.vastdata.com/press-releases/vast-series-f-financing-at-30-billion-valuation",
+      "publisher": "VAST Data",
+      "date": "2026-04-22",
+      "kind": "press_release",
+      "quote": "VAST Data, the AI Operating System company, today announced the closing of its Series F financing at a $30 billion valuation, representing more than a threefold increase from its $9.1 billion Series E valuation in late 2023."
+    }
+  },
+  "description": "Private maker of data storage and database software for AI clusters, used by CoreWeave and other GPU clouds.",
+  "explain": "AI training needs huge amounts of data delivered fast to GPUs. VAST sells the software layer that stores and serves that data, and GPU clouds like CoreWeave have signed billion-dollar deals for it. Revenue shown is committed annual recurring revenue, not audited revenue."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nvidia-openai-investment-2025",
+  "from": "nvidia",
+  "to": "openai",
+  "type": "investment",
+  "title": "Nvidia to invest up to $100B in OpenAI (letter of intent)",
+  "amount_usd": 100000000000,
+  "amount_kind": "up_to",
+  "date": "2025-09-22",
+  "status": "revised",
+  "superseded_by": "nvidia-openai-investment-2026",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2025-09-22",
+      "kind": "press_release",
+      "quote": "To support the partnership, NVIDIA intends to invest up to $100 billion in OpenAI progressively as each gigawatt is deployed."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "publisher": "Nvidia 10-Q (SEC)",
+      "date": "2025-11-19",
+      "kind": "sec_filing",
+      "quote": "In the third quarter of fiscal year 2026, we entered into a letter of intent with an opportunity to invest in OpenAI."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Nvidia signed a non-binding letter of intent to invest up to $100 billion in OpenAI, step by step as OpenAI deployed 10 gigawatts of Nvidia systems. It was never turned into a final contract; in February 2026 it was replaced by a $30 billion equity investment."
+}

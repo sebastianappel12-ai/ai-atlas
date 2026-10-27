@@ -1,0 +1,53 @@
+{
+  "id": "xai-qts-atlanta",
+  "name": "xAI QTS Atlanta",
+  "owner": "xai",
+  "tenants": [],
+  "location": {
+    "lat": 33.7772,
+    "lon": -84.4195,
+    "city": "Atlanta"
+  },
+  "state": "GA",
+  "power_mw_now": 17,
+  "power_mw_planned": 24,
+  "status": "operating",
+  "est_chips": {
+    "count": 11470,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 656484074,
+  "grid_region": "SOCO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-01-23",
+      "event": "X Corp's $700 million investment in AI training hardware for the Atlanta data center is approved by the Development Authority of Fulton County ([bond resolution fact sheet](https://www.developfultoncounty.com/meetings-and-minutes_239_547601"
+    },
+    {
+      "date": "2025-02-20",
+      "event": "xAI's GPU cluster in the QTS Atlanta building at 1025 Jefferson Street NW is operational around this time. This date is a tentative estimate: Business Insider reported the buildout in February 2025, so the cluster likely came online around "
+    },
+    {
+      "date": "2025-08-21",
+      "event": "No significant change to the building since the cluster became operational."
+    },
+    {
+      "date": "2026-07-10",
+      "event": "No significant change to the building since the August 2025 image."
+    }
+  ],
+  "epoch_id": "xAI QTS Atlanta",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "xAI QTS Atlanta: current power 17.32971 MW; owner SpaceXAI."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "xAI QTS Atlanta is an operating AI data center in Atlanta, GA, owned by xai. Epoch AI estimates it draws 17 MW today and 24 MW when finished."
+}

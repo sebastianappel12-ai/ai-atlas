@@ -1,0 +1,17 @@
+{
+  "id": "x-energy",
+  "name": "X-energy",
+  "sector": "power",
+  "public": true,
+  "ticker": "NASDAQ:XE",
+  "cik": "0002088896",
+  "country": "US",
+  "hq_state": "MD",
+  "website": "https://x-energy.com",
+  "aliases": [
+    "X-Energy, Inc.",
+    "X-Energy Reactor Company"
+  ],
+  "description": "Developer of the Xe-100 high-temperature gas-cooled small modular reactor and TRISO-X nuclear fuel.",
+  "explain": "Amazon is an investor and anchor customer, with options for more than 5 GW of X-energy reactors by 2039 to power its data centers."
+}

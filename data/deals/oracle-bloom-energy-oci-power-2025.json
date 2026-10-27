@@ -1,0 +1,31 @@
+{
+  "id": "oracle-bloom-energy-oci-power-2025",
+  "from": "oracle",
+  "to": "bloom-energy",
+  "type": "power_deal",
+  "title": "Oracle partners with Bloom for on-site fuel cell power at AI data centers",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-28",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm",
+      "publisher": "Bloom Energy Form 10-K (SEC)",
+      "date": "2026-02-09",
+      "kind": "sec_filing",
+      "quote": "Bloom Energy is also addressing the surging power demands of artificial intelligence and cloud data centers through strategic agreements, including a $5.0 billion financing framework with Brookfield Asset Management and collaborations with Oracle and other hyperscale operators."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025047228/be-20251028.htm",
+      "publisher": "Bloom Energy Form 8-K (SEC)",
+      "date": "2025-10-30",
+      "kind": "sec_filing",
+      "quote": "Forward-Looking Statements This Current Report on Form 8-K includes forward-looking statements, including statements regarding the anticipated benefits of the partnership between the Company and Oracle."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Bloom Energy supplies on-site fuel cell power to Oracle's AI data centers; as part of the partnership Bloom agreed on October 28, 2025 to give Oracle a warrant for about 3.5 million Bloom shares. Contract value not disclosed. Plants: Bloom fuel cell installations at Oracle (OCI) data centers."
+}

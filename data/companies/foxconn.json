@@ -1,0 +1,29 @@
+{
+  "id": "foxconn",
+  "name": "Foxconn (Hon Hai)",
+  "sector": "networking",
+  "public": true,
+  "ticker": "TWSE:2317",
+  "country": "TW",
+  "website": "https://www.foxconn.com",
+  "aliases": [
+    "Hon Hai Precision Industry",
+    "Hon Hai",
+    "Foxconn"
+  ],
+  "revenue": {
+    "amount_usd": 260000000000,
+    "period": "FY2025",
+    "as_of": "2025-12-31",
+    "estimate": true,
+    "source": {
+      "url": "https://www.foxconn.com/en-us/press-center/press-releases/latest-news/2124",
+      "publisher": "Foxconn Press Center",
+      "date": "2026-10-16",
+      "kind": "press_release",
+      "quote": "In 2025, revenue totaled TWD8.1 trillion (approx. USD260 billion)."
+    }
+  },
+  "description": "World's largest contract electronics maker, building iPhones and AI server racks for Nvidia and cloud companies.",
+  "explain": "Foxconn assembles a large share of the world's AI server racks, so it collects money from the cloud companies and Nvidia as the AI buildout grows."
+}

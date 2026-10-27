@@ -1,0 +1,57 @@
+{
+  "id": "amazon-ridgeland",
+  "name": "Amazon Ridgeland",
+  "owner": "amazon",
+  "tenants": [],
+  "location": {
+    "lat": 32.43,
+    "lon": -90.12,
+    "city": "Ridgeland"
+  },
+  "state": "MS",
+  "power_mw_now": 228,
+  "power_mw_planned": 1008,
+  "status": "operating",
+  "est_chips": {
+    "count": 788277,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 31820880000,
+  "grid_region": "MISO",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2024-02-24",
+      "event": "Land clearing begins"
+    },
+    {
+      "date": "2025-10-04",
+      "event": "Roof complete on Buildings 3"
+    },
+    {
+      "date": "2026-05-15",
+      "event": "Buildings 1-4 are operational, based on the buildings shells and backup generators and most of the landscaping looking complete. Building 5 roof is complete but still lacks cooling equipment."
+    },
+    {
+      "date": "2027-02-09",
+      "event": "Building 5 is operational (estimate)."
+    },
+    {
+      "date": "2028-09-29",
+      "event": "Buildings 6-14 are operational (estimate). Buildings 1-4 took an estimated 2.25 years on this site. We assume Buildings 6-14 get underway by July 2026, and take the same time as Buildings 1-4. This is later than the [expected completion by "
+    }
+  ],
+  "epoch_id": "Amazon Ridgeland",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "Amazon Ridgeland: current power 228 MW; owner Amazon."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "Amazon Ridgeland is an operating AI data center in Ridgeland, MS, owned by amazon. Epoch AI estimates it draws 228 MW today and 1,008 MW when finished."
+}

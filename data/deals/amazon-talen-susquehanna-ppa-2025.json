@@ -1,0 +1,26 @@
+{
+  "id": "amazon-talen-susquehanna-ppa-2025",
+  "from": "amazon",
+  "to": "talen-energy",
+  "type": "power_deal",
+  "title": "Amazon expands Talen nuclear PPA to 1,920 MW through 2042",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-11",
+  "length_years": 17,
+  "status": "in_progress",
+  "supersedes": "amazon-talen-susquehanna-ppa-2024",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025030559/a20250611pressreleasebusin.htm",
+      "publisher": "Talen Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2025-06-11",
+      "kind": "sec_filing",
+      "quote": "Under the expanded PPA, at the full contract quantity, Talen will provide Amazon with 1,920 megawatts of carbon-free nuclear power through 2042, with options to further extend its duration."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Talen will sell Amazon up to 1,920 MW of power from the Susquehanna nuclear plant in Pennsylvania through 2042, delivered over the PJM grid instead of directly behind the meter. The companies did not state a dollar value (trade press cited an ~$18B Talen investor estimate, not used here). Plant: Susquehanna Steam Electric Station, Pennsylvania."
+}

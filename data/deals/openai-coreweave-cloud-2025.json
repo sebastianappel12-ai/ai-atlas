@@ -1,0 +1,32 @@
+{
+  "id": "openai-coreweave-cloud-2025",
+  "from": "openai",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "OpenAI signs up to $11.9B cloud contract with CoreWeave",
+  "amount_usd": 11900000000,
+  "amount_kind": "up_to",
+  "date": "2025-03-10",
+  "length_years": 5.5,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
+      "publisher": "CoreWeave 10-Q (SEC)",
+      "date": "2025-05-15",
+      "kind": "sec_filing",
+      "quote": "As of March 31, 2025, subject to the satisfaction of delivery and availability of service requirements, OpenAI has committed to pay the Company up to $11.9 billion through October 2030."
+    },
+    {
+      "url": "https://www.coreweave.com/news/coreweave-announces-agreement-with-openai-to-deliver-ai-infrastructure",
+      "publisher": "CoreWeave Newsroom",
+      "date": "2025-03-10",
+      "kind": "press_release",
+      "quote": "The contract value for this strategic deal is up to $11.9 billion."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "OpenAI agreed to pay CoreWeave up to $11.9 billion through October 2030 to rent GPU computing capacity for training and running its models. It made OpenAI one of CoreWeave's biggest customers just before CoreWeave's stock market listing."
+}

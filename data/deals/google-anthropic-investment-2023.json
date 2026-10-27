@@ -1,0 +1,31 @@
+{
+  "id": "google-anthropic-investment-2023",
+  "from": "google",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Google commits up to $2B to Anthropic",
+  "amount_usd": 2000000000,
+  "amount_kind": "confirmed",
+  "date": "2023-09-01",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "In September 2023, the Company entered into a note purchase agreement (“Google 2023 NPA”) with Google LLC (“Google”), for the issuance of convertible promissory notes in an aggregate principal amount of up to $2.0 billion, issuable in three tranches."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "publisher": "Anthropic S-1 (SEC)",
+      "date": "2026-10-26",
+      "kind": "sec_filing",
+      "quote": "As of December 31, 2025, $750 million aggregate principal amount remained outstanding under the third tranche of notes issued under Google 2023 NPA."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "In September 2023 Google agreed to lend Anthropic up to $2 billion in three parts through convertible notes, which later turned into Anthropic shares. Anthropic's IPO filing gives only the month, so the date here is the first of September 2023."
+}

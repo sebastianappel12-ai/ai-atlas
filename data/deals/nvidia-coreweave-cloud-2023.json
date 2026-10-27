@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-coreweave-cloud-2023",
+  "from": "nvidia",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "Nvidia rents CoreWeave cloud capacity, ~$320M paid by 2024",
+  "amount_usd": 320000000,
+  "amount_kind": "confirmed",
+  "date": "2023-04-10",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525067651/d899798d424b4.htm",
+      "publisher": "CoreWeave IPO prospectus (SEC)",
+      "date": "2025-03-31",
+      "kind": "sec_filing",
+      "quote": "As of December 31, 2024, NVIDIA has paid us an aggregate of approximately $320 million pursuant to the Master Services Agreement and related order forms."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Under a master services agreement signed in April 2023, Nvidia rents computing capacity from CoreWeave; by the end of 2024 it had paid about $320 million. Nvidia is CoreWeave's chip supplier, shareholder and customer at the same time."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "character-ai",
+  "name": "Character.AI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://character.ai",
+  "aliases": [
+    "Character Technologies, Inc.",
+    "Character AI"
+  ],
+  "description": "Chatbot app that lets users talk with customizable AI characters.",
+  "explain": "Character.AI licensed its technology to Google for a reported $2.7 billion in 2024, when its founders returned to Google."
+}

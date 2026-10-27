@@ -1,0 +1,14 @@
+{
+  "id": "energy-capital-partners",
+  "name": "Energy Capital Partners",
+  "sector": "investor",
+  "public": false,
+  "country": "US",
+  "hq_state": "NJ",
+  "website": "https://www.ecpgp.com",
+  "aliases": [
+    "ECP"
+  ],
+  "description": "Private equity firm investing in power generation, renewables and energy infrastructure.",
+  "explain": "ECP owns and builds power generation, the electricity supply that data centers increasingly compete for."
+}

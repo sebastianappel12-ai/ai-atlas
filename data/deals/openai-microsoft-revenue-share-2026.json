@@ -1,0 +1,25 @@
+{
+  "id": "openai-microsoft-revenue-share-2026",
+  "from": "openai",
+  "to": "microsoft",
+  "type": "licensing",
+  "title": "OpenAI to keep paying Microsoft a revenue share through 2030, now capped",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-04-27",
+  "length_years": 4,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+      "publisher": "Official Microsoft Blog",
+      "date": "2026-04-27",
+      "kind": "press_release",
+      "quote": "Revenue share payments from OpenAI to Microsoft continue through 2030, independent of OpenAI’s technology progress, at the same percentage but subject to a total cap."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "In an April 2026 rewrite of their partnership, OpenAI agreed to keep sending Microsoft a share of its revenue through 2030, up to a total cap that was not disclosed. Microsoft stopped paying its own revenue share to OpenAI, and OpenAI became free to sell its products on any cloud."
+}

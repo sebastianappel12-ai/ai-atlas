@@ -1,0 +1,32 @@
+{
+  "id": "meta-arista-switch-purchases-2024",
+  "from": "meta",
+  "to": "arista",
+  "type": "supply",
+  "title": "Meta bought about $1.05B of Arista network gear in 2024",
+  "amount_usd": 1050000000,
+  "amount_kind": "estimated",
+  "date": "2024-12-31",
+  "length_years": 1,
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "publisher": "Arista Networks (10-K)",
+      "date": "2025-02-19",
+      "kind": "sec_filing",
+      "quote": "And sales to our end customer Meta Platforms represented 15%, 21% and 26% of our total revenue, respectively for the years ended 2024, 2023 and 2022."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "publisher": "Arista Networks (10-K)",
+      "date": "2025-02-19",
+      "kind": "sec_filing",
+      "quote": "Total revenue $ 7,003,146 $ 5,860,168 $ 4,381,310"
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Meta buys Arista's data center switches to connect the servers and GPU clusters that run its AI. Arista's annual report says Meta was 15% of its 2024 revenue of $7.0 billion, so roughly $1.05 billion; that dollar figure is our calculation, not a number Arista reported."
+}

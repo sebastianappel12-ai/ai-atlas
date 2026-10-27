@@ -1,0 +1,24 @@
+{
+  "id": "cisco-xai-investment-2026",
+  "from": "cisco",
+  "to": "xai",
+  "type": "investment",
+  "title": "Cisco invests in xAI's $20B Series E",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-01-06",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://x.ai/news/series-e",
+      "publisher": "xAI",
+      "date": "2026-01-06",
+      "kind": "press_release",
+      "quote": "Strategic investors in the round include NVIDIA and Cisco Investments, who continue to support xAI in rapidly scaling our compute infrastructure and buildout of the largest GPU clusters in the world."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Cisco's venture arm invested an undisclosed amount in xAI's $20 billion Series E round. Cisco sells networking gear used in AI data centers."
+}

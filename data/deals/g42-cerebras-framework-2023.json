@@ -1,0 +1,24 @@
+{
+  "id": "g42-cerebras-framework-2023",
+  "from": "g42",
+  "to": "cerebras",
+  "type": "chip_order",
+  "title": "G42 orders ~$389M of Cerebras supercomputers",
+  "amount_usd": 389000000,
+  "amount_kind": "confirmed",
+  "date": "2023-09-13",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "publisher": "Cerebras Systems (Form S-1)",
+      "date": "2024-09-30",
+      "kind": "sec_filing",
+      "quote": "Under the Framework Agreement, we are entitled to receive an aggregate of approximately $389.0 million upon performance of purchase orders"
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Abu Dhabi's G42 signed a framework deal in September 2023 to buy Cerebras AI supercomputers (the Condor Galaxy systems), worth about $389M. G42 became Cerebras's biggest customer by far."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "openai-stargate-new-mexico",
+  "name": "OpenAI Stargate New Mexico",
+  "owner": "oracle",
+  "tenants": [
+    "openai"
+  ],
+  "location": {
+    "lat": 31.86,
+    "lon": -106.68,
+    "city": "Doña Ana County"
+  },
+  "state": "NM",
+  "power_mw_now": 0,
+  "power_mw_planned": 2450,
+  "status": "under_construction",
+  "est_chips": {
+    "count": 5103588,
+    "type": "H100-equivalents",
+    "estimate": true
+  },
+  "est_cost_usd": 66293500000,
+  "grid_region": "EPE",
+  "power_deal_ids": [],
+  "timeline": [
+    {
+      "date": "2025-10-01",
+      "event": "Construction and land clearing begins"
+    },
+    {
+      "date": "2026-02-06",
+      "event": "Land clearing continues, foundation construction begins 2 of the main buildings (Building B & D). Construction also beginning on modular chiller plants."
+    },
+    {
+      "date": "2026-06-22",
+      "event": "Construction has advanced significantly since February 2026. We observe extensive earthworks and multiple graded building pads across the campus, with structural work underway on the main data center buildings. A large solar array and water"
+    },
+    {
+      "date": "2028-12-31",
+      "event": "Estimated construction completion date of the site. Stormwater permitting says 2027-12-31 for stormwater construction to finish, but for a more conservative estimate and based on the current state of the site, we pushed the final date by a "
+    }
+  ],
+  "epoch_id": "OpenAI Stargate New Mexico",
+  "sources": [
+    {
+      "url": "https://epoch.ai/data/data-centers",
+      "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
+      "date": "2026-10-26",
+      "kind": "dataset",
+      "quote": "OpenAI Stargate New Mexico: current power 0 MW; owner Oracle."
+    }
+  ],
+  "last_checked": "2026-10-26",
+  "explain": "OpenAI Stargate New Mexico is an under-construction AI data center in Doña Ana County, NM, owned by oracle and used by openai. Epoch AI estimates it draws 0 MW today and 2,450 MW when finished."
+}

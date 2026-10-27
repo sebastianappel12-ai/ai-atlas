@@ -1,0 +1,40 @@
+{
+  "id": "weka",
+  "name": "WEKA",
+  "sector": "memory",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://www.weka.io",
+  "aliases": [
+    "WekaIO"
+  ],
+  "revenue": {
+    "amount_usd": 100000000,
+    "period": "2024 ARR",
+    "as_of": "2024-12-05",
+    "estimate": true,
+    "source": {
+      "url": "https://www.storagenewsletter.com/2024/12/16/weka-appoints-software-industry-veteran-hoang-vuong-as-chief-financial-officer/",
+      "publisher": "StorageNewsletter (WEKA release)",
+      "date": "2024-12-16",
+      "kind": "news",
+      "quote": "The company exceeded over $100 million in annual recurring revenue and grew to more than 500 employees globally, as five of its customers expanded their AI and HPC clusters to over an EB of data under management running on the Weka Data Platform."
+    }
+  },
+  "valuation": {
+    "amount_usd": 1600000000,
+    "period": "Series E (May 2024)",
+    "as_of": "2024-05-15",
+    "estimate": false,
+    "source": {
+      "url": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+      "publisher": "WEKA",
+      "date": "2024-05-15",
+      "kind": "press_release",
+      "quote": "WEKA, the AI-native data platform company, has raised $140 million in an oversubscribed Series E funding round comprised of a combined primary and secondary transaction led by Valor Equity Partners, a previous investor in the company."
+    }
+  },
+  "description": "Private maker of high-speed data storage software that keeps GPUs supplied with data in AI clusters.",
+  "explain": "WEKA competes with VAST Data to sell the storage software GPU clouds use for AI training. Nvidia, Micron, Samsung and HPE are among its investors."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "coreweave-galaxy-digital-helios-phase1-2025",
+  "from": "coreweave",
+  "to": "galaxy-digital",
+  "type": "data_center",
+  "title": "CoreWeave signs 15-year, 133 MW lease at Galaxy's Helios campus (~$4.5B)",
+  "amount_usd": 4500000000,
+  "amount_kind": "confirmed",
+  "date": "2025-03-28",
+  "length_years": 15,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1859392/000162828025015309/galaxydigitalinc-sx4a7.htm",
+      "publisher": "Galaxy Digital (SEC S-4/A)",
+      "date": "2025-03-28",
+      "kind": "sec_filing",
+      "quote": "Over the 15-year term, Galaxy is contractually entitled to generate an estimated $4.5 billion of total revenue pursuant to the Lease Agreement."
+    },
+    {
+      "url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+      "publisher": "Galaxy Newsroom",
+      "date": "2025-08-15",
+      "kind": "press_release",
+      "quote": "The Debt Facility will fully fund the initial retrofit and expansion of Helios to deliver the first phase of power for AI and high-performance computing (HPC) operations under a long-term agreement with CoreWeave Inc."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "CoreWeave agreed to rent 133 megawatts at Galaxy's Helios campus in West Texas, a former bitcoin mine, for 15 years. Galaxy expects about $4.5 billion in revenue; rent began in 2026."
+}

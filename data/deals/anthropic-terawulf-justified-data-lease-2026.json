@@ -1,0 +1,25 @@
+{
+  "id": "anthropic-terawulf-justified-data-lease-2026",
+  "from": "anthropic",
+  "to": "terawulf",
+  "type": "data_center",
+  "title": "Anthropic signs 20-year lease at TeraWulf's Kentucky campus (~$19B)",
+  "amount_usd": 19000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-07-06",
+  "length_years": 20,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+      "publisher": "TeraWulf (SEC 8-K EX-99.1)",
+      "date": "2026-07-06",
+      "kind": "sec_filing",
+      "quote": "The lease is expected to generate approximately $19 billion of contracted revenue over the initial lease term."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Anthropic, the maker of Claude, signed a 20-year lease directly with TeraWulf for about 401 megawatts at the Justified Data campus in Hawesville, Kentucky. TeraWulf expects about $19 billion in rent, with first capacity in late 2027."
+}

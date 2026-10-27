@@ -1,0 +1,25 @@
+{
+  "id": "tensorwave",
+  "name": "TensorWave",
+  "sector": "neocloud",
+  "public": false,
+  "country": "US",
+  "hq_state": "NV",
+  "website": "https://tensorwave.com",
+  "aliases": [],
+  "valuation": {
+    "amount_usd": 1550000000,
+    "period": "Series B",
+    "as_of": "2026-06-10",
+    "estimate": false,
+    "source": {
+      "url": "https://www.futuriom.com/articles/news/tensorwave-scores-350-million-to-advance-its-amd-cloud/2026/06",
+      "publisher": "Futuriom",
+      "date": "2026-06-10",
+      "kind": "news",
+      "quote": "Its valuation of $1.55 billion is more than four times the roughly $400 million valuation reportedly linked to TensorWave’s $100 million Series A in May 2025."
+    }
+  },
+  "description": "Las Vegas-based AI cloud built entirely on AMD Instinct GPUs.",
+  "explain": "TensorWave is AMD's showcase cloud: it runs only AMD GPUs and AMD's venture arm co-led its funding rounds, so AMD money helps buy AMD chips."
+}

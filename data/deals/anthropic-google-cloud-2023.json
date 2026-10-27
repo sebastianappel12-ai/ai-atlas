@@ -1,0 +1,24 @@
+{
+  "id": "anthropic-google-cloud-2023",
+  "from": "anthropic",
+  "to": "google",
+  "type": "cloud_contract",
+  "title": "Anthropic picks Google Cloud as its preferred cloud provider",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2023-02-03",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.googlecloudpresscorner.com/2023-02-03-Anthropic-Forges-Partnership-With-Google-Cloud-to-Help-Deliver-Reliable-and-Responsible-AI",
+      "publisher": "Google Cloud Press Corner",
+      "date": "2023-02-03",
+      "kind": "press_release",
+      "quote": "Anthropic has selected Google Cloud as its preferred cloud provider, giving it the compute power necessary to build reliable and trustworthy AI systems."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Early in its life Anthropic chose Google Cloud as its preferred provider of computing power for training its Claude models. No amount was disclosed; Google was also an early investor."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fluidstack-cipher-mining-barber-lake-expansion-2025",
+  "from": "fluidstack",
+  "to": "cipher-mining",
+  "type": "data_center",
+  "title": "Fluidstack adds 39 MW at Cipher's Barber Lake (~$830M)",
+  "amount_usd": 830000000,
+  "amount_kind": "confirmed",
+  "date": "2025-11-20",
+  "length_years": 10,
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm",
+      "publisher": "Cipher Mining (SEC 8-K EX-99.1)",
+      "date": "2025-11-20",
+      "kind": "sec_filing",
+      "quote": "The agreement represents approximately $830 million in contracted revenue over the initial 10-year term and includes two five-year extension options."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Fluidstack expanded its Barber Lake lease by 39 megawatts, taking the whole 300-megawatt site, adding about $830 million of rent over 10 years. Google expanded its backstop of Fluidstack's payments."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "inflection-ai",
+  "name": "Inflection AI",
+  "sector": "ai_lab",
+  "public": false,
+  "country": "US",
+  "hq_state": "CA",
+  "website": "https://inflection.ai",
+  "aliases": [
+    "Inflection"
+  ],
+  "description": "AI company that built the Pi chatbot, now focused on enterprise AI after most staff joined Microsoft in 2024.",
+  "explain": "Inflection is an example of a 'license and hire' deal: Microsoft paid about $650 million and hired most of its team instead of buying the company."
+}

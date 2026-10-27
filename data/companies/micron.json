@@ -1,0 +1,30 @@
+{
+  "id": "micron",
+  "name": "Micron Technology",
+  "sector": "memory",
+  "public": true,
+  "ticker": "NASDAQ:MU",
+  "cik": "0000723125",
+  "country": "US",
+  "hq_state": "ID",
+  "website": "https://www.micron.com",
+  "aliases": [
+    "Micron",
+    "Micron Technology Inc"
+  ],
+  "revenue": {
+    "amount_usd": 133188000000,
+    "period": "FY2026 (ended 2026-09-03)",
+    "as_of": "2026-09-03",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-10-09",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 133,188,000,000 USD for 2025-08-29 to 2026-09-03 (10-K, accession 0000723125-26-000023)."
+    }
+  },
+  "description": "US maker of DRAM, high-bandwidth memory (HBM) and NAND flash, the only large US-based memory chipmaker.",
+  "explain": "Every AI chip needs memory next to it. Micron is one of only three companies that make high-bandwidth memory (HBM) for Nvidia and AMD accelerators, so AI spending flows straight into its sales."
+}

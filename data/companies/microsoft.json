@@ -1,0 +1,46 @@
+{
+  "id": "microsoft",
+  "name": "Microsoft",
+  "sector": "cloud",
+  "public": true,
+  "ticker": "NASDAQ:MSFT",
+  "cik": "0000789019",
+  "country": "US",
+  "hq_state": "WA",
+  "website": "https://www.microsoft.com",
+  "newsroom_feed": "https://news.microsoft.com/source/feed/",
+  "aliases": [
+    "Microsoft Corp",
+    "Microsoft Corporation",
+    "Microsoft Azure",
+    "Azure"
+  ],
+  "revenue": {
+    "amount_usd": 331839000000,
+    "period": "FY2026 (ended 2026-06-30)",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/",
+      "publisher": "SEC EDGAR (XBRL)",
+      "date": "2026-07-29",
+      "kind": "sec_filing",
+      "quote": "us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax = 331,839,000,000 USD for 2025-07-01 to 2026-06-30 (10-K, accession 0001193125-26-323660)."
+    }
+  },
+  "backlog": {
+    "amount_usd": 678000000000,
+    "period": "Q4 FY2026",
+    "as_of": "2026-06-30",
+    "estimate": false,
+    "source": {
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+      "publisher": "Microsoft Form 10-K (SEC EDGAR)",
+      "date": "2026-07-29",
+      "kind": "sec_filing",
+      "quote": "Revenue allocated to remaining performance obligations related to the commercial portion of revenue was $678 billion as of June 30, 2026, with a weighted average duration of approximately 2.3 years."
+    }
+  },
+  "description": "Software and cloud giant that runs the Azure cloud and is OpenAI's largest outside investor and main cloud partner.",
+  "explain": "Microsoft rents huge amounts of computing power through Azure. AI labs like OpenAI and Anthropic have promised to spend hundreds of billions of dollars on Azure, which shows up as Microsoft's contracted backlog."
+}

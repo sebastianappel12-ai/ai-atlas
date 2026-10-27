@@ -1,0 +1,31 @@
+{
+  "id": "tva-kairos-power-hermes-2-ppa-2025",
+  "from": "tva",
+  "to": "kairos-power",
+  "type": "power_deal",
+  "title": "TVA signs PPA for up to 50 MW from Kairos Power's Hermes 2 reactor",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-08-18",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://kairospower.com/external_updates/google-kairos-power-tva-collaborate-to-meet-americas-growing-energy-needs/",
+      "publisher": "Kairos Power",
+      "date": "2025-08-18",
+      "kind": "press_release",
+      "quote": "Through a new power purchase agreement (PPA) between Kairos Power and TVA, Kairos Power’s Hermes 2 Plant in Oak Ridge, Tenn., will deliver up to 50 megawatts (MW) of reliable, 24/7 energy to the TVA grid that powers Google data centers in Tennessee and Alabama."
+    },
+    {
+      "url": "https://world-nuclear-news.org/articles/google-kairos-power-tva-announce-collaboration",
+      "publisher": "World Nuclear News",
+      "date": "2025-08-18",
+      "kind": "news",
+      "quote": "The power purchase agreement between the Tennessee Valley Authority (TVA) and Kairos Power will deliver up to 50 MW of \"reliable, 24/7 energy\" to the TVA grid that powers Google data centres in Tennessee and Alabama, the companies said."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "The Tennessee Valley Authority will buy up to 50 MW from Kairos Power's Hermes 2 advanced reactor in Oak Ridge, Tennessee, starting around 2030; it is the first U.S. utility deal to buy power from a Gen IV reactor. Price not disclosed. Plant: Kairos Power Hermes 2, Oak Ridge, Tennessee."
+}

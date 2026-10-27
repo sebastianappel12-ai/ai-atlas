@@ -1,0 +1,24 @@
+{
+  "id": "oracle-vantage-data-centers-lighthouse-2025",
+  "from": "oracle",
+  "to": "vantage-data-centers",
+  "type": "data_center",
+  "title": "Oracle and OpenAI pick Vantage's Wisconsin 'Lighthouse' campus for Stargate",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-10-22",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://vantage-dc.com/news/openai-oracle-and-vantage-data-centers-announce-stargate-data-center-site-in-wisconsin/",
+      "publisher": "Vantage Data Centers",
+      "date": "2025-10-22",
+      "kind": "press_release",
+      "quote": "OpenAI, Oracle and Vantage Data Centers, a leading global provider of hyperscale data center campuses, today announced plans to develop a data center campus outside Milwaukee in Port Washington, Wisconsin."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Vantage is building a roughly 900 MW, $15B+ campus in Port Washington, Wisconsin, for Oracle's cloud, which serves OpenAI under Stargate. Oracle is the customer paying Vantage; lease terms were not disclosed."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "openai-coreweave-cloud-expansion-2025-05",
+  "from": "openai",
+  "to": "coreweave",
+  "type": "cloud_contract",
+  "title": "OpenAI adds up to $4B more CoreWeave capacity",
+  "amount_usd": 4000000000,
+  "amount_kind": "up_to",
+  "date": "2025-05-14",
+  "length_years": 4,
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
+      "publisher": "CoreWeave 10-Q (SEC)",
+      "date": "2025-05-15",
+      "kind": "sec_filing",
+      "quote": "As of May 14, 2025, subject to the satisfaction of delivery and availability of service requirements, OpenAI has committed to pay the Company up to $4.0 billion through April 2029 related to this agreement."
+    },
+    {
+      "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
+      "publisher": "CoreWeave Newsroom",
+      "date": "2025-09-25",
+      "kind": "press_release",
+      "quote": "In March 2025, CoreWeave announced an initial agreement with OpenAI with a contract value up to $11.9 billion, followed by an expanded agreement worth up to $4 billion in May 2025."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "A second OpenAI order with CoreWeave: up to $4 billion more of rented AI computing through April 2029, on top of the March 2025 deal."
+}

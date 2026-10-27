@@ -1,0 +1,24 @@
+{
+  "id": "google-commonwealth-fusion-arc-ppa-2025",
+  "from": "google",
+  "to": "commonwealth-fusion",
+  "type": "power_deal",
+  "title": "Google signs 200 MW fusion PPA for CFS's first ARC plant",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-06-30",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://cfs.energy/news-and-media/google-and-commonwealth-fusion-systems-sign-strategic-partnership/",
+      "publisher": "Commonwealth Fusion Systems",
+      "date": "2025-06-30",
+      "kind": "press_release",
+      "quote": "Google signed a power purchase agreement (PPA) for 200 megawatts (MW) of electricity from CFS’ inaugural ARC power plant, which CFS expects will put power on the grid in the early 2030s, in Chesterfield County, Virginia."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Google agreed to buy 200 MW, about half the output, of Commonwealth Fusion Systems' first ARC fusion power plant in Chesterfield County, Virginia, expected in the early 2030s, with options on future plants. Price not disclosed. Plant: CFS ARC fusion plant, Chesterfield County, Virginia (planned)."
+}
