@@ -6,7 +6,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 ## Phase 0: Foundations
 | Criterion | Status | Evidence |
 | --- | --- | --- |
-| The site is live at a Vercel link | 🔧 | Builds clean on GitHub CI. Waiting on the Vercel ↔ GitHub connection (docs/OPS.md step 1); then it deploys on every push. |
+| The site is live at a Vercel link | ✅ (temporary) 🔧 | Deployed 2026-10-26 as an anonymous Vercel deployment (https://sonic-pulsar-sx5qrrw.tmp.now, expires after 1 hour unless claimed). Permanent deploys on every push need the Vercel ↔ GitHub connection (docs/OPS.md step 1). |
 | check-data rejects a deal that has no source | ✅ | `tests/check.test.ts` "rejects a deal that has no source" |
 | A sample page uses the sector colors and fonts | ✅ | Inter + JetBrains Mono, 10 sector colors in `src/lib/sectors.ts`; sample data in `data/sample/` |
 
@@ -51,7 +51,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 ## Phase 6: Polish and launch
 | Criterion | Status | Evidence |
 | --- | --- | --- |
-| Pages load in under 2 s on a phone | ✅ (local) | `scripts/perf.ts` (4× CPU slowdown, fast 4G): Money Graph 0.19 s, Nvidia panel 0.93 s, Energy Map 1.6 s, company page 0.16 s. Re-run against the live URL after deploy. |
+| Pages load in under 2 s on a phone | ✅ | `scripts/perf.ts` against the live Vercel deployment (4× CPU slowdown, fast 4G): Money Graph 0.33 s, Nvidia panel 0.99 s, Energy Map 1.66 s, company page 0.22 s, Methodology 0.21 s. |
 | Methodology page and error button are live | ✅ (in build) 🔧 | `/methodology`, "Report an error" on every deal → GitHub issue form. Live once deployed. |
 | Launched in at least 3 places | 👤 | Drafts for Show HN, r/dataisbeautiful, r/stocks, X in `docs/LAUNCH.md` |
 | Custom domain | 👤 | Deferred by Sebastian on 2026-10-26 (available: aimoneyatlas.com $11.25/yr, aiatlas.money). Site uses the free vercel.app address. |
