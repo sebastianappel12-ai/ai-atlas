@@ -1,8 +1,8 @@
 {
   "source": "U.S. Energy Information Administration, Form EIA-860M (public domain)",
-  "source_url": "local file",
+  "source_url": "https://www.eia.gov/electricity/data/eia860m/xls/september_generator2026.xlsx",
   "title": "Inventory of Operating Generators as of September 2026",
-  "imported": "2026-10-26",
+  "imported": "2026-10-27",
   "min_mw": 50,
   "plants": [
     {
