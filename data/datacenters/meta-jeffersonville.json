@@ -39,11 +39,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Meta Jeffersonville: current power 178 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Meta Jeffersonville is an operating AI data center in IN, IN, owned by meta. Epoch AI estimates it draws 178 MW today and 241 MW when finished."
 }

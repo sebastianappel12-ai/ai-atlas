@@ -43,7 +43,7 @@
     },
     {
       "date": "2026-04-16",
-      "event": "Building 1 is almost complete, with only cooling needing 4 more fans. Building 2 backup generator construction has begun, and cooling tower installation is about halfway complete. Building 3's roof is almost complete, and construction has s"
+      "event": "Building 1 is almost complete, with only cooling needing 4 more fans. Building 2 backup generator construction has begun, and cooling tower installation is about halfway complete. Building 3's roof is almost complete, and construction has…"
     },
     {
       "date": "2026-08-01",
@@ -55,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Kansas City East: current power 105 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Kansas City East is an operating AI data center in Kansas City, MO, owned by google. Epoch AI estimates it draws 105 MW today and 126 MW when finished."
 }

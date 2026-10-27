@@ -25,7 +25,7 @@
   "timeline": [
     {
       "date": "2025-07-22",
-      "event": "30k B200s [added](https://archive.is/oHQSA) (in GB200 configuration)."
+      "event": "30k B200s added (in GB200 configuration)."
     },
     {
       "date": "2025-09-17",
@@ -45,7 +45,7 @@
     },
     {
       "date": "2026-05-06",
-      "event": "Anthropic [announces](https://www.anthropic.com/news/higher-limits-spacex) their agreement with SpaceX to use all of the compute capacity at Colossus 1. They state that this corresponds to more than 300 MW (presumably IT power) and over 220"
+      "event": "Anthropic announces their agreement with SpaceX to use all of the compute capacity at Colossus 1. They state that this corresponds to more than 300 MW (presumably IT power) and over 220,000 GPUs. This is slightly different to previous…"
     },
     {
       "date": "2026-06-01",
@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Colossus 1: current power 340 MW; owner SpaceXAI."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Colossus 1 is an operating AI data center in Memphis, TN, owned by xai and used by anthropic. Epoch AI estimates it draws 340 MW today and 442 MW when finished."
 }

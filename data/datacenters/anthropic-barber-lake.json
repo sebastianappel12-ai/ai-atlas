@@ -33,15 +33,15 @@
     },
     {
       "date": "2026-07-30",
-      "event": "Building 1 shell is complete, with rooftop units installed, and most air-cooled chillers in place in a ground yard to the north. Most of the 120 backup diesel generators are also in place. Substantial progress since Nov 2025, still under co"
+      "event": "Building 1 shell is complete, with rooftop units installed, and most air-cooled chillers in place in a ground yard to the north. Most of the 120 backup diesel generators are also in place. Substantial progress since Nov 2025, still under…"
     },
     {
       "date": "2026-12-30",
-      "event": "Building 1 Phase I is operational: 168 MW critical IT power (244 MW gross), running Google TPU v7 (chip type inferred, tagged likely). We estimate ~Dec 2026, about 3 months later than the disclosed target, because the site is shell-complete"
+      "event": "Building 1 Phase I is operational: 168 MW critical IT power (244 MW gross), running Google TPU v7 (chip type inferred, tagged likely). We estimate ~Dec 2026, about 3 months later than the disclosed target, because the site is…"
     },
     {
       "date": "2027-04-30",
-      "event": "Building 1 Phase II is operational: 207 MW total critical IT (300 MW gross). Phase II adds 39 MW critical IT (see [Cipher 2025-11-20 PR](https://www.globenewswire.com/news-release/2025/11/20/3191801/0/en/Cipher-Mining-Signs-Additional-56-MW"
+      "event": "Building 1 Phase II is operational: 207 MW total critical IT (300 MW gross). Phase II adds 39 MW critical IT (see Cipher 2025-11-20 PR). We estimate ~Apr 2027, about 3 months later than the ~Q1 2027 target, based on construction progress."
     }
   ],
   "epoch_id": "Anthropic Barber Lake",
@@ -49,11 +49,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Anthropic Barber Lake: current power 0 MW; owner Cipher Mining."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Anthropic Barber Lake is an under-construction AI data center in Colorado City, TX, owned by cipher-mining and used by anthropic. Epoch AI estimates it draws 0 MW today and 300 MW when finished."
 }

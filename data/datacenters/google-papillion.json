@@ -55,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Papillion: current power 237 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Papillion is an operating AI data center in USA, NE, owned by google. Epoch AI estimates it draws 237 MW today and 284 MW when finished."
 }

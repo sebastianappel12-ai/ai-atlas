@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Meta Huntsville: current power 146 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Meta Huntsville is an operating AI data center in Toney, AL, owned by meta. Epoch AI estimates it draws 146 MW today and 198 MW when finished."
 }

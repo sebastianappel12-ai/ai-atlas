@@ -25,27 +25,27 @@
   "timeline": [
     {
       "date": "2025-06-28",
-      "event": "Building 1 looks close to finishing construction, with chillers in place. OpenAI [stated](https://openai.com/index/five-new-stargate-sites/) that \"Oracle began delivering the first NVIDIA GB200 racks in June.\" The \"tenant improvement\" work "
+      "event": "Building 1 looks close to finishing construction, with chillers in place. OpenAI stated that \"Oracle began delivering the first NVIDIA GB200 racks in June.\" The \"tenant improvement\" work is not due until September, however."
     },
     {
       "date": "2025-09-26",
-      "event": "Building 1 is fully operational around this date. The first phase was \"live\" on September 30 according a Crusoe [announcement](https://www.crusoe.ai/resources/newsroom/crusoe-announces-flagship-abilene-data-center-is-live). While the first "
+      "event": "Building 1 is fully operational around this date. The first phase was \"live\" on September 30 according a Crusoe announcement. While the first phase consists of Building 1 and 2, the language doesn't outright confirm that both buildings are…"
     },
     {
       "date": "2025-12-24",
-      "event": "Building 2 is fully operational. This exact date corresponds to the expected completion date of \"Four (4) data hall spaces and an administrative office build-out\" according to a [TDLR filing](https://www.tdlr.texas.gov/TABS/Search/Project/T"
+      "event": "Building 2 is fully operational. This exact date corresponds to the expected completion date of \"Four (4) data hall spaces and an administrative office build-out\" according to a TDLR filing, but this date is also consistent with satellite…"
     },
     {
       "date": "2026-01-15",
-      "event": "The 1 GW substation looks close to completion. Building 3 appears to have all power and cooling equipment installed, but there are still signs of construction work. This seems on track for operation in 3 months. Building 4 has about 80% of "
+      "event": "The 1 GW substation looks close to completion. Building 3 appears to have all power and cooling equipment installed, but there are still signs of construction work. This seems on track for operation in 3 months. Building 4 has about 80% of…"
     },
     {
       "date": "2026-03-24",
-      "event": "Building 3 and 4 look complete, but are not fully operational. Not as many cars are parked next to it as Building 1-2 which suggests they may still be ramping up. Building 4 was due by now according to a [regulatory filing](https://www.tdlr"
+      "event": "Building 3 and 4 look complete, but are not fully operational. Not as many cars are parked next to it as Building 1-2 which suggests they may still be ramping up. Building 4 was due by now according to a regulatory filing. Building 5 still…"
     },
     {
       "date": "2026-05-23",
-      "event": "Buildings 3 and 4 are estimated to be operational. On April 22nd, Oracle [posted](https://x.com/i/status/2047012589302153558) that \"In Abilene, 200MW is already operational\". This suggests that there was still only Building 1 and 2 operatio"
+      "event": "Buildings 3 and 4 are estimated to be operational. On April 22nd, Oracle posted that \"In Abilene, 200MW is already operational\". This suggests that there was still only Building 1 and 2 operational. Since Buildings 3 and 4 looked complete…"
     },
     {
       "date": "2026-07-28",
@@ -53,7 +53,7 @@
     },
     {
       "date": "2026-11-01",
-      "event": "Buildings 5-8 are estimated to be operational. On March 24, Building 8 roughly looked like where Building 3 was in September. Building 3 is estimated to be operational in April, 7 months later. This naively suggests Building 8 will be opera"
+      "event": "Buildings 5-8 are estimated to be operational. On March 24, Building 8 roughly looked like where Building 3 was in September. Building 3 is estimated to be operational in April, 7 months later. This naively suggests Building 8 will be…"
     }
   ],
   "epoch_id": "OpenAI Stargate Abilene",
@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "OpenAI Stargate Abilene: current power 421 MW; owner Oracle."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "OpenAI Stargate Abilene is an operating AI data center in Abilene, TX, owned by oracle and used by openai. Epoch AI estimates it draws 421 MW today and 1,180 MW when finished."
 }

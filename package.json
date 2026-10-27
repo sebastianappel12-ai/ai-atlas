@@ -11,8 +11,10 @@
     "test": "vitest run",
     "verify-quote": "tsx scripts/verify-quote.ts",
     "build-graph": "tsx scripts/build-graph.ts",
-    "prebuild": "tsx scripts/build-graph.ts",
-    "screenshots": "tsx scripts/screenshots.ts"
+    "prebuild": "tsx scripts/copy-vendor.ts && tsx scripts/build-graph.ts && tsx scripts/build-energy.ts",
+    "screenshots": "tsx scripts/screenshots.ts",
+    "verify-sources": "tsx scripts/verify-sources.ts",
+    "predev": "tsx scripts/copy-vendor.ts"
   },
   "dependencies": {
     "@deck.gl/core": "^9.4.0",
@@ -36,15 +38,19 @@
     "@playwright/test": "^1.64.1",
     "@tailwindcss/turbopack": "^4",
     "@types/d3-force": "^3.0.10",
+    "@types/geojson": "^7946.0.16",
     "@types/node": "^24.19.2",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/topojson-client": "^3.1.5",
     "eslint": "^9",
     "eslint-config-next": "16.4.3",
     "exceljs": "^4.4.0",
     "tailwindcss": "^4",
+    "topojson-client": "^3.1.0",
     "tsx": "^4.23.15",
     "typescript": "^5",
+    "us-atlas": "^3.0.1",
     "vitest": "^5.0.5"
   },
   "type": "module"

@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Microsoft Project Osmium: current power 190 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Microsoft Project Osmium is an operating AI data center in Cumming, IA, owned by microsoft. Epoch AI estimates it draws 190 MW today and 228 MW when finished."
 }

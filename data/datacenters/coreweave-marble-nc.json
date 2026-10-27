@@ -27,7 +27,7 @@
     },
     {
       "date": "2026-03-13",
-      "event": "The site has been energized. Two of three data halls had been delivered at [37 billable MW](https://www.sec.gov/Archives/edgar/data/1839341/000119312526165121/d149019dex992.htm), supporting about 15000 Grace Blackwell GPUs. The third hall w"
+      "event": "The site has been energized. Two of three data halls had been delivered at 37 billable MW, supporting about 15000 Grace Blackwell GPUs. The third hall was still in commissioning."
     },
     {
       "date": "2026-04-17",
@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "CoreWeave Marble NC: current power 65 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "CoreWeave Marble NC is an operating AI data center in Marble, NC, owned by coreweave. Epoch AI estimates it draws 65 MW today and 91 MW when finished."
 }

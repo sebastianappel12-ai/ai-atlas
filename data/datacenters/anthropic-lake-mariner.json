@@ -31,19 +31,19 @@
     },
     {
       "date": "2026-05-31",
-      "event": "Building 1 is operational. On February 26, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB3 was expected to be energized by mid-May 2"
+      "event": "Building 1 is operational. On February 26, Terawulf stated that CB3 was expected to be energized by mid-May 2026. A drone video commissioned from RAAD shows several cooling units operating on May 8. It's therefore likely that the building…"
     },
     {
       "date": "2026-07-23",
-      "event": "Building 1 looks complete, consistent with it going operational back in May. Building 2 is mostly complete, with the row of backup generators on the east side of the building still being installed. Building 3 shell is complete, with rooftop"
+      "event": "Building 1 looks complete, consistent with it going operational back in May. Building 2 is mostly complete, with the row of backup generators on the east side of the building still being installed. Building 3 shell is complete, with…"
     },
     {
       "date": "2026-10-31",
-      "event": "Building 2 (AKA CB4) is operational. On February 26, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB4 was expected to be energized by"
+      "event": "Building 2 (AKA CB4) is operational. On February 26, Terawulf stated that CB4 was expected to be energized by Q3 2026."
     },
     {
       "date": "2027-03-31",
-      "event": "Building 3 (AKA CB5) is operational. On February 26, 2026, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB5 was expected to be energi"
+      "event": "Building 3 (AKA CB5) is operational. On February 26, 2026, Terawulf stated that CB5 was expected to be energized by Q4 2026. However, based on the pace of Building 2, and comparisons to other projects like Stargate Abilene, we think this…"
     }
   ],
   "epoch_id": "Anthropic Lake Mariner",
@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Anthropic Lake Mariner: current power 42 MW; owner AI XPV Platform."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Anthropic Lake Mariner is an operating AI data center in Barker, NY, owned by anthropic. Epoch AI estimates it draws 42 MW today and 441 MW when finished."
 }

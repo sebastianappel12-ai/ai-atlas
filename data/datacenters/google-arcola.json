@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Arcola: current power 77 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Arcola is an operating AI data center in Sterling, VA, owned by google. Epoch AI estimates it draws 77 MW today and 93 MW when finished."
 }

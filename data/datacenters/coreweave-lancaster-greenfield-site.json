@@ -23,7 +23,7 @@
   "timeline": [
     {
       "date": "2025-07-15",
-      "event": "[Coreweave announces $6 billion investment into Lancaster data centers, at two former printing press sites.](https://investors.coreweave.com/news/news-details/2025/CoreWeave-Announces-Multi-Billion-Dollar-Commitment-to-AI-Infrastructure-in-"
+      "event": "Coreweave announces $6 billion investment into Lancaster data centers, at two former printing press sites."
     },
     {
       "date": "2026-07-13",
@@ -31,7 +31,7 @@
     },
     {
       "date": "2027-06-30",
-      "event": "[We estimate that Building 1 will be operational by Summer 2027 due to third party reporting.](https://www.witf.org/2025/08/28/lancaster-city-data-centers-face-zoning-hearing-possible-new-regulations/)"
+      "event": "We estimate that Building 1 will be operational by Summer 2027 due to third party reporting."
     }
   ],
   "epoch_id": "CoreWeave Lancaster Greenfield site",
@@ -39,11 +39,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "CoreWeave Lancaster Greenfield site: current power 0 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "CoreWeave Lancaster Greenfield site is an under-construction AI data center in Lancaster, PA, owned by coreweave. Epoch AI estimates it draws 0 MW today and 124 MW when finished."
 }

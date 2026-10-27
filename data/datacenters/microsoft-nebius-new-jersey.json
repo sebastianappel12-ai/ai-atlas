@@ -29,15 +29,15 @@
     },
     {
       "date": "2025-12-15",
-      "event": "By mid-December 2025 the building was still not complete. A satellite analysis by SemiAnalysis found that the air-cooled chillers serving the second half of the first 50 MW phase were not yet installed, so the phase was not yet operational."
+      "event": "By mid-December 2025 the building was still not complete. A satellite analysis by SemiAnalysis found that the air-cooled chillers serving the second half of the first 50 MW phase were not yet installed, so the phase was not yet…"
     },
     {
       "date": "2026-04-15",
-      "event": "High-resolution satellite imagery shows the air-cooled chiller array has grown to roughly 30 units, enough to support the first phase. We estimate Building 1 became operational around early 2026 with about 50 MW of IT capacity (70 MW total "
+      "event": "High-resolution satellite imagery shows the air-cooled chiller array has grown to roughly 30 units, enough to support the first phase. We estimate Building 1 became operational around early 2026 with about 50 MW of IT capacity (70 MW total…"
     },
     {
       "date": "2026-07-12",
-      "event": "Compared with the April 2026 image, the building shell is closer to completion, and several additional air-cooled chillers have appeared on the ground, though they do not yet appear to be connected or operating. We therefore keep IT capacit"
+      "event": "Compared with the April 2026 image, the building shell is closer to completion, and several additional air-cooled chillers have appeared on the ground, though they do not yet appear to be connected or operating. We therefore keep IT…"
     }
   ],
   "epoch_id": "Microsoft-Nebius New Jersey",
@@ -45,11 +45,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Microsoft-Nebius New Jersey: current power 50 MW; owner Nebius."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Microsoft-Nebius New Jersey is an operating AI data center in Vineland, NJ, owned by nebius and used by microsoft. Epoch AI estimates it draws 50 MW today and 70 MW when finished."
 }

@@ -27,7 +27,7 @@
     },
     {
       "date": "2024-11-19",
-      "event": "Building 1 is operational. Google Earth shows Building 1 had all backup generators and cooling towers installed by the end of August, but construction work was ongoing and there were almost no cars parked. By February 2025, Google Earth sho"
+      "event": "Building 1 is operational. Google Earth shows Building 1 had all backup generators and cooling towers installed by the end of August, but construction work was ongoing and there were almost no cars parked. By February 2025, Google Earth…"
     },
     {
       "date": "2025-06-15",
@@ -39,11 +39,11 @@
     },
     {
       "date": "2026-01-11",
-      "event": "Building 3 has all 34 backup generators installed and 4 cooling towers installed, with 3 more cooling towers under construction. There are gaps between cooling towers suggesting that more could be added. Buildings 1 and 2 are running close "
+      "event": "Building 3 has all 34 backup generators installed and 4 cooling towers installed, with 3 more cooling towers under construction. There are gaps between cooling towers suggesting that more could be added. Buildings 1 and 2 are running close…"
     },
     {
       "date": "2026-07-07",
-      "event": "Building 3 is operational. 7 cooling towers were finally installed despite being more spread out compared to the first two buildings. Cooling towers models vary slightly between buildings. Ground clearing to the southwest seems to be settin"
+      "event": "Building 3 is operational. 7 cooling towers were finally installed despite being more spread out compared to the first two buildings. Cooling towers models vary slightly between buildings. Ground clearing to the southwest seems to be…"
     }
   ],
   "epoch_id": "Google Council Bluffs (East)",
@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Council Bluffs (East): current power 237 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Council Bluffs (East) is an operating AI data center in Council Bluffs, IA, owned by google. Epoch AI estimates it draws 237 MW today and 284 MW when finished."
 }

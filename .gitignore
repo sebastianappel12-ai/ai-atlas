@@ -46,3 +46,5 @@ next-env.d.ts
 /test-results/
 /playwright-report/
 /data/raw/eia/*.xlsx
+/data/raw/eia/*.csv
+/public/vendor/

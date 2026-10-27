@@ -27,11 +27,11 @@
     },
     {
       "date": "2026-02-14",
-      "event": "Buildings 1 and 2 under construction. Building 1's chillers are almost all in place, while only half of Building 2's are. Optimus substation, which is the substation on site, and the expansion of Dowling Substation, an existing substation t"
+      "event": "Buildings 1 and 2 under construction. Building 1's chillers are almost all in place, while only half of Building 2's are. Optimus substation, which is the substation on site, and the expansion of Dowling Substation, an existing substation…"
     },
     {
       "date": "2026-07-30",
-      "event": "Roofs of Buildings 1 and 2 are more than halfway complete. All chillers for both buildings are visible. Construction on Buildings 3 and 4 has begun, with outlines laid. Construction on the [Apollo Power Generation Project](https://archive.p"
+      "event": "Roofs of Buildings 1 and 2 are more than halfway complete. All chillers for both buildings are visible. Construction on Buildings 3 and 4 has begun, with outlines laid. Construction on the Apollo Power Generation Project (a BTM power plant…"
     },
     {
       "date": "2027-02-01",
@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Meta Bowling Green: current power 0 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Meta Bowling Green is an under-construction AI data center in Bowling Green, OH, owned by meta. Epoch AI estimates it draws 0 MW today and 570 MW when finished."
 }

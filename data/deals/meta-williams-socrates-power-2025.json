@@ -27,5 +27,8 @@
   "confidence": "medium",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Williams is building and running the Socrates gas power plants that feed Meta's data center campus in New Albany, Ohio, and is paid under a long-term fixed-price power purchase agreement. The $1.6 billion figure is Williams' project cost, not the contract value, which was not disclosed. Plants: Socrates South and Socrates North power generation facilities (New Albany, Ohio), about 556 MW combined per Williams' 2026 10-Q."
+  "explain": "Williams is building and running the Socrates gas power plants that feed Meta's data center campus in New Albany, Ohio, and is paid under a long-term fixed-price power purchase agreement. The $1.6 billion figure is Williams' project cost, not the contract value, which was not disclosed. Plants: Socrates South and Socrates North power generation facilities (New Albany, Ohio), about 556 MW combined per Williams' 2026 10-Q.",
+  "datacenter_ids": [
+    "meta-prometheus"
+  ]
 }

@@ -23,7 +23,7 @@
   "timeline": [
     {
       "date": "2023-08-30",
-      "event": "Building 1, which was first operational in 2021, has increased power capacity by about 75%. This is based on the expansion of the dry cooling array from 4 to 7 columns (seen on [Google Earth](https://earth.google.com/web/@39.4948785,-119.43"
+      "event": "Building 1, which was first operational in 2021, has increased power capacity by about 75%. This is based on the expansion of the dry cooling array from 4 to 7 columns (seen on Google Earth). Its backup generators also grew from 18 to 33…"
     },
     {
       "date": "2025-03-11",
@@ -31,7 +31,7 @@
     },
     {
       "date": "2025-06-30",
-      "event": "Building 2 is operational. Based on a [Google Earth image](https://earth.google.com/web/@39.49733738,-119.43113543,1552.05877612a,1467.7067385d,35y,0h,0t,0r/) showing complete building shell, mechanical equipment and generators, plus cars p"
+      "event": "Building 2 is operational. Based on a Google Earth image showing complete building shell, mechanical equipment and generators, plus cars parked at the front."
     },
     {
       "date": "2025-09-28",
@@ -43,7 +43,7 @@
     },
     {
       "date": "2027-06-30",
-      "event": "Building 3 is estimated to be operational. We estimate the operational date by analogy to the time that Building 1 took to go from a foundation to being operational. The power capacity is based on the number of generators reported in an air"
+      "event": "Building 3 is estimated to be operational. We estimate the operational date by analogy to the time that Building 1 took to go from a foundation to being operational. The power capacity is based on the number of generators reported in an…"
     }
   ],
   "epoch_id": "Google Storey County",
@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Storey County: current power 161 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Storey County is an operating AI data center in Storey County, NV, owned by google. Epoch AI estimates it draws 161 MW today and 389 MW when finished."
 }

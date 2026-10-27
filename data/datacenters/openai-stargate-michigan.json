@@ -37,7 +37,7 @@
     },
     {
       "date": "2028-12-31",
-      "event": "Buildings 1-3 operational. Based on when maximum power load will be provided by DTE energy (Dec 2027), which can be extended by a year. [Source, page 3](https://mi-psc.my.site.com/sfc/servlet.shepherd/version/download/068cs00001MH71XAAT)"
+      "event": "Buildings 1-3 operational. Based on when maximum power load will be provided by DTE energy (Dec 2027), which can be extended by a year. Source, page 3"
     }
   ],
   "epoch_id": "OpenAI Stargate Michigan",
@@ -45,11 +45,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "OpenAI Stargate Michigan: current power 0 MW; owner Oracle."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "OpenAI Stargate Michigan is an under-construction AI data center in Saline Township, MI, owned by oracle and used by openai. Epoch AI estimates it draws 0 MW today and 1,383 MW when finished."
 }

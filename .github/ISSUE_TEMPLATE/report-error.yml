@@ -1,0 +1,27 @@
+name: Report an error
+description: Tell us a deal, number or source on AI Atlas is wrong.
+title: "Error in deal: "
+labels: ["data-error"]
+body:
+  - type: input
+    id: deal
+    attributes:
+      label: Deal or company id
+      description: Shown in the page URL or the title above (e.g. openai-oracle-cloud-2025).
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      description: The amount, date, direction, status, or source.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Link that shows the correct information
+      description: An SEC filing or the company's own press release is best.
+  - type: markdown
+    attributes:
+      value: Thanks! Corrections never delete history. A changed deal is marked "revised" and linked to the new version.

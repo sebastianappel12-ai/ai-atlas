@@ -31,11 +31,11 @@
     },
     {
       "date": "2027-09-17",
-      "event": "Building 1 operational. Based on the completion date to \"build-out an office and data hall\", stated in a [regulatory filing](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008308)."
+      "event": "Building 1 operational. Based on the completion date to \"build-out an office and data hall\", stated in a regulatory filing."
     },
     {
       "date": "2027-11-11",
-      "event": "Building 2 operational. Based on the completion date to \"build-out an office and data hall\", stated in a [regulatory filing](https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008308)."
+      "event": "Building 2 operational. Based on the completion date to \"build-out an office and data hall\", stated in a regulatory filing."
     }
   ],
   "epoch_id": "Crusoe Abilene Expansion",
@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Crusoe Abilene Expansion: current power 0 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Crusoe Abilene Expansion is an under-construction AI data center in Abilene, TX, owned by microsoft. Epoch AI estimates it draws 0 MW today and 941 MW when finished."
 }

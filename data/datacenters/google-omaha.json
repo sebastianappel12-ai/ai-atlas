@@ -35,11 +35,11 @@
     },
     {
       "date": "2025-10-21",
-      "event": "Building 3 has all backup generators in place but they are still being installed. Two cooling towers have fans on them, with more underway. To the south of Building 3, more land has been cleared and there's a new carpark. This suggests anot"
+      "event": "Building 3 has all backup generators in place but they are still being installed. Two cooling towers have fans on them, with more underway. To the south of Building 3, more land has been cleared and there's a new carpark. This suggests…"
     },
     {
       "date": "2026-05-15",
-      "event": "Building 3 appears almost complete, with only minimal construction work and equipment remaining. The cooling towers are spaced apart in an unusual way, but there's no obvious sign that more will be installed before operation. Buildings 4 an"
+      "event": "Building 3 appears almost complete, with only minimal construction work and equipment remaining. The cooling towers are spaced apart in an unusual way, but there's no obvious sign that more will be installed before operation. Buildings 4…"
     },
     {
       "date": "2026-06-30",
@@ -59,11 +59,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Omaha: current power 237 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Omaha is an operating AI data center in Omaha, NE, owned by google. Epoch AI estimates it draws 237 MW today and 474 MW when finished."
 }

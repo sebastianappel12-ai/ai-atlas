@@ -22,5 +22,8 @@
   "confidence": "high",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Talen will sell Amazon up to 1,920 MW of power from the Susquehanna nuclear plant in Pennsylvania through 2042, delivered over the PJM grid instead of directly behind the meter. The companies did not state a dollar value (trade press cited an ~$18B Talen investor estimate, not used here). Plant: Susquehanna Steam Electric Station, Pennsylvania."
+  "explain": "Talen will sell Amazon up to 1,920 MW of power from the Susquehanna nuclear plant in Pennsylvania through 2042, delivered over the PJM grid instead of directly behind the meter. The companies did not state a dollar value (trade press cited an ~$18B Talen investor estimate, not used here). Plant: Susquehanna Steam Electric Station, Pennsylvania.",
+  "plant_ids": [
+    "6103"
+  ]
 }

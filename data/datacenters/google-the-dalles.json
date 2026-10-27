@@ -39,11 +39,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google The Dalles: current power 154 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google The Dalles is an operating AI data center in The Dalles, OR, owned by google. Epoch AI estimates it draws 154 MW today and 185 MW when finished."
 }

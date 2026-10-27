@@ -23,27 +23,27 @@
   "timeline": [
     {
       "date": "2024-03-04",
-      "event": "[AWS](https://www.sec.gov/Archives/edgar/data/1622536/000162828025023501/tln-20250331.htm) acquires the Cumulus/Talen building campus for $650M."
+      "event": "AWS acquires the Cumulus/Talen building campus for $650M."
     },
     {
       "date": "2024-06-01",
-      "event": "Building 1 fit out and related construction begins under Amazon, based on the [Susquehanna River Basin Commission](https://www.srbc.gov/waav/search/GetPending?documentType=Application&isABRe=false&projectNumber=2024-056) (SRBC) schedule."
+      "event": "Building 1 fit out and related construction begins under Amazon, based on the Susquehanna River Basin Commission (SRBC) schedule."
     },
     {
       "date": "2025-09-09",
-      "event": "Building 1 operational estimate. According to [Google Earth Satellite Imagery](https://earth.google.com/web/search/Berwick,+PA/@41.08459175,-76.14321499,203.05778839a,756.59305105d,35y,0h,0t,0r/data=CiwiJgokCYCDFkPTLDRAEX6DFkPTLDTAGUGoL_2-p"
+      "event": "Building 1 operational estimate. According to Google Earth Satellite Imagery from this date, Building 1 appears structurally complete and likely operational, while Building 2 is still missing two generators."
     },
     {
       "date": "2026-01-07",
-      "event": "Building 2 operational estimate. This is based on the progress visible in the September 2025 image. [The DEP](https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol56/56-4/56-4.pdf) also issues an air plan approval to add 48 more emer"
+      "event": "Building 2 operational estimate. This is based on the progress visible in the September 2025 image. The DEP also issues an air plan approval to add 48 more emergency generators on this date."
     },
     {
       "date": "2026-03-12",
-      "event": "[The SRBC](https://www.srbc.gov/waav/Search/getdocket?documenttype=Approval&isabre=False&projectnumber=20260301) increases approved water use from 0.060 MGD to 0.129 MGD. This supports that some expansion is happening, but does not explicit"
+      "event": "The SRBC increases approved water use from 0.060 MGD to 0.129 MGD. This supports that some expansion is happening, but does not explicitly prove a third operational building."
     },
     {
       "date": "2026-05-05",
-      "event": "Buildings 1 and 2 visibly complete and operational. Building 3 appears complete and may be commissioning, but it's likely not operational yet given the immediate surrounding construction work. Several additional building shells and pads are"
+      "event": "Buildings 1 and 2 visibly complete and operational. Building 3 appears complete and may be commissioning, but it's likely not operational yet given the immediate surrounding construction work. Several additional building shells and pads…"
     },
     {
       "date": "2026-08-01",
@@ -59,11 +59,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "AWS Berwick: current power 108 MW; owner Amazon."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "AWS Berwick is an operating AI data center in Berwick, PA, owned by amazon. Epoch AI estimates it draws 108 MW today and 212 MW when finished."
 }

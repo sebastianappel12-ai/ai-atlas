@@ -23,11 +23,11 @@
   "timeline": [
     {
       "date": "2019-10-19",
-      "event": "Land clearing begins by Peterson Companies for Stack Infrastructure, which is noted in the [news](https://www.bisnow.com/washington-dc/news/data-center/peterson-cos-partnering-to-build-4m-sf-data-center-campus-in-manassas-102646) and visibl"
+      "event": "Land clearing begins by Peterson Companies for Stack Infrastructure, which is noted in the news and visible on satellite imagery."
     },
     {
       "date": "2024-10-01",
-      "event": "Building 1 is operational, which is assumed to be three months after the last backup diesel generators are finished. The generators were first seen to be finished July 1 from satellite imagery [(a clear image of this can be seen on July 29 "
+      "event": "Building 1 is operational, which is assumed to be three months after the last backup diesel generators are finished. The generators were first seen to be finished July 1 from satellite imagery (a clear image of this can be seen on July 29…"
     },
     {
       "date": "2026-02-14",
@@ -35,7 +35,7 @@
     },
     {
       "date": "2028-01-01",
-      "event": "Estimate: All 6 AI data center buildings will be finished in 2028, assuming a groundbreak-to-operational timeline of 18-24 months. One is complete, three are clearly under construction, and the last two data centers are still breaking groun"
+      "event": "Estimate: All 6 AI data center buildings will be finished in 2028, assuming a groundbreak-to-operational timeline of 18-24 months. One is complete, three are clearly under construction, and the last two data centers are still breaking…"
     }
   ],
   "epoch_id": "STACK Infrastructure NVA02",
@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "STACK Infrastructure NVA02: current power 85 MW; owner unlisted."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "STACK Infrastructure NVA02 is an operating AI data center in Manassas, VA, owned by stack-infrastructure. Epoch AI estimates it draws 85 MW today and 487 MW when finished."
 }

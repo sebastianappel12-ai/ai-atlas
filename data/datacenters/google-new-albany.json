@@ -31,7 +31,7 @@
     },
     {
       "date": "2025-06-01",
-      "event": "Building 3 is operational, based on all cooling units and tanks installed, minimal construction work around the building. Building 4 still has some work around the cooling towers. Work is underway on Building 5 - some walls and a few backup"
+      "event": "Building 3 is operational, based on all cooling units and tanks installed, minimal construction work around the building. Building 4 still has some work around the cooling towers. Work is underway on Building 5 - some walls and a few…"
     },
     {
       "date": "2025-10-14",
@@ -55,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google New Albany: current power 333 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google New Albany is an operating AI data center in New Albany, OH, owned by google. Epoch AI estimates it draws 333 MW today and 400 MW when finished."
 }

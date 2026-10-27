@@ -31,7 +31,7 @@
     },
     {
       "date": "2025-11-19",
-      "event": "The substation is still under construction, based on a [Google Earth image](https://earth.google.com/web/@37.48033002,-77.25002949,65.53442036a,2152.9927926d,30.00094375y,-0.00000001h,0.59169466t,0r/data=CgwqBggBEgAYAUICCAEyKQonCiUKITFZU1hJ"
+      "event": "The substation is still under construction, based on a Google Earth image, so we don't think any buildings are operational yet."
     },
     {
       "date": "2025-12-31",
@@ -39,7 +39,7 @@
     },
     {
       "date": "2026-02-13",
-      "event": "Building 1 is operational, based on the substation being completed earlier and cars in the carpark. Building 2 and 3 are not operational, based on minor construction work at the perimeter and no cars in the carpark, but we expect they will "
+      "event": "Building 1 is operational, based on the substation being completed earlier and cars in the carpark. Building 2 and 3 are not operational, based on minor construction work at the perimeter and no cars in the carpark, but we expect they will…"
     },
     {
       "date": "2026-05-14",
@@ -55,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "QTS Richmond 3: current power 144 MW; owner unlisted."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "QTS Richmond 3 is an operating AI data center in Sandston, VA, owned by qts. Epoch AI estimates it draws 144 MW today and 336 MW when finished."
 }

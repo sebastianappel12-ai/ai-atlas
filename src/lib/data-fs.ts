@@ -52,7 +52,7 @@ export function readPlantIds(): Set<string> | undefined {
   return new Set(rows.plants.map((p) => p.id));
 }
 
-export function writeJson(file: string, data: unknown) {
+export function writeJson(file: string, data: unknown, opts: { compact?: boolean } = {}) {
   fs.mkdirSync(path.dirname(file), { recursive: true });
-  fs.writeFileSync(file, JSON.stringify(data, null, 2) + "\n");
+  fs.writeFileSync(file, (opts.compact ? JSON.stringify(data) : JSON.stringify(data, null, 2)) + "\n");
 }

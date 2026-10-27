@@ -96,5 +96,5 @@ writeJson(path.join(ROOT, "public/data/graph.json"), {
   range: { from: dates[0] ?? "2019-01-01", to: new Date().toISOString().slice(0, 10) },
   companies: outCompanies,
   deals: deals.sort((a: Deal, b: Deal) => a.date.localeCompare(b.date)),
-});
+}, { compact: true });
 console.log(`build-graph: ${outCompanies.length} companies, ${deals.length} deals${usingSample ? " (SAMPLE DATA)" : ""}`);

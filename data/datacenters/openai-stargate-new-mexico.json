@@ -33,11 +33,11 @@
     },
     {
       "date": "2026-06-22",
-      "event": "Construction has advanced significantly since February 2026. We observe extensive earthworks and multiple graded building pads across the campus, with structural work underway on the main data center buildings. A large solar array and water"
+      "event": "Construction has advanced significantly since February 2026. We observe extensive earthworks and multiple graded building pads across the campus, with structural work underway on the main data center buildings. A large solar array and…"
     },
     {
       "date": "2028-12-31",
-      "event": "Estimated construction completion date of the site. Stormwater permitting says 2027-12-31 for stormwater construction to finish, but for a more conservative estimate and based on the current state of the site, we pushed the final date by a "
+      "event": "Estimated construction completion date of the site. Stormwater permitting says 2027-12-31 for stormwater construction to finish, but for a more conservative estimate and based on the current state of the site, we pushed the final date by a…"
     }
   ],
   "epoch_id": "OpenAI Stargate New Mexico",
@@ -45,11 +45,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "OpenAI Stargate New Mexico: current power 0 MW; owner Oracle."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "OpenAI Stargate New Mexico is an under-construction AI data center in Doña Ana County, NM, owned by oracle and used by openai. Epoch AI estimates it draws 0 MW today and 2,450 MW when finished."
 }

@@ -31,7 +31,7 @@
     },
     {
       "date": "2026-08-19",
-      "event": "Building 2 has all cooling towers installed and is likely undergoing fit-out and commissioning. So we give it about 3 more months until it's operational. Building 3 appears to be slightly further than Building 2 was in March, so we estimate"
+      "event": "Building 2 has all cooling towers installed and is likely undergoing fit-out and commissioning. So we give it about 3 more months until it's operational. Building 3 appears to be slightly further than Building 2 was in March, so we…"
     },
     {
       "date": "2026-12-01",
@@ -59,11 +59,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Fort Wayne: current power 0 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Fort Wayne is an under-construction AI data center in Fort Wayne, IN, owned by google. Epoch AI estimates it draws 0 MW today and 1,035 MW when finished."
 }

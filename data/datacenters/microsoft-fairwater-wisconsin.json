@@ -29,7 +29,7 @@
     },
     {
       "date": "2025-09-26",
-      "event": "Building 1 cooling and backup generators all look complete from above but there is still construction visible around the building. Building 2 is well underway with a foundation and a complete substation. Large carpark and concrete area nort"
+      "event": "Building 1 cooling and backup generators all look complete from above but there is still construction visible around the building. Building 2 is well underway with a foundation and a complete substation. Large carpark and concrete area…"
     },
     {
       "date": "2026-01-28",
@@ -37,19 +37,19 @@
     },
     {
       "date": "2026-04-16",
-      "event": "Building 1 is operational. [X post](https://x.com/satyanadella/status/2044767391293509761?s=61) from Microsoft saying this date for Fairwater becoming operational."
+      "event": "Building 1 is operational. X post from Microsoft saying this date for Fairwater becoming operational."
     },
     {
       "date": "2026-05-15",
-      "event": "The main shell of Building 2 looks almost completed. In Area 2 (northwest of Buildings 1-2), the grading for the original design has been replaced with grading for the new [9-building design](https://www.mtpleasantwi.gov/AgendaCenter/ViewFi"
+      "event": "The main shell of Building 2 looks almost completed. In Area 2 (northwest of Buildings 1-2), the grading for the original design has been replaced with grading for the new 9-building design, making way for Buildings 3-11. Work continues on…"
     },
     {
       "date": "2027-02-20",
-      "event": "Building 2 is operational. This is estimated based on (1) the delay between Building 1 and Building 2 starting land clearing, (2) in March 2025, a Microsoft spokesperson [said](https://www.wpr.org/news/microsoft-pauses-construction-on-parts"
+      "event": "Building 2 is operational. This is estimated based on (1) the delay between Building 1 and Building 2 starting land clearing, (2) in March 2025, a Microsoft spokesperson said “fully on track” with the first phase , where “southern…"
     },
     {
       "date": "2028-05-13",
-      "event": "Buildings 3-11 are estimated to be operational. The grading for this revised 9-building plan was underway in May 2026, and we assume an average 2-year [build time](https://epoch.ai/data-insights/data-centers-buildout-speeds) from that point"
+      "event": "Buildings 3-11 are estimated to be operational. The grading for this revised 9-building plan was underway in May 2026, and we assume an average 2-year build time from that point."
     }
   ],
   "epoch_id": "Microsoft Fairwater Wisconsin",
@@ -57,11 +57,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Microsoft Fairwater Wisconsin: current power 369 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Microsoft Fairwater Wisconsin is an operating AI data center in Mount Pleasant, WI, owned by microsoft and used by openai. Epoch AI estimates it draws 369 MW today and 2,715 MW when finished."
 }

@@ -19,7 +19,9 @@
   },
   "est_cost_usd": 61823424000,
   "grid_region": "MISO",
-  "power_deal_ids": [],
+  "power_deal_ids": [
+    "meta-entergy-hyperion-gas-plants-2025"
+  ],
   "timeline": [
     {
       "date": "2024-12-20",
@@ -27,7 +29,7 @@
     },
     {
       "date": "2025-10-19",
-      "event": "Foundations are underway for the main buildings, and the overall layout aligns with the [architectural renderings](https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/) published in "
+      "event": "Foundations are underway for the main buildings, and the overall layout aligns with the architectural renderings published in 2025."
     },
     {
       "date": "2026-04-19",
@@ -35,11 +37,11 @@
     },
     {
       "date": "2026-12-01",
-      "event": "New [power stations](https://drive.google.com/file/d/1D4eUHwEuirNi0g3IU_xGOti3PcC8fcXi/view?usp=sharing) are in service for a 1.8 GW load at Holly Ridge. However, the data center is still not operational."
+      "event": "New power stations are in service for a 1.8 GW load at Holly Ridge. However, the data center is still not operational."
     },
     {
       "date": "2028-01-01",
-      "event": "First phase is operational, based on a [Meta blog post](https://drive.google.com/file/d/1PmFNgOwkPepwjpGIbNUuPJP0LNgIqe7l/view?usp=sharing). We assume that this aligns with the three natural gas turbines being completed, for a total of 2262"
+      "event": "First phase is operational, based on a Meta blog post. We assume that this aligns with the three natural gas turbines being completed, for a total of 2262 MW capacity, but that these turbines have a backup role. This is close to the 1800…"
     }
   ],
   "epoch_id": "Meta Hyperion",
@@ -47,11 +49,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Meta Hyperion: current power 0 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Meta Hyperion is an under-construction AI data center in Holly Ridge, LA, owned by meta. Epoch AI estimates it draws 0 MW today and 2,203 MW when finished."
 }

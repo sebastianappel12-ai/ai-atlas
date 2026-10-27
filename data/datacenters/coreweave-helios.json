@@ -23,31 +23,31 @@
   "timeline": [
     {
       "date": "2025-05-31",
-      "event": "The former [crypto mining](https://web.archive.org/web/20250423225644/https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Commitment-with-CoreWeave-to-Host-Additional-Artificial-Intelligence-and-High-Performance-Computing-In"
+      "event": "The former crypto mining Helios site begins converting the first building and expanding, with land cleared for additional buildings."
     },
     {
       "date": "2025-08-27",
-      "event": "Backup generator pads and steel framing for chillers are visible, similar to the [3D renderings](https://www.galaxy.com/data-centers)."
+      "event": "Backup generator pads and steel framing for chillers are visible, similar to the 3D renderings."
     },
     {
       "date": "2026-04-04",
-      "event": "Building 1 appears substantially complete. The main white-roofed data hall is visible with exterior mechanical/electrical equipment rows installed on both sides, and adjacent generator/equipment pads plus laydown yards are active. A large g"
+      "event": "Building 1 appears substantially complete. The main white-roofed data hall is visible with exterior mechanical/electrical equipment rows installed on both sides, and adjacent generator/equipment pads plus laydown yards are active. A large…"
     },
     {
       "date": "2026-06-17",
-      "event": "Building 1 appears externally complete and likely Ready for Service, with all cooling/roofing/generators in place, but we're not labeling it operational yet due to visible surrounding yard/construction work. CoreWeave likely still needs tim"
+      "event": "Building 1 appears externally complete and likely Ready for Service, with all cooling/roofing/generators in place, but we're not labeling it operational yet due to visible surrounding yard/construction work. CoreWeave likely still needs…"
     },
     {
       "date": "2026-08-30",
-      "event": "Building 1 operational at full capacity. This is based on \"Phase I\", which is [expected](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx) to be operational by the end of "
+      "event": "Building 1 operational at full capacity. This is based on \"Phase I\", which is expected to be operational by the end of the first half of 2026. We added two months of overhead to account for remaining construction and/or installation of…"
     },
     {
       "date": "2028-01-01",
-      "event": "Building 2 and 3 are operational at full capacity. This corresponds to \"Phase II\", which is [expected](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx) to be delivered \"t"
+      "event": "Building 2 and 3 are operational at full capacity. This corresponds to \"Phase II\", which is expected to be delivered \"throughout 2027\". We assume it takes until the end of 2027 to reach full capacity."
     },
     {
       "date": "2029-01-01",
-      "event": "Building 4 operational at full capacity. This corresponds to \"Phase III\", which is [expected](https://investor.galaxy.com/news/news-details/2025/Galaxy-Announces-Third-Quarter-2025-Financial-Results/default.aspx) to be delivered \"starting i"
+      "event": "Building 4 operational at full capacity. This corresponds to \"Phase III\", which is expected to be delivered \"starting in 2028\". We assume it takes until the end of 2028 to reach full capacity."
     }
   ],
   "epoch_id": "Coreweave Helios",
@@ -55,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Coreweave Helios: current power 132 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Coreweave Helios is an operating AI data center in Afton, TX, owned by coreweave. Epoch AI estimates it draws 132 MW today and 800 MW when finished."
 }

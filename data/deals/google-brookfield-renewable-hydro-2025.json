@@ -28,5 +28,9 @@
   "confidence": "high",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Google signed 20-year power purchase agreements worth more than $3 billion for 670 MW from two Brookfield hydro dams in Pennsylvania, the first deals under a framework for up to 3,000 MW of hydro. The amount is a floor ('more than $3 billion'). Plants: Holtwood Hydroelectric Station and Safe Harbor Dam, Pennsylvania."
+  "explain": "Google signed 20-year power purchase agreements worth more than $3 billion for 670 MW from two Brookfield hydro dams in Pennsylvania, the first deals under a framework for up to 3,000 MW of hydro. The amount is a floor ('more than $3 billion'). Plants: Holtwood Hydroelectric Station and Safe Harbor Dam, Pennsylvania.",
+  "plant_ids": [
+    "3145",
+    "3175"
+  ]
 }

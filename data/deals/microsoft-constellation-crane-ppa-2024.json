@@ -28,5 +28,8 @@
   "confidence": "high",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Microsoft agreed to buy all the power from the shut-down Three Mile Island Unit 1 reactor in Pennsylvania for 20 years, which pays for Constellation to restart it (about 835 MW, expected online around 2028). Price not disclosed. Plant: Crane Clean Energy Center (Three Mile Island Unit 1), Pennsylvania."
+  "explain": "Microsoft agreed to buy all the power from the shut-down Three Mile Island Unit 1 reactor in Pennsylvania for 20 years, which pays for Constellation to restart it (about 835 MW, expected online around 2028). Price not disclosed. Plant: Crane Clean Energy Center (Three Mile Island Unit 1), Pennsylvania.",
+  "plant_ids": [
+    "8011"
+  ]
 }

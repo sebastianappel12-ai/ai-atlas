@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "OpenAI Stargate Shackelford: current power 0 MW; owner Oracle."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "OpenAI Stargate Shackelford is an under-construction AI data center in TX, TX, owned by oracle and used by openai. Epoch AI estimates it draws 0 MW today and 1,960 MW when finished."
 }

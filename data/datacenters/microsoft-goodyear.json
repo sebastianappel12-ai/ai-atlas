@@ -53,11 +53,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Microsoft Goodyear: current power 202 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Microsoft Goodyear is an operating AI data center in Goodyear, AZ, owned by microsoft and used by openai. Epoch AI estimates it draws 202 MW today and 263 MW when finished."
 }

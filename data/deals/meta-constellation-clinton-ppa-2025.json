@@ -28,5 +28,8 @@
   "confidence": "high",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Meta will buy the full 1,121 MW output of the Clinton nuclear plant in Illinois for 20 years starting June 2027, when a state subsidy ends, keeping the plant running and adding 30 MW via upgrades. Price not disclosed. Plant: Clinton Clean Energy Center (Clinton Power Station), Illinois."
+  "explain": "Meta will buy the full 1,121 MW output of the Clinton nuclear plant in Illinois for 20 years starting June 2027, when a state subsidy ends, keeping the plant running and adding 30 MW via upgrades. Price not disclosed. Plant: Clinton Clean Energy Center (Clinton Power Station), Illinois.",
+  "plant_ids": [
+    "204"
+  ]
 }

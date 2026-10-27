@@ -23,7 +23,7 @@
   "timeline": [
     {
       "date": "2024-11-18",
-      "event": "Core Scientific, CoreWeave, and Port Muskogee publicly announce groundbreaking for the 100 MW Muskogee HPC data center. Core Scientific [says](https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-por"
+      "event": "Core Scientific, CoreWeave, and Port Muskogee publicly announce groundbreaking for the 100 MW Muskogee HPC data center. Core Scientific says the site will provide about 70 MW of critical IT load for CoreWeave's NVIDIA GPUs."
     },
     {
       "date": "2026-04-09",
@@ -31,15 +31,15 @@
     },
     {
       "date": "2026-06-13",
-      "event": "Based on satellite imagery, Building 1 has completed construction, with adjacent land cleared for what we're assuming will have power substations/generators. We can assume Building 1 is not operational from all the yard work directly surrou"
+      "event": "Based on satellite imagery, Building 1 has completed construction, with adjacent land cleared for what we're assuming will have power substations/generators. We can assume Building 1 is not operational from all the yard work directly…"
     },
     {
       "date": "2026-12-31",
-      "event": "Estimating building 1 is operational by the end of the year, judging from the building currently completed, the completed power substation to the southwest. The surrounding yard work/construction will likely still take several months, judgi"
+      "event": "Estimating building 1 is operational by the end of the year, judging from the building currently completed, the completed power substation to the southwest. The surrounding yard work/construction will likely still take several months…"
     },
     {
       "date": "2027-12-31",
-      "event": "Core Scientific expects initial delivery of the second, unleased 82.5 MW Muskogee building in Q4 2027. Not signed to have CoreWeave GPUs as of yet, but may change in the future. Source: https://www.sec.gov/Archives/edgar/data/1839341/000162"
+      "event": "Core Scientific expects initial delivery of the second, unleased 82.5 MW Muskogee building in Q4 2027. Not signed to have CoreWeave GPUs as of yet, but may change in the future. Source…"
     }
   ],
   "epoch_id": "CoreWeave Muskogee OK",
@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "CoreWeave Muskogee OK: current power 0 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "CoreWeave Muskogee OK is an under-construction AI data center in OK, OK, owned by coreweave. Epoch AI estimates it draws 0 MW today and 181 MW when finished."
 }

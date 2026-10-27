@@ -22,5 +22,8 @@
   "confidence": "high",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Alongside buying the Cumulus data center campus in March 2024, AWS signed a fixed-price deal (initial term 18 years) to buy power directly from Talen's Susquehanna nuclear plant, ramping up to 960 MW. It was replaced in June 2025 by a larger 1,920 MW grid-connected PPA. Plant: Susquehanna Steam Electric Station, Pennsylvania."
+  "explain": "Alongside buying the Cumulus data center campus in March 2024, AWS signed a fixed-price deal (initial term 18 years) to buy power directly from Talen's Susquehanna nuclear plant, ramping up to 960 MW. It was replaced in June 2025 by a larger 1,920 MW grid-connected PPA. Plant: Susquehanna Steam Electric Station, Pennsylvania.",
+  "plant_ids": [
+    "6103"
+  ]
 }

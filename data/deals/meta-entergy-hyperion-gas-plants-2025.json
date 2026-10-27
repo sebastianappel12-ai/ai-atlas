@@ -27,5 +27,8 @@
   "confidence": "high",
   "last_checked": "2026-10-26",
   "added": "2026-10-26",
-  "explain": "Meta signed an electric service agreement with Entergy Louisiana for its Hyperion AI data center in Richland Parish. Entergy is building three combined-cycle gas units (2,262 MW total) plus a 500 kV line, with Meta contributing to the costs; Louisiana regulators approved the plan on August 20, 2025 (the date used here). Contract value not disclosed. Plants: three new Entergy Louisiana combined-cycle units, two near the Richland Parish site and one at the existing Waterford site (St. Charles Parish)."
+  "explain": "Meta signed an electric service agreement with Entergy Louisiana for its Hyperion AI data center in Richland Parish. Entergy is building three combined-cycle gas units (2,262 MW total) plus a 500 kV line, with Meta contributing to the costs; Louisiana regulators approved the plan on August 20, 2025 (the date used here). Contract value not disclosed. Plants: three new Entergy Louisiana combined-cycle units, two near the Richland Parish site and one at the existing Waterford site (St. Charles Parish).",
+  "datacenter_ids": [
+    "meta-hyperion"
+  ]
 }

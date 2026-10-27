@@ -23,27 +23,27 @@
   "timeline": [
     {
       "date": "2023-11-02",
-      "event": "Building 1 and 2 retrofitting has begun (see [Google Earth](https://earth.google.com/web/@37.48913637,-77.24705465,44.31788662a,1464.06665017d,30.00094375y,3.66969189h,0t,0r/data=ChYqEAgBEgoyMDIzLTExLTAyGAFCAggBMikKJwolCiExWVNYSWZQZkcydXVMY"
+      "event": "Building 1 and 2 retrofitting has begun (see Google Earth). Building 1 has chillers added to the roof and perimeter, and backup generators added to the perimeter."
     },
     {
       "date": "2024-01-29",
-      "event": "Building 1 (retrofitted) is operational. This is based on it looking complete, and cooling towers possibly showing water vapor plumes, in this [Google Earth image](https://earth.google.com/web/@37.4875167,-77.24806799,43.67572425a,2395.6622"
+      "event": "Building 1 (retrofitted) is operational. This is based on it looking complete, and cooling towers possibly showing water vapor plumes, in this Google Earth image. Building 2 has chillers added to the roof and perimeter, and backup…"
     },
     {
       "date": "2024-06-23",
-      "event": "Building 2 (retrofitted) is operational. This is based on Building 2 looking compelte, and construction around Building 1 and 2 being mostly cleared. A colored motion artifact on one of the Building 1 cooling tower fans suggests it is movin"
+      "event": "Building 2 (retrofitted) is operational. This is based on Building 2 looking compelte, and construction around Building 1 and 2 being mostly cleared. A colored motion artifact on one of the Building 1 cooling tower fans suggests it is…"
     },
     {
       "date": "2025-02-04",
-      "event": "Building 3 is operational, based on the building looking complete and the carpark to the south being full. Three more backup generators added to the Building 1 and 2 area, with a lot more construction equipment again (but this could be a la"
+      "event": "Building 3 is operational, based on the building looking complete and the carpark to the south being full. Three more backup generators added to the Building 1 and 2 area, with a lot more construction equipment again (but this could be a…"
     },
     {
       "date": "2025-06-03",
-      "event": "Building 4 is operational, based on a complete building and full carpark in a [Google Earth image](https://earth.google.com/web/@37.48350155,-77.25010039,60.24751599a,83.68032361d,30.00094375y,3.66969189h,0t,0r/data=CgwqBggBEgAYAUICCAEyKQon"
+      "event": "Building 4 is operational, based on a complete building and full carpark in a Google Earth image. Building 5 does not seem quite operational given the empty carpark and construction activity at the perimeter."
     },
     {
       "date": "2025-11-19",
-      "event": "Building 5 is operational, based on a complete building and full carpark in a [Google Earth image](https://earth.google.com/web/@37.48747566,-77.2485616,47.03705985a,2549.72172121d,30.00094375y,3.66969189h,0t,0r/data=ChYqEAgBEgoyMDI1LTExLTE"
+      "event": "Building 5 is operational, based on a complete building and full carpark in a Google Earth image. Construction equipment around Building 1 and 2 has cleared up again."
     },
     {
       "date": "2025-12-31",
@@ -59,11 +59,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "QTS Richmond 1: current power 238 MW; owner unlisted."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "QTS Richmond 1 is an operating AI data center in Sandston, VA, owned by qts. Epoch AI estimates it draws 238 MW today and 333 MW when finished."
 }

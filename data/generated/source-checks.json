@@ -1,0 +1,3632 @@
+{
+  "checked": "2026-10-27",
+  "summary": {
+    "deals": 365,
+    "verified": 365,
+    "sources": {
+      "found": 516,
+      "error": 1
+    }
+  },
+  "checks": {
+    "amazon-anthropic-investment-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2023",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-aws-anthropic-ai",
+      "checked": "2026-10-27"
+    },
+    "amd-micron-hbm3e-mi350-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-micron-hbm3e-mi350-2025",
+      "url": "https://www.micron.com/products/memory/hbm/hbm3e",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-investment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2026",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/amazon-and-anthropic-deepen-ties-with-investment-and-hardware-pact/",
+      "checked": "2026-10-27"
+    },
+    "amazon-intel-custom-ai-chips-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-intel-custom-ai-chips-2024",
+      "url": "https://www.intc.com/news-events/press-releases/detail/1709/intel-and-aws-expand-strategic-collaboration-helping",
+      "checked": "2026-10-27"
+    },
+    "amd-tensorwave-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-tensorwave-investment-2025",
+      "url": "https://www.silicon.co.uk/press-release/tensorwave-secures-100-million-series-a-funding-co-led-by-magnetar-and-amd-ventures",
+      "checked": "2026-10-27"
+    },
+    "nvidia-micron-hbm3e-h200-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-micron-hbm3e-h200-2024",
+      "url": "https://www.micron.com/products/memory/hbm/hbm3e",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-investment-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2023",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment",
+      "checked": "2026-10-27"
+    },
+    "aep-bloom-energy-fuel-cells-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "aep-bloom-energy-fuel-cells-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/aep-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "amd-tensorwave-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-tensorwave-investment-2026",
+      "url": "https://pulse2.com/tensorwave-raises-350-million-series-b-at-1-55-billion-valuation-to-expand-amd-powered-ai-infrastructure/",
+      "checked": "2026-10-27"
+    },
+    "amd-thinking-machines-lab-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-thinking-machines-lab-investment-2025",
+      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
+      "checked": "2026-10-27"
+    },
+    "supermicro-lambda-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "supermicro-lambda-investment-2025",
+      "url": "https://www.silicon.co.uk/press-release/lambda-raises-480m-to-expand-ai-cloud-platform",
+      "checked": "2026-10-27"
+    },
+    "amd-tsmc-arizona-n2-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-tsmc-arizona-n2-2025",
+      "url": "https://newsroom.amd.com/news/amd-achieves-first-tsmc-n2-product-silicon-milesto/",
+      "checked": "2026-10-27"
+    },
+    "aep-bloom-energy-fuel-cells-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "aep-bloom-energy-fuel-cells-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "anthropic-amazon-aws-expansion-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-amazon-aws-expansion-2026",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-invests-additional-5-billion-anthropic-ai",
+      "checked": "2026-10-27"
+    },
+    "eaton-fibrebond-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "eaton-fibrebond-acquisition-2025",
+      "url": "https://pulse2.com/eaton-signs-deal-to-buy-fibrebond-for-1-4-billion/",
+      "checked": "2026-10-27"
+    },
+    "andreessen-horowitz-safe-superintelligence-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "andreessen-horowitz-safe-superintelligence-2024",
+      "url": "https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/",
+      "checked": "2026-10-27"
+    },
+    "humain-amd-ai-compute-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "humain-amd-ai-compute-2025",
+      "url": "https://newsroom.amd.com/news/amd-and-humain-form-strategic-10b-collaboration/",
+      "checked": "2026-10-27"
+    },
+    "anthropic-amazon-aws-training-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-amazon-aws-training-2024",
+      "url": "https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai",
+      "checked": "2026-10-27"
+    },
+    "andreessen-horowitz-thinking-machines-lab-seed-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "andreessen-horowitz-thinking-machines-lab-seed-2025",
+      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-reflection-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-reflection-ai-investment-2025",
+      "url": "https://pulse2.com/reflection-ai-secures-2-billion-series-b-for-building-autonomous-coding-agents-and-frontier-models",
+      "checked": "2026-10-27"
+    },
+    "amd-vultr-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-vultr-investment-2024",
+      "url": "https://siliconangle.com/2024/12/18/amd-backs-333m-funding-round-cloud-infrastructure-provider-vultr/",
+      "checked": "2026-10-27"
+    },
+    "oracle-amd-mi450-supercluster-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-amd-mi450-supercluster-2025",
+      "url": "https://newsroom.amd.com/news/oracle-and-amd-expand-partnership-to-help-customers-ach/",
+      "checked": "2026-10-27"
+    },
+    "aep-bloom-energy-wyoming-fuel-cells-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "aep-bloom-energy-wyoming-fuel-cells-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/aep-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "cisco-thinking-machines-lab-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "cisco-thinking-machines-lab-investment-2025",
+      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-reflection-ai-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-reflection-ai-investment-2025",
+      "url": "https://pulse2.com/reflection-ai-secures-2-billion-series-b-for-building-autonomous-coding-agents-and-frontier-models",
+      "checked": "2026-10-27"
+    },
+    "openai-amazon-aws-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-amazon-aws-2025",
+      "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+      "checked": "2026-10-27"
+    },
+    "aep-bloom-energy-wyoming-fuel-cells-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "aep-bloom-energy-wyoming-fuel-cells-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000011/a4q20258kpressreleaseex991.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-google-tpu-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-google-tpu-2026",
+      "url": "https://siliconangle.com/2026/02/26/google-meta-reportedly-strike-new-multibillion-dollar-ai-chip-deal/",
+      "checked": "2026-10-27"
+    },
+    "amd-vultr-investment-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-vultr-investment-2024",
+      "url": "https://refreshmiami.com/news/with-3-5b-valuation-vultr-raises-333-million-to-expand-ai-infrastructure/",
+      "checked": "2026-10-27"
+    },
+    "microsoft-mistral-ai-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-mistral-ai-investment-2024",
+      "url": "https://techcrunch.com/2024/02/27/microsoft-made-a-16-million-investment-in-mistral-ai/",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-financing-facility-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-financing-facility-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "andreessen-horowitz-safe-superintelligence-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "andreessen-horowitz-safe-superintelligence-2025",
+      "url": "https://www.maginative.com/article/sutskevers-safe-superintelligence-raises-another-2b-at-32b-valuation/",
+      "checked": "2026-10-27"
+    },
+    "xai-nvidia-colossus-2-gpus-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "xai-nvidia-colossus-2-gpus-2025",
+      "url": "https://siliconangle.com/2025/10/06/xai-will-reportedly-spend-18b-nvidia-chips-colossus-2/",
+      "checked": "2026-10-27"
+    },
+    "anthropic-amazon-aws-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-amazon-aws-2023",
+      "url": "https://press.aboutamazon.com/2023/9/amazon-and-anthropic-announce-strategic-collaboration-to-advance-generative-ai",
+      "checked": "2026-10-27"
+    },
+    "andreessen-horowitz-xai-series-b-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "andreessen-horowitz-xai-series-b-2024",
+      "url": "https://x.ai/news/series-b",
+      "checked": "2026-10-27"
+    },
+    "microsoft-openai-investment-2019#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-openai-investment-2019",
+      "url": "https://techcrunch.com/2019/07/22/microsoft-invests-1-billion-in-openai-in-new-multiyear-partnership/",
+      "checked": "2026-10-27"
+    },
+    "greenoaks-safe-superintelligence-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "greenoaks-safe-superintelligence-2025",
+      "url": "https://www.maginative.com/article/sutskevers-safe-superintelligence-raises-another-2b-at-32b-valuation/",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-financing-facility-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-financing-facility-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "anthropic-broadcom-tpu-racks-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-broadcom-tpu-racks-2025",
+      "url": "https://www.sdxcentral.com/news/broadcom-bulges-with-anthropic-ai-orders/",
+      "checked": "2026-10-27"
+    },
+    "blackrock-xai-series-c-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackrock-xai-series-c-2024",
+      "url": "https://x.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "nvidia-thinking-machines-lab-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-thinking-machines-lab-investment-2025",
+      "url": "https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/",
+      "checked": "2026-10-27"
+    },
+    "anthropic-amazon-aws-expansion-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-amazon-aws-expansion-2026",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "checked": "2026-10-27"
+    },
+    "microsoft-inflection-ai-licensing-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-inflection-ai-licensing-2024",
+      "url": "https://www.maginative.com/article/microsoft-reportedly-paying-inflection-650-million-for-ai-talent-and-tech/",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-investment-2023#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "anthropic-broadcom-tpu-racks-followon-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-broadcom-tpu-racks-followon-2025",
+      "url": "https://www.sdxcentral.com/news/broadcom-bulges-with-anthropic-ai-orders/",
+      "checked": "2026-10-27"
+    },
+    "openai-stargate-equity-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-stargate-equity-2025",
+      "url": "https://techcrunch.com/2025/01/23/openai-and-softbank-are-reportedly-putting-19b-each-into-stargate/",
+      "checked": "2026-10-27"
+    },
+    "cisco-xai-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "cisco-xai-investment-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "anthropic-fluidstack-data-centers-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-fluidstack-data-centers-2025",
+      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-nvidia-gb200-abilene-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-nvidia-gb200-abilene-2025",
+      "url": "https://www.sdxcentral.com/news/oracle-to-spend-40bn-on-nvidia-chips-for-openai-texas-data-center-sdx/",
+      "checked": "2026-10-27"
+    },
+    "anthropic-fluidstack-data-centers-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-fluidstack-data-centers-2025",
+      "url": "https://fluidstack.io/news/fluidstack-selected-by-anthropic-to-deliver-custom-data-centers-in-the-us",
+      "checked": "2026-10-27"
+    },
+    "safe-superintelligence-google-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "safe-superintelligence-google-cloud-2025",
+      "url": "https://techcrunch.com/2025/04/09/ilya-sutskever-taps-google-cloud-to-power-his-ai-startups-research/",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-investment-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "fidelity-xai-series-e-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fidelity-xai-series-e-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "anthropic-google-tpu-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-google-tpu-2025",
+      "url": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
+      "checked": "2026-10-27"
+    },
+    "sequoia-safe-superintelligence-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "sequoia-safe-superintelligence-2024",
+      "url": "https://techcrunch.com/2024/09/04/ilya-sutskevers-startup-safe-super-intelligence-raises-1b/",
+      "checked": "2026-10-27"
+    },
+    "mgx-xai-series-c-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mgx-xai-series-c-2024",
+      "url": "https://x.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "anthropic-google-tpu-expansion-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-google-tpu-expansion-2026",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "checked": "2026-10-27"
+    },
+    "anthropic-google-tpu-expansion-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-google-tpu-expansion-2026",
+      "url": "https://idahobusinessreview.com/2026/05/06/anthropic-commits-200-billion-google-cloud-chip-capacity/",
+      "checked": "2026-10-27"
+    },
+    "anthropic-google-cloud-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-google-cloud-2023",
+      "url": "https://www.googlecloudpresscorner.com/2023-02-03-Anthropic-Forges-Partnership-With-Google-Cloud-to-Help-Deliver-Reliable-and-Responsible-AI",
+      "checked": "2026-10-27"
+    },
+    "amazon-anthropic-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-anthropic-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "mgx-xai-series-e-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mgx-xai-series-e-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "anthropic-microsoft-azure-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-microsoft-azure-2025",
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "checked": "2026-10-27"
+    },
+    "coatue-anthropic-series-g-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coatue-anthropic-series-g-2026",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "apple-amkor-arizona-packaging-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-amkor-arizona-packaging-2023",
+      "url": "https://hothardware.com/news/us-chip-company-scores-apple-as-customer",
+      "checked": "2026-10-27"
+    },
+    "amazon-cerebras-aws-inference-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-cerebras-aws-inference-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026035214/cerebras-424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "anthropic-google-tpu-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-google-tpu-2025",
+      "url": "https://www.googlecloudpresscorner.com/2025-10-23-Anthropic-to-Expand-Use-of-Google-Cloud-TPUs-and-Services",
+      "checked": "2026-10-27"
+    },
+    "nvidia-xai-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-xai-investment-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "amazon-cipher-mining-black-pearl-lease-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-cipher-mining-black-pearl-lease-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000110/nov3_earningspressreleasex.htm",
+      "checked": "2026-10-27"
+    },
+    "fidelity-anthropic-series-f-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fidelity-anthropic-series-f-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "microsoft-anthropic-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-anthropic-investment-2025",
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "checked": "2026-10-27"
+    },
+    "amazon-cipher-mining-stingray-lease-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-cipher-mining-stingray-lease-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010326008635/dp248110_ex9901.htm",
+      "checked": "2026-10-27"
+    },
+    "qatar-investment-authority-xai-series-c-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qatar-investment-authority-xai-series-c-2024",
+      "url": "https://x.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "amazon-intel-packaging-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-intel-packaging-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312521224438/d199788dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "microsoft-openai-investment-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-openai-investment-2023",
+      "url": "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/",
+      "checked": "2026-10-27"
+    },
+    "founders-fund-anthropic-series-g-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "founders-fund-anthropic-series-g-2026",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "amazon-marvell-aws-5yr-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-marvell-aws-5yr-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000193/final2024_12x02xmarvell-.htm",
+      "checked": "2026-10-27"
+    },
+    "character-ai-google-cloud-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "character-ai-google-cloud-2023",
+      "url": "https://www.googlecloudpresscorner.com/2023-05-10-Character-AI-and-Google-Cloud-Partner-to-Build-the-Next-Generation-of-Conversational-AI",
+      "checked": "2026-10-27"
+    },
+    "amazon-openai-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-openai-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/tm267374d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "qatar-investment-authority-xai-series-e-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qatar-investment-authority-xai-series-e-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "apple-amkor-arizona-packaging-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-amkor-arizona-packaging-2023",
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "checked": "2026-10-27"
+    },
+    "gic-anthropic-series-g-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "gic-anthropic-series-g-2026",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "amazon-openai-investment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-openai-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-anthropic-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-anthropic-investment-2025",
+      "url": "https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/",
+      "checked": "2026-10-27"
+    },
+    "apple-google-gemini-licensing-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-google-gemini-licensing-2026",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/joint-statement-google-apple/",
+      "checked": "2026-10-27"
+    },
+    "sequoia-xai-series-b-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "sequoia-xai-series-b-2024",
+      "url": "https://x.ai/news/series-b",
+      "checked": "2026-10-27"
+    },
+    "amazon-talen-cumulus-campus-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-talen-cumulus-campus-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828024036935/tln-20240630.htm",
+      "checked": "2026-10-27"
+    },
+    "amazon-talen-cumulus-campus-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-talen-cumulus-campus-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828024038388/a20240826pressreleasecumul.htm",
+      "checked": "2026-10-27"
+    },
+    "gic-anthropic-series-g-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "gic-anthropic-series-g-2026",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "openai-microsoft-azure-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-microsoft-azure-2025",
+      "url": "https://blogs.microsoft.com/blog/2025/10/28/the-next-chapter-of-the-microsoft-openai-partnership/",
+      "checked": "2026-10-27"
+    },
+    "valor-equity-xai-series-b-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "valor-equity-xai-series-b-2024",
+      "url": "https://x.ai/news/series-b",
+      "checked": "2026-10-27"
+    },
+    "amazon-talen-susquehanna-ppa-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-talen-susquehanna-ppa-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025008786/tln-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "google-xcel-energy-minnesota-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-xcel-energy-minnesota-2026",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-pine-island/",
+      "checked": "2026-10-27"
+    },
+    "amazon-talen-susquehanna-ppa-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-talen-susquehanna-ppa-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1622536/000162828025030559/a20250611pressreleasebusin.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-broadcom-5g-components-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-broadcom-5g-components-2023",
+      "url": "https://www.apple.com/newsroom/2023/05/apple-announces-multibillion-dollar-deal-with-broadcom/",
+      "checked": "2026-10-27"
+    },
+    "openai-microsoft-azure-commitment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-microsoft-azure-commitment-2025",
+      "url": "https://blogs.microsoft.com/blog/2025/01/21/microsoft-and-openai-evolve-partnership-to-drive-the-next-phase-of-ai/",
+      "checked": "2026-10-27"
+    },
+    "gic-anthropic-series-h-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "gic-anthropic-series-h-2026",
+      "url": "https://www.anthropic.com/news/series-h",
+      "checked": "2026-10-27"
+    },
+    "valor-equity-xai-series-c-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "valor-equity-xai-series-c-2024",
+      "url": "https://x.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "apple-google-gemini-licensing-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-google-gemini-licensing-2026",
+      "url": "https://mezha.ua/en/news/nova-siri-vid-apple-pracyuvatime-na-bazi-google-gemini-306103/amp/",
+      "checked": "2026-10-27"
+    },
+    "amazon-x-energy-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-x-energy-investment-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/tm2527015-22_424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-microsoft-revenue-share-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-microsoft-revenue-share-2026",
+      "url": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+      "checked": "2026-10-27"
+    },
+    "valor-equity-xai-series-e-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "valor-equity-xai-series-e-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "amazon-x-energy-investment-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amazon-x-energy-investment-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/2088896/000110465926049515/tm2527015-22_424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-corning-cover-glass-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-corning-cover-glass-2025",
+      "url": "https://www.apple.com/newsroom/2025/08/apple-corning-to-manufacture-all-iphone-apple-watch-cover-glass-in-kentucky/",
+      "checked": "2026-10-27"
+    },
+    "amd-core-scientific-leases-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-core-scientific-leases-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000013/q22026corescientificinc-ea.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-google-gemini-licensing-2026#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-google-gemini-licensing-2026",
+      "url": "https://www.fool.com/investing/2026/06/26/apple-paying-google-billion-year-for-ai-winner/",
+      "checked": "2026-10-27"
+    },
+    "valor-equity-xai-series-e-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "valor-equity-xai-series-e-2026",
+      "url": "https://x.ai/news/series-e",
+      "checked": "2026-10-27"
+    },
+    "amd-core-scientific-leases-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-core-scientific-leases-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000012/amdpr.htm",
+      "checked": "2026-10-27"
+    },
+    "amd-globalfoundries-wafer-supply-2019#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-globalfoundries-wafer-supply-2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248819000004/a20190129q418earnings8-k.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-globalfoundries-us-manufacturing-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-globalfoundries-us-manufacturing-2025",
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "checked": "2026-10-27"
+    },
+    "amd-globalfoundries-wafer-supply-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-globalfoundries-wafer-supply-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248821000068/amd-20210513.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-tsmc-arizona-chips-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-tsmc-arizona-chips-2022",
+      "url": "https://www.cnbc.com/amp/2022/12/06/tim-cook-says-apple-will-use-chips-built-in-the-us-at-arizona-factory.html",
+      "checked": "2026-10-27"
+    },
+    "amd-globalfoundries-wafer-supply-amendment-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-globalfoundries-wafer-supply-amendment-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248821000205/amd-20211223.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-samsung-austin-chips-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-samsung-austin-chips-2025",
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "checked": "2026-10-27"
+    },
+    "asml-mistral-ai-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "asml-mistral-ai-investment-2025",
+      "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
+      "checked": "2026-10-27"
+    },
+    "amd-pensando-acquisition-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-pensando-acquisition-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/amd-20220326.htm",
+      "checked": "2026-10-27"
+    },
+    "apple-tsmc-arizona-chips-2022#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "apple-tsmc-arizona-chips-2022",
+      "url": "https://www.apple.com/newsroom/2025/08/apple-increases-us-commitment-to-600-billion-usd-announces-ambitious-program/",
+      "checked": "2026-10-27"
+    },
+    "amd-xilinx-acquisition-2020#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-xilinx-acquisition-2020",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312520277468/d67182dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-mistral-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-mistral-ai-investment-2025",
+      "url": "https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai",
+      "checked": "2026-10-27"
+    },
+    "amd-zt-systems-acquisition-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amd-zt-systems-acquisition-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312524202457/d808469dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "amphenol-commscope-ccs-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "amphenol-commscope-ccs-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465925073344/tm2522435d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-scale-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-scale-ai-investment-2025",
+      "url": "https://www.cnbc.com/2025/06/12/scale-ai-founder-wang-announces-exit-for-meta-part-of-14-billion-deal.html",
+      "checked": "2026-10-27"
+    },
+    "blackrock-aligned-data-centers-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackrock-aligned-data-centers-acquisition-2025",
+      "url": "https://w.media/ai-infrastructure-consortium-acquires-aligned-data-centers-for-us-40-billion/",
+      "checked": "2026-10-27"
+    },
+    "amphenol-commscope-ccs-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "amphenol-commscope-ccs-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465926036173/aph-20260109x8ka.htm",
+      "checked": "2026-10-27"
+    },
+    "blackstone-coreweave-debt-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackstone-coreweave-debt-2023",
+      "url": "https://www.sfnet.com/home/chapters/canada/news-detail/2023/08/07/coreweave-secures-2.3-billion-debt-financing-facility-led-by-magnetar-capital-and-blackstone",
+      "checked": "2026-10-27"
+    },
+    "anthropic-amazon-aws-expansion-2026#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-amazon-aws-expansion-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "anthropic-broadcom-3-5gw-tpu-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-broadcom-3-5gw-tpu-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/d87999d8k.htm",
+      "checked": "2026-10-27"
+    },
+    "blue-owl-meta-hyperion-jv-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blue-owl-meta-hyperion-jv-2025",
+      "url": "https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center/",
+      "checked": "2026-10-27"
+    },
+    "blue-owl-crusoe-abilene-jv-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blue-owl-crusoe-abilene-jv-2024",
+      "url": "https://crusoe.ai/newsroom/crusoe-blue-owl-capital-primary-digital-joint-venture/",
+      "checked": "2026-10-27"
+    },
+    "anthropic-terawulf-justified-data-lease-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "anthropic-terawulf-justified-data-lease-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "apollo-intel-fab34-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "apollo-intel-fab34-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000103/a06042024form8-kex991.htm",
+      "checked": "2026-10-27"
+    },
+    "blue-owl-meta-hyperion-jv-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "blue-owl-meta-hyperion-jv-2025",
+      "url": "https://about.fb.com/news/2025/10/meta-blue-owl-capital-develop-hyperion-data-center/",
+      "checked": "2026-10-27"
+    },
+    "microsoft-coreweave-cloud-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-coreweave-cloud-2023",
+      "url": "https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html",
+      "checked": "2026-10-27"
+    },
+    "applied-materials-kokusai-electric-acquisition-2019#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "applied-materials-kokusai-electric-acquisition-2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312519186522/d11288d8k.htm",
+      "checked": "2026-10-27"
+    },
+    "blackrock-aligned-data-centers-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackrock-aligned-data-centers-acquisition-2025",
+      "url": "https://w.media/aip-led-consortium-completes-us-40-billion-acquisition-of-aligned-data-centers/",
+      "checked": "2026-10-27"
+    },
+    "blue-owl-crusoe-abilene-jv-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blue-owl-crusoe-abilene-jv-2025",
+      "url": "https://crusoe.ai/newsroom/crusoe-blue-owl-capital-and-primary-digital-infrastructure-enter-joint-venture/",
+      "checked": "2026-10-27"
+    },
+    "applied-materials-kokusai-electric-acquisition-2019#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "applied-materials-kokusai-electric-acquisition-2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312519186522/d11288dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "applied-materials-kokusai-electric-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "applied-materials-kokusai-electric-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000000695121000013/amat-20210131.htm",
+      "checked": "2026-10-27"
+    },
+    "applied-materials-kokusai-electric-acquisition-2021#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "applied-materials-kokusai-electric-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/6951/000119312521097484/d165560dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "crusoe-vast-data-shared-disks-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "crusoe-vast-data-shared-disks-2024",
+      "url": "https://crusoe.ai/newsroom/crusoe-vast-data-to-deliver-high-performance-data/",
+      "checked": "2026-10-27"
+    },
+    "microsoft-helion-fusion-ppa-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-helion-fusion-ppa-2023",
+      "url": "https://www.cnbc.com/2023/05/10/microsoft-agrees-to-buy-power-from-sam-altman-backed-helion-in-2028.html",
+      "checked": "2026-10-27"
+    },
+    "mgx-aligned-data-centers-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mgx-aligned-data-centers-acquisition-2025",
+      "url": "https://w.media/aip-led-consortium-completes-us-40-billion-acquisition-of-aligned-data-centers/",
+      "checked": "2026-10-27"
+    },
+    "meta-oklo-pike-county-prepayment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-oklo-pike-county-prepayment-2026",
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "checked": "2026-10-27"
+    },
+    "compass-datacenters-schneider-electric-supply-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "compass-datacenters-schneider-electric-supply-2023",
+      "url": "https://www.se.com/ww/en/about-us/newsroom/news/press-releases/schneider-electric-and-compass-datacenters-expand-partnership-with-3-billion-multi-year-data-center-technology-agreement-654b5f241ed6be922f0f0563/",
+      "checked": "2026-10-27"
+    },
+    "greenoaks-anthropic-series-h-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "greenoaks-anthropic-series-h-2026",
+      "url": "https://www.anthropic.com/news/series-h",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-investment-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-investment-2023",
+      "url": "https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html",
+      "checked": "2026-10-27"
+    },
+    "asml-mistral-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "asml-mistral-ai-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "coreweave-galaxy-digital-helios-phase1-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-galaxy-digital-helios-phase1-2025",
+      "url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+      "checked": "2026-10-27"
+    },
+    "digital-realty-schneider-electric-supply-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "digital-realty-schneider-electric-supply-2025",
+      "url": "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-and-digital-realty-announce-373m-supply-capacity-agreement-to-meet-rising-data-center-demand-691d192005c0c16f5902ca3c",
+      "checked": "2026-10-27"
+    },
+    "iconiq-anthropic-series-f-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "iconiq-anthropic-series-f-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "coreweave-galaxy-digital-helios-phase2-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-galaxy-digital-helios-phase2-2025",
+      "url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+      "checked": "2026-10-27"
+    },
+    "blackstone-coreweave-debt-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackstone-coreweave-debt-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525058309/d899798ds1a.htm",
+      "checked": "2026-10-27"
+    },
+    "switch-schneider-electric-supply-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "switch-schneider-electric-supply-2025",
+      "url": "https://www.se.com/us/en/about-us/newsroom/news/press-releases/schneider-electric-and-switch-expand-partnership-with-1-9-billion-supply-capacity-agreement-to-power-ai-factories-691d16cc3a880bee320a9cc6/",
+      "checked": "2026-10-27"
+    },
+    "blackstone-qts-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "blackstone-qts-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1577368/000110465921111681/tm2126608d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-terrapower-natrium-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-terrapower-natrium-2026",
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "checked": "2026-10-27"
+    },
+    "iconiq-anthropic-series-f-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "iconiq-anthropic-series-f-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "coreweave-vast-data-platform-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-vast-data-platform-2023",
+      "url": "https://www.vastdata.com/press-releases/coreweave-selects-vast-data-platform-for-ai-cloud",
+      "checked": "2026-10-27"
+    },
+    "coreweave-galaxy-digital-helios-phase2-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-galaxy-digital-helios-phase2-2025",
+      "url": "https://www.galaxy.com/newsroom/galaxy-announces-commitment-with-coreweave",
+      "checked": "2026-10-27"
+    },
+    "crusoe-amd-mi355x-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "crusoe-amd-mi355x-2025",
+      "url": "https://whbl.com/?p=840489",
+      "checked": "2026-10-27"
+    },
+    "lightspeed-anthropic-series-e-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "lightspeed-anthropic-series-e-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "coreweave-galaxy-digital-helios-phase3-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-galaxy-digital-helios-phase3-2025",
+      "url": "https://www.galaxy.com/newsroom/galaxy-closes-helios-project-financing",
+      "checked": "2026-10-27"
+    },
+    "coreweave-vast-data-platform-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-vast-data-platform-2025",
+      "url": "https://www.vastdata.com/press-releases/vast-data-secures-commercial-partnership-deal-with-coreweave",
+      "checked": "2026-10-27"
+    },
+    "broadcom-anthropic-financing-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "broadcom-anthropic-financing-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "intel-sambanova-series-e-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-sambanova-series-e-2026",
+      "url": "https://whbl.com/2026/02/06/vista-equity-partners-and-intel-to-lead-investment-in-ai-chip-startup-sambanova-sources-say/",
+      "checked": "2026-10-27"
+    },
+    "crusoe-ge-vernova-turbines-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "crusoe-ge-vernova-turbines-2025",
+      "url": "https://www.gevernova.com/news/press-releases/ge-vernova-crusoe-announce-major-29-unit-aeroderivative-gas-turbine-deliver-ai-data-centers",
+      "checked": "2026-10-27"
+    },
+    "lightspeed-anthropic-series-e-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "lightspeed-anthropic-series-e-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "meta-vistra-nuclear-ppa-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-vistra-nuclear-ppa-2026",
+      "url": "https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/",
+      "checked": "2026-10-27"
+    },
+    "brookfield-bloom-energy-financing-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "brookfield-bloom-energy-financing-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025046844/be-20250930.htm",
+      "checked": "2026-10-27"
+    },
+    "dell-nscale-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "dell-nscale-investment-2025",
+      "url": "https://www.nscale.com/press-releases/nscale-series-b",
+      "checked": "2026-10-27"
+    },
+    "brookfield-intel-arizona-fabs-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "brookfield-intel-arizona-fabs-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522226986/d388434dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-vast-data-platform-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-vast-data-platform-2025",
+      "url": "https://www.vastdata.com/press-releases/fluidstack-selects-vast-data-deliver-infrastructure-accelerate-global",
+      "checked": "2026-10-27"
+    },
+    "lightspeed-anthropic-series-f-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "lightspeed-anthropic-series-f-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-financing-facility-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-financing-facility-2026",
+      "url": "https://www.businesstoday.in/amp/tech-today/news/story/google-to-invest-10-billion-in-anthropic-may-add-30-billion-more-527408-2026-04-24",
+      "checked": "2026-10-27"
+    },
+    "brookfield-intel-arizona-fabs-2022#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "brookfield-intel-arizona-fabs-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522226986/d388434dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "microsoft-nscale-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-nscale-cloud-2025",
+      "url": "https://www.nscale.com/press-releases/nscale-microsoft-2025",
+      "checked": "2026-10-27"
+    },
+    "google-anysphere-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anysphere-investment-2025",
+      "url": "https://cursor.com/blog/series-d",
+      "checked": "2026-10-27"
+    },
+    "ciena-nubis-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "ciena-nubis-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025042266/a250922pressrelease.htm",
+      "checked": "2026-10-27"
+    },
+    "menlo-ventures-anthropic-series-e-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "menlo-ventures-anthropic-series-e-2025",
+      "url": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-investment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-investment-2026",
+      "url": "https://www.businesstoday.in/amp/tech-today/news/story/google-to-invest-10-billion-in-anthropic-may-add-30-billion-more-527408-2026-04-24",
+      "checked": "2026-10-27"
+    },
+    "microsoft-nscale-narvik-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-nscale-narvik-2026",
+      "url": "https://www.nscale.com/press-releases/nscale-microsoft-norway",
+      "checked": "2026-10-27"
+    },
+    "nvidia-anysphere-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-anysphere-investment-2025",
+      "url": "https://cursor.com/blog/series-d",
+      "checked": "2026-10-27"
+    },
+    "lambda-vast-data-platform-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "lambda-vast-data-platform-2023",
+      "url": "https://www.vastdata.com/press-releases/lambda-vast-deliver-hybrid-ai-cloud",
+      "checked": "2026-10-27"
+    },
+    "ciena-nubis-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "ciena-nubis-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/936395/000162828025044494/cien-20251007.htm",
+      "checked": "2026-10-27"
+    },
+    "google-safe-superintelligence-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-safe-superintelligence-investment-2025",
+      "url": "https://www.businesstoday.in/amp/technology/news/story/google-nvidia-invest-in-openai-co-founder-ilya-sutskevers-ai-startup-safe-superintelligence-471877-2025-04-14",
+      "checked": "2026-10-27"
+    },
+    "mgx-anthropic-series-g-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mgx-anthropic-series-g-2026",
+      "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+      "checked": "2026-10-27"
+    },
+    "nokia-nscale-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nokia-nscale-investment-2025",
+      "url": "https://www.nscale.com/press-releases/nscale-series-b",
+      "checked": "2026-10-27"
+    },
+    "cisco-acacia-acquisition-2019#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "cisco-acacia-acquisition-2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/858877/000119312519190942/d776281dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-safe-superintelligence-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-safe-superintelligence-investment-2025",
+      "url": "https://www.businesstoday.in/amp/technology/news/story/google-nvidia-invest-in-openai-co-founder-ilya-sutskevers-ai-startup-safe-superintelligence-471877-2025-04-14",
+      "checked": "2026-10-27"
+    },
+    "sequoia-anthropic-series-h-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "sequoia-anthropic-series-h-2026",
+      "url": "https://www.anthropic.com/news/series-h",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nscale-convertible-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nscale-convertible-2026",
+      "url": "https://www.nscale.com/press-releases/pre-ipo-convertible-financing",
+      "checked": "2026-10-27"
+    },
+    "google-character-ai-licensing-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-character-ai-licensing-2024",
+      "url": "https://www.wionews.com/world/google-spends-27-billion-to-bring-back-ai-genius-noam-shazeer-who-quit-after-it-rejected-his-chatbot-763274/amp",
+      "checked": "2026-10-27"
+    },
+    "cisco-acacia-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "cisco-acacia-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1651235/000119312521008768/d110570dex992.htm",
+      "checked": "2026-10-27"
+    },
+    "nebius-vast-data-platform-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nebius-vast-data-platform-2025",
+      "url": "https://www.vastdata.com/press-releases/vast-data-and-nebius-partner-to-accelerate-global-enterprise-ai-adoption",
+      "checked": "2026-10-27"
+    },
+    "constellation-calpine-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "constellation-calpine-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827525000006/ceg-202501108kxexh991.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-samsung-stargate-memory-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-samsung-stargate-memory-2025",
+      "url": "https://www.businesstoday.in/amp/technology/news/story/openai-samsung-form-alliance-to-develop-ai-data-centres-partner-on-stargate-496518-2025-10-01",
+      "checked": "2026-10-27"
+    },
+    "sequoia-anthropic-series-h-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "sequoia-anthropic-series-h-2026",
+      "url": "https://www.anthropic.com/news/series-h",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nscale-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nscale-investment-2025",
+      "url": "https://www.nscale.com/press-releases/nscale-series-b",
+      "checked": "2026-10-27"
+    },
+    "constellation-calpine-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "constellation-calpine-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000032/ceg-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "nebius-vast-data-platform-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nebius-vast-data-platform-2025",
+      "url": "https://www.vastdata.com/press-releases/vast-data-and-nebius-partner-to-accelerate-global-enterprise-ai-adoption",
+      "checked": "2026-10-27"
+    },
+    "coreweave-applied-digital-ellendale-lease-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-applied-digital-ellendale-lease-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm",
+      "checked": "2026-10-27"
+    },
+    "google-character-ai-licensing-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-character-ai-licensing-2024",
+      "url": "https://oodaloop.com/briefs/cyber/google-paid-2-7-billion-to-bring-back-an-ai-genius-who-quit-in-frustration",
+      "checked": "2026-10-27"
+    },
+    "google-commonwealth-fusion-arc-ppa-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-commonwealth-fusion-arc-ppa-2025",
+      "url": "https://cfs.energy/news-and-media/google-and-commonwealth-fusion-systems-sign-strategic-partnership/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nscale-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nscale-investment-2026",
+      "url": "https://www.nscale.com/press-releases/nscale-series-c",
+      "checked": "2026-10-27"
+    },
+    "coreweave-applied-digital-polaris-forge-expansion-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-applied-digital-polaris-forge-expansion-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000149315225012458/ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-vast-data-series-f-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-vast-data-series-f-2026",
+      "url": "https://www.vastdata.com/press-releases/vast-series-f-financing-at-30-billion-valuation",
+      "checked": "2026-10-27"
+    },
+    "coreweave-bloom-energy-volo-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-bloom-energy-volo-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828024036108/ex991_q22024financialresul.htm",
+      "checked": "2026-10-27"
+    },
+    "google-intersect-power-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-intersect-power-acquisition-2025",
+      "url": "https://kirkland.com/news/press-release/2025/12/kirkland-advises-tpg-rise-climate-adaptive-infrastructure-on-sale-of-intersect",
+      "checked": "2026-10-27"
+    },
+    "google-commonwealth-fusion-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-commonwealth-fusion-investment-2025",
+      "url": "https://cfs.energy/news-and-media/google-and-commonwealth-fusion-systems-sign-strategic-partnership/",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000119312525155925/d52423dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "google-nextera-duane-arnold-ppa-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-nextera-duane-arnold-ppa-2025",
+      "url": "https://newsroom.nexteraenergy.com/NextEra-Energy-and-Google-Announce-New-Collaboration-to-Accelerate-Nuclear-Energy-Deployment-in-the-U-S",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000114036125039808/ef20057995_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "hpe-juniper-acquisition-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "hpe-juniper-acquisition-2024",
+      "url": "https://sec.gov/Archives/edgar/data/1645590/000114036125024519/ef20051378_8k.htm",
+      "checked": "2026-10-27"
+    },
+    "google-kairos-power-500mw-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-kairos-power-500mw-2024",
+      "url": "https://kairospower.com/external_updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation/",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-denton-expansion-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-denton-expansion-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828025008312/ex991-coreweavepressrelease.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-nextera-clean-energy-contracts-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-nextera-clean-energy-contracts-2025",
+      "url": "https://newsroom.nexteraenergy.com/2025-12-08-NextEra-Energy-Resources-and-Meta-Strengthen-American-Energy-Leadership",
+      "checked": "2026-10-27"
+    },
+    "humain-nvidia-600k-gpus-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "humain-nvidia-600k-gpus-2025",
+      "url": "https://www.middleeastainews.com/p/humain-to-deploy-600000-nvidia-gpus",
+      "checked": "2026-10-27"
+    },
+    "google-commonwealth-fusion-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-commonwealth-fusion-investment-2025",
+      "url": "https://cfs.energy/news-and-media/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-hosting-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-hosting-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024026483/corzcoreweavehpc.htm",
+      "checked": "2026-10-27"
+    },
+    "hpe-weka-series-d-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "hpe-weka-series-d-2022",
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-option-112mw-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-option-112mw-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024034989/exhibit991-corescientifich.htm",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-option-120mw-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-option-120mw-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024043341/corescientifichpcoption3re.htm",
+      "checked": "2026-10-27"
+    },
+    "humain-qualcomm-ai200-racks-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "humain-qualcomm-ai200-racks-2025",
+      "url": "https://convergedigest.com/humain-and-qualcomm-to-deploy-200mw-ai-infrastructure-in-saudi-arabia/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-commonwealth-fusion-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-commonwealth-fusion-investment-2025",
+      "url": "https://cfs.energy/news-and-media/commonwealth-fusion-systems-raises-863-million-series-b2-round-to-accelerate-the-commercialization-of-fusion-energy",
+      "checked": "2026-10-27"
+    },
+    "humain-nvidia-gb300-ai-factories-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "humain-nvidia-gb300-ai-factories-2025",
+      "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+      "checked": "2026-10-27"
+    },
+    "google-tva-hermes-2-clean-energy-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-tva-hermes-2-clean-energy-2025",
+      "url": "https://kairospower.com/external_updates/google-kairos-power-tva-collaborate-to-meet-americas-growing-energy-needs/",
+      "checked": "2026-10-27"
+    },
+    "coreweave-core-scientific-option-70mw-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-core-scientific-option-70mw-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839341/000162828024029900/ex991-finalcorzhpcoptionre.htm",
+      "checked": "2026-10-27"
+    },
+    "micron-weka-series-d-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "micron-weka-series-d-2022",
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "checked": "2026-10-27"
+    },
+    "intel-figure-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-figure-ai-investment-2025",
+      "url": "https://www.figure.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "humain-nvidia-gb300-ai-factories-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "humain-nvidia-gb300-ai-factories-2025",
+      "url": "https://nvidianews.nvidia.com/news/humain-and-nvidia-announce-strategic-partnership-to-build-ai-factories-of-the-future-in-saudi-arabia",
+      "checked": "2026-10-27"
+    },
+    "coreweave-galaxy-digital-helios-phase1-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-galaxy-digital-helios-phase1-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1859392/000162828025015309/galaxydigitalinc-sx4a7.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-weka-series-d-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-weka-series-d-2022",
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "checked": "2026-10-27"
+    },
+    "tva-kairos-power-hermes-2-ppa-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "tva-kairos-power-hermes-2-ppa-2025",
+      "url": "https://kairospower.com/external_updates/google-kairos-power-tva-collaborate-to-meet-americas-growing-energy-needs/",
+      "checked": "2026-10-27"
+    },
+    "humain-qualcomm-ai200-racks-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "humain-qualcomm-ai200-racks-2025",
+      "url": "https://www.marketscreener.com/news/qualcomm-and-humain-announce-ai-infrastructure-in-saudi-arabia-ce7d5ddfdb8ef225",
+      "checked": "2026-10-27"
+    },
+    "nvidia-figure-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-figure-ai-investment-2025",
+      "url": "https://www.figure.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "meta-nvidia-multiyear-gpus-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-nvidia-multiyear-gpus-2026",
+      "url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+      "checked": "2026-10-27"
+    },
+    "coreweave-galaxy-digital-helios-phase3-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "coreweave-galaxy-digital-helios-phase3-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000016/glxy-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "digitalbridge-switch-acquisition-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "digitalbridge-switch-acquisition-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/1710583/000119312522298966/d356989dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-weka-series-e-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-weka-series-e-2024",
+      "url": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+      "checked": "2026-10-27"
+    },
+    "nvidia-openai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-openai-investment-2025",
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "checked": "2026-10-27"
+    },
+    "digitalbridge-switch-acquisition-2022#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "digitalbridge-switch-acquisition-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/1710583/000119312522298966/d356989dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "qualcomm-figure-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qualcomm-figure-ai-investment-2025",
+      "url": "https://www.figure.ai/news/series-c",
+      "checked": "2026-10-27"
+    },
+    "eaton-boyd-thermal-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "eaton-boyd-thermal-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000033/etn09302025exhibit99.htm",
+      "checked": "2026-10-27"
+    },
+    "eaton-boyd-thermal-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "eaton-boyd-thermal-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000010/etn03312026exhibit99.htm",
+      "checked": "2026-10-27"
+    },
+    "qualcomm-weka-series-d-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qualcomm-weka-series-d-2022",
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "checked": "2026-10-27"
+    },
+    "nvidia-sk-hynix-long-term-memory-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-sk-hynix-long-term-memory-2026",
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "checked": "2026-10-27"
+    },
+    "meta-constellation-clinton-ppa-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-constellation-clinton-ppa-2025",
+      "url": "https://www.constellationenergy.com/news/2025/constellation-meta-sign-20-year-deal-for-clean-reliable-nuclear-energy-in-illinois.html",
+      "checked": "2026-10-27"
+    },
+    "eaton-fibrebond-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "eaton-fibrebond-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000011/etn03312025exhibit99.htm",
+      "checked": "2026-10-27"
+    },
+    "equinix-oklo-power-loi-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "equinix-oklo-power-loi-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-sk-hynix-long-term-memory-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-sk-hynix-long-term-memory-2026",
+      "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+      "checked": "2026-10-27"
+    },
+    "microsoft-constellation-crane-ppa-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-constellation-crane-ppa-2024",
+      "url": "https://www.constellationenergy.com/news/2024/Constellation-to-Launch-Crane-Clean-Energy-Center-Restoring-Jobs-and-Carbon-Free-Power-to-The-Grid.html",
+      "checked": "2026-10-27"
+    },
+    "qualcomm-weka-series-e-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qualcomm-weka-series-e-2024",
+      "url": "https://www.weka.io/news/weka-nets-140m-in-series-e-funding-at-1-6b-valuation",
+      "checked": "2026-10-27"
+    },
+    "fermi-america-energy-transfer-gas-supply-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fermi-america-energy-transfer-gas-supply-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000010/frmi-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-nvidia-10gw-systems-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-nvidia-10gw-systems-2025",
+      "url": "https://nvidianews.nvidia.com/news/openai-and-nvidia-announce-strategic-partnership-to-deploy-10gw-of-nvidia-systems",
+      "checked": "2026-10-27"
+    },
+    "kioxia-rapidus-founding-investment-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "kioxia-rapidus-founding-investment-2022",
+      "url": "https://design-reuse.com/news/53008/rapidus-japan-2nm-fab.html",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-cipher-mining-barber-lake-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-cipher-mining-barber-lake-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325012168/dp234624_ex9901.htm",
+      "checked": "2026-10-27"
+    },
+    "samsung-weka-series-d-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "samsung-weka-series-d-2022",
+      "url": "https://www.weka.io/news/weka-raises-135m-to-fuel-hypergrowth-and-global-expansion",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-cipher-mining-barber-lake-expansion-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-cipher-mining-barber-lake-expansion-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819989/000095010325015073/dp237633_ex9901.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-corning-fiber-supply-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-corning-fiber-supply-2026",
+      "url": "https://www.optica-opn.org/home/industry/2026/february/corning_and_meta_make_fiber_deal_for_up_to_us$6_billion/",
+      "checked": "2026-10-27"
+    },
+    "meta-entergy-hyperion-gas-plants-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-entergy-hyperion-gas-plants-2025",
+      "url": "https://www.datacenterknowledge.com/energy-power-supply/entergy-to-build-three-gas-plants-for-meta-s-biggest-data-center",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-hut-8-river-bend-lease-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-hut-8-river-bend-lease-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1964789/000110465925122052/hut-20251217xex99d1.htm",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-terawulf-abernathy-jv-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-terawulf-abernathy-jv-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925102858/tm2529509d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-terawulf-abernathy-stake-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-terawulf-abernathy-stake-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465926080583/tm2619468d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-google-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-google-cloud-2025",
+      "url": "https://www.ksl.com/article/51364070/meta-signs-over-10-billion-cloud-deal-with-google-source-says",
+      "checked": "2026-10-27"
+    },
+    "meta-rivos-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-rivos-acquisition-2025",
+      "url": "https://rcrwireless.com/20251001/ai-infrastructure/meta-chip",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-terawulf-cb5-lease-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-terawulf-cb5-lease-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925079463/tm2523651d3_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "lambda-aligned-data-centers-dfw04-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "lambda-aligned-data-centers-dfw04-2025",
+      "url": "https://aligneddc.com/aligned-and-lambda-partner-to-power-next-generation-ai-infrastructure/",
+      "checked": "2026-10-27"
+    },
+    "fluidstack-terawulf-lake-mariner-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "fluidstack-terawulf-lake-mariner-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000110465925078084/tm2523008d2_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-lambda-gpu-leaseback-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-lambda-gpu-leaseback-2025",
+      "url": "https://rcrwireless.com/20250908/ai-infrastructure/nvidia-lambda",
+      "checked": "2026-10-27"
+    },
+    "meta-google-cloud-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-google-cloud-2025",
+      "url": "https://www.freemalaysiatoday.com/category/business/2025/08/22/meta-makes-huge-cloud-computing-deal-with-google",
+      "checked": "2026-10-27"
+    },
+    "g42-cerebras-1-43b-commitment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "g42-cerebras-1-43b-commitment-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-oracle-cloud-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-oracle-cloud-2025",
+      "url": "https://news.tuoitre.vn/oracle-eyes-20-billion-ai-cloud-computing-deal-with-meta-source-says-103250920111606517.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-williams-socrates-power-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-williams-socrates-power-2025",
+      "url": "https://www.power-eng.com/onsite-power/onsite-gas-turbines-reciprocating-engines-to-power-meta-data-center/",
+      "checked": "2026-10-27"
+    },
+    "openai-oracle-cloud-2025#3": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-oracle-cloud-2025",
+      "url": "https://rcrwireless.com/20250703/ai-infrastructure/30-billion-oracle",
+      "checked": "2026-10-27"
+    },
+    "meta-scale-ai-investment-2025#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-scale-ai-investment-2025",
+      "url": "https://scale.com/blog/scale-ai-announces-next-phase-of-company-evolution",
+      "checked": "2026-10-27"
+    },
+    "mgx-stargate-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mgx-stargate-investment-2025",
+      "url": "https://group.softbank/en/news/press/20250122",
+      "checked": "2026-10-27"
+    },
+    "microsoft-crusoe-abilene-campus-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-crusoe-abilene-campus-2026",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-new-900-mw-ai-factory-campus-in-abilene-texas-to-support-microsoft-ai-infrastructure",
+      "checked": "2026-10-27"
+    },
+    "g42-cerebras-framework-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "g42-cerebras-framework-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "mgx-openai-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mgx-openai-investment-2024",
+      "url": "https://www.nbcnews.com/business/business-news/openai-closes-funding-157-billion-valuation-microsoft-nvidia-softbank-rcna173693",
+      "checked": "2026-10-27"
+    },
+    "nvidia-crusoe-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-crusoe-investment-2024",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding",
+      "checked": "2026-10-27"
+    },
+    "openai-stargate-equity-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-stargate-equity-2025",
+      "url": "https://group.softbank/en/news/press/20250122",
+      "checked": "2026-10-27"
+    },
+    "g42-cerebras-series-f2-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "g42-cerebras-series-f2-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828024041596/cerebras-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "microsoft-helion-fusion-ppa-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-helion-fusion-ppa-2023",
+      "url": "https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/",
+      "checked": "2026-10-27"
+    },
+    "g42-terawulf-core42-lease-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "g42-terawulf-core42-lease-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000095014224002980/eh240568556_8k.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-crusoe-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-crusoe-investment-2025",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding",
+      "checked": "2026-10-27"
+    },
+    "tesla-samsung-ai6-foundry-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "tesla-samsung-ai6-foundry-2025",
+      "url": "https://www.nbcnews.com/business/business-news/elon-musk-confirms-tesla-signed-16point5-billion-chip-contract-samsung-rcna221512",
+      "checked": "2026-10-27"
+    },
+    "oracle-stargate-equity-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-stargate-equity-2025",
+      "url": "https://group.softbank/en/news/press/20250122",
+      "checked": "2026-10-27"
+    },
+    "microsoft-inflection-ai-licensing-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-inflection-ai-licensing-2024",
+      "url": "https://www.ischool.berkeley.edu/news/2024/microsoft-paid-ai-startup-650-million-prof-emeritus-steve-weber-reflects-deal",
+      "checked": "2026-10-27"
+    },
+    "nvidia-crusoe-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-crusoe-investment-2026",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-f-funding",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-financing-facility-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-financing-facility-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "thrive-capital-openai-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "thrive-capital-openai-investment-2024",
+      "url": "https://www.nbcnews.com/business/business-news/openai-closes-funding-157-billion-valuation-microsoft-nvidia-softbank-rcna173693",
+      "checked": "2026-10-27"
+    },
+    "softbank-ampere-computing-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-ampere-computing-acquisition-2025",
+      "url": "https://group.softbank/en/news/press/20250320",
+      "checked": "2026-10-27"
+    },
+    "oracle-crusoe-abilene-campus-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-crusoe-abilene-campus-2025",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-flagship-abilene-data-center-is-live",
+      "checked": "2026-10-27"
+    },
+    "microsoft-lambda-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-lambda-cloud-2025",
+      "url": "https://lambda.ai/blog/lambda-announces-multibillion-dollar-agreement-with-microsoft-to-deploy-ai-infrastructure-powered-by-tens-of-thousands-of-nvidia-gpus",
+      "checked": "2026-10-27"
+    },
+    "softbank-ampere-computing-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-ampere-computing-acquisition-2025",
+      "url": "https://group.softbank/en/news/press/20251126",
+      "checked": "2026-10-27"
+    },
+    "microsoft-g42-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-g42-investment-2024",
+      "url": "https://wam.ae/en/article/13v9pmq-microsoft-invests-15-billion-abu-dhabi%E2%80%99s-g42",
+      "checked": "2026-10-27"
+    },
+    "oracle-crusoe-abilene-campus-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-crusoe-abilene-campus-2025",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoes-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-centers-and-cloud",
+      "checked": "2026-10-27"
+    },
+    "microsoft-nokia-datacenter-networking-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-nokia-datacenter-networking-2024",
+      "url": "https://www.telecomtv.com/content/digital-platforms-services/nokia-expands-multi-year-agreement-to-supply-microsoft-azure-51827/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-lambda-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-lambda-investment-2025",
+      "url": "https://lambda.ai/blog/lambda-raises-480m-to-expand-ai-cloud-platform",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-investment-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-investment-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "softbank-digitalbridge-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-digitalbridge-acquisition-2025",
+      "url": "https://group.softbank/en/news/press/20251229",
+      "checked": "2026-10-27"
+    },
+    "nebius-vantage-data-centers-wales-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nebius-vantage-data-centers-wales-2026",
+      "url": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/",
+      "checked": "2026-10-27"
+    },
+    "nebius-weka-storage-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nebius-weka-storage-2025",
+      "url": "https://www.prnewswire.com/il/news-releases/weka-and-nebius-partner-to-catalyze-ai-innovation-with-ultra-high-performance-cloud-infrastructure-solution-302477359.html",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-investment-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-investment-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-vantage-data-centers-lighthouse-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-vantage-data-centers-lighthouse-2025",
+      "url": "https://vantage-dc.com/news/openai-oracle-and-vantage-data-centers-announce-stargate-data-center-site-in-wisconsin/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-investment-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-investment-2023",
+      "url": "https://www.telecomtv.com/content/digital-platforms-services/coreweave-raises-221m-series-b-to-expand-specialised-cloud-infrastructure-47292",
+      "checked": "2026-10-27"
+    },
+    "softbank-digitalbridge-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-digitalbridge-acquisition-2025",
+      "url": "https://group.softbank/en/news/press/20260930",
+      "checked": "2026-10-27"
+    },
+    "nvidia-amkor-arizona-packaging-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-amkor-arizona-packaging-2025",
+      "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+      "checked": "2026-10-27"
+    },
+    "microsoft-openai-investment-2019#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-openai-investment-2019",
+      "url": "https://www.pbs.org/newshour/science/microsoft-announces-major-investment-in-artificial-intelligence-startup-openai",
+      "checked": "2026-10-27"
+    },
+    "nvidia-commonwealth-fusion-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-commonwealth-fusion-investment-2025",
+      "url": "https://www.latitudemedia.com/articles/commonwealth-fusion-systems-tops-up-its-series-b-with-863-million",
+      "checked": "2026-10-27"
+    },
+    "nvidia-ase-technology-spil-arizona-packaging-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-ase-technology-spil-arizona-packaging-2025",
+      "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-investment-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-investment-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "softbank-intel-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-intel-investment-2025",
+      "url": "https://group.softbank/en/news/press/20250819",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-ipo-anchor-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-ipo-anchor-2025",
+      "url": "https://nbcbayarea.com/news/business/money-report/nvidia-to-anchor-coreweave-ipo-at-40-a-share-source-says/3829236",
+      "checked": "2026-10-27"
+    },
+    "nvidia-tsmc-arizona-blackwell-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-tsmc-arizona-blackwell-2025",
+      "url": "https://blogs.nvidia.com/blog/nvidia-manufacture-american-made-ai-supercomputers-us/",
+      "checked": "2026-10-27"
+    },
+    "nvidia-enfabrica-license-hire-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-enfabrica-license-hire-2025",
+      "url": "https://www.entrepreneur.com/business-news/nvidia-spends-nearly-a-billion-on-ai-startup-to-hire-ceo/497348",
+      "checked": "2026-10-27"
+    },
+    "softbank-openai-follow-on-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-openai-follow-on-2026",
+      "url": "https://group.softbank/en/news/press/20260227",
+      "checked": "2026-10-27"
+    },
+    "nvidia-tsmc-arizona-blackwell-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-tsmc-arizona-blackwell-2025",
+      "url": "https://blogs.nvidia.com/blog/tsmc-blackwell-manufacturing/",
+      "checked": "2026-10-27"
+    },
+    "google-anthropic-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-anthropic-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-firmus-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-firmus-investment-2025",
+      "url": "https://unite.ai/nvidia-backed-firmus-hits-5-5b-valuation-with-505m-raise",
+      "checked": "2026-10-27"
+    },
+    "google-broadcom-tpu-long-term-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-broadcom-tpu-long-term-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526144028/d87999d8k.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-firmus-investment-2026-04#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-firmus-investment-2026-04",
+      "url": "https://thenextweb.com/news/firmus-asx-ipo-blackstone-ai-data-center-australia",
+      "checked": "2026-10-27"
+    },
+    "softbank-openai-follow-on-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-openai-follow-on-2026",
+      "url": "https://group.softbank/en/news/press/20261001",
+      "checked": "2026-10-27"
+    },
+    "google-brookfield-renewable-hydro-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-brookfield-renewable-hydro-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1533232/000117184325004464/exh_991.htm",
+      "checked": "2026-10-27"
+    },
+    "google-brookfield-renewable-hydro-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-brookfield-renewable-hydro-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1533232/000117184325004464/exh_991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-groq-lpu-license-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-groq-lpu-license-2025",
+      "url": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale",
+      "checked": "2026-10-27"
+    },
+    "nvidia-firmus-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-firmus-investment-2025",
+      "url": "https://www.smartcompany.com.au/startupsmart/firmus-raises-330-million-build-ai-factory-tasmania-1-9-billion-valuation/",
+      "checked": "2026-10-27"
+    },
+    "softbank-openai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-openai-investment-2025",
+      "url": "https://group.softbank/en/news/press/20250401",
+      "checked": "2026-10-27"
+    },
+    "google-entergy-arkansas-west-memphis-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-entergy-arkansas-west-memphis-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598425000132/etr-20250930.htm",
+      "checked": "2026-10-27"
+    },
+    "softbank-openai-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-openai-investment-2025",
+      "url": "https://group.softbank/en/news/press/20251231",
+      "checked": "2026-10-27"
+    },
+    "nvidia-micron-hbm4-vera-rubin-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-micron-hbm4-vera-rubin-2026",
+      "url": "https://www.storagenewsletter.com/2026/03/17/nvidia-gtc-2026-micron-in-high-volume-production-of-hbm4-designed-for-nvidia-vera-rubin-pcie-gen6-ssd-and-socamm2/",
+      "checked": "2026-10-27"
+    },
+    "google-entergy-arkansas-west-memphis-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-entergy-arkansas-west-memphis-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598426000174/etr-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-micron-hbm4-vera-rubin-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-micron-hbm4-vera-rubin-2026",
+      "url": "https://evertiq.com/news/2026-04-06-micron-begins-volume-shipment-of-hbm4-36gb-12h",
+      "checked": "2026-10-27"
+    },
+    "google-fervo-cape-station-ppa-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-fervo-cape-station-ppa-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1853868/000162828026059707/exhibit991pressrelease9126.htm",
+      "checked": "2026-10-27"
+    },
+    "softbank-stargate-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-stargate-investment-2025",
+      "url": "https://group.softbank/en/news/press/20250122",
+      "checked": "2026-10-27"
+    },
+    "google-nextera-duane-arnold-ppa-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-nextera-duane-arnold-ppa-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/753308/000075330825000055/neeq32025exhibit99.htm",
+      "checked": "2026-10-27"
+    },
+    "google-xcel-energy-minnesota-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "google-xcel-energy-minnesota-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/72903/000007290326000070/xcelearningsreleaseq12026.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-openai-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-openai-investment-2026",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-closes-122bn-funding-round-093126735.html",
+      "checked": "2026-10-27"
+    },
+    "hpe-juniper-acquisition-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "hpe-juniper-acquisition-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645590/000114036124001613/ny20018436x1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-openai-investment-2026#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-openai-investment-2026",
+      "url": "https://capacityglobal.com/news/nvidia-close-to-30bn-openai-investment/",
+      "checked": "2026-10-27"
+    },
+    "intel-asml-high-na-exe5200-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-asml-high-na-exe5200-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/937966/000119312522011881/d180474dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-openai-investment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-openai-investment-2026",
+      "url": "https://techloy.com/nvidias-30-billion-openai-bet-is-set-to-close-this-weekend",
+      "checked": "2026-10-27"
+    },
+    "nvidia-terrapower-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-terrapower-investment-2025",
+      "url": "https://terrapower.com/terrapower-announces-650-million-fundraise",
+      "checked": "2026-10-27"
+    },
+    "intel-habana-acquisition-2019#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-habana-acquisition-2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086320000011/a12282019q4-10kdocument.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-google-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-google-cloud-2025",
+      "url": "https://finance.yahoo.com/news/openai-enlists-google-cloud-computing-170237913.html",
+      "checked": "2026-10-27"
+    },
+    "intel-tower-semiconductor-acquisition-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-tower-semiconductor-acquisition-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312522043022/d318338dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-together-ai-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-together-ai-investment-2025",
+      "url": "https://www.together.ai/blog/together-ai-announcing-305m-series-b",
+      "checked": "2026-10-27"
+    },
+    "intel-tower-semiconductor-acquisition-2022#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-tower-semiconductor-acquisition-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/928876/000117891323002897/exhibit_99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "intel-tower-semiconductor-termination-fee-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-tower-semiconductor-termination-fee-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086323000078/titaniumpressrelease.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-broadcom-10gw-accelerators-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-broadcom-10gw-accelerators-2025",
+      "url": "https://www.broadcom.com/company/news/product-releases/63631",
+      "checked": "2026-10-27"
+    },
+    "nvidia-together-ai-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-together-ai-investment-2026",
+      "url": "https://www.together.ai/blog/announcing-our-series-c",
+      "checked": "2026-10-27"
+    },
+    "nvidia-firmus-investment-2026-08#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-firmus-investment-2026-08",
+      "url": "https://www.verdict.co.uk/firmus-2bn-project-southgate-rollout/",
+      "checked": "2026-10-27"
+    },
+    "intel-tower-semiconductor-termination-fee-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "intel-tower-semiconductor-termination-fee-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "checked": "2026-10-27"
+    },
+    "kkr-cyrusone-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "kkr-cyrusone-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1553023/000110465922038090/tm229713d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "lumentum-cloud-light-acquisition-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "lumentum-cloud-light-acquisition-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312523272452/d587006dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-vast-data-series-d-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-vast-data-series-d-2021",
+      "url": "https://vastdata.com/news-post/vast-data-triples-valuation-in-one-year-to-3-7-billion/",
+      "checked": "2026-10-27"
+    },
+    "lumentum-neophotonics-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "lumentum-neophotonics-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312521319601/d248799dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-broadcom-10gw-accelerators-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-broadcom-10gw-accelerators-2025",
+      "url": "https://mfn.se/all/a/broadcom/openai-and-broadcom-announce-strategic-collaboration-to-deploy-10-gigawatts-of-openai-designed-ai-accelerators-7f50bad2",
+      "checked": "2026-10-27"
+    },
+    "openai-coreweave-cloud-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-coreweave-cloud-2025",
+      "url": "https://www.coreweave.com/news/coreweave-announces-agreement-with-openai-to-deliver-ai-infrastructure",
+      "checked": "2026-10-27"
+    },
+    "marvell-celestial-ai-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "marvell-celestial-ai-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312525305289/d34367dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "marvell-celestial-ai-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "marvell-celestial-ai-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526032861/d45933dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-micron-hbm3e-h200-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-micron-hbm3e-h200-2024",
+      "url": "https://www.edge-ai-vision.com/2024/02/micron-commences-volume-production-of-industry-leading-hbm3e-solution-to-accelerate-the-growth-of-ai/",
+      "checked": "2026-10-27"
+    },
+    "openai-google-cloud-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-google-cloud-2025",
+      "url": "https://www.tomsguide.com/ai/openai-just-signed-a-surprise-deal-with-google-heres-why-it-matters",
+      "checked": "2026-10-27"
+    },
+    "marvell-innovium-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "marvell-innovium-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312521234006/d48391dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-coreweave-cloud-expansion-2025-05#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-coreweave-cloud-expansion-2025-05",
+      "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
+      "checked": "2026-10-27"
+    },
+    "openai-oracle-cloud-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-oracle-cloud-2025",
+      "url": "https://www.verdict.co.uk/openai-oracle-300bn-cloud-deal/",
+      "checked": "2026-10-27"
+    },
+    "marvell-inphi-acquisition-2020#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "marvell-inphi-acquisition-2020",
+      "url": "https://www.sec.gov/Archives/edgar/data/1058057/000105805721000009/mrvl-20210130.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-oracle-oci-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-oracle-oci-2024",
+      "url": "https://www.oracle.com/news/announcement/openai-selects-oracle-cloud-infrastructure-to-extend-microsoft-azure-ai-platform-2024-06-11/",
+      "checked": "2026-10-27"
+    },
+    "mediatek-intel-foundry-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "mediatek-intel-foundry-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086322000029/q222_earningsrelease.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-coreweave-cloud-expansion-2025-09#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-coreweave-cloud-expansion-2025-09",
+      "url": "https://www.coreweave.com/news/coreweave-expands-agreement-with-openai-by-up-to-6-5b",
+      "checked": "2026-10-27"
+    },
+    "meta-amd-6gw-instinct-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-amd-6gw-instinct-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000045/pressreleasedatedfebruary2.htm",
+      "checked": "2026-10-27"
+    },
+    "xai-oracle-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "xai-oracle-cloud-2025",
+      "url": "https://www.oracle.com/news/announcement/xais-grok-models-are-now-on-oracle-cloud-infrastructure-2025-06-17/",
+      "checked": "2026-10-27"
+    },
+    "meta-amd-6gw-instinct-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-amd-6gw-instinct-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000045/pressreleasedatedfebruary2.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-bloom-energy-2-8gw-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-bloom-energy-2-8gw-2026",
+      "url": "https://www.bloomenergy.com/news/bloom-energy-and-oracle-expand-strategic-partnership-to-deploy-up-to-2-8-gw-to-accelerate-ai-infrastructure-build-out/",
+      "checked": "2026-10-27"
+    },
+    "meta-arista-switch-purchases-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-arista-switch-purchases-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-sk-hynix-stargate-memory-loi-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-sk-hynix-stargate-memory-loi-2025",
+      "url": "https://eng.sk.com/news/sk-group-partners-with-openai-to-advance-global-ai-infrastructure",
+      "checked": "2026-10-27"
+    },
+    "meta-arista-switch-purchases-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-arista-switch-purchases-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-samsung-stargate-memory-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-samsung-stargate-memory-2025",
+      "url": "https://www.sixteen-nine.net/2025/10/07/openai-and-samsung-sign-agreement-to-build-global-ai-infrastructure/",
+      "checked": "2026-10-27"
+    },
+    "meta-constellation-clinton-ppa-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-constellation-clinton-ppa-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000032/ceg-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-sk-hynix-stargate-memory-loi-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-sk-hynix-stargate-memory-loi-2025",
+      "url": "https://eng.sk.com/news/sk-group-partners-with-openai-to-advance-global-ai-infrastructure",
+      "checked": "2026-10-27"
+    },
+    "perplexity-microsoft-azure-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "perplexity-microsoft-azure-2026",
+      "url": "https://www.koreajoongangdaily.com/business/perplexity-signs-750-million-ai-cloud-deal-with-microsoft-bloomberg-news-reports/12125102",
+      "checked": "2026-10-27"
+    },
+    "meta-coreweave-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-coreweave-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000050/crwv-20250925.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-nvidia-gb200-abilene-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-nvidia-gb200-abilene-2025",
+      "url": "https://en.ain.ua/2025/05/26/oracle-to-buy-nvidia-chips/",
+      "checked": "2026-10-27"
+    },
+    "meta-coreweave-cloud-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-coreweave-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000154/ex991.htm",
+      "checked": "2026-10-27"
+    },
+    "sandisk-kioxia-yokkaichi-jv-extension-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "sandisk-kioxia-yokkaichi-jv-extension-2026",
+      "url": "https://www.kioxia.com/en-jp/about/news/2026/20260130-1.html",
+      "checked": "2026-10-27"
+    },
+    "perplexity-microsoft-azure-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "perplexity-microsoft-azure-2026",
+      "url": "https://www.storyboard18.com/amp/digital/perplexity-signs-750-million-microsoft-azure-deal-for-multi-model-ai-access-88522.htm",
+      "checked": "2026-10-27"
+    },
+    "sandisk-kioxia-yokkaichi-jv-extension-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "sandisk-kioxia-yokkaichi-jv-extension-2026",
+      "url": "https://www.sandisk.com/company/newsroom/press-releases/2026/2026-01-29-kioxia-and-sandisk-extend-yokkaichi-joint-venture-agreement-through-2034",
+      "checked": "2026-10-27"
+    },
+    "meta-coreweave-cloud-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-coreweave-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000366/crwv-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-corning-fiber-supply-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-corning-fiber-supply-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000034/glw-20251231xex99xq42025.htm",
+      "checked": "2026-10-27"
+    },
+    "schneider-electric-motivair-acquisition-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "schneider-electric-motivair-acquisition-2024",
+      "url": "https://sustainabletechpartner.com/news/ma-schneider-electric-acquires-liquid-cooling-data-center-specialist-motivair/",
+      "checked": "2026-10-27"
+    },
+    "meta-entergy-hyperion-gas-plants-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-entergy-hyperion-gas-plants-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/65984/000006598425000046/etr-20250331.htm",
+      "checked": "2026-10-27"
+    },
+    "sk-hynix-asml-euv-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "sk-hynix-asml-euv-2021",
+      "url": "https://ca.news.yahoo.com/sk-hynix-signs-five-deal-091243779.html",
+      "checked": "2026-10-27"
+    },
+    "meta-nebius-capacity-option-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-nebius-capacity-option-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "schneider-electric-motivair-acquisition-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "schneider-electric-motivair-acquisition-2024",
+      "url": "https://silicon.co.uk/cloud/datacenter/schneider-electric-motivair-acquisition-584617",
+      "checked": "2026-10-27"
+    },
+    "meta-nebius-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-nebius-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925109806/tm2530882d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-nebius-cloud-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-nebius-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926027886/tm268879d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-oklo-pike-county-prepayment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-oklo-pike-county-prepayment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828026054571/oklo-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "thinking-machines-lab-google-cloud-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "thinking-machines-lab-google-cloud-2026",
+      "url": "https://www.implicator.ai/google-cloud-locks-in-thinking-machines-lab-with-multi-billion-gb300-deal/",
+      "checked": "2026-10-27"
+    },
+    "tensorwave-fermi-america-matador-lease-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "tensorwave-fermi-america-matador-lease-2026",
+      "url": "https://www.newswire.com/news/correction-from-source-fermi-announces-binding-lease-agreement-with-tensorwave",
+      "checked": "2026-10-27"
+    },
+    "meta-oracle-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-oracle-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm",
+      "checked": "2026-10-27"
+    },
+    "spacex-xai-acquisition-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "spacex-xai-acquisition-2026",
+      "url": "https://www.nst.com.my/amp/business/corporate/2026/02/1370202/spacex-acquires-xai-musk-moves-unite-ai-space-ambitions",
+      "checked": "2026-10-27"
+    },
+    "meta-pure-storage-directflash-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-pure-storage-directflash-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828024049744/pstg-ex991q3fy2025xpressre.htm",
+      "checked": "2026-10-27"
+    },
+    "thinking-machines-lab-google-cloud-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "thinking-machines-lab-google-cloud-2026",
+      "url": "https://www.moroccoworldnews.com/2026/04/288234/google-targets-ai-growth-with-multi-billion-dollar-cloud-deal/",
+      "checked": "2026-10-27"
+    },
+    "meta-pure-storage-directflash-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-pure-storage-directflash-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828025021843/pstg-20250428.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-amkor-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-amkor-chips-grant-2024",
+      "url": "https://www.nist.gov/chips/amkor-technology-inc-arizona-peoria",
+      "checked": "2026-10-27"
+    },
+    "meta-scale-ai-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-scale-ai-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828025036791/meta-20250630.htm",
+      "checked": "2026-10-27"
+    },
+    "meta-vistra-nuclear-ppa-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-vistra-nuclear-ppa-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526008508/d20785d8k.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-intel-chips-grant-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-intel-chips-grant-2024",
+      "url": "https://www.nist.gov/chips/intel-corporation-arizona-chandler",
+      "checked": "2026-10-27"
+    },
+    "tva-kairos-power-hermes-2-ppa-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "tva-kairos-power-hermes-2-ppa-2025",
+      "url": "https://world-nuclear-news.org/articles/google-kairos-power-tva-announce-collaboration",
+      "checked": "2026-10-27"
+    },
+    "meta-williams-socrates-power-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "meta-williams-socrates-power-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726325000100/wmb_20250331xer.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-micron-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-micron-chips-grant-2024",
+      "url": "https://www.nist.gov/news-events/news/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip",
+      "checked": "2026-10-27"
+    },
+    "microsoft-anthropic-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-anthropic-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-micron-chips-grant-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-micron-chips-grant-2025",
+      "url": "https://www.nist.gov/news-events/news/2025/06/president-trump-secures-200b-investment-micron-technology-memory-chip",
+      "checked": "2026-10-27"
+    },
+    "us-government-intel-equity-stake-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-intel-equity-stake-2025",
+      "url": "https://newsroom.intel.com/corporate/intel-and-trump-administration-reach-historic-agreement",
+      "checked": "2026-10-27"
+    },
+    "microsoft-arista-switch-purchases-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-arista-switch-purchases-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-constellation-crane-loan-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-constellation-crane-loan-2025",
+      "url": "https://www.energy.gov/articles/energy-Department-closes-loan-restart-nuclear-power-plant-pennsylvania",
+      "checked": "2026-10-27"
+    },
+    "us-government-samsung-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-samsung-chips-grant-2024",
+      "url": "https://www.nist.gov/chips/samsung-electronics-texas-taylor",
+      "checked": "2026-10-27"
+    },
+    "microsoft-arista-switch-purchases-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-arista-switch-purchases-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653225000028/anet-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "sk-hynix-asml-euv-2021#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "sk-hynix-asml-euv-2021",
+      "url": "https://thelec.net/news/articleView.html?idxno=2422",
+      "checked": "2026-10-27"
+    },
+    "microsoft-brookfield-renewable-framework-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-brookfield-renewable-framework-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1533232/000117184324002391/exh_991.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-constellation-crane-loan-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-constellation-crane-loan-2025",
+      "url": "https://www.energy.gov/lpo/crane-restart",
+      "checked": "2026-10-27"
+    },
+    "us-government-intel-equity-stake-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-intel-equity-stake-2025",
+      "url": "https://newsroom.intel.com/corporate/intel-and-trump-administration-reach-historic-agreement",
+      "checked": "2026-10-27"
+    },
+    "us-government-sk-hynix-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-sk-hynix-chips-grant-2024",
+      "url": "https://www.nist.gov/chips/sk-hynix-indiana-west-lafayette",
+      "checked": "2026-10-27"
+    },
+    "microsoft-constellation-crane-ppa-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-constellation-crane-ppa-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1868275/000186827526000032/ceg-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-terrapower-ardp-2020#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-terrapower-ardp-2020",
+      "url": "https://www.energy.gov/ne/articles/us-department-energy-announces-160-million-first-awards-under-advanced-reactor",
+      "checked": "2026-10-27"
+    },
+    "us-government-tsmc-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-tsmc-chips-grant-2024",
+      "url": "https://www.nist.gov/chips/tsmc-arizona-phoenix",
+      "checked": "2026-10-27"
+    },
+    "microsoft-coreweave-cloud-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-coreweave-cloud-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525067651/d899798d424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-terrapower-ardp-2020#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-terrapower-ardp-2020",
+      "url": "https://www.energy.gov/ne/articles/us-department-energy-announces-160-million-first-awards-under-advanced-reactor",
+      "checked": "2026-10-27"
+    },
+    "microsoft-intel-18a-foundry-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-intel-18a-foundry-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000074/q124_earningsrelease.htm",
+      "checked": "2026-10-27"
+    },
+    "microsoft-iren-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-iren-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000114036125040072/ef20058139_8k.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-x-energy-ardp-2020#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-x-energy-ardp-2020",
+      "url": "https://www.energy.gov/ne/articles/us-department-energy-announces-160-million-first-awards-under-advanced-reactor",
+      "checked": "2026-10-27"
+    },
+    "us-government-sk-hynix-chips-grant-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-sk-hynix-chips-grant-2024",
+      "url": "https://insideindianabusiness.com/articles/feds-finalize-deal-to-give-sk-hynix-458m-for-west-lafayette-facility",
+      "checked": "2026-10-27"
+    },
+    "microsoft-nebius-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-nebius-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+      "checked": "2026-10-27"
+    },
+    "microsoft-nebius-cloud-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-nebius-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465925088312/tm2525580d1_6k.htm",
+      "checked": "2026-10-27"
+    },
+    "microsoft-openai-investment-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "microsoft-openai-investment-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm",
+      "checked": "2026-10-27"
+    },
+    "nokia-infinera-acquisition-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nokia-infinera-acquisition-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1138639/000119312524171411/d839163dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nokia-infinera-acquisition-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nokia-infinera-acquisition-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000110465925038218/tm2513093d1_6k.htm",
+      "checked": "2026-10-27"
+    },
+    "nrg-ls-power-portfolio-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nrg-ls-power-portfolio-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465925047007/tm2514561d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nrg-ls-power-portfolio-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nrg-ls-power-portfolio-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387125000020/nrg-20250630.htm",
+      "checked": "2026-10-27"
+    },
+    "nrg-ls-power-portfolio-acquisition-2025#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "nrg-ls-power-portfolio-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926008567/tm264311d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-anthropic-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-anthropic-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-applied-digital-private-placement-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-applied-digital-private-placement-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1144879/000114487924000235/exh991-apldxform8xkgspipe.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-arm-acquisition-2020#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-arm-acquisition-2020",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119312520244601/d13958dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-arm-acquisition-2020#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-arm-acquisition-2020",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000005/nvda-20220208.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coherent-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coherent-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coherent-optics-supply-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coherent-optics-supply-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/820318/000119312526084366/d42735dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-capacity-backstop-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-capacity-backstop-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-capacity-backstop-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-capacity-backstop-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000047/crwv-20250909.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-cloud-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-cloud-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525067651/d899798d424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-coreweave-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-coreweave-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000044/ex991pressrelease_final.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-groq-lpu-license-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-groq-lpu-license-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-intel-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-intel-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000155/a09152025form8-kex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-intel-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-intel-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-iren-cloud-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-iren-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/irenreportsq3fy26results.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-iren-cloud-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-iren-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-iren-investment-rights-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-iren-investment-rights-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000025/irenreportsq3fy26results.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-iren-investment-rights-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-iren-investment-rights-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-lumentum-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-lumentum-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-lumentum-optics-supply-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-lumentum-optics-supply-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-mellanox-acquisition-2019#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-mellanox-acquisition-2019",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000031/ex991jointpr.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nebius-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nebius-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926026163/tm268532d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nebius-investment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nebius-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926059872/tm2614392d1_ex99-2.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nokia-investment-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nokia-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000110465925103038/tm2529638d1_6k.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-nokia-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-nokia-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/924613/000110465926007608/tm264427d1_6k.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-openai-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-openai-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000230/nvda-20251026.htm",
+      "checked": "2026-10-27"
+    },
+    "nvidia-oracle-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "nvidia-oracle-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525314207/orcl-ex99_1.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-amazon-aws-expansion-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-amazon-aws-expansion-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926021050/tm267374d1_ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-amazon-aws-expansion-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-amazon-aws-expansion-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-amd-6gw-instinct-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-amd-6gw-instinct-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312525230895/d28189dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-amd-6gw-instinct-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-amd-6gw-instinct-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/2488/000119312525230895/d28189dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-cerebras-750mw-compute-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-cerebras-750mw-compute-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026035214/cerebras-424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-cerebras-750mw-compute-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-cerebras-750mw-compute-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026035214/cerebras-424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-oracle-cloud-2025#0": {
+      "status": "error",
+      "detail": "This operation was aborted",
+      "deal": "openai-oracle-cloud-2025",
+      "url": "https://www.argaam.com/en/article/articledetail/id/1842499",
+      "checked": "2026-10-27"
+    },
+    "openai-cerebras-working-capital-loan-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-cerebras-working-capital-loan-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026035214/cerebras-424b4.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-coreweave-cloud-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-coreweave-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-coreweave-cloud-expansion-2025-05#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-coreweave-cloud-expansion-2025-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962825000014/crwv-20250331.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-coreweave-cloud-expansion-2025-09#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-coreweave-cloud-expansion-2025-09",
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525216497/d17274d8k.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-microsoft-azure-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-microsoft-azure-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525256321/msft-20250930.htm",
+      "checked": "2026-10-27"
+    },
+    "openai-oracle-cloud-2025#2": {
+      "status": "found",
+      "http": 200,
+      "deal": "openai-oracle-cloud-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525152035/d136779d8k.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-bloom-energy-oci-power-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-bloom-energy-oci-power-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828026006516/be-20251231.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-bloom-energy-oci-power-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-bloom-energy-oci-power-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1664703/000162828025047228/be-20251028.htm",
+      "checked": "2026-10-27"
+    },
+    "oracle-energy-transfer-gas-supply-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "oracle-energy-transfer-gas-supply-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1276187/000127618725000116/ex991eterq32025.htm",
+      "checked": "2026-10-27"
+    },
+    "perplexity-iren-cloud-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "perplexity-iren-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "qualcomm-alphawave-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qualcomm-alphawave-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000017/qcom-20251228.htm",
+      "checked": "2026-10-27"
+    },
+    "qualcomm-globalfoundries-supply-extension-2022#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qualcomm-globalfoundries-supply-extension-2022",
+      "url": "https://www.sec.gov/Archives/edgar/data/1709048/000119312522214239/d377068dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "qualcomm-nuvia-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "qualcomm-nuvia-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/804328/000172894921000043/qcom-20210328.htm",
+      "checked": "2026-10-27"
+    },
+    "sk-hynix-intel-nand-acquisition-2020#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "sk-hynix-intel-nand-acquisition-2020",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312520272580/d76122dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "sk-hynix-intel-nand-acquisition-2020#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "sk-hynix-intel-nand-acquisition-2020",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000011/intc-20251227.htm",
+      "checked": "2026-10-27"
+    },
+    "softbank-intel-investment-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "softbank-intel-investment-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000179/intc-20250927.htm",
+      "checked": "2026-10-27"
+    },
+    "spacex-anysphere-acquisition-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "spacex-anysphere-acquisition-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "checked": "2026-10-27"
+    },
+    "spacex-anysphere-acquisition-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "spacex-anysphere-acquisition-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "checked": "2026-10-27"
+    },
+    "spacex-xai-acquisition-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "spacex-xai-acquisition-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm",
+      "checked": "2026-10-27"
+    },
+    "switch-oklo-master-power-agreement-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "switch-oklo-master-power-agreement-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1849056/000162828025014490/oklo-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "tensorwave-fermi-america-matador-lease-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "tensorwave-fermi-america-matador-lease-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026109227/ea030854601ex99-1.htm",
+      "checked": "2026-10-27"
+    },
+    "tesla-xai-investment-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "tesla-xai-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/exhibit991.htm",
+      "checked": "2026-10-27"
+    },
+    "tesla-xai-investment-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "tesla-xai-investment-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm",
+      "checked": "2026-10-27"
+    },
+    "together-ai-iren-cloud-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "together-ai-iren-cloud-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1878848/000187884826000052/iren-20260630.htm",
+      "checked": "2026-10-27"
+    },
+    "tower-semiconductor-intel-new-mexico-foundry-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "tower-semiconductor-intel-new-mexico-foundry-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/928876/000117891323003070/zk2330264.htm",
+      "checked": "2026-10-27"
+    },
+    "tsmc-intel-ims-stake-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "tsmc-intel-ims-stake-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617923000008/tsm-boardx20230912x6k.htm",
+      "checked": "2026-10-27"
+    },
+    "tsmc-intel-ims-stake-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "tsmc-intel-ims-stake-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086325000009/intc-20241228.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-aep-transmission-loan-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-aep-transmission-loan-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1702494/000170249425000023/a10-2025tcoxdoeloanpressre.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-amkor-chips-grant-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-amkor-chips-grant-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1047127/000104712725000030/amkr-20241231.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-globalfoundries-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-globalfoundries-chips-grant-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1709048/000170904824000066/a112024chipsdfa-cleanfinal.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-intel-chips-grant-2024#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-intel-chips-grant-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086324000169/a11252024form8-kex991.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-micron-chips-grant-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-micron-chips-grant-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/723125/000110465924127174/tm2430615d1_8k.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-tsmc-chips-grant-2024#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-tsmc-chips-grant-2024",
+      "url": "https://www.sec.gov/Archives/edgar/data/1046179/000104617924000126/tsmc2024q3consolidatedfina.htm",
+      "checked": "2026-10-27"
+    },
+    "us-government-westinghouse-reactors-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "us-government-westinghouse-reactors-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1937926/000117184325006726/exh_991.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-cooltera-acquisition-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-cooltera-acquisition-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828023040528/exhibit991vrt-projectnova1.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-cooltera-acquisition-2023#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-cooltera-acquisition-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828024005765/exhibit991vrt02212024.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-e-i-engineering-acquisition-2021#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-e-i-engineering-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312521267213/d213876dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-e-i-engineering-acquisition-2021#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-e-i-engineering-acquisition-2021",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312521267213/d213876dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-great-lakes-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-great-lakes-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828025035130/exhibit991vrt-pressrelease.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-great-lakes-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-great-lakes-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000011/ex991-pressrelease8202025.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-purgerite-acquisition-2025#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-purgerite-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000119312525261623/d10924dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "vertiv-purgerite-acquisition-2025#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "vertiv-purgerite-acquisition-2025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000167410125000031/exhibit991vrt-12042025.htm",
+      "checked": "2026-10-27"
+    },
+    "vistra-cogentrix-acquisition-2026#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "vistra-cogentrix-acquisition-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526002589/d62722dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "vistra-cogentrix-acquisition-2026#1": {
+      "status": "found",
+      "http": 200,
+      "deal": "vistra-cogentrix-acquisition-2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312526002589/d62722dex991.htm",
+      "checked": "2026-10-27"
+    },
+    "vistra-energy-harbor-acquisition-2023#0": {
+      "status": "found",
+      "http": 200,
+      "deal": "vistra-energy-harbor-acquisition-2023",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312523062837/d445413dex991.htm",
+      "checked": "2026-10-27"
+    }
+  }
+}

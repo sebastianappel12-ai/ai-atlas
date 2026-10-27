@@ -27,15 +27,15 @@
     },
     {
       "date": "2025-10-01",
-      "event": "Building 1 is operational. Based on Terawulf [saying](https://investors.terawulf.com/news-events/press-releases/detail/126/terawulf-reports-third-quarter-2025-results) \"As of September 30, 2025, the site has energized 245 MW of Bitcoin-mini"
+      "event": "Building 1 is operational. Based on Terawulf saying \"As of September 30, 2025, the site has energized 245 MW of Bitcoin-mining capacity and 22.5 MW of HPC capacity.\" The small \"Wulf Den\" building was said to be 2 MW of IT power while CB-1…"
     },
     {
       "date": "2026-03-02",
-      "event": "Buildings 1 and 2 both appear to have complete building and cooling equipment, based on satellite imagery. Not considering Building 2 operational yet, due to Terawulf's [statement](https://investors.terawulf.com/news-events/press-releases/d"
+      "event": "Buildings 1 and 2 both appear to have complete building and cooling equipment, based on satellite imagery. Not considering Building 2 operational yet, due to Terawulf's statement that CB2B is expected in March 2026, and is likely still in…"
     },
     {
       "date": "2026-03-31",
-      "event": "Building 2 is operational. On February 26, Terawulf [stated](https://investors.terawulf.com/news-events/press-releases/detail/132/terawulf-reports-fourth-quarter-and-full-year-2025-results) that CB2A is operational, presumably making up hal"
+      "event": "Building 2 is operational. On February 26, Terawulf stated that CB2A is operational, presumably making up half the final capacity. CB2B was expected in March 2026. However, it's notable that a drone video commissioned from RAAD showed no…"
     },
     {
       "date": "2026-07-23",
@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Core42 Lake Mariner: current power 58 MW; owner Core42."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Core42 Lake Mariner is an operating AI data center in Barker, NY, owned by g42. Epoch AI estimates it draws 58 MW today."
 }

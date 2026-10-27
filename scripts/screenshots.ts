@@ -24,6 +24,8 @@ const SHOTS: Shot[] = [
   { name: "company-page", path: "/company/nvidia", wait: 1500 },
   { name: "energy", path: "/energy", wait: 5000 },
   { name: "energy-owner", path: "/energy?owner=meta", wait: 5000 },
+  { name: "energy-grid", path: "/energy?layers=datacenters,grid&dc=openai-stargate-abilene", wait: 6000 },
+  { name: "energy-prices", path: "/energy?layers=prices,datacenters", wait: 6000 },
   { name: "energy-mobile", path: "/energy", mobile: true, wait: 5000 },
   { name: "changes", path: "/changes", wait: 1000 },
   { name: "methodology", path: "/methodology", wait: 1000 },

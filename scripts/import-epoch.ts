@@ -133,6 +133,8 @@ function nearestBa(lat: number, lon: number): string {
   return best || "UNK";
 }
 
+/** Cut at a word boundary and add an ellipsis. */
+const shorten = (s: string, n: number) => (s.length <= n ? s : s.slice(0, s.lastIndexOf(" ", n - 1)).replace(/[,;:]$/, "") + "…");
 const slugify = (s: string) => s.toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 const num = (s: string) => (s && Number.isFinite(Number(s)) ? Number(s) : 0);
 
@@ -212,7 +214,7 @@ for (const r of centers.filter((c) => c.Country === "United States")) {
     timeline: tl
       .filter((t) => t["Construction status"].trim())
       .slice(-8)
-      .map((t) => ({ date: t.Date, event: t["Construction status"].replace(/\s+/g, " ").trim().slice(0, 240) })),
+      .map((t) => ({ date: t.Date, event: shorten(t["Construction status"].replace(/\[([^\]]+)\]\([^)]+\)/g, "$1").replace(/\s+/g, " ").trim(), 240) })),
     epoch_id: name,
     sources: [
       {

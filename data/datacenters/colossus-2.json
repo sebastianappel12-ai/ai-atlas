@@ -34,23 +34,23 @@
     },
     {
       "date": "2025-10-19",
-      "event": "Battery facility looks complete (though more might be added). Turbines look connected up, minimal construction around them. We believe this state corresponds to the first compute cluster brought online at this site of \"approximately 110,000"
+      "event": "Battery facility looks complete (though more might be added). Turbines look connected up, minimal construction around them. We believe this state corresponds to the first compute cluster brought online at this site of \"approximately…"
     },
     {
       "date": "2026-01-13",
-      "event": "Since October, an array of dry cooling air-cooled condensers has been added (the array of large fans to the left of the building), and appears almost complete. Two more similar arrays appear to be under construction. More air-cooled chiller"
+      "event": "Since October, an array of dry cooling air-cooled condensers has been added (the array of large fans to the left of the building), and appears almost complete. Two more similar arrays appear to be under construction. More air-cooled…"
     },
     {
       "date": "2026-04-06",
-      "event": "The first array of dry cooling air-cooled condensers for Building 1 has been completed and is operational. A second array, with larger fans, is about halfway complete (located to the south of the first array). More chillers have also been a"
+      "event": "The first array of dry cooling air-cooled condensers for Building 1 has been completed and is operational. A second array, with larger fans, is about halfway complete (located to the south of the first array). More chillers have also been…"
     },
     {
       "date": "2026-06-15",
-      "event": "The site is estimated to have at least ~830 MW of GPU server power, with at least \"at least 220,000 additional GB300 processors and over 400 additional megawatts of compute power\", corresponding to the \"next phase of expansion\" found in the"
+      "event": "The site is estimated to have at least ~830 MW of GPU server power, with at least \"at least 220,000 additional GB300 processors and over 400 additional megawatts of compute power\", corresponding to the \"next phase of expansion\" found in…"
     },
     {
       "date": "2027-02-25",
-      "event": "Building 3 is estimated to be completed. The site is predicted to have enough power infrastructure installed for a total of 1.5 GW of IT Power. Based on building plans we predict the addition of three more cooling arrays similar to the 6x24"
+      "event": "Building 3 is estimated to be completed. The site is predicted to have enough power infrastructure installed for a total of 1.5 GW of IT Power. Based on building plans we predict the addition of three more cooling arrays similar to the…"
     }
   ],
   "epoch_id": "Colossus 2",
@@ -58,11 +58,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Colossus 2: current power 946 MW; owner SpaceXAI."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Colossus 2 is an operating AI data center in Memphis, TN, owned by xai and used by anthropic, anysphere. Epoch AI estimates it draws 946 MW today and 2,065 MW when finished."
 }

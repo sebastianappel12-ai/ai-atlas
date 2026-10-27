@@ -23,7 +23,7 @@
   "timeline": [
     {
       "date": "2024-06-03",
-      "event": "According to a [few](https://investors.corescientific.com/news-events/press-releases/detail/74/core-scientific-to-provide-approximately-200-mw-of-infrastructure-to-host-coreweaves-high-performance-computing-services-capturing-significant-ai"
+      "event": "According to a few sources, Core Scientific announced that they're rebuilding their existing Dalton 1 (and we're assuming 2) datacenter to run AI using CoreWeave's GPUs, of which contract was first signed on this date. According to the…"
     },
     {
       "date": "2025-05-01",
@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "CoreWeave Dalton 1 & 2: current power 28 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "CoreWeave Dalton 1 & 2 is an operating AI data center in GA, GA, owned by coreweave. Epoch AI estimates it draws 28 MW today and 40 MW when finished."
 }

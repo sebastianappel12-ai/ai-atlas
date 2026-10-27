@@ -1,0 +1,8480 @@
+{
+  "source": "U.S. Energy Information Administration: State Electricity Profiles (annual) and Electric Power Monthly Table 5.6.A",
+  "units": "cents per kilowatt-hour",
+  "latest_month": "August 2026",
+  "subtitle": "by State, August 2026 and 2025 (Cents per Kilowatthour)",
+  "latest": {
+    "CT": {
+      "residential": 24.51,
+      "residential_prev": 30.17,
+      "total": 21.62,
+      "total_prev": 26.42
+    },
+    "ME": {
+      "residential": 32.11,
+      "residential_prev": 28.14,
+      "total": 24.21,
+      "total_prev": 22.89
+    },
+    "MA": {
+      "residential": 30.48,
+      "residential_prev": 30.55,
+      "total": 26.42,
+      "total_prev": 25.76
+    },
+    "NH": {
+      "residential": 27.64,
+      "residential_prev": 24.44,
+      "total": 23.45,
+      "total_prev": 21.79
+    },
+    "RI": {
+      "residential": 28.18,
+      "residential_prev": 26.53,
+      "total": 25.34,
+      "total_prev": 23.95
+    },
+    "VT": {
+      "residential": 23.84,
+      "residential_prev": 22.1,
+      "total": 20.01,
+      "total_prev": 18.64
+    },
+    "NJ": {
+      "residential": 24.61,
+      "residential_prev": 24.7,
+      "total": 21.29,
+      "total_prev": 21.01
+    },
+    "NY": {
+      "residential": 28.65,
+      "residential_prev": 26.64,
+      "total": 24.6,
+      "total_prev": 22.76
+    },
+    "PA": {
+      "residential": 21.77,
+      "residential_prev": 19.93,
+      "total": 15.99,
+      "total_prev": 14.62
+    },
+    "IL": {
+      "residential": 19.32,
+      "residential_prev": 18.03,
+      "total": 15.44,
+      "total_prev": 14.31
+    },
+    "IN": {
+      "residential": 17.02,
+      "residential_prev": 16.21,
+      "total": 12.96,
+      "total_prev": 12.75
+    },
+    "MI": {
+      "residential": 22.99,
+      "residential_prev": 20.73,
+      "total": 16.71,
+      "total_prev": 15.23
+    },
+    "OH": {
+      "residential": 19.38,
+      "residential_prev": 17.55,
+      "total": 13.93,
+      "total_prev": 12.67
+    },
+    "WI": {
+      "residential": 19.41,
+      "residential_prev": 18.44,
+      "total": 14.78,
+      "total_prev": 13.87
+    },
+    "IA": {
+      "residential": 17.06,
+      "residential_prev": 15.48,
+      "total": 12.07,
+      "total_prev": 11.59
+    },
+    "KS": {
+      "residential": 15.47,
+      "residential_prev": 14.65,
+      "total": 12.63,
+      "total_prev": 11.96
+    },
+    "MN": {
+      "residential": 17.2,
+      "residential_prev": 16.89,
+      "total": 13.75,
+      "total_prev": 13.42
+    },
+    "MO": {
+      "residential": 16.02,
+      "residential_prev": 15.32,
+      "total": 13.85,
+      "total_prev": 13.29
+    },
+    "NE": {
+      "residential": 13.54,
+      "residential_prev": 12.8,
+      "total": 10.49,
+      "total_prev": 10
+    },
+    "ND": {
+      "residential": 13.31,
+      "residential_prev": 12.97,
+      "total": 8.91,
+      "total_prev": 8.38
+    },
+    "SD": {
+      "residential": 15.15,
+      "residential_prev": 13.9,
+      "total": 12.42,
+      "total_prev": 11.38
+    },
+    "DE": {
+      "residential": 18.7,
+      "residential_prev": 16.85,
+      "total": 15.82,
+      "total_prev": 14.22
+    },
+    "DC": {
+      "residential": 25.98,
+      "residential_prev": 23.18,
+      "total": 23.66,
+      "total_prev": 20.75
+    },
+    "FL": {
+      "residential": 14.99,
+      "residential_prev": 15.33,
+      "total": 13.3,
+      "total_prev": 13.54
+    },
+    "GA": {
+      "residential": 15.9,
+      "residential_prev": 15.55,
+      "total": 14.6,
+      "total_prev": 12.45
+    },
+    "MD": {
+      "residential": 21.4,
+      "residential_prev": 19.89,
+      "total": 18.78,
+      "total_prev": 17.06
+    },
+    "NC": {
+      "residential": 14.95,
+      "residential_prev": 14.59,
+      "total": 12.34,
+      "total_prev": 11.7
+    },
+    "SC": {
+      "residential": 15.76,
+      "residential_prev": 15.16,
+      "total": 12.46,
+      "total_prev": 11.66
+    },
+    "VA": {
+      "residential": 17.64,
+      "residential_prev": 15.85,
+      "total": 13.15,
+      "total_prev": 11.54
+    },
+    "WV": {
+      "residential": 16.31,
+      "residential_prev": 15.62,
+      "total": 11.74,
+      "total_prev": 11.46
+    },
+    "AL": {
+      "residential": 16.33,
+      "residential_prev": 16.26,
+      "total": 13.27,
+      "total_prev": 12.87
+    },
+    "KY": {
+      "residential": 13.8,
+      "residential_prev": 13.1,
+      "total": 11.14,
+      "total_prev": 10.65
+    },
+    "MS": {
+      "residential": 14.43,
+      "residential_prev": 13.61,
+      "total": 12.14,
+      "total_prev": 11.6
+    },
+    "TN": {
+      "residential": 13.42,
+      "residential_prev": 13.09,
+      "total": 11.93,
+      "total_prev": 11.7
+    },
+    "AR": {
+      "residential": 14.37,
+      "residential_prev": 13.33,
+      "total": 11.33,
+      "total_prev": 10.46
+    },
+    "LA": {
+      "residential": 12.87,
+      "residential_prev": 12.55,
+      "total": 9.86,
+      "total_prev": 9.73
+    },
+    "OK": {
+      "residential": 14.82,
+      "residential_prev": 14.42,
+      "total": 11.81,
+      "total_prev": 10.65
+    },
+    "TX": {
+      "residential": 15.91,
+      "residential_prev": 15.4,
+      "total": 11.23,
+      "total_prev": 10.42
+    },
+    "AZ": {
+      "residential": 15.05,
+      "residential_prev": 15.09,
+      "total": 13.63,
+      "total_prev": 13.54
+    },
+    "CO": {
+      "residential": 17.17,
+      "residential_prev": 16.21,
+      "total": 14.36,
+      "total_prev": 13.48
+    },
+    "ID": {
+      "residential": 13.37,
+      "residential_prev": 12.08,
+      "total": 11.09,
+      "total_prev": 9.87
+    },
+    "MT": {
+      "residential": 15.57,
+      "residential_prev": 14.29,
+      "total": 12.55,
+      "total_prev": 11.59
+    },
+    "NV": {
+      "residential": 12.72,
+      "residential_prev": 12.54,
+      "total": 11.21,
+      "total_prev": 11.03
+    },
+    "NM": {
+      "residential": 16.51,
+      "residential_prev": 15.98,
+      "total": 10.08,
+      "total_prev": 10.66
+    },
+    "UT": {
+      "residential": 13.31,
+      "residential_prev": 13.62,
+      "total": 11.17,
+      "total_prev": 11.57
+    },
+    "WY": {
+      "residential": 14.43,
+      "residential_prev": 14.33,
+      "total": 10.21,
+      "total_prev": 9.9
+    },
+    "CA": {
+      "residential": 29.75,
+      "residential_prev": 30.92,
+      "total": 29.02,
+      "total_prev": 28.88
+    },
+    "OR": {
+      "residential": 15.92,
+      "residential_prev": 15.85,
+      "total": 11.78,
+      "total_prev": 11.39
+    },
+    "WA": {
+      "residential": 14.63,
+      "residential_prev": 13.65,
+      "total": 11.97,
+      "total_prev": 11.17
+    },
+    "AK": {
+      "residential": 29.41,
+      "residential_prev": 27.79,
+      "total": 25.32,
+      "total_prev": 23.88
+    },
+    "HI": {
+      "residential": 47.18,
+      "residential_prev": 38.53,
+      "total": 43.04,
+      "total_prev": 34.28
+    }
+  },
+  "history": {
+    "AK": [
+      {
+        "year": 1990,
+        "residential": 10.11,
+        "total": 9.48
+      },
+      {
+        "year": 1991,
+        "residential": 10.67,
+        "total": 9.8
+      },
+      {
+        "year": 1992,
+        "residential": 10.82,
+        "total": 9.95
+      },
+      {
+        "year": 1993,
+        "residential": 11.15,
+        "total": 10.12
+      },
+      {
+        "year": 1994,
+        "residential": 11.32,
+        "total": 10.25
+      },
+      {
+        "year": 1995,
+        "residential": 11.24,
+        "total": 10.17
+      },
+      {
+        "year": 1996,
+        "residential": 11.36,
+        "total": 10.24
+      },
+      {
+        "year": 1997,
+        "residential": 11.44,
+        "total": 10.07
+      },
+      {
+        "year": 1998,
+        "residential": 11.5,
+        "total": 9.97
+      },
+      {
+        "year": 1999,
+        "residential": 11.16,
+        "total": 9.78
+      },
+      {
+        "year": 2000,
+        "residential": 11.45,
+        "total": 10.08
+      },
+      {
+        "year": 2001,
+        "residential": 12.12,
+        "total": 10.54
+      },
+      {
+        "year": 2002,
+        "residential": 12.05,
+        "total": 10.46
+      },
+      {
+        "year": 2003,
+        "residential": 11.98,
+        "total": 10.5
+      },
+      {
+        "year": 2004,
+        "residential": 12.44,
+        "total": 10.99
+      },
+      {
+        "year": 2005,
+        "residential": 13.3,
+        "total": 11.72
+      },
+      {
+        "year": 2006,
+        "residential": 14.83,
+        "total": 12.84
+      },
+      {
+        "year": 2007,
+        "residential": 15.18,
+        "total": 13.28
+      },
+      {
+        "year": 2008,
+        "residential": 16.56,
+        "total": 14.74
+      },
+      {
+        "year": 2009,
+        "residential": 17.14,
+        "total": 15.09
+      },
+      {
+        "year": 2010,
+        "residential": 16.26,
+        "total": 14.76
+      },
+      {
+        "year": 2011,
+        "residential": 17.62,
+        "total": 16.08
+      },
+      {
+        "year": 2012,
+        "residential": 17.88,
+        "total": 16.33
+      },
+      {
+        "year": 2013,
+        "residential": 18.12,
+        "total": 16.49
+      },
+      {
+        "year": 2014,
+        "residential": 19.14,
+        "total": 17.46
+      },
+      {
+        "year": 2015,
+        "residential": 19.83,
+        "total": 17.59
+      },
+      {
+        "year": 2016,
+        "residential": 20.3,
+        "total": 17.93
+      },
+      {
+        "year": 2017,
+        "residential": 21.27,
+        "total": 19.1
+      },
+      {
+        "year": 2018,
+        "residential": 21.94,
+        "total": 19.36
+      },
+      {
+        "year": 2019,
+        "residential": 22.92,
+        "total": 20.22
+      },
+      {
+        "year": 2020,
+        "residential": 22.57,
+        "total": 19.82
+      }
+    ],
+    "AL": [
+      {
+        "year": 1990,
+        "residential": 6.59,
+        "total": 5.57
+      },
+      {
+        "year": 1991,
+        "residential": 6.69,
+        "total": 5.64
+      },
+      {
+        "year": 1992,
+        "residential": 6.69,
+        "total": 5.57
+      },
+      {
+        "year": 1993,
+        "residential": 6.82,
+        "total": 5.67
+      },
+      {
+        "year": 1994,
+        "residential": 6.69,
+        "total": 5.48
+      },
+      {
+        "year": 1995,
+        "residential": 6.71,
+        "total": 5.47
+      },
+      {
+        "year": 1996,
+        "residential": 6.63,
+        "total": 5.35
+      },
+      {
+        "year": 1997,
+        "residential": 6.74,
+        "total": 5.33
+      },
+      {
+        "year": 1998,
+        "residential": 6.94,
+        "total": 5.56
+      },
+      {
+        "year": 1999,
+        "residential": 7.03,
+        "total": 5.54
+      },
+      {
+        "year": 2000,
+        "residential": 7.05,
+        "total": 5.61
+      },
+      {
+        "year": 2001,
+        "residential": 7.01,
+        "total": 5.6
+      },
+      {
+        "year": 2002,
+        "residential": 7.12,
+        "total": 5.71
+      },
+      {
+        "year": 2003,
+        "residential": 7.39,
+        "total": 5.88
+      },
+      {
+        "year": 2004,
+        "residential": 7.62,
+        "total": 6.08
+      },
+      {
+        "year": 2005,
+        "residential": 8,
+        "total": 6.46
+      },
+      {
+        "year": 2006,
+        "residential": 8.75,
+        "total": 7.07
+      },
+      {
+        "year": 2007,
+        "residential": 9.32,
+        "total": 7.57
+      },
+      {
+        "year": 2008,
+        "residential": 10.4,
+        "total": 8.59
+      },
+      {
+        "year": 2009,
+        "residential": 10.66,
+        "total": 8.83
+      },
+      {
+        "year": 2010,
+        "residential": 10.67,
+        "total": 8.89
+      },
+      {
+        "year": 2011,
+        "residential": 11.09,
+        "total": 9.1
+      },
+      {
+        "year": 2012,
+        "residential": 11.4,
+        "total": 9.18
+      },
+      {
+        "year": 2013,
+        "residential": 11.26,
+        "total": 9.02
+      },
+      {
+        "year": 2014,
+        "residential": 11.48,
+        "total": 9.27
+      },
+      {
+        "year": 2015,
+        "residential": 11.7,
+        "total": 9.33
+      },
+      {
+        "year": 2016,
+        "residential": 11.99,
+        "total": 9.56
+      },
+      {
+        "year": 2017,
+        "residential": 12.55,
+        "total": 9.83
+      },
+      {
+        "year": 2018,
+        "residential": 12.18,
+        "total": 9.63
+      },
+      {
+        "year": 2019,
+        "residential": 12.53,
+        "total": 9.83
+      },
+      {
+        "year": 2020,
+        "residential": 12.58,
+        "total": 9.84
+      }
+    ],
+    "AR": [
+      {
+        "year": 1990,
+        "residential": 8.07,
+        "total": 6.7
+      },
+      {
+        "year": 1991,
+        "residential": 8.1,
+        "total": 6.69
+      },
+      {
+        "year": 1992,
+        "residential": 8.28,
+        "total": 6.71
+      },
+      {
+        "year": 1993,
+        "residential": 8.27,
+        "total": 6.62
+      },
+      {
+        "year": 1994,
+        "residential": 8.07,
+        "total": 6.35
+      },
+      {
+        "year": 1995,
+        "residential": 7.98,
+        "total": 6.27
+      },
+      {
+        "year": 1996,
+        "residential": 7.77,
+        "total": 6.15
+      },
+      {
+        "year": 1997,
+        "residential": 7.8,
+        "total": 6.15
+      },
+      {
+        "year": 1998,
+        "residential": 7.51,
+        "total": 5.78
+      },
+      {
+        "year": 1999,
+        "residential": 7.43,
+        "total": 5.68
+      },
+      {
+        "year": 2000,
+        "residential": 7.45,
+        "total": 5.77
+      },
+      {
+        "year": 2001,
+        "residential": 7.72,
+        "total": 6.05
+      },
+      {
+        "year": 2002,
+        "residential": 7.25,
+        "total": 5.61
+      },
+      {
+        "year": 2003,
+        "residential": 7.24,
+        "total": 5.57
+      },
+      {
+        "year": 2004,
+        "residential": 7.36,
+        "total": 5.67
+      },
+      {
+        "year": 2005,
+        "residential": 8,
+        "total": 6.3
+      },
+      {
+        "year": 2006,
+        "residential": 8.85,
+        "total": 6.99
+      },
+      {
+        "year": 2007,
+        "residential": 8.73,
+        "total": 6.96
+      },
+      {
+        "year": 2008,
+        "residential": 9.27,
+        "total": 7.6
+      },
+      {
+        "year": 2009,
+        "residential": 9.14,
+        "total": 7.57
+      },
+      {
+        "year": 2010,
+        "residential": 8.86,
+        "total": 7.28
+      },
+      {
+        "year": 2011,
+        "residential": 9.02,
+        "total": 7.43
+      },
+      {
+        "year": 2012,
+        "residential": 9.3,
+        "total": 7.62
+      },
+      {
+        "year": 2013,
+        "residential": 9.59,
+        "total": 7.93
+      },
+      {
+        "year": 2014,
+        "residential": 9.51,
+        "total": 7.9
+      },
+      {
+        "year": 2015,
+        "residential": 9.82,
+        "total": 8.19
+      },
+      {
+        "year": 2016,
+        "residential": 9.92,
+        "total": 8.13
+      },
+      {
+        "year": 2017,
+        "residential": 10.28,
+        "total": 8.26
+      },
+      {
+        "year": 2018,
+        "residential": 9.81,
+        "total": 7.78
+      },
+      {
+        "year": 2019,
+        "residential": 9.8,
+        "total": 8.22
+      },
+      {
+        "year": 2020,
+        "residential": 10.41,
+        "total": 8.32
+      }
+    ],
+    "AZ": [
+      {
+        "year": 1990,
+        "residential": 9.04,
+        "total": 7.75
+      },
+      {
+        "year": 1991,
+        "residential": 9.14,
+        "total": 7.85
+      },
+      {
+        "year": 1992,
+        "residential": 9.58,
+        "total": 8.13
+      },
+      {
+        "year": 1993,
+        "residential": 9.65,
+        "total": 8.21
+      },
+      {
+        "year": 1994,
+        "residential": 9.3,
+        "total": 7.93
+      },
+      {
+        "year": 1995,
+        "residential": 9.09,
+        "total": 7.62
+      },
+      {
+        "year": 1996,
+        "residential": 8.95,
+        "total": 7.54
+      },
+      {
+        "year": 1997,
+        "residential": 8.82,
+        "total": 7.38
+      },
+      {
+        "year": 1998,
+        "residential": 8.68,
+        "total": 7.33
+      },
+      {
+        "year": 1999,
+        "residential": 8.53,
+        "total": 7.23
+      },
+      {
+        "year": 2000,
+        "residential": 8.44,
+        "total": 7.25
+      },
+      {
+        "year": 2001,
+        "residential": 8.3,
+        "total": 7.27
+      },
+      {
+        "year": 2002,
+        "residential": 8.27,
+        "total": 7.21
+      },
+      {
+        "year": 2003,
+        "residential": 8.35,
+        "total": 7.34
+      },
+      {
+        "year": 2004,
+        "residential": 8.46,
+        "total": 7.45
+      },
+      {
+        "year": 2005,
+        "residential": 8.86,
+        "total": 7.79
+      },
+      {
+        "year": 2006,
+        "residential": 9.4,
+        "total": 8.24
+      },
+      {
+        "year": 2007,
+        "residential": 9.66,
+        "total": 8.54
+      },
+      {
+        "year": 2008,
+        "residential": 10.27,
+        "total": 9.11
+      },
+      {
+        "year": 2009,
+        "residential": 10.73,
+        "total": 9.56
+      },
+      {
+        "year": 2010,
+        "residential": 10.97,
+        "total": 9.69
+      },
+      {
+        "year": 2011,
+        "residential": 11.08,
+        "total": 9.71
+      },
+      {
+        "year": 2012,
+        "residential": 11.29,
+        "total": 9.81
+      },
+      {
+        "year": 2013,
+        "residential": 11.71,
+        "total": 10.14
+      },
+      {
+        "year": 2014,
+        "residential": 11.9,
+        "total": 10.18
+      },
+      {
+        "year": 2015,
+        "residential": 12.13,
+        "total": 10.34
+      },
+      {
+        "year": 2016,
+        "residential": 12.15,
+        "total": 10.33
+      },
+      {
+        "year": 2017,
+        "residential": 12.44,
+        "total": 10.64
+      },
+      {
+        "year": 2018,
+        "residential": 12.77,
+        "total": 10.85
+      },
+      {
+        "year": 2019,
+        "residential": 12.43,
+        "total": 10.52
+      },
+      {
+        "year": 2020,
+        "residential": 12.27,
+        "total": 10.44
+      }
+    ],
+    "CA": [
+      {
+        "year": 1990,
+        "residential": 9.98,
+        "total": 8.84
+      },
+      {
+        "year": 1991,
+        "residential": 10.79,
+        "total": 9.42
+      },
+      {
+        "year": 1992,
+        "residential": 11.07,
+        "total": 9.66
+      },
+      {
+        "year": 1993,
+        "residential": 11.3,
+        "total": 9.69
+      },
+      {
+        "year": 1994,
+        "residential": 11.43,
+        "total": 9.78
+      },
+      {
+        "year": 1995,
+        "residential": 11.61,
+        "total": 9.91
+      },
+      {
+        "year": 1996,
+        "residential": 11.33,
+        "total": 9.48
+      },
+      {
+        "year": 1997,
+        "residential": 11.5,
+        "total": 9.54
+      },
+      {
+        "year": 1998,
+        "residential": 10.6,
+        "total": 9.03
+      },
+      {
+        "year": 1999,
+        "residential": 10.64,
+        "total": 8.75
+      },
+      {
+        "year": 2000,
+        "residential": 10.89,
+        "total": 9.47
+      },
+      {
+        "year": 2001,
+        "residential": 12.09,
+        "total": 11.22
+      },
+      {
+        "year": 2002,
+        "residential": 12.64,
+        "total": 12.19
+      },
+      {
+        "year": 2003,
+        "residential": 12.23,
+        "total": 11.78
+      },
+      {
+        "year": 2004,
+        "residential": 12.2,
+        "total": 11.35
+      },
+      {
+        "year": 2005,
+        "residential": 12.51,
+        "total": 11.63
+      },
+      {
+        "year": 2006,
+        "residential": 14.33,
+        "total": 12.82
+      },
+      {
+        "year": 2007,
+        "residential": 14.42,
+        "total": 12.8
+      },
+      {
+        "year": 2008,
+        "residential": 13.81,
+        "total": 12.49
+      },
+      {
+        "year": 2009,
+        "residential": 14.74,
+        "total": 13.24
+      },
+      {
+        "year": 2010,
+        "residential": 14.75,
+        "total": 13.01
+      },
+      {
+        "year": 2011,
+        "residential": 14.78,
+        "total": 13.05
+      },
+      {
+        "year": 2012,
+        "residential": 15.34,
+        "total": 13.53
+      },
+      {
+        "year": 2013,
+        "residential": 16.23,
+        "total": 14.3
+      },
+      {
+        "year": 2014,
+        "residential": 16.25,
+        "total": 15.15
+      },
+      {
+        "year": 2015,
+        "residential": 16.99,
+        "total": 15.42
+      },
+      {
+        "year": 2016,
+        "residential": 17.39,
+        "total": 15.23
+      },
+      {
+        "year": 2017,
+        "residential": 18.31,
+        "total": 16.06
+      },
+      {
+        "year": 2018,
+        "residential": 18.84,
+        "total": 16.58
+      },
+      {
+        "year": 2019,
+        "residential": 19.15,
+        "total": 16.89
+      },
+      {
+        "year": 2020,
+        "residential": 20.45,
+        "total": 18
+      }
+    ],
+    "CO": [
+      {
+        "year": 1990,
+        "residential": 7.02,
+        "total": 5.89
+      },
+      {
+        "year": 1991,
+        "residential": 7.07,
+        "total": 5.95
+      },
+      {
+        "year": 1992,
+        "residential": 7.2,
+        "total": 6.02
+      },
+      {
+        "year": 1993,
+        "residential": 7.24,
+        "total": 6.05
+      },
+      {
+        "year": 1994,
+        "residential": 7.36,
+        "total": 6.07
+      },
+      {
+        "year": 1995,
+        "residential": 7.42,
+        "total": 6.12
+      },
+      {
+        "year": 1996,
+        "residential": 7.49,
+        "total": 6.05
+      },
+      {
+        "year": 1997,
+        "residential": 7.42,
+        "total": 5.95
+      },
+      {
+        "year": 1998,
+        "residential": 7.45,
+        "total": 5.95
+      },
+      {
+        "year": 1999,
+        "residential": 7.38,
+        "total": 5.95
+      },
+      {
+        "year": 2000,
+        "residential": 7.31,
+        "total": 5.88
+      },
+      {
+        "year": 2001,
+        "residential": 7.47,
+        "total": 6.02
+      },
+      {
+        "year": 2002,
+        "residential": 7.37,
+        "total": 6
+      },
+      {
+        "year": 2003,
+        "residential": 8.14,
+        "total": 6.77
+      },
+      {
+        "year": 2004,
+        "residential": 8.42,
+        "total": 6.95
+      },
+      {
+        "year": 2005,
+        "residential": 9.06,
+        "total": 7.64
+      },
+      {
+        "year": 2006,
+        "residential": 9.02,
+        "total": 7.61
+      },
+      {
+        "year": 2007,
+        "residential": 9.25,
+        "total": 7.76
+      },
+      {
+        "year": 2008,
+        "residential": 10.13,
+        "total": 8.59
+      },
+      {
+        "year": 2009,
+        "residential": 10,
+        "total": 8.31
+      },
+      {
+        "year": 2010,
+        "residential": 11.04,
+        "total": 9.15
+      },
+      {
+        "year": 2011,
+        "residential": 11.27,
+        "total": 9.39
+      },
+      {
+        "year": 2012,
+        "residential": 11.46,
+        "total": 9.39
+      },
+      {
+        "year": 2013,
+        "residential": 11.93,
+        "total": 9.88
+      },
+      {
+        "year": 2014,
+        "residential": 12.18,
+        "total": 10.06
+      },
+      {
+        "year": 2015,
+        "residential": 12.12,
+        "total": 9.94
+      },
+      {
+        "year": 2016,
+        "residential": 12.07,
+        "total": 9.83
+      },
+      {
+        "year": 2017,
+        "residential": 12.17,
+        "total": 9.99
+      },
+      {
+        "year": 2018,
+        "residential": 12.15,
+        "total": 10.02
+      },
+      {
+        "year": 2019,
+        "residential": 12.18,
+        "total": 10.17
+      },
+      {
+        "year": 2020,
+        "residential": 12.36,
+        "total": 10.27
+      }
+    ],
+    "CT": [
+      {
+        "year": 1990,
+        "residential": 10.01,
+        "total": 9.16
+      },
+      {
+        "year": 1991,
+        "residential": 10.51,
+        "total": 9.6
+      },
+      {
+        "year": 1992,
+        "residential": 11.07,
+        "total": 10.04
+      },
+      {
+        "year": 1993,
+        "residential": 11.39,
+        "total": 10.26
+      },
+      {
+        "year": 1994,
+        "residential": 11.47,
+        "total": 10.18
+      },
+      {
+        "year": 1995,
+        "residential": 11.95,
+        "total": 10.5
+      },
+      {
+        "year": 1996,
+        "residential": 12.05,
+        "total": 10.51
+      },
+      {
+        "year": 1997,
+        "residential": 12.13,
+        "total": 10.52
+      },
+      {
+        "year": 1998,
+        "residential": 11.95,
+        "total": 10.3
+      },
+      {
+        "year": 1999,
+        "residential": 11.46,
+        "total": 9.96
+      },
+      {
+        "year": 2000,
+        "residential": 10.86,
+        "total": 9.52
+      },
+      {
+        "year": 2001,
+        "residential": 10.9,
+        "total": 9.62
+      },
+      {
+        "year": 2002,
+        "residential": 10.96,
+        "total": 9.71
+      },
+      {
+        "year": 2003,
+        "residential": 11.31,
+        "total": 10.16
+      },
+      {
+        "year": 2004,
+        "residential": 11.63,
+        "total": 10.26
+      },
+      {
+        "year": 2005,
+        "residential": 13.64,
+        "total": 12.06
+      },
+      {
+        "year": 2006,
+        "residential": 16.86,
+        "total": 14.83
+      },
+      {
+        "year": 2007,
+        "residential": 19.11,
+        "total": 16.45
+      },
+      {
+        "year": 2008,
+        "residential": 19.54,
+        "total": 17.8
+      },
+      {
+        "year": 2009,
+        "residential": 20.33,
+        "total": 18.07
+      },
+      {
+        "year": 2010,
+        "residential": 19.25,
+        "total": 17.38
+      },
+      {
+        "year": 2011,
+        "residential": 18.11,
+        "total": 16.35
+      },
+      {
+        "year": 2012,
+        "residential": 17.34,
+        "total": 15.54
+      },
+      {
+        "year": 2013,
+        "residential": 17.55,
+        "total": 15.66
+      },
+      {
+        "year": 2014,
+        "residential": 19.75,
+        "total": 17.05
+      },
+      {
+        "year": 2015,
+        "residential": 20.94,
+        "total": 17.77
+      },
+      {
+        "year": 2016,
+        "residential": 20.01,
+        "total": 17.24
+      },
+      {
+        "year": 2017,
+        "residential": 20.29,
+        "total": 17.55
+      },
+      {
+        "year": 2018,
+        "residential": 21.2,
+        "total": 18.41
+      },
+      {
+        "year": 2019,
+        "residential": 21.87,
+        "total": 18.66
+      },
+      {
+        "year": 2020,
+        "residential": 22.71,
+        "total": 19.13
+      }
+    ],
+    "DC": [
+      {
+        "year": 1990,
+        "residential": 6.1,
+        "total": 5.94
+      },
+      {
+        "year": 1991,
+        "residential": 6.58,
+        "total": 6.25
+      },
+      {
+        "year": 1992,
+        "residential": 6.61,
+        "total": 6.47
+      },
+      {
+        "year": 1993,
+        "residential": 7.18,
+        "total": 6.78
+      },
+      {
+        "year": 1994,
+        "residential": 7.47,
+        "total": 7.12
+      },
+      {
+        "year": 1995,
+        "residential": 7.62,
+        "total": 7.12
+      },
+      {
+        "year": 1996,
+        "residential": 7.77,
+        "total": 7.35
+      },
+      {
+        "year": 1997,
+        "residential": 7.87,
+        "total": 7.39
+      },
+      {
+        "year": 1998,
+        "residential": 8,
+        "total": 7.41
+      },
+      {
+        "year": 1999,
+        "residential": 8,
+        "total": 7.45
+      },
+      {
+        "year": 2000,
+        "residential": 8.03,
+        "total": 7.52
+      },
+      {
+        "year": 2001,
+        "residential": 7.79,
+        "total": 7.4
+      },
+      {
+        "year": 2002,
+        "residential": 7.98,
+        "total": 7.34
+      },
+      {
+        "year": 2003,
+        "residential": 7.84,
+        "total": 7.4
+      },
+      {
+        "year": 2004,
+        "residential": 8,
+        "total": 7.47
+      },
+      {
+        "year": 2005,
+        "residential": 9.1,
+        "total": 9.18
+      },
+      {
+        "year": 2006,
+        "residential": 9.88,
+        "total": 11.08
+      },
+      {
+        "year": 2007,
+        "residential": 11.18,
+        "total": 11.79
+      },
+      {
+        "year": 2008,
+        "residential": 12.78,
+        "total": 13.18
+      },
+      {
+        "year": 2009,
+        "residential": 13.73,
+        "total": 13.23
+      },
+      {
+        "year": 2010,
+        "residential": 14.01,
+        "total": 13.35
+      },
+      {
+        "year": 2011,
+        "residential": 13.4,
+        "total": 12.81
+      },
+      {
+        "year": 2012,
+        "residential": 12.28,
+        "total": 11.85
+      },
+      {
+        "year": 2013,
+        "residential": 12.57,
+        "total": 11.85
+      },
+      {
+        "year": 2014,
+        "residential": 12.74,
+        "total": 12.11
+      },
+      {
+        "year": 2015,
+        "residential": 12.99,
+        "total": 12.07
+      },
+      {
+        "year": 2016,
+        "residential": 12.29,
+        "total": 11.73
+      },
+      {
+        "year": 2017,
+        "residential": 12.94,
+        "total": 11.8
+      },
+      {
+        "year": 2018,
+        "residential": 12.84,
+        "total": 12.03
+      },
+      {
+        "year": 2019,
+        "residential": 12.98,
+        "total": 12.27
+      },
+      {
+        "year": 2020,
+        "residential": 12.63,
+        "total": 11.9
+      }
+    ],
+    "DE": [
+      {
+        "year": 1990,
+        "residential": 8.39,
+        "total": 6.46
+      },
+      {
+        "year": 1991,
+        "residential": 8.62,
+        "total": 6.7
+      },
+      {
+        "year": 1992,
+        "residential": 8.66,
+        "total": 6.7
+      },
+      {
+        "year": 1993,
+        "residential": 9.01,
+        "total": 6.98
+      },
+      {
+        "year": 1994,
+        "residential": 8.91,
+        "total": 6.78
+      },
+      {
+        "year": 1995,
+        "residential": 9.09,
+        "total": 6.91
+      },
+      {
+        "year": 1996,
+        "residential": 8.97,
+        "total": 6.88
+      },
+      {
+        "year": 1997,
+        "residential": 9.22,
+        "total": 7
+      },
+      {
+        "year": 1998,
+        "residential": 9.13,
+        "total": 6.88
+      },
+      {
+        "year": 1999,
+        "residential": 9.17,
+        "total": 7.1
+      },
+      {
+        "year": 2000,
+        "residential": 8.54,
+        "total": 6.08
+      },
+      {
+        "year": 2001,
+        "residential": 8.61,
+        "total": 6.8
+      },
+      {
+        "year": 2002,
+        "residential": 8.7,
+        "total": 6.91
+      },
+      {
+        "year": 2003,
+        "residential": 8.59,
+        "total": 6.96
+      },
+      {
+        "year": 2004,
+        "residential": 8.78,
+        "total": 7.53
+      },
+      {
+        "year": 2005,
+        "residential": 9.01,
+        "total": 7.76
+      },
+      {
+        "year": 2006,
+        "residential": 11.85,
+        "total": 10.13
+      },
+      {
+        "year": 2007,
+        "residential": 13.16,
+        "total": 11.35
+      },
+      {
+        "year": 2008,
+        "residential": 13.93,
+        "total": 12.38
+      },
+      {
+        "year": 2009,
+        "residential": 14.07,
+        "total": 12.2
+      },
+      {
+        "year": 2010,
+        "residential": 13.8,
+        "total": 11.97
+      },
+      {
+        "year": 2011,
+        "residential": 13.7,
+        "total": 11.48
+      },
+      {
+        "year": 2012,
+        "residential": 13.58,
+        "total": 11.06
+      },
+      {
+        "year": 2013,
+        "residential": 12.95,
+        "total": 10.9
+      },
+      {
+        "year": 2014,
+        "residential": 13.29,
+        "total": 11.22
+      },
+      {
+        "year": 2015,
+        "residential": 13.42,
+        "total": 11.17
+      },
+      {
+        "year": 2016,
+        "residential": 13.42,
+        "total": 11.09
+      },
+      {
+        "year": 2017,
+        "residential": 13.35,
+        "total": 10.91
+      },
+      {
+        "year": 2018,
+        "residential": 12.53,
+        "total": 10.55
+      },
+      {
+        "year": 2019,
+        "residential": 12.55,
+        "total": 10.52
+      },
+      {
+        "year": 2020,
+        "residential": 12.56,
+        "total": 10.24
+      }
+    ],
+    "FL": [
+      {
+        "year": 1990,
+        "residential": 7.77,
+        "total": 7.04
+      },
+      {
+        "year": 1991,
+        "residential": 7.91,
+        "total": 7.16
+      },
+      {
+        "year": 1992,
+        "residential": 7.75,
+        "total": 6.99
+      },
+      {
+        "year": 1993,
+        "residential": 7.99,
+        "total": 7.2
+      },
+      {
+        "year": 1994,
+        "residential": 7.78,
+        "total": 6.96
+      },
+      {
+        "year": 1995,
+        "residential": 7.82,
+        "total": 7.01
+      },
+      {
+        "year": 1996,
+        "residential": 7.99,
+        "total": 7.18
+      },
+      {
+        "year": 1997,
+        "residential": 8.08,
+        "total": 7.19
+      },
+      {
+        "year": 1998,
+        "residential": 7.89,
+        "total": 7.01
+      },
+      {
+        "year": 1999,
+        "residential": 7.73,
+        "total": 6.85
+      },
+      {
+        "year": 2000,
+        "residential": 7.77,
+        "total": 6.91
+      },
+      {
+        "year": 2001,
+        "residential": 8.59,
+        "total": 7.67
+      },
+      {
+        "year": 2002,
+        "residential": 8.16,
+        "total": 7.31
+      },
+      {
+        "year": 2003,
+        "residential": 8.55,
+        "total": 7.72
+      },
+      {
+        "year": 2004,
+        "residential": 8.99,
+        "total": 8.16
+      },
+      {
+        "year": 2005,
+        "residential": 9.62,
+        "total": 8.76
+      },
+      {
+        "year": 2006,
+        "residential": 11.33,
+        "total": 10.45
+      },
+      {
+        "year": 2007,
+        "residential": 11.22,
+        "total": 10.33
+      },
+      {
+        "year": 2008,
+        "residential": 11.65,
+        "total": 10.74
+      },
+      {
+        "year": 2009,
+        "residential": 12.39,
+        "total": 11.49
+      },
+      {
+        "year": 2010,
+        "residential": 11.44,
+        "total": 10.58
+      },
+      {
+        "year": 2011,
+        "residential": 11.51,
+        "total": 10.61
+      },
+      {
+        "year": 2012,
+        "residential": 11.42,
+        "total": 10.44
+      },
+      {
+        "year": 2013,
+        "residential": 11.27,
+        "total": 10.22
+      },
+      {
+        "year": 2014,
+        "residential": 11.89,
+        "total": 10.77
+      },
+      {
+        "year": 2015,
+        "residential": 11.58,
+        "total": 10.49
+      },
+      {
+        "year": 2016,
+        "residential": 10.98,
+        "total": 9.91
+      },
+      {
+        "year": 2017,
+        "residential": 11.61,
+        "total": 10.42
+      },
+      {
+        "year": 2018,
+        "residential": 11.54,
+        "total": 10.32
+      },
+      {
+        "year": 2019,
+        "residential": 11.7,
+        "total": 10.44
+      },
+      {
+        "year": 2020,
+        "residential": 11.27,
+        "total": 10.06
+      }
+    ],
+    "GA": [
+      {
+        "year": 1990,
+        "residential": 7.46,
+        "total": 6.56
+      },
+      {
+        "year": 1991,
+        "residential": 7.5,
+        "total": 6.56
+      },
+      {
+        "year": 1992,
+        "residential": 7.73,
+        "total": 6.67
+      },
+      {
+        "year": 1993,
+        "residential": 7.79,
+        "total": 6.71
+      },
+      {
+        "year": 1994,
+        "residential": 7.72,
+        "total": 6.57
+      },
+      {
+        "year": 1995,
+        "residential": 7.85,
+        "total": 6.62
+      },
+      {
+        "year": 1996,
+        "residential": 7.66,
+        "total": 6.43
+      },
+      {
+        "year": 1997,
+        "residential": 7.74,
+        "total": 6.37
+      },
+      {
+        "year": 1998,
+        "residential": 7.67,
+        "total": 6.4
+      },
+      {
+        "year": 1999,
+        "residential": 7.56,
+        "total": 6.24
+      },
+      {
+        "year": 2000,
+        "residential": 7.6,
+        "total": 6.21
+      },
+      {
+        "year": 2001,
+        "residential": 7.72,
+        "total": 6.39
+      },
+      {
+        "year": 2002,
+        "residential": 7.63,
+        "total": 6.24
+      },
+      {
+        "year": 2003,
+        "residential": 7.7,
+        "total": 6.32
+      },
+      {
+        "year": 2004,
+        "residential": 7.86,
+        "total": 6.58
+      },
+      {
+        "year": 2005,
+        "residential": 8.64,
+        "total": 7.43
+      },
+      {
+        "year": 2006,
+        "residential": 8.91,
+        "total": 7.63
+      },
+      {
+        "year": 2007,
+        "residential": 9.1,
+        "total": 7.86
+      },
+      {
+        "year": 2008,
+        "residential": 9.93,
+        "total": 8.84
+      },
+      {
+        "year": 2009,
+        "residential": 10.13,
+        "total": 8.81
+      },
+      {
+        "year": 2010,
+        "residential": 10.07,
+        "total": 8.87
+      },
+      {
+        "year": 2011,
+        "residential": 11.05,
+        "total": 9.61
+      },
+      {
+        "year": 2012,
+        "residential": 11.17,
+        "total": 9.37
+      },
+      {
+        "year": 2013,
+        "residential": 11.46,
+        "total": 9.69
+      },
+      {
+        "year": 2014,
+        "residential": 11.65,
+        "total": 10.03
+      },
+      {
+        "year": 2015,
+        "residential": 11.54,
+        "total": 9.62
+      },
+      {
+        "year": 2016,
+        "residential": 11.5,
+        "total": 9.59
+      },
+      {
+        "year": 2017,
+        "residential": 11.9,
+        "total": 9.83
+      },
+      {
+        "year": 2018,
+        "residential": 11.47,
+        "total": 9.62
+      },
+      {
+        "year": 2019,
+        "residential": 11.76,
+        "total": 9.86
+      },
+      {
+        "year": 2020,
+        "residential": 12.02,
+        "total": 9.93
+      }
+    ],
+    "HI": [
+      {
+        "year": 1990,
+        "residential": 10.26,
+        "total": 9.02
+      },
+      {
+        "year": 1991,
+        "residential": 10.52,
+        "total": 9.22
+      },
+      {
+        "year": 1992,
+        "residential": 10.9,
+        "total": 9.44
+      },
+      {
+        "year": 1993,
+        "residential": 12.28,
+        "total": 10.66
+      },
+      {
+        "year": 1994,
+        "residential": 12.45,
+        "total": 10.68
+      },
+      {
+        "year": 1995,
+        "residential": 13.32,
+        "total": 11.29
+      },
+      {
+        "year": 1996,
+        "residential": 14.26,
+        "total": 12.12
+      },
+      {
+        "year": 1997,
+        "residential": 14.8,
+        "total": 12.49
+      },
+      {
+        "year": 1998,
+        "residential": 13.82,
+        "total": 11.56
+      },
+      {
+        "year": 1999,
+        "residential": 14.3,
+        "total": 11.97
+      },
+      {
+        "year": 2000,
+        "residential": 16.41,
+        "total": 14.03
+      },
+      {
+        "year": 2001,
+        "residential": 16.34,
+        "total": 14.05
+      },
+      {
+        "year": 2002,
+        "residential": 15.63,
+        "total": 13.39
+      },
+      {
+        "year": 2003,
+        "residential": 16.73,
+        "total": 14.47
+      },
+      {
+        "year": 2004,
+        "residential": 18.06,
+        "total": 15.7
+      },
+      {
+        "year": 2005,
+        "residential": 20.7,
+        "total": 18.33
+      },
+      {
+        "year": 2006,
+        "residential": 23.35,
+        "total": 20.72
+      },
+      {
+        "year": 2007,
+        "residential": 24.12,
+        "total": 21.29
+      },
+      {
+        "year": 2008,
+        "residential": 32.5,
+        "total": 29.2
+      },
+      {
+        "year": 2009,
+        "residential": 24.2,
+        "total": 21.21
+      },
+      {
+        "year": 2010,
+        "residential": 28.1,
+        "total": 25.12
+      },
+      {
+        "year": 2011,
+        "residential": 34.68,
+        "total": 31.59
+      },
+      {
+        "year": 2012,
+        "residential": 37.34,
+        "total": 34.04
+      },
+      {
+        "year": 2013,
+        "residential": 36.98,
+        "total": 33.26
+      },
+      {
+        "year": 2014,
+        "residential": 37.04,
+        "total": 33.43
+      },
+      {
+        "year": 2015,
+        "residential": 29.6,
+        "total": 26.17
+      },
+      {
+        "year": 2016,
+        "residential": 27.47,
+        "total": 23.87
+      },
+      {
+        "year": 2017,
+        "residential": 29.5,
+        "total": 26.05
+      },
+      {
+        "year": 2018,
+        "residential": 32.47,
+        "total": 29.18
+      },
+      {
+        "year": 2019,
+        "residential": 32.06,
+        "total": 28.72
+      },
+      {
+        "year": 2020,
+        "residential": 30.28,
+        "total": 27.55
+      }
+    ],
+    "IA": [
+      {
+        "year": 1990,
+        "residential": 7.81,
+        "total": 5.93
+      },
+      {
+        "year": 1991,
+        "residential": 7.76,
+        "total": 5.94
+      },
+      {
+        "year": 1992,
+        "residential": 8.02,
+        "total": 5.98
+      },
+      {
+        "year": 1993,
+        "residential": 8.02,
+        "total": 5.97
+      },
+      {
+        "year": 1994,
+        "residential": 8.09,
+        "total": 5.92
+      },
+      {
+        "year": 1995,
+        "residential": 8.24,
+        "total": 6.03
+      },
+      {
+        "year": 1996,
+        "residential": 8.16,
+        "total": 5.94
+      },
+      {
+        "year": 1997,
+        "residential": 8.21,
+        "total": 5.97
+      },
+      {
+        "year": 1998,
+        "residential": 8.38,
+        "total": 6.04
+      },
+      {
+        "year": 1999,
+        "residential": 8.35,
+        "total": 5.93
+      },
+      {
+        "year": 2000,
+        "residential": 8.37,
+        "total": 5.93
+      },
+      {
+        "year": 2001,
+        "residential": 8.41,
+        "total": 6.14
+      },
+      {
+        "year": 2002,
+        "residential": 8.35,
+        "total": 6.01
+      },
+      {
+        "year": 2003,
+        "residential": 8.57,
+        "total": 6.11
+      },
+      {
+        "year": 2004,
+        "residential": 8.96,
+        "total": 6.4
+      },
+      {
+        "year": 2005,
+        "residential": 9.27,
+        "total": 6.69
+      },
+      {
+        "year": 2006,
+        "residential": 9.63,
+        "total": 7.01
+      },
+      {
+        "year": 2007,
+        "residential": 9.45,
+        "total": 6.83
+      },
+      {
+        "year": 2008,
+        "residential": 9.49,
+        "total": 6.89
+      },
+      {
+        "year": 2009,
+        "residential": 9.99,
+        "total": 7.37
+      },
+      {
+        "year": 2010,
+        "residential": 10.42,
+        "total": 7.66
+      },
+      {
+        "year": 2011,
+        "residential": 10.46,
+        "total": 7.56
+      },
+      {
+        "year": 2012,
+        "residential": 10.82,
+        "total": 7.71
+      },
+      {
+        "year": 2013,
+        "residential": 11.04,
+        "total": 8.07
+      },
+      {
+        "year": 2014,
+        "residential": 11.16,
+        "total": 8.15
+      },
+      {
+        "year": 2015,
+        "residential": 11.63,
+        "total": 8.35
+      },
+      {
+        "year": 2016,
+        "residential": 11.94,
+        "total": 8.55
+      },
+      {
+        "year": 2017,
+        "residential": 12.34,
+        "total": 8.73
+      },
+      {
+        "year": 2018,
+        "residential": 12.24,
+        "total": 8.92
+      },
+      {
+        "year": 2019,
+        "residential": 12.46,
+        "total": 9.08
+      },
+      {
+        "year": 2020,
+        "residential": 12.46,
+        "total": 8.97
+      }
+    ],
+    "ID": [
+      {
+        "year": 1990,
+        "residential": 4.87,
+        "total": 3.8
+      },
+      {
+        "year": 1991,
+        "residential": 4.88,
+        "total": 3.84
+      },
+      {
+        "year": 1992,
+        "residential": 4.93,
+        "total": 3.87
+      },
+      {
+        "year": 1993,
+        "residential": 4.99,
+        "total": 4
+      },
+      {
+        "year": 1994,
+        "residential": 5.09,
+        "total": 4
+      },
+      {
+        "year": 1995,
+        "residential": 5.33,
+        "total": 4.09
+      },
+      {
+        "year": 1996,
+        "residential": 5.28,
+        "total": 3.96
+      },
+      {
+        "year": 1997,
+        "residential": 5.15,
+        "total": 3.87
+      },
+      {
+        "year": 1998,
+        "residential": 5.28,
+        "total": 4.02
+      },
+      {
+        "year": 1999,
+        "residential": 5.26,
+        "total": 3.89
+      },
+      {
+        "year": 2000,
+        "residential": 5.39,
+        "total": 4.17
+      },
+      {
+        "year": 2001,
+        "residential": 6.01,
+        "total": 4.92
+      },
+      {
+        "year": 2002,
+        "residential": 6.59,
+        "total": 5.58
+      },
+      {
+        "year": 2003,
+        "residential": 6.24,
+        "total": 5.22
+      },
+      {
+        "year": 2004,
+        "residential": 6.1,
+        "total": 4.97
+      },
+      {
+        "year": 2005,
+        "residential": 6.29,
+        "total": 5.12
+      },
+      {
+        "year": 2006,
+        "residential": 6.21,
+        "total": 4.92
+      },
+      {
+        "year": 2007,
+        "residential": 6.36,
+        "total": 5.07
+      },
+      {
+        "year": 2008,
+        "residential": 6.99,
+        "total": 5.69
+      },
+      {
+        "year": 2009,
+        "residential": 7.8,
+        "total": 6.51
+      },
+      {
+        "year": 2010,
+        "residential": 7.99,
+        "total": 6.54
+      },
+      {
+        "year": 2011,
+        "residential": 7.87,
+        "total": 6.44
+      },
+      {
+        "year": 2012,
+        "residential": 8.67,
+        "total": 6.92
+      },
+      {
+        "year": 2013,
+        "residential": 9.32,
+        "total": 7.57
+      },
+      {
+        "year": 2014,
+        "residential": 9.72,
+        "total": 7.93
+      },
+      {
+        "year": 2015,
+        "residential": 9.93,
+        "total": 8.09
+      },
+      {
+        "year": 2016,
+        "residential": 9.95,
+        "total": 8.08
+      },
+      {
+        "year": 2017,
+        "residential": 10.04,
+        "total": 8.26
+      },
+      {
+        "year": 2018,
+        "residential": 10.15,
+        "total": 8.17
+      },
+      {
+        "year": 2019,
+        "residential": 9.89,
+        "total": 7.89
+      },
+      {
+        "year": 2020,
+        "residential": 9.95,
+        "total": 7.99
+      }
+    ],
+    "IL": [
+      {
+        "year": 1990,
+        "residential": 9.92,
+        "total": 7.49
+      },
+      {
+        "year": 1991,
+        "residential": 9.87,
+        "total": 7.63
+      },
+      {
+        "year": 1992,
+        "residential": 10.29,
+        "total": 7.69
+      },
+      {
+        "year": 1993,
+        "residential": 10.28,
+        "total": 7.75
+      },
+      {
+        "year": 1994,
+        "residential": 9.98,
+        "total": 7.41
+      },
+      {
+        "year": 1995,
+        "residential": 10.37,
+        "total": 7.69
+      },
+      {
+        "year": 1996,
+        "residential": 10.34,
+        "total": 7.69
+      },
+      {
+        "year": 1997,
+        "residential": 10.43,
+        "total": 7.71
+      },
+      {
+        "year": 1998,
+        "residential": 9.85,
+        "total": 7.46
+      },
+      {
+        "year": 1999,
+        "residential": 8.83,
+        "total": 6.96
+      },
+      {
+        "year": 2000,
+        "residential": 8.83,
+        "total": 6.94
+      },
+      {
+        "year": 2001,
+        "residential": 8.71,
+        "total": 6.9
+      },
+      {
+        "year": 2002,
+        "residential": 8.39,
+        "total": 6.94
+      },
+      {
+        "year": 2003,
+        "residential": 8.38,
+        "total": 6.86
+      },
+      {
+        "year": 2004,
+        "residential": 8.37,
+        "total": 6.8
+      },
+      {
+        "year": 2005,
+        "residential": 8.34,
+        "total": 6.95
+      },
+      {
+        "year": 2006,
+        "residential": 8.42,
+        "total": 7.07
+      },
+      {
+        "year": 2007,
+        "residential": 10.12,
+        "total": 8.46
+      },
+      {
+        "year": 2008,
+        "residential": 11.07,
+        "total": 9.23
+      },
+      {
+        "year": 2009,
+        "residential": 11.27,
+        "total": 9.15
+      },
+      {
+        "year": 2010,
+        "residential": 11.52,
+        "total": 9.13
+      },
+      {
+        "year": 2011,
+        "residential": 11.78,
+        "total": 8.97
+      },
+      {
+        "year": 2012,
+        "residential": 11.38,
+        "total": 8.4
+      },
+      {
+        "year": 2013,
+        "residential": 10.63,
+        "total": 8.26
+      },
+      {
+        "year": 2014,
+        "residential": 11.91,
+        "total": 9.36
+      },
+      {
+        "year": 2015,
+        "residential": 12.5,
+        "total": 9.4
+      },
+      {
+        "year": 2016,
+        "residential": 12.54,
+        "total": 9.38
+      },
+      {
+        "year": 2017,
+        "residential": 12.95,
+        "total": 9.49
+      },
+      {
+        "year": 2018,
+        "residential": 12.77,
+        "total": 9.6
+      },
+      {
+        "year": 2019,
+        "residential": 13.03,
+        "total": 9.56
+      },
+      {
+        "year": 2020,
+        "residential": 13.04,
+        "total": 9.75
+      }
+    ],
+    "IN": [
+      {
+        "year": 1990,
+        "residential": 6.87,
+        "total": 5.36
+      },
+      {
+        "year": 1991,
+        "residential": 6.73,
+        "total": 5.32
+      },
+      {
+        "year": 1992,
+        "residential": 6.86,
+        "total": 5.3
+      },
+      {
+        "year": 1993,
+        "residential": 6.67,
+        "total": 5.17
+      },
+      {
+        "year": 1994,
+        "residential": 6.78,
+        "total": 5.25
+      },
+      {
+        "year": 1995,
+        "residential": 6.74,
+        "total": 5.24
+      },
+      {
+        "year": 1996,
+        "residential": 6.77,
+        "total": 5.23
+      },
+      {
+        "year": 1997,
+        "residential": 6.94,
+        "total": 5.29
+      },
+      {
+        "year": 1998,
+        "residential": 7.01,
+        "total": 5.34
+      },
+      {
+        "year": 1999,
+        "residential": 6.96,
+        "total": 5.29
+      },
+      {
+        "year": 2000,
+        "residential": 6.87,
+        "total": 5.18
+      },
+      {
+        "year": 2001,
+        "residential": 6.92,
+        "total": 5.3
+      },
+      {
+        "year": 2002,
+        "residential": 6.91,
+        "total": 5.34
+      },
+      {
+        "year": 2003,
+        "residential": 7.04,
+        "total": 5.37
+      },
+      {
+        "year": 2004,
+        "residential": 7.3,
+        "total": 5.58
+      },
+      {
+        "year": 2005,
+        "residential": 7.5,
+        "total": 5.88
+      },
+      {
+        "year": 2006,
+        "residential": 8.22,
+        "total": 6.46
+      },
+      {
+        "year": 2007,
+        "residential": 8.26,
+        "total": 6.5
+      },
+      {
+        "year": 2008,
+        "residential": 8.87,
+        "total": 7.09
+      },
+      {
+        "year": 2009,
+        "residential": 9.5,
+        "total": 7.62
+      },
+      {
+        "year": 2010,
+        "residential": 9.56,
+        "total": 7.67
+      },
+      {
+        "year": 2011,
+        "residential": 10.06,
+        "total": 8.01
+      },
+      {
+        "year": 2012,
+        "residential": 10.53,
+        "total": 8.29
+      },
+      {
+        "year": 2013,
+        "residential": 10.99,
+        "total": 8.73
+      },
+      {
+        "year": 2014,
+        "residential": 11.46,
+        "total": 9.06
+      },
+      {
+        "year": 2015,
+        "residential": 11.57,
+        "total": 8.99
+      },
+      {
+        "year": 2016,
+        "residential": 11.79,
+        "total": 9.22
+      },
+      {
+        "year": 2017,
+        "residential": 12.29,
+        "total": 9.77
+      },
+      {
+        "year": 2018,
+        "residential": 12.26,
+        "total": 9.75
+      },
+      {
+        "year": 2019,
+        "residential": 12.58,
+        "total": 9.91
+      },
+      {
+        "year": 2020,
+        "residential": 12.83,
+        "total": 9.92
+      }
+    ],
+    "KS": [
+      {
+        "year": 1990,
+        "residential": 7.83,
+        "total": 6.57
+      },
+      {
+        "year": 1991,
+        "residential": 7.83,
+        "total": 6.57
+      },
+      {
+        "year": 1992,
+        "residential": 7.9,
+        "total": 6.56
+      },
+      {
+        "year": 1993,
+        "residential": 7.86,
+        "total": 6.6
+      },
+      {
+        "year": 1994,
+        "residential": 7.89,
+        "total": 6.61
+      },
+      {
+        "year": 1995,
+        "residential": 7.92,
+        "total": 6.56
+      },
+      {
+        "year": 1996,
+        "residential": 7.86,
+        "total": 6.52
+      },
+      {
+        "year": 1997,
+        "residential": 7.71,
+        "total": 6.31
+      },
+      {
+        "year": 1998,
+        "residential": 7.65,
+        "total": 6.28
+      },
+      {
+        "year": 1999,
+        "residential": 7.64,
+        "total": 6.22
+      },
+      {
+        "year": 2000,
+        "residential": 7.65,
+        "total": 6.27
+      },
+      {
+        "year": 2001,
+        "residential": 7.66,
+        "total": 6.24
+      },
+      {
+        "year": 2002,
+        "residential": 7.67,
+        "total": 6.31
+      },
+      {
+        "year": 2003,
+        "residential": 7.71,
+        "total": 6.35
+      },
+      {
+        "year": 2004,
+        "residential": 7.74,
+        "total": 6.37
+      },
+      {
+        "year": 2005,
+        "residential": 7.9,
+        "total": 6.55
+      },
+      {
+        "year": 2006,
+        "residential": 8.25,
+        "total": 6.89
+      },
+      {
+        "year": 2007,
+        "residential": 8.19,
+        "total": 6.84
+      },
+      {
+        "year": 2008,
+        "residential": 8.89,
+        "total": 7.45
+      },
+      {
+        "year": 2009,
+        "residential": 9.53,
+        "total": 7.98
+      },
+      {
+        "year": 2010,
+        "residential": 10.03,
+        "total": 8.35
+      },
+      {
+        "year": 2011,
+        "residential": 10.65,
+        "total": 8.89
+      },
+      {
+        "year": 2012,
+        "residential": 11.24,
+        "total": 9.33
+      },
+      {
+        "year": 2013,
+        "residential": 11.64,
+        "total": 9.72
+      },
+      {
+        "year": 2014,
+        "residential": 12.17,
+        "total": 10.16
+      },
+      {
+        "year": 2015,
+        "residential": 12.34,
+        "total": 10.14
+      },
+      {
+        "year": 2016,
+        "residential": 13.06,
+        "total": 10.49
+      },
+      {
+        "year": 2017,
+        "residential": 13.31,
+        "total": 10.6
+      },
+      {
+        "year": 2018,
+        "residential": 13.35,
+        "total": 10.72
+      },
+      {
+        "year": 2019,
+        "residential": 12.71,
+        "total": 10.26
+      },
+      {
+        "year": 2020,
+        "residential": 12.85,
+        "total": 10.38
+      }
+    ],
+    "KY": [
+      {
+        "year": 1990,
+        "residential": 5.69,
+        "total": 4.48
+      },
+      {
+        "year": 1991,
+        "residential": 5.68,
+        "total": 4.41
+      },
+      {
+        "year": 1992,
+        "residential": 5.7,
+        "total": 4.19
+      },
+      {
+        "year": 1993,
+        "residential": 5.7,
+        "total": 4.32
+      },
+      {
+        "year": 1994,
+        "residential": 5.77,
+        "total": 4.26
+      },
+      {
+        "year": 1995,
+        "residential": 5.62,
+        "total": 4.07
+      },
+      {
+        "year": 1996,
+        "residential": 5.55,
+        "total": 4.03
+      },
+      {
+        "year": 1997,
+        "residential": 5.58,
+        "total": 4.03
+      },
+      {
+        "year": 1998,
+        "residential": 5.61,
+        "total": 4.16
+      },
+      {
+        "year": 1999,
+        "residential": 5.58,
+        "total": 4.17
+      },
+      {
+        "year": 2000,
+        "residential": 5.47,
+        "total": 4.18
+      },
+      {
+        "year": 2001,
+        "residential": 5.58,
+        "total": 4.24
+      },
+      {
+        "year": 2002,
+        "residential": 5.65,
+        "total": 4.26
+      },
+      {
+        "year": 2003,
+        "residential": 5.81,
+        "total": 4.42
+      },
+      {
+        "year": 2004,
+        "residential": 6.11,
+        "total": 4.63
+      },
+      {
+        "year": 2005,
+        "residential": 6.57,
+        "total": 5.01
+      },
+      {
+        "year": 2006,
+        "residential": 7.02,
+        "total": 5.43
+      },
+      {
+        "year": 2007,
+        "residential": 7.34,
+        "total": 5.84
+      },
+      {
+        "year": 2008,
+        "residential": 7.94,
+        "total": 6.26
+      },
+      {
+        "year": 2009,
+        "residential": 8.37,
+        "total": 6.52
+      },
+      {
+        "year": 2010,
+        "residential": 8.57,
+        "total": 6.73
+      },
+      {
+        "year": 2011,
+        "residential": 9.2,
+        "total": 7.17
+      },
+      {
+        "year": 2012,
+        "residential": 9.43,
+        "total": 7.26
+      },
+      {
+        "year": 2013,
+        "residential": 9.79,
+        "total": 7.69
+      },
+      {
+        "year": 2014,
+        "residential": 10.16,
+        "total": 8.15
+      },
+      {
+        "year": 2015,
+        "residential": 10.24,
+        "total": 8.14
+      },
+      {
+        "year": 2016,
+        "residential": 10.49,
+        "total": 8.42
+      },
+      {
+        "year": 2017,
+        "residential": 10.85,
+        "total": 8.57
+      },
+      {
+        "year": 2018,
+        "residential": 10.6,
+        "total": 8.52
+      },
+      {
+        "year": 2019,
+        "residential": 10.8,
+        "total": 8.61
+      },
+      {
+        "year": 2020,
+        "residential": 10.87,
+        "total": 8.58
+      }
+    ],
+    "LA": [
+      {
+        "year": 1990,
+        "residential": 7.41,
+        "total": 6
+      },
+      {
+        "year": 1991,
+        "residential": 7.4,
+        "total": 5.94
+      },
+      {
+        "year": 1992,
+        "residential": 7.52,
+        "total": 6.01
+      },
+      {
+        "year": 1993,
+        "residential": 7.76,
+        "total": 6.26
+      },
+      {
+        "year": 1994,
+        "residential": 7.61,
+        "total": 6.05
+      },
+      {
+        "year": 1995,
+        "residential": 7.23,
+        "total": 5.75
+      },
+      {
+        "year": 1996,
+        "residential": 7.55,
+        "total": 6.07
+      },
+      {
+        "year": 1997,
+        "residential": 7.39,
+        "total": 5.99
+      },
+      {
+        "year": 1998,
+        "residential": 7.07,
+        "total": 5.78
+      },
+      {
+        "year": 1999,
+        "residential": 7.12,
+        "total": 5.81
+      },
+      {
+        "year": 2000,
+        "residential": 7.67,
+        "total": 6.48
+      },
+      {
+        "year": 2001,
+        "residential": 7.92,
+        "total": 6.96
+      },
+      {
+        "year": 2002,
+        "residential": 7.1,
+        "total": 5.99
+      },
+      {
+        "year": 2003,
+        "residential": 7.84,
+        "total": 6.93
+      },
+      {
+        "year": 2004,
+        "residential": 8.05,
+        "total": 7.13
+      },
+      {
+        "year": 2005,
+        "residential": 8.87,
+        "total": 8.03
+      },
+      {
+        "year": 2006,
+        "residential": 9.14,
+        "total": 8.3
+      },
+      {
+        "year": 2007,
+        "residential": 9.37,
+        "total": 8.39
+      },
+      {
+        "year": 2008,
+        "residential": 10.28,
+        "total": 9.44
+      },
+      {
+        "year": 2009,
+        "residential": 8.1,
+        "total": 7.06
+      },
+      {
+        "year": 2010,
+        "residential": 8.98,
+        "total": 7.8
+      },
+      {
+        "year": 2011,
+        "residential": 8.96,
+        "total": 7.68
+      },
+      {
+        "year": 2012,
+        "residential": 8.37,
+        "total": 6.9
+      },
+      {
+        "year": 2013,
+        "residential": 9.43,
+        "total": 8.04
+      },
+      {
+        "year": 2014,
+        "residential": 9.57,
+        "total": 8.09
+      },
+      {
+        "year": 2015,
+        "residential": 9.33,
+        "total": 7.65
+      },
+      {
+        "year": 2016,
+        "residential": 9.34,
+        "total": 7.46
+      },
+      {
+        "year": 2017,
+        "residential": 9.74,
+        "total": 7.79
+      },
+      {
+        "year": 2018,
+        "residential": 9.59,
+        "total": 7.71
+      },
+      {
+        "year": 2019,
+        "residential": 9.8,
+        "total": 7.71
+      },
+      {
+        "year": 2020,
+        "residential": 9.67,
+        "total": 7.51
+      }
+    ],
+    "MA": [
+      {
+        "year": 1990,
+        "residential": 9.66,
+        "total": 8.85
+      },
+      {
+        "year": 1991,
+        "residential": 10.4,
+        "total": 9.53
+      },
+      {
+        "year": 1992,
+        "residential": 10.62,
+        "total": 9.66
+      },
+      {
+        "year": 1993,
+        "residential": 11,
+        "total": 9.98
+      },
+      {
+        "year": 1994,
+        "residential": 11.09,
+        "total": 10
+      },
+      {
+        "year": 1995,
+        "residential": 11.26,
+        "total": 10.12
+      },
+      {
+        "year": 1996,
+        "residential": 11.25,
+        "total": 10.13
+      },
+      {
+        "year": 1997,
+        "residential": 11.59,
+        "total": 10.48
+      },
+      {
+        "year": 1998,
+        "residential": 10.6,
+        "total": 9.59
+      },
+      {
+        "year": 1999,
+        "residential": 10.09,
+        "total": 8.99
+      },
+      {
+        "year": 2000,
+        "residential": 10.53,
+        "total": 9.49
+      },
+      {
+        "year": 2001,
+        "residential": 12.47,
+        "total": 11.55
+      },
+      {
+        "year": 2002,
+        "residential": 10.93,
+        "total": 10.06
+      },
+      {
+        "year": 2003,
+        "residential": 11.6,
+        "total": 10.56
+      },
+      {
+        "year": 2004,
+        "residential": 11.75,
+        "total": 10.77
+      },
+      {
+        "year": 2005,
+        "residential": 13.44,
+        "total": 12.18
+      },
+      {
+        "year": 2006,
+        "residential": 16.6,
+        "total": 15.45
+      },
+      {
+        "year": 2007,
+        "residential": 16.23,
+        "total": 15.16
+      },
+      {
+        "year": 2008,
+        "residential": 17.56,
+        "total": 16.23
+      },
+      {
+        "year": 2009,
+        "residential": 16.87,
+        "total": 15.45
+      },
+      {
+        "year": 2010,
+        "residential": 14.59,
+        "total": 14.26
+      },
+      {
+        "year": 2011,
+        "residential": 14.67,
+        "total": 14.11
+      },
+      {
+        "year": 2012,
+        "residential": 14.91,
+        "total": 13.79
+      },
+      {
+        "year": 2013,
+        "residential": 15.83,
+        "total": 14.51
+      },
+      {
+        "year": 2014,
+        "residential": 17.39,
+        "total": 15.35
+      },
+      {
+        "year": 2015,
+        "residential": 19.83,
+        "total": 16.9
+      },
+      {
+        "year": 2016,
+        "residential": 19,
+        "total": 16.48
+      },
+      {
+        "year": 2017,
+        "residential": 20.06,
+        "total": 17.12
+      },
+      {
+        "year": 2018,
+        "residential": 21.61,
+        "total": 18.5
+      },
+      {
+        "year": 2019,
+        "residential": 21.92,
+        "total": 18.4
+      },
+      {
+        "year": 2020,
+        "residential": 21.97,
+        "total": 18.19
+      }
+    ],
+    "MD": [
+      {
+        "year": 1990,
+        "residential": 7.22,
+        "total": 6.3
+      },
+      {
+        "year": 1991,
+        "residential": 7.9,
+        "total": 6.81
+      },
+      {
+        "year": 1992,
+        "residential": 7.97,
+        "total": 6.8
+      },
+      {
+        "year": 1993,
+        "residential": 8.21,
+        "total": 6.96
+      },
+      {
+        "year": 1994,
+        "residential": 8.39,
+        "total": 7.03
+      },
+      {
+        "year": 1995,
+        "residential": 8.43,
+        "total": 7.06
+      },
+      {
+        "year": 1996,
+        "residential": 8.26,
+        "total": 6.96
+      },
+      {
+        "year": 1997,
+        "residential": 8.33,
+        "total": 6.98
+      },
+      {
+        "year": 1998,
+        "residential": 8.44,
+        "total": 6.99
+      },
+      {
+        "year": 1999,
+        "residential": 8.39,
+        "total": 7.04
+      },
+      {
+        "year": 2000,
+        "residential": 7.95,
+        "total": 6.74
+      },
+      {
+        "year": 2001,
+        "residential": 7.67,
+        "total": 6.6
+      },
+      {
+        "year": 2002,
+        "residential": 7.74,
+        "total": 6.18
+      },
+      {
+        "year": 2003,
+        "residential": 7.73,
+        "total": 6.45
+      },
+      {
+        "year": 2004,
+        "residential": 7.8,
+        "total": 7.15
+      },
+      {
+        "year": 2005,
+        "residential": 8.46,
+        "total": 8.13
+      },
+      {
+        "year": 2006,
+        "residential": 9.71,
+        "total": 9.95
+      },
+      {
+        "year": 2007,
+        "residential": 11.89,
+        "total": 11.5
+      },
+      {
+        "year": 2008,
+        "residential": 13.84,
+        "total": 13.01
+      },
+      {
+        "year": 2009,
+        "residential": 14.98,
+        "total": 13.09
+      },
+      {
+        "year": 2010,
+        "residential": 14.32,
+        "total": 12.71
+      },
+      {
+        "year": 2011,
+        "residential": 13.31,
+        "total": 11.93
+      },
+      {
+        "year": 2012,
+        "residential": 12.84,
+        "total": 11.28
+      },
+      {
+        "year": 2013,
+        "residential": 13.25,
+        "total": 11.66
+      },
+      {
+        "year": 2014,
+        "residential": 13.63,
+        "total": 12.1
+      },
+      {
+        "year": 2015,
+        "residential": 13.82,
+        "total": 12.07
+      },
+      {
+        "year": 2016,
+        "residential": 14.23,
+        "total": 12.21
+      },
+      {
+        "year": 2017,
+        "residential": 13.96,
+        "total": 11.98
+      },
+      {
+        "year": 2018,
+        "residential": 13.3,
+        "total": 11.57
+      },
+      {
+        "year": 2019,
+        "residential": 13.12,
+        "total": 11.24
+      },
+      {
+        "year": 2020,
+        "residential": 13.01,
+        "total": 11.15
+      }
+    ],
+    "ME": [
+      {
+        "year": 1990,
+        "residential": 9.3,
+        "total": 7.65
+      },
+      {
+        "year": 1991,
+        "residential": 10.45,
+        "total": 8.6
+      },
+      {
+        "year": 1992,
+        "residential": 11.37,
+        "total": 9.05
+      },
+      {
+        "year": 1993,
+        "residential": 11.43,
+        "total": 9.1
+      },
+      {
+        "year": 1994,
+        "residential": 12.32,
+        "total": 9.63
+      },
+      {
+        "year": 1995,
+        "residential": 12.51,
+        "total": 9.49
+      },
+      {
+        "year": 1996,
+        "residential": 12.58,
+        "total": 9.46
+      },
+      {
+        "year": 1997,
+        "residential": 12.75,
+        "total": 9.51
+      },
+      {
+        "year": 1998,
+        "residential": 13.02,
+        "total": 9.75
+      },
+      {
+        "year": 1999,
+        "residential": 13.07,
+        "total": 9.77
+      },
+      {
+        "year": 2000,
+        "residential": 12.49,
+        "total": 9.69
+      },
+      {
+        "year": 2001,
+        "residential": 13.13,
+        "total": 10.55
+      },
+      {
+        "year": 2002,
+        "residential": 12.74,
+        "total": 10.35
+      },
+      {
+        "year": 2003,
+        "residential": 12.37,
+        "total": 9.79
+      },
+      {
+        "year": 2004,
+        "residential": 12.16,
+        "total": 9.69
+      },
+      {
+        "year": 2005,
+        "residential": 13.23,
+        "total": 10.57
+      },
+      {
+        "year": 2006,
+        "residential": 13.8,
+        "total": 11.8
+      },
+      {
+        "year": 2007,
+        "residential": 16.52,
+        "total": 14.59
+      },
+      {
+        "year": 2008,
+        "residential": 16.24,
+        "total": 13.8
+      },
+      {
+        "year": 2009,
+        "residential": 15.64,
+        "total": 13.12
+      },
+      {
+        "year": 2010,
+        "residential": 15.72,
+        "total": 12.84
+      },
+      {
+        "year": 2011,
+        "residential": 15.38,
+        "total": 12.58
+      },
+      {
+        "year": 2012,
+        "residential": 14.66,
+        "total": 11.81
+      },
+      {
+        "year": 2013,
+        "residential": 14.35,
+        "total": 11.86
+      },
+      {
+        "year": 2014,
+        "residential": 15.27,
+        "total": 12.65
+      },
+      {
+        "year": 2015,
+        "residential": 15.61,
+        "total": 12.78
+      },
+      {
+        "year": 2016,
+        "residential": 15.83,
+        "total": 12.8
+      },
+      {
+        "year": 2017,
+        "residential": 15.97,
+        "total": 13.02
+      },
+      {
+        "year": 2018,
+        "residential": 16.84,
+        "total": 13.44
+      },
+      {
+        "year": 2019,
+        "residential": 17.89,
+        "total": 14.04
+      },
+      {
+        "year": 2020,
+        "residential": 16.81,
+        "total": 13.54
+      }
+    ],
+    "MI": [
+      {
+        "year": 1990,
+        "residential": 7.83,
+        "total": 7.1
+      },
+      {
+        "year": 1991,
+        "residential": 8.06,
+        "total": 7.21
+      },
+      {
+        "year": 1992,
+        "residential": 8.11,
+        "total": 7.23
+      },
+      {
+        "year": 1993,
+        "residential": 8.16,
+        "total": 7.14
+      },
+      {
+        "year": 1994,
+        "residential": 8.28,
+        "total": 7.09
+      },
+      {
+        "year": 1995,
+        "residential": 8.34,
+        "total": 7.05
+      },
+      {
+        "year": 1996,
+        "residential": 8.47,
+        "total": 7.1
+      },
+      {
+        "year": 1997,
+        "residential": 8.57,
+        "total": 7.04
+      },
+      {
+        "year": 1998,
+        "residential": 8.67,
+        "total": 7.09
+      },
+      {
+        "year": 1999,
+        "residential": 8.73,
+        "total": 7.12
+      },
+      {
+        "year": 2000,
+        "residential": 8.52,
+        "total": 7.11
+      },
+      {
+        "year": 2001,
+        "residential": 8.26,
+        "total": 6.97
+      },
+      {
+        "year": 2002,
+        "residential": 8.28,
+        "total": 7.09
+      },
+      {
+        "year": 2003,
+        "residential": 8.35,
+        "total": 6.85
+      },
+      {
+        "year": 2004,
+        "residential": 8.33,
+        "total": 6.94
+      },
+      {
+        "year": 2005,
+        "residential": 8.4,
+        "total": 7.23
+      },
+      {
+        "year": 2006,
+        "residential": 9.77,
+        "total": 8.14
+      },
+      {
+        "year": 2007,
+        "residential": 10.21,
+        "total": 8.53
+      },
+      {
+        "year": 2008,
+        "residential": 10.75,
+        "total": 8.93
+      },
+      {
+        "year": 2009,
+        "residential": 11.6,
+        "total": 9.4
+      },
+      {
+        "year": 2010,
+        "residential": 12.46,
+        "total": 9.88
+      },
+      {
+        "year": 2011,
+        "residential": 13.27,
+        "total": 10.4
+      },
+      {
+        "year": 2012,
+        "residential": 14.13,
+        "total": 10.98
+      },
+      {
+        "year": 2013,
+        "residential": 14.59,
+        "total": 11.21
+      },
+      {
+        "year": 2014,
+        "residential": 14.46,
+        "total": 11.03
+      },
+      {
+        "year": 2015,
+        "residential": 14.42,
+        "total": 10.76
+      },
+      {
+        "year": 2016,
+        "residential": 15.22,
+        "total": 11.05
+      },
+      {
+        "year": 2017,
+        "residential": 15.4,
+        "total": 11.28
+      },
+      {
+        "year": 2018,
+        "residential": 15.45,
+        "total": 11.4
+      },
+      {
+        "year": 2019,
+        "residential": 15.74,
+        "total": 11.56
+      },
+      {
+        "year": 2020,
+        "residential": 16.26,
+        "total": 12.21
+      }
+    ],
+    "MN": [
+      {
+        "year": 1990,
+        "residential": 6.8,
+        "total": 5.33
+      },
+      {
+        "year": 1991,
+        "residential": 6.92,
+        "total": 5.46
+      },
+      {
+        "year": 1992,
+        "residential": 7.01,
+        "total": 5.52
+      },
+      {
+        "year": 1993,
+        "residential": 7.09,
+        "total": 5.6
+      },
+      {
+        "year": 1994,
+        "residential": 7.16,
+        "total": 5.63
+      },
+      {
+        "year": 1995,
+        "residential": 7.17,
+        "total": 5.58
+      },
+      {
+        "year": 1996,
+        "residential": 7.13,
+        "total": 5.54
+      },
+      {
+        "year": 1997,
+        "residential": 7.23,
+        "total": 5.61
+      },
+      {
+        "year": 1998,
+        "residential": 7.33,
+        "total": 5.71
+      },
+      {
+        "year": 1999,
+        "residential": 7.41,
+        "total": 5.83
+      },
+      {
+        "year": 2000,
+        "residential": 7.52,
+        "total": 5.87
+      },
+      {
+        "year": 2001,
+        "residential": 7.61,
+        "total": 5.97
+      },
+      {
+        "year": 2002,
+        "residential": 7.49,
+        "total": 5.8
+      },
+      {
+        "year": 2003,
+        "residential": 7.65,
+        "total": 6.01
+      },
+      {
+        "year": 2004,
+        "residential": 7.92,
+        "total": 6.24
+      },
+      {
+        "year": 2005,
+        "residential": 8.28,
+        "total": 6.61
+      },
+      {
+        "year": 2006,
+        "residential": 8.7,
+        "total": 6.98
+      },
+      {
+        "year": 2007,
+        "residential": 9.18,
+        "total": 7.44
+      },
+      {
+        "year": 2008,
+        "residential": 9.74,
+        "total": 7.79
+      },
+      {
+        "year": 2009,
+        "residential": 10.04,
+        "total": 8.14
+      },
+      {
+        "year": 2010,
+        "residential": 10.59,
+        "total": 8.41
+      },
+      {
+        "year": 2011,
+        "residential": 10.96,
+        "total": 8.65
+      },
+      {
+        "year": 2012,
+        "residential": 11.35,
+        "total": 8.86
+      },
+      {
+        "year": 2013,
+        "residential": 11.81,
+        "total": 9.41
+      },
+      {
+        "year": 2014,
+        "residential": 12.01,
+        "total": 9.52
+      },
+      {
+        "year": 2015,
+        "residential": 12.12,
+        "total": 9.53
+      },
+      {
+        "year": 2016,
+        "residential": 12.67,
+        "total": 9.99
+      },
+      {
+        "year": 2017,
+        "residential": 13.04,
+        "total": 10.27
+      },
+      {
+        "year": 2018,
+        "residential": 13.14,
+        "total": 10.37
+      },
+      {
+        "year": 2019,
+        "residential": 13.04,
+        "total": 10.33
+      },
+      {
+        "year": 2020,
+        "residential": 13.17,
+        "total": 10.57
+      }
+    ],
+    "MO": [
+      {
+        "year": 1990,
+        "residential": 7.36,
+        "total": 6.46
+      },
+      {
+        "year": 1991,
+        "residential": 7.39,
+        "total": 6.46
+      },
+      {
+        "year": 1992,
+        "residential": 7.44,
+        "total": 6.41
+      },
+      {
+        "year": 1993,
+        "residential": 7.26,
+        "total": 6.33
+      },
+      {
+        "year": 1994,
+        "residential": 7.29,
+        "total": 6.28
+      },
+      {
+        "year": 1995,
+        "residential": 7.25,
+        "total": 6.25
+      },
+      {
+        "year": 1996,
+        "residential": 7.08,
+        "total": 6.11
+      },
+      {
+        "year": 1997,
+        "residential": 7.09,
+        "total": 6.09
+      },
+      {
+        "year": 1998,
+        "residential": 7.08,
+        "total": 6.08
+      },
+      {
+        "year": 1999,
+        "residential": 7.12,
+        "total": 6.06
+      },
+      {
+        "year": 2000,
+        "residential": 7.04,
+        "total": 6.02
+      },
+      {
+        "year": 2001,
+        "residential": 7,
+        "total": 6.03
+      },
+      {
+        "year": 2002,
+        "residential": 7.06,
+        "total": 6.09
+      },
+      {
+        "year": 2003,
+        "residential": 6.96,
+        "total": 6.02
+      },
+      {
+        "year": 2004,
+        "residential": 6.97,
+        "total": 6.07
+      },
+      {
+        "year": 2005,
+        "residential": 7.08,
+        "total": 6.13
+      },
+      {
+        "year": 2006,
+        "residential": 7.44,
+        "total": 6.3
+      },
+      {
+        "year": 2007,
+        "residential": 7.69,
+        "total": 6.56
+      },
+      {
+        "year": 2008,
+        "residential": 8,
+        "total": 6.84
+      },
+      {
+        "year": 2009,
+        "residential": 8.54,
+        "total": 7.35
+      },
+      {
+        "year": 2010,
+        "residential": 9.08,
+        "total": 7.78
+      },
+      {
+        "year": 2011,
+        "residential": 9.75,
+        "total": 8.32
+      },
+      {
+        "year": 2012,
+        "residential": 10.17,
+        "total": 8.53
+      },
+      {
+        "year": 2013,
+        "residential": 10.6,
+        "total": 9.04
+      },
+      {
+        "year": 2014,
+        "residential": 10.64,
+        "total": 9.11
+      },
+      {
+        "year": 2015,
+        "residential": 11.21,
+        "total": 9.44
+      },
+      {
+        "year": 2016,
+        "residential": 11.21,
+        "total": 9.74
+      },
+      {
+        "year": 2017,
+        "residential": 11.63,
+        "total": 10.03
+      },
+      {
+        "year": 2018,
+        "residential": 11.34,
+        "total": 9.93
+      },
+      {
+        "year": 2019,
+        "residential": 11.14,
+        "total": 9.68
+      },
+      {
+        "year": 2020,
+        "residential": 11.22,
+        "total": 9.64
+      }
+    ],
+    "MS": [
+      {
+        "year": 1990,
+        "residential": 6.89,
+        "total": 6.11
+      },
+      {
+        "year": 1991,
+        "residential": 6.88,
+        "total": 6.02
+      },
+      {
+        "year": 1992,
+        "residential": 7.01,
+        "total": 6.03
+      },
+      {
+        "year": 1993,
+        "residential": 7.12,
+        "total": 6.18
+      },
+      {
+        "year": 1994,
+        "residential": 7.06,
+        "total": 6.05
+      },
+      {
+        "year": 1995,
+        "residential": 6.99,
+        "total": 5.98
+      },
+      {
+        "year": 1996,
+        "residential": 7.04,
+        "total": 6.01
+      },
+      {
+        "year": 1997,
+        "residential": 7.02,
+        "total": 5.91
+      },
+      {
+        "year": 1998,
+        "residential": 7.03,
+        "total": 5.98
+      },
+      {
+        "year": 1999,
+        "residential": 6.75,
+        "total": 5.65
+      },
+      {
+        "year": 2000,
+        "residential": 6.93,
+        "total": 5.85
+      },
+      {
+        "year": 2001,
+        "residential": 7.37,
+        "total": 6.26
+      },
+      {
+        "year": 2002,
+        "residential": 7.28,
+        "total": 6.24
+      },
+      {
+        "year": 2003,
+        "residential": 7.6,
+        "total": 6.46
+      },
+      {
+        "year": 2004,
+        "residential": 8.21,
+        "total": 7
+      },
+      {
+        "year": 2005,
+        "residential": 8.71,
+        "total": 7.54
+      },
+      {
+        "year": 2006,
+        "residential": 9.66,
+        "total": 8.33
+      },
+      {
+        "year": 2007,
+        "residential": 9.36,
+        "total": 8.03
+      },
+      {
+        "year": 2008,
+        "residential": 10.39,
+        "total": 8.99
+      },
+      {
+        "year": 2009,
+        "residential": 10.22,
+        "total": 8.85
+      },
+      {
+        "year": 2010,
+        "residential": 9.87,
+        "total": 8.59
+      },
+      {
+        "year": 2011,
+        "residential": 10.17,
+        "total": 8.78
+      },
+      {
+        "year": 2012,
+        "residential": 10.26,
+        "total": 8.6
+      },
+      {
+        "year": 2013,
+        "residential": 10.78,
+        "total": 9.11
+      },
+      {
+        "year": 2014,
+        "residential": 11.32,
+        "total": 9.6
+      },
+      {
+        "year": 2015,
+        "residential": 11.27,
+        "total": 9.53
+      },
+      {
+        "year": 2016,
+        "residential": 10.47,
+        "total": 8.67
+      },
+      {
+        "year": 2017,
+        "residential": 11.08,
+        "total": 9.09
+      },
+      {
+        "year": 2018,
+        "residential": 11.12,
+        "total": 9.24
+      },
+      {
+        "year": 2019,
+        "residential": 11.27,
+        "total": 9.28
+      },
+      {
+        "year": 2020,
+        "residential": 11.17,
+        "total": 9.13
+      }
+    ],
+    "MT": [
+      {
+        "year": 1990,
+        "residential": 5.45,
+        "total": 3.96
+      },
+      {
+        "year": 1991,
+        "residential": 5.76,
+        "total": 4.14
+      },
+      {
+        "year": 1992,
+        "residential": 5.84,
+        "total": 4.19
+      },
+      {
+        "year": 1993,
+        "residential": 5.77,
+        "total": 4.36
+      },
+      {
+        "year": 1994,
+        "residential": 5.96,
+        "total": 4.51
+      },
+      {
+        "year": 1995,
+        "residential": 6.09,
+        "total": 4.65
+      },
+      {
+        "year": 1996,
+        "residential": 6.22,
+        "total": 4.72
+      },
+      {
+        "year": 1997,
+        "residential": 6.4,
+        "total": 5.2
+      },
+      {
+        "year": 1998,
+        "residential": 6.5,
+        "total": 4.8
+      },
+      {
+        "year": 1999,
+        "residential": 6.78,
+        "total": 4.77
+      },
+      {
+        "year": 2000,
+        "residential": 6.49,
+        "total": 5
+      },
+      {
+        "year": 2001,
+        "residential": 6.88,
+        "total": 6.48
+      },
+      {
+        "year": 2002,
+        "residential": 7.23,
+        "total": 5.7
+      },
+      {
+        "year": 2003,
+        "residential": 7.56,
+        "total": 6.14
+      },
+      {
+        "year": 2004,
+        "residential": 7.86,
+        "total": 6.4
+      },
+      {
+        "year": 2005,
+        "residential": 8.1,
+        "total": 6.72
+      },
+      {
+        "year": 2006,
+        "residential": 8.28,
+        "total": 6.91
+      },
+      {
+        "year": 2007,
+        "residential": 8.77,
+        "total": 7.13
+      },
+      {
+        "year": 2008,
+        "residential": 9.13,
+        "total": 7.72
+      },
+      {
+        "year": 2009,
+        "residential": 8.94,
+        "total": 7.58
+      },
+      {
+        "year": 2010,
+        "residential": 9.16,
+        "total": 7.84
+      },
+      {
+        "year": 2011,
+        "residential": 9.75,
+        "total": 8.23
+      },
+      {
+        "year": 2012,
+        "residential": 10.08,
+        "total": 8.25
+      },
+      {
+        "year": 2013,
+        "residential": 10.33,
+        "total": 8.58
+      },
+      {
+        "year": 2014,
+        "residential": 10.18,
+        "total": 8.59
+      },
+      {
+        "year": 2015,
+        "residential": 10.88,
+        "total": 8.9
+      },
+      {
+        "year": 2016,
+        "residential": 10.94,
+        "total": 8.84
+      },
+      {
+        "year": 2017,
+        "residential": 10.95,
+        "total": 8.92
+      },
+      {
+        "year": 2018,
+        "residential": 10.96,
+        "total": 8.84
+      },
+      {
+        "year": 2019,
+        "residential": 11.13,
+        "total": 9.02
+      },
+      {
+        "year": 2020,
+        "residential": 11.24,
+        "total": 9.13
+      }
+    ],
+    "NC": [
+      {
+        "year": 1990,
+        "residential": 7.84,
+        "total": 6.38
+      },
+      {
+        "year": 1991,
+        "residential": 7.95,
+        "total": 6.47
+      },
+      {
+        "year": 1992,
+        "residential": 8.11,
+        "total": 6.6
+      },
+      {
+        "year": 1993,
+        "residential": 8.18,
+        "total": 6.63
+      },
+      {
+        "year": 1994,
+        "residential": 8.17,
+        "total": 6.62
+      },
+      {
+        "year": 1995,
+        "residential": 8.12,
+        "total": 6.58
+      },
+      {
+        "year": 1996,
+        "residential": 8.05,
+        "total": 6.53
+      },
+      {
+        "year": 1997,
+        "residential": 8.03,
+        "total": 6.48
+      },
+      {
+        "year": 1998,
+        "residential": 8.01,
+        "total": 6.45
+      },
+      {
+        "year": 1999,
+        "residential": 7.99,
+        "total": 6.44
+      },
+      {
+        "year": 2000,
+        "residential": 7.97,
+        "total": 6.48
+      },
+      {
+        "year": 2001,
+        "residential": 8.12,
+        "total": 6.58
+      },
+      {
+        "year": 2002,
+        "residential": 8.19,
+        "total": 6.74
+      },
+      {
+        "year": 2003,
+        "residential": 8.32,
+        "total": 6.86
+      },
+      {
+        "year": 2004,
+        "residential": 8.45,
+        "total": 6.97
+      },
+      {
+        "year": 2005,
+        "residential": 8.65,
+        "total": 7.19
+      },
+      {
+        "year": 2006,
+        "residential": 9.12,
+        "total": 7.53
+      },
+      {
+        "year": 2007,
+        "residential": 9.4,
+        "total": 7.83
+      },
+      {
+        "year": 2008,
+        "residential": 9.52,
+        "total": 7.96
+      },
+      {
+        "year": 2009,
+        "residential": 9.99,
+        "total": 8.48
+      },
+      {
+        "year": 2010,
+        "residential": 10.12,
+        "total": 8.67
+      },
+      {
+        "year": 2011,
+        "residential": 10.26,
+        "total": 8.65
+      },
+      {
+        "year": 2012,
+        "residential": 10.91,
+        "total": 9.15
+      },
+      {
+        "year": 2013,
+        "residential": 10.97,
+        "total": 9.24
+      },
+      {
+        "year": 2014,
+        "residential": 11.1,
+        "total": 9.33
+      },
+      {
+        "year": 2015,
+        "residential": 11.28,
+        "total": 9.37
+      },
+      {
+        "year": 2016,
+        "residential": 11.03,
+        "total": 9.2
+      },
+      {
+        "year": 2017,
+        "residential": 10.94,
+        "total": 9.04
+      },
+      {
+        "year": 2018,
+        "residential": 11.09,
+        "total": 9.25
+      },
+      {
+        "year": 2019,
+        "residential": 11.42,
+        "total": 9.45
+      },
+      {
+        "year": 2020,
+        "residential": 11.38,
+        "total": 9.43
+      }
+    ],
+    "ND": [
+      {
+        "year": 1990,
+        "residential": 6.26,
+        "total": 5.75
+      },
+      {
+        "year": 1991,
+        "residential": 6.21,
+        "total": 5.76
+      },
+      {
+        "year": 1992,
+        "residential": 6.33,
+        "total": 5.81
+      },
+      {
+        "year": 1993,
+        "residential": 6.31,
+        "total": 5.83
+      },
+      {
+        "year": 1994,
+        "residential": 6.37,
+        "total": 5.77
+      },
+      {
+        "year": 1995,
+        "residential": 6.23,
+        "total": 5.71
+      },
+      {
+        "year": 1996,
+        "residential": 6.19,
+        "total": 5.65
+      },
+      {
+        "year": 1997,
+        "residential": 6.27,
+        "total": 5.65
+      },
+      {
+        "year": 1998,
+        "residential": 6.49,
+        "total": 5.7
+      },
+      {
+        "year": 1999,
+        "residential": 6.5,
+        "total": 5.49
+      },
+      {
+        "year": 2000,
+        "residential": 6.44,
+        "total": 5.44
+      },
+      {
+        "year": 2001,
+        "residential": 6.47,
+        "total": 5.48
+      },
+      {
+        "year": 2002,
+        "residential": 6.39,
+        "total": 5.45
+      },
+      {
+        "year": 2003,
+        "residential": 6.49,
+        "total": 5.47
+      },
+      {
+        "year": 2004,
+        "residential": 6.79,
+        "total": 5.69
+      },
+      {
+        "year": 2005,
+        "residential": 6.99,
+        "total": 5.92
+      },
+      {
+        "year": 2006,
+        "residential": 7.14,
+        "total": 6.21
+      },
+      {
+        "year": 2007,
+        "residential": 7.3,
+        "total": 6.42
+      },
+      {
+        "year": 2008,
+        "residential": 7.52,
+        "total": 6.69
+      },
+      {
+        "year": 2009,
+        "residential": 7.58,
+        "total": 6.63
+      },
+      {
+        "year": 2010,
+        "residential": 8.13,
+        "total": 7.11
+      },
+      {
+        "year": 2011,
+        "residential": 8.58,
+        "total": 7.5
+      },
+      {
+        "year": 2012,
+        "residential": 9.06,
+        "total": 7.83
+      },
+      {
+        "year": 2013,
+        "residential": 9.12,
+        "total": 8.2
+      },
+      {
+        "year": 2014,
+        "residential": 9.15,
+        "total": 8.41
+      },
+      {
+        "year": 2015,
+        "residential": 9.62,
+        "total": 8.75
+      },
+      {
+        "year": 2016,
+        "residential": 10.16,
+        "total": 8.94
+      },
+      {
+        "year": 2017,
+        "residential": 10.29,
+        "total": 8.78
+      },
+      {
+        "year": 2018,
+        "residential": 10.25,
+        "total": 8.91
+      },
+      {
+        "year": 2019,
+        "residential": 10.3,
+        "total": 8.85
+      },
+      {
+        "year": 2020,
+        "residential": 10.44,
+        "total": 8.53
+      }
+    ],
+    "NE": [
+      {
+        "year": 1990,
+        "residential": 6.23,
+        "total": 5.57
+      },
+      {
+        "year": 1991,
+        "residential": 6.09,
+        "total": 5.48
+      },
+      {
+        "year": 1992,
+        "residential": 6.27,
+        "total": 5.53
+      },
+      {
+        "year": 1993,
+        "residential": 6.25,
+        "total": 5.54
+      },
+      {
+        "year": 1994,
+        "residential": 6.31,
+        "total": 5.49
+      },
+      {
+        "year": 1995,
+        "residential": 6.37,
+        "total": 5.4
+      },
+      {
+        "year": 1996,
+        "residential": 6.29,
+        "total": 5.32
+      },
+      {
+        "year": 1997,
+        "residential": 6.38,
+        "total": 5.3
+      },
+      {
+        "year": 1998,
+        "residential": 6.46,
+        "total": 5.3
+      },
+      {
+        "year": 1999,
+        "residential": 6.52,
+        "total": 5.31
+      },
+      {
+        "year": 2000,
+        "residential": 6.53,
+        "total": 5.31
+      },
+      {
+        "year": 2001,
+        "residential": 6.5,
+        "total": 5.39
+      },
+      {
+        "year": 2002,
+        "residential": 6.73,
+        "total": 5.55
+      },
+      {
+        "year": 2003,
+        "residential": 6.87,
+        "total": 5.64
+      },
+      {
+        "year": 2004,
+        "residential": 6.96,
+        "total": 5.7
+      },
+      {
+        "year": 2005,
+        "residential": 7.14,
+        "total": 5.87
+      },
+      {
+        "year": 2006,
+        "residential": 7.41,
+        "total": 6.07
+      },
+      {
+        "year": 2007,
+        "residential": 7.59,
+        "total": 6.28
+      },
+      {
+        "year": 2008,
+        "residential": 7.87,
+        "total": 6.58
+      },
+      {
+        "year": 2009,
+        "residential": 8.52,
+        "total": 7.21
+      },
+      {
+        "year": 2010,
+        "residential": 8.94,
+        "total": 7.52
+      },
+      {
+        "year": 2011,
+        "residential": 9.32,
+        "total": 7.88
+      },
+      {
+        "year": 2012,
+        "residential": 10.04,
+        "total": 8.37
+      },
+      {
+        "year": 2013,
+        "residential": 10.31,
+        "total": 8.74
+      },
+      {
+        "year": 2014,
+        "residential": 10.4,
+        "total": 8.84
+      },
+      {
+        "year": 2015,
+        "residential": 10.6,
+        "total": 8.91
+      },
+      {
+        "year": 2016,
+        "residential": 10.84,
+        "total": 9.05
+      },
+      {
+        "year": 2017,
+        "residential": 10.97,
+        "total": 9.08
+      },
+      {
+        "year": 2018,
+        "residential": 10.7,
+        "total": 9.02
+      },
+      {
+        "year": 2019,
+        "residential": 10.77,
+        "total": 9.08
+      },
+      {
+        "year": 2020,
+        "residential": 10.8,
+        "total": 8.97
+      }
+    ],
+    "NH": [
+      {
+        "year": 1990,
+        "residential": 10.34,
+        "total": 9.09
+      },
+      {
+        "year": 1991,
+        "residential": 10.38,
+        "total": 9.13
+      },
+      {
+        "year": 1992,
+        "residential": 11.36,
+        "total": 9.97
+      },
+      {
+        "year": 1993,
+        "residential": 12.31,
+        "total": 10.85
+      },
+      {
+        "year": 1994,
+        "residential": 12.91,
+        "total": 11.32
+      },
+      {
+        "year": 1995,
+        "residential": 13.5,
+        "total": 11.72
+      },
+      {
+        "year": 1996,
+        "residential": 13.44,
+        "total": 11.59
+      },
+      {
+        "year": 1997,
+        "residential": 13.67,
+        "total": 11.66
+      },
+      {
+        "year": 1998,
+        "residential": 13.92,
+        "total": 11.93
+      },
+      {
+        "year": 1999,
+        "residential": 13.64,
+        "total": 11.6
+      },
+      {
+        "year": 2000,
+        "residential": 13.15,
+        "total": 11.25
+      },
+      {
+        "year": 2001,
+        "residential": 12.49,
+        "total": 10.95
+      },
+      {
+        "year": 2002,
+        "residential": 11.89,
+        "total": 10.6
+      },
+      {
+        "year": 2003,
+        "residential": 11.98,
+        "total": 10.83
+      },
+      {
+        "year": 2004,
+        "residential": 12.49,
+        "total": 11.37
+      },
+      {
+        "year": 2005,
+        "residential": 13.51,
+        "total": 12.53
+      },
+      {
+        "year": 2006,
+        "residential": 14.68,
+        "total": 13.84
+      },
+      {
+        "year": 2007,
+        "residential": 14.88,
+        "total": 13.98
+      },
+      {
+        "year": 2008,
+        "residential": 15.68,
+        "total": 14.63
+      },
+      {
+        "year": 2009,
+        "residential": 16.39,
+        "total": 15.09
+      },
+      {
+        "year": 2010,
+        "residential": 16.32,
+        "total": 14.84
+      },
+      {
+        "year": 2011,
+        "residential": 16.52,
+        "total": 14.74
+      },
+      {
+        "year": 2012,
+        "residential": 16.07,
+        "total": 14.19
+      },
+      {
+        "year": 2013,
+        "residential": 16.33,
+        "total": 14.3
+      },
+      {
+        "year": 2014,
+        "residential": 17.53,
+        "total": 15.22
+      },
+      {
+        "year": 2015,
+        "residential": 18.5,
+        "total": 16.02
+      },
+      {
+        "year": 2016,
+        "residential": 18.38,
+        "total": 15.66
+      },
+      {
+        "year": 2017,
+        "residential": 19.2,
+        "total": 16.17
+      },
+      {
+        "year": 2018,
+        "residential": 19.69,
+        "total": 17.01
+      },
+      {
+        "year": 2019,
+        "residential": 20.05,
+        "total": 17.15
+      },
+      {
+        "year": 2020,
+        "residential": 19.04,
+        "total": 16.63
+      }
+    ],
+    "NJ": [
+      {
+        "year": 1990,
+        "residential": 10.36,
+        "total": 9.08
+      },
+      {
+        "year": 1991,
+        "residential": 10.81,
+        "total": 9.46
+      },
+      {
+        "year": 1992,
+        "residential": 10.87,
+        "total": 9.51
+      },
+      {
+        "year": 1993,
+        "residential": 11.41,
+        "total": 9.99
+      },
+      {
+        "year": 1994,
+        "residential": 11.54,
+        "total": 10.06
+      },
+      {
+        "year": 1995,
+        "residential": 11.98,
+        "total": 10.44
+      },
+      {
+        "year": 1996,
+        "residential": 11.99,
+        "total": 10.5
+      },
+      {
+        "year": 1997,
+        "residential": 12.08,
+        "total": 10.54
+      },
+      {
+        "year": 1998,
+        "residential": 11.39,
+        "total": 10.17
+      },
+      {
+        "year": 1999,
+        "residential": 11.4,
+        "total": 9.98
+      },
+      {
+        "year": 2000,
+        "residential": 10.27,
+        "total": 9.47
+      },
+      {
+        "year": 2001,
+        "residential": 10.21,
+        "total": 9.36
+      },
+      {
+        "year": 2002,
+        "residential": 10.38,
+        "total": 9.3
+      },
+      {
+        "year": 2003,
+        "residential": 10.67,
+        "total": 9.48
+      },
+      {
+        "year": 2004,
+        "residential": 11.23,
+        "total": 10.29
+      },
+      {
+        "year": 2005,
+        "residential": 11.74,
+        "total": 10.89
+      },
+      {
+        "year": 2006,
+        "residential": 12.84,
+        "total": 11.88
+      },
+      {
+        "year": 2007,
+        "residential": 14.14,
+        "total": 13.01
+      },
+      {
+        "year": 2008,
+        "residential": 15.66,
+        "total": 14.43
+      },
+      {
+        "year": 2009,
+        "residential": 16.31,
+        "total": 14.53
+      },
+      {
+        "year": 2010,
+        "residential": 16.57,
+        "total": 14.68
+      },
+      {
+        "year": 2011,
+        "residential": 16.23,
+        "total": 14.3
+      },
+      {
+        "year": 2012,
+        "residential": 15.78,
+        "total": 13.68
+      },
+      {
+        "year": 2013,
+        "residential": 15.73,
+        "total": 13.7
+      },
+      {
+        "year": 2014,
+        "residential": 15.78,
+        "total": 13.95
+      },
+      {
+        "year": 2015,
+        "residential": 15.81,
+        "total": 13.74
+      },
+      {
+        "year": 2016,
+        "residential": 15.72,
+        "total": 13.38
+      },
+      {
+        "year": 2017,
+        "residential": 15.65,
+        "total": 13.32
+      },
+      {
+        "year": 2018,
+        "residential": 15.41,
+        "total": 13.23
+      },
+      {
+        "year": 2019,
+        "residential": 15.85,
+        "total": 13.42
+      },
+      {
+        "year": 2020,
+        "residential": 16.03,
+        "total": 13.63
+      }
+    ],
+    "NM": [
+      {
+        "year": 1990,
+        "residential": 8.94,
+        "total": 7.1
+      },
+      {
+        "year": 1991,
+        "residential": 9.08,
+        "total": 7.14
+      },
+      {
+        "year": 1992,
+        "residential": 9.06,
+        "total": 7.12
+      },
+      {
+        "year": 1993,
+        "residential": 9.18,
+        "total": 7.23
+      },
+      {
+        "year": 1994,
+        "residential": 9.14,
+        "total": 7.11
+      },
+      {
+        "year": 1995,
+        "residential": 8.93,
+        "total": 6.77
+      },
+      {
+        "year": 1996,
+        "residential": 8.93,
+        "total": 6.76
+      },
+      {
+        "year": 1997,
+        "residential": 8.92,
+        "total": 6.8
+      },
+      {
+        "year": 1998,
+        "residential": 8.85,
+        "total": 6.78
+      },
+      {
+        "year": 1999,
+        "residential": 8.62,
+        "total": 6.57
+      },
+      {
+        "year": 2000,
+        "residential": 8.36,
+        "total": 6.58
+      },
+      {
+        "year": 2001,
+        "residential": 8.74,
+        "total": 7.16
+      },
+      {
+        "year": 2002,
+        "residential": 8.5,
+        "total": 6.73
+      },
+      {
+        "year": 2003,
+        "residential": 8.69,
+        "total": 7
+      },
+      {
+        "year": 2004,
+        "residential": 8.67,
+        "total": 7.1
+      },
+      {
+        "year": 2005,
+        "residential": 9.13,
+        "total": 7.51
+      },
+      {
+        "year": 2006,
+        "residential": 9.06,
+        "total": 7.37
+      },
+      {
+        "year": 2007,
+        "residential": 9.12,
+        "total": 7.44
+      },
+      {
+        "year": 2008,
+        "residential": 10.01,
+        "total": 8.35
+      },
+      {
+        "year": 2009,
+        "residential": 10.02,
+        "total": 8.09
+      },
+      {
+        "year": 2010,
+        "residential": 10.52,
+        "total": 8.4
+      },
+      {
+        "year": 2011,
+        "residential": 11,
+        "total": 8.74
+      },
+      {
+        "year": 2012,
+        "residential": 11.38,
+        "total": 8.83
+      },
+      {
+        "year": 2013,
+        "residential": 11.68,
+        "total": 9.25
+      },
+      {
+        "year": 2014,
+        "residential": 12.28,
+        "total": 9.65
+      },
+      {
+        "year": 2015,
+        "residential": 12.47,
+        "total": 9.62
+      },
+      {
+        "year": 2016,
+        "residential": 12.03,
+        "total": 9.12
+      },
+      {
+        "year": 2017,
+        "residential": 12.88,
+        "total": 9.59
+      },
+      {
+        "year": 2018,
+        "residential": 12.68,
+        "total": 9.35
+      },
+      {
+        "year": 2019,
+        "residential": 12.51,
+        "total": 8.99
+      },
+      {
+        "year": 2020,
+        "residential": 12.94,
+        "total": 9.33
+      }
+    ],
+    "NV": [
+      {
+        "year": 1990,
+        "residential": 5.7,
+        "total": 5.38
+      },
+      {
+        "year": 1991,
+        "residential": 5.89,
+        "total": 5.6
+      },
+      {
+        "year": 1992,
+        "residential": 6.19,
+        "total": 5.69
+      },
+      {
+        "year": 1993,
+        "residential": 6.51,
+        "total": 5.87
+      },
+      {
+        "year": 1994,
+        "residential": 7.16,
+        "total": 6.37
+      },
+      {
+        "year": 1995,
+        "residential": 7.11,
+        "total": 6.1
+      },
+      {
+        "year": 1996,
+        "residential": 6.9,
+        "total": 5.95
+      },
+      {
+        "year": 1997,
+        "residential": 6.77,
+        "total": 5.6
+      },
+      {
+        "year": 1998,
+        "residential": 7,
+        "total": 5.76
+      },
+      {
+        "year": 1999,
+        "residential": 7.13,
+        "total": 5.93
+      },
+      {
+        "year": 2000,
+        "residential": 7.28,
+        "total": 6.17
+      },
+      {
+        "year": 2001,
+        "residential": 9.08,
+        "total": 7.86
+      },
+      {
+        "year": 2002,
+        "residential": 9.43,
+        "total": 8.42
+      },
+      {
+        "year": 2003,
+        "residential": 9.02,
+        "total": 8.29
+      },
+      {
+        "year": 2004,
+        "residential": 9.69,
+        "total": 8.56
+      },
+      {
+        "year": 2005,
+        "residential": 10.2,
+        "total": 9.02
+      },
+      {
+        "year": 2006,
+        "residential": 11.08,
+        "total": 9.63
+      },
+      {
+        "year": 2007,
+        "residential": 11.82,
+        "total": 9.99
+      },
+      {
+        "year": 2008,
+        "residential": 11.93,
+        "total": 9.89
+      },
+      {
+        "year": 2009,
+        "residential": 12.86,
+        "total": 10.36
+      },
+      {
+        "year": 2010,
+        "residential": 12.36,
+        "total": 9.73
+      },
+      {
+        "year": 2011,
+        "residential": 11.61,
+        "total": 8.97
+      },
+      {
+        "year": 2012,
+        "residential": 11.83,
+        "total": 8.95
+      },
+      {
+        "year": 2013,
+        "residential": 11.89,
+        "total": 9.03
+      },
+      {
+        "year": 2014,
+        "residential": 12.93,
+        "total": 9.73
+      },
+      {
+        "year": 2015,
+        "residential": 12.76,
+        "total": 9.48
+      },
+      {
+        "year": 2016,
+        "residential": 11.41,
+        "total": 8.39
+      },
+      {
+        "year": 2017,
+        "residential": 11.99,
+        "total": 8.76
+      },
+      {
+        "year": 2018,
+        "residential": 11.85,
+        "total": 8.67
+      },
+      {
+        "year": 2019,
+        "residential": 12,
+        "total": 8.78
+      },
+      {
+        "year": 2020,
+        "residential": 11.34,
+        "total": 8.33
+      }
+    ],
+    "NY": [
+      {
+        "year": 1990,
+        "residential": 11.44,
+        "total": 9.37
+      },
+      {
+        "year": 1991,
+        "residential": 11.97,
+        "total": 9.79
+      },
+      {
+        "year": 1992,
+        "residential": 12.43,
+        "total": 10.19
+      },
+      {
+        "year": 1993,
+        "residential": 13.17,
+        "total": 10.72
+      },
+      {
+        "year": 1994,
+        "residential": 13.55,
+        "total": 10.92
+      },
+      {
+        "year": 1995,
+        "residential": 13.9,
+        "total": 11.06
+      },
+      {
+        "year": 1996,
+        "residential": 14.04,
+        "total": 11.13
+      },
+      {
+        "year": 1997,
+        "residential": 14.12,
+        "total": 11.13
+      },
+      {
+        "year": 1998,
+        "residential": 13.66,
+        "total": 10.71
+      },
+      {
+        "year": 1999,
+        "residential": 13.23,
+        "total": 9.95
+      },
+      {
+        "year": 2000,
+        "residential": 13.97,
+        "total": 11.38
+      },
+      {
+        "year": 2001,
+        "residential": 14.04,
+        "total": 11.55
+      },
+      {
+        "year": 2002,
+        "residential": 13.55,
+        "total": 11.16
+      },
+      {
+        "year": 2003,
+        "residential": 14.31,
+        "total": 12.44
+      },
+      {
+        "year": 2004,
+        "residential": 14.54,
+        "total": 12.55
+      },
+      {
+        "year": 2005,
+        "residential": 15.72,
+        "total": 13.95
+      },
+      {
+        "year": 2006,
+        "residential": 16.89,
+        "total": 15.27
+      },
+      {
+        "year": 2007,
+        "residential": 17.1,
+        "total": 15.22
+      },
+      {
+        "year": 2008,
+        "residential": 18.31,
+        "total": 16.47
+      },
+      {
+        "year": 2009,
+        "residential": 17.5,
+        "total": 15.44
+      },
+      {
+        "year": 2010,
+        "residential": 18.74,
+        "total": 16.41
+      },
+      {
+        "year": 2011,
+        "residential": 18.26,
+        "total": 15.89
+      },
+      {
+        "year": 2012,
+        "residential": 17.62,
+        "total": 15.15
+      },
+      {
+        "year": 2013,
+        "residential": 18.79,
+        "total": 15.44
+      },
+      {
+        "year": 2014,
+        "residential": 20.07,
+        "total": 16.25
+      },
+      {
+        "year": 2015,
+        "residential": 18.54,
+        "total": 15.28
+      },
+      {
+        "year": 2016,
+        "residential": 17.58,
+        "total": 14.47
+      },
+      {
+        "year": 2017,
+        "residential": 18.03,
+        "total": 14.74
+      },
+      {
+        "year": 2018,
+        "residential": 18.52,
+        "total": 14.83
+      },
+      {
+        "year": 2019,
+        "residential": 17.94,
+        "total": 14.34
+      },
+      {
+        "year": 2020,
+        "residential": 18.36,
+        "total": 14.87
+      }
+    ],
+    "OH": [
+      {
+        "year": 1990,
+        "residential": 8.05,
+        "total": 5.89
+      },
+      {
+        "year": 1991,
+        "residential": 8.16,
+        "total": 6.11
+      },
+      {
+        "year": 1992,
+        "residential": 8.24,
+        "total": 6.06
+      },
+      {
+        "year": 1993,
+        "residential": 8.36,
+        "total": 6.22
+      },
+      {
+        "year": 1994,
+        "residential": 8.56,
+        "total": 6.19
+      },
+      {
+        "year": 1995,
+        "residential": 8.6,
+        "total": 6.24
+      },
+      {
+        "year": 1996,
+        "residential": 8.6,
+        "total": 6.3
+      },
+      {
+        "year": 1997,
+        "residential": 8.63,
+        "total": 6.25
+      },
+      {
+        "year": 1998,
+        "residential": 8.7,
+        "total": 6.38
+      },
+      {
+        "year": 1999,
+        "residential": 8.68,
+        "total": 6.4
+      },
+      {
+        "year": 2000,
+        "residential": 8.61,
+        "total": 6.41
+      },
+      {
+        "year": 2001,
+        "residential": 8.37,
+        "total": 6.62
+      },
+      {
+        "year": 2002,
+        "residential": 8.24,
+        "total": 6.77
+      },
+      {
+        "year": 2003,
+        "residential": 8.26,
+        "total": 6.73
+      },
+      {
+        "year": 2004,
+        "residential": 8.45,
+        "total": 6.89
+      },
+      {
+        "year": 2005,
+        "residential": 8.51,
+        "total": 7.08
+      },
+      {
+        "year": 2006,
+        "residential": 9.34,
+        "total": 7.71
+      },
+      {
+        "year": 2007,
+        "residential": 9.57,
+        "total": 7.91
+      },
+      {
+        "year": 2008,
+        "residential": 10.06,
+        "total": 8.39
+      },
+      {
+        "year": 2009,
+        "residential": 10.67,
+        "total": 9.02
+      },
+      {
+        "year": 2010,
+        "residential": 11.31,
+        "total": 9.14
+      },
+      {
+        "year": 2011,
+        "residential": 11.42,
+        "total": 9.03
+      },
+      {
+        "year": 2012,
+        "residential": 11.76,
+        "total": 9.12
+      },
+      {
+        "year": 2013,
+        "residential": 12.01,
+        "total": 9.2
+      },
+      {
+        "year": 2014,
+        "residential": 12.5,
+        "total": 9.73
+      },
+      {
+        "year": 2015,
+        "residential": 12.8,
+        "total": 9.98
+      },
+      {
+        "year": 2016,
+        "residential": 12.47,
+        "total": 9.84
+      },
+      {
+        "year": 2017,
+        "residential": 12.63,
+        "total": 9.84
+      },
+      {
+        "year": 2018,
+        "residential": 12.56,
+        "total": 9.94
+      },
+      {
+        "year": 2019,
+        "residential": 12.38,
+        "total": 9.58
+      },
+      {
+        "year": 2020,
+        "residential": 12.29,
+        "total": 9.44
+      }
+    ],
+    "OK": [
+      {
+        "year": 1990,
+        "residential": 6.58,
+        "total": 5.48
+      },
+      {
+        "year": 1991,
+        "residential": 7.03,
+        "total": 5.78
+      },
+      {
+        "year": 1992,
+        "residential": 7.17,
+        "total": 5.8
+      },
+      {
+        "year": 1993,
+        "residential": 7.14,
+        "total": 5.96
+      },
+      {
+        "year": 1994,
+        "residential": 7.03,
+        "total": 5.84
+      },
+      {
+        "year": 1995,
+        "residential": 6.82,
+        "total": 5.57
+      },
+      {
+        "year": 1996,
+        "residential": 6.71,
+        "total": 5.56
+      },
+      {
+        "year": 1997,
+        "residential": 6.63,
+        "total": 5.42
+      },
+      {
+        "year": 1998,
+        "residential": 6.57,
+        "total": 5.43
+      },
+      {
+        "year": 1999,
+        "residential": 6.6,
+        "total": 5.37
+      },
+      {
+        "year": 2000,
+        "residential": 7.03,
+        "total": 5.88
+      },
+      {
+        "year": 2001,
+        "residential": 7.27,
+        "total": 6.1
+      },
+      {
+        "year": 2002,
+        "residential": 6.73,
+        "total": 5.59
+      },
+      {
+        "year": 2003,
+        "residential": 7.47,
+        "total": 6.35
+      },
+      {
+        "year": 2004,
+        "residential": 7.72,
+        "total": 6.5
+      },
+      {
+        "year": 2005,
+        "residential": 7.95,
+        "total": 6.85
+      },
+      {
+        "year": 2006,
+        "residential": 8.55,
+        "total": 7.3
+      },
+      {
+        "year": 2007,
+        "residential": 8.58,
+        "total": 7.29
+      },
+      {
+        "year": 2008,
+        "residential": 9.09,
+        "total": 7.81
+      },
+      {
+        "year": 2009,
+        "residential": 8.49,
+        "total": 6.94
+      },
+      {
+        "year": 2010,
+        "residential": 9.14,
+        "total": 7.59
+      },
+      {
+        "year": 2011,
+        "residential": 9.47,
+        "total": 7.8
+      },
+      {
+        "year": 2012,
+        "residential": 9.51,
+        "total": 7.54
+      },
+      {
+        "year": 2013,
+        "residential": 9.67,
+        "total": 7.86
+      },
+      {
+        "year": 2014,
+        "residential": 10.03,
+        "total": 8.18
+      },
+      {
+        "year": 2015,
+        "residential": 10.14,
+        "total": 7.9
+      },
+      {
+        "year": 2016,
+        "residential": 10.2,
+        "total": 7.83
+      },
+      {
+        "year": 2017,
+        "residential": 10.61,
+        "total": 8.2
+      },
+      {
+        "year": 2018,
+        "residential": 10.3,
+        "total": 8.09
+      },
+      {
+        "year": 2019,
+        "residential": 10.21,
+        "total": 7.86
+      },
+      {
+        "year": 2020,
+        "residential": 10.12,
+        "total": 7.63
+      }
+    ],
+    "OR": [
+      {
+        "year": 1990,
+        "residential": 4.73,
+        "total": 4.18
+      },
+      {
+        "year": 1991,
+        "residential": 4.81,
+        "total": 4.25
+      },
+      {
+        "year": 1992,
+        "residential": 4.93,
+        "total": 4.31
+      },
+      {
+        "year": 1993,
+        "residential": 5.02,
+        "total": 4.43
+      },
+      {
+        "year": 1994,
+        "residential": 5.33,
+        "total": 4.6
+      },
+      {
+        "year": 1995,
+        "residential": 5.49,
+        "total": 4.67
+      },
+      {
+        "year": 1996,
+        "residential": 5.69,
+        "total": 4.77
+      },
+      {
+        "year": 1997,
+        "residential": 5.56,
+        "total": 4.61
+      },
+      {
+        "year": 1998,
+        "residential": 5.82,
+        "total": 4.9
+      },
+      {
+        "year": 1999,
+        "residential": 5.75,
+        "total": 4.83
+      },
+      {
+        "year": 2000,
+        "residential": 5.88,
+        "total": 4.89
+      },
+      {
+        "year": 2001,
+        "residential": 6.29,
+        "total": 5.44
+      },
+      {
+        "year": 2002,
+        "residential": 7.12,
+        "total": 6.32
+      },
+      {
+        "year": 2003,
+        "residential": 7.06,
+        "total": 6.18
+      },
+      {
+        "year": 2004,
+        "residential": 7.18,
+        "total": 6.21
+      },
+      {
+        "year": 2005,
+        "residential": 7.25,
+        "total": 6.34
+      },
+      {
+        "year": 2006,
+        "residential": 7.48,
+        "total": 6.53
+      },
+      {
+        "year": 2007,
+        "residential": 8.19,
+        "total": 7.02
+      },
+      {
+        "year": 2008,
+        "residential": 8.49,
+        "total": 7.24
+      },
+      {
+        "year": 2009,
+        "residential": 8.68,
+        "total": 7.47
+      },
+      {
+        "year": 2010,
+        "residential": 8.87,
+        "total": 7.56
+      },
+      {
+        "year": 2011,
+        "residential": 9.54,
+        "total": 8.04
+      },
+      {
+        "year": 2012,
+        "residential": 9.8,
+        "total": 8.21
+      },
+      {
+        "year": 2013,
+        "residential": 9.9,
+        "total": 8.44
+      },
+      {
+        "year": 2014,
+        "residential": 10.47,
+        "total": 8.68
+      },
+      {
+        "year": 2015,
+        "residential": 10.66,
+        "total": 8.75
+      },
+      {
+        "year": 2016,
+        "residential": 10.66,
+        "total": 8.83
+      },
+      {
+        "year": 2017,
+        "residential": 10.66,
+        "total": 8.81
+      },
+      {
+        "year": 2018,
+        "residential": 10.98,
+        "total": 8.85
+      },
+      {
+        "year": 2019,
+        "residential": 11.01,
+        "total": 8.81
+      },
+      {
+        "year": 2020,
+        "residential": 11.17,
+        "total": 8.82
+      }
+    ],
+    "PA": [
+      {
+        "year": 1990,
+        "residential": 9.22,
+        "total": 7.65
+      },
+      {
+        "year": 1991,
+        "residential": 9.58,
+        "total": 8
+      },
+      {
+        "year": 1992,
+        "residential": 9.67,
+        "total": 8.04
+      },
+      {
+        "year": 1993,
+        "residential": 9.55,
+        "total": 7.92
+      },
+      {
+        "year": 1994,
+        "residential": 9.55,
+        "total": 7.87
+      },
+      {
+        "year": 1995,
+        "residential": 9.72,
+        "total": 7.93
+      },
+      {
+        "year": 1996,
+        "residential": 9.73,
+        "total": 7.96
+      },
+      {
+        "year": 1997,
+        "residential": 9.9,
+        "total": 7.99
+      },
+      {
+        "year": 1998,
+        "residential": 9.93,
+        "total": 7.86
+      },
+      {
+        "year": 1999,
+        "residential": 8.86,
+        "total": 6.71
+      },
+      {
+        "year": 2000,
+        "residential": 9.53,
+        "total": 7.65
+      },
+      {
+        "year": 2001,
+        "residential": 9.68,
+        "total": 8.01
+      },
+      {
+        "year": 2002,
+        "residential": 9.74,
+        "total": 8.06
+      },
+      {
+        "year": 2003,
+        "residential": 9.59,
+        "total": 8.02
+      },
+      {
+        "year": 2004,
+        "residential": 9.58,
+        "total": 8
+      },
+      {
+        "year": 2005,
+        "residential": 9.86,
+        "total": 8.27
+      },
+      {
+        "year": 2006,
+        "residential": 10.35,
+        "total": 8.68
+      },
+      {
+        "year": 2007,
+        "residential": 10.95,
+        "total": 9.08
+      },
+      {
+        "year": 2008,
+        "residential": 11.35,
+        "total": 9.33
+      },
+      {
+        "year": 2009,
+        "residential": 11.65,
+        "total": 9.6
+      },
+      {
+        "year": 2010,
+        "residential": 12.7,
+        "total": 10.31
+      },
+      {
+        "year": 2011,
+        "residential": 13.26,
+        "total": 10.45
+      },
+      {
+        "year": 2012,
+        "residential": 12.75,
+        "total": 9.91
+      },
+      {
+        "year": 2013,
+        "residential": 12.79,
+        "total": 9.81
+      },
+      {
+        "year": 2014,
+        "residential": 13.32,
+        "total": 10.28
+      },
+      {
+        "year": 2015,
+        "residential": 13.64,
+        "total": 10.31
+      },
+      {
+        "year": 2016,
+        "residential": 13.86,
+        "total": 10.19
+      },
+      {
+        "year": 2017,
+        "residential": 14.23,
+        "total": 10.13
+      },
+      {
+        "year": 2018,
+        "residential": 13.89,
+        "total": 10.1
+      },
+      {
+        "year": 2019,
+        "residential": 13.8,
+        "total": 9.81
+      },
+      {
+        "year": 2020,
+        "residential": 13.58,
+        "total": 9.7
+      }
+    ],
+    "RI": [
+      {
+        "year": 1990,
+        "residential": 9.84,
+        "total": 9.15
+      },
+      {
+        "year": 1991,
+        "residential": 10.99,
+        "total": 10.17
+      },
+      {
+        "year": 1992,
+        "residential": 11.17,
+        "total": 10.3
+      },
+      {
+        "year": 1993,
+        "residential": 11.38,
+        "total": 10.4
+      },
+      {
+        "year": 1994,
+        "residential": 11.26,
+        "total": 10.24
+      },
+      {
+        "year": 1995,
+        "residential": 11.47,
+        "total": 10.38
+      },
+      {
+        "year": 1996,
+        "residential": 11.81,
+        "total": 10.48
+      },
+      {
+        "year": 1997,
+        "residential": 12.12,
+        "total": 10.7
+      },
+      {
+        "year": 1998,
+        "residential": 10.91,
+        "total": 9.58
+      },
+      {
+        "year": 1999,
+        "residential": 10.12,
+        "total": 8.62
+      },
+      {
+        "year": 2000,
+        "residential": 11.28,
+        "total": 10.18
+      },
+      {
+        "year": 2001,
+        "residential": 12.13,
+        "total": 11.45
+      },
+      {
+        "year": 2002,
+        "residential": 10.2,
+        "total": 9.2
+      },
+      {
+        "year": 2003,
+        "residential": 11.61,
+        "total": 10.47
+      },
+      {
+        "year": 2004,
+        "residential": 12.19,
+        "total": 10.96
+      },
+      {
+        "year": 2005,
+        "residential": 13.04,
+        "total": 11.97
+      },
+      {
+        "year": 2006,
+        "residential": 15.12,
+        "total": 13.98
+      },
+      {
+        "year": 2007,
+        "residential": 14.05,
+        "total": 13.12
+      },
+      {
+        "year": 2008,
+        "residential": 17.45,
+        "total": 16.04
+      },
+      {
+        "year": 2009,
+        "residential": 15.6,
+        "total": 14.22
+      },
+      {
+        "year": 2010,
+        "residential": 15.92,
+        "total": 14.07
+      },
+      {
+        "year": 2011,
+        "residential": 14.33,
+        "total": 13.04
+      },
+      {
+        "year": 2012,
+        "residential": 14.4,
+        "total": 12.74
+      },
+      {
+        "year": 2013,
+        "residential": 15.2,
+        "total": 13.72
+      },
+      {
+        "year": 2014,
+        "residential": 17.17,
+        "total": 15.41
+      },
+      {
+        "year": 2015,
+        "residential": 19.29,
+        "total": 17.01
+      },
+      {
+        "year": 2016,
+        "residential": 18.62,
+        "total": 16.28
+      },
+      {
+        "year": 2017,
+        "residential": 18.32,
+        "total": 16.42
+      },
+      {
+        "year": 2018,
+        "residential": 20.55,
+        "total": 18.1
+      },
+      {
+        "year": 2019,
+        "residential": 21.73,
+        "total": 18.49
+      },
+      {
+        "year": 2020,
+        "residential": 22.01,
+        "total": 18.54
+      }
+    ],
+    "SC": [
+      {
+        "year": 1990,
+        "residential": 7.15,
+        "total": 5.59
+      },
+      {
+        "year": 1991,
+        "residential": 7.22,
+        "total": 5.63
+      },
+      {
+        "year": 1992,
+        "residential": 7.19,
+        "total": 5.53
+      },
+      {
+        "year": 1993,
+        "residential": 7.33,
+        "total": 5.64
+      },
+      {
+        "year": 1994,
+        "residential": 7.49,
+        "total": 5.67
+      },
+      {
+        "year": 1995,
+        "residential": 7.53,
+        "total": 5.69
+      },
+      {
+        "year": 1996,
+        "residential": 7.5,
+        "total": 5.67
+      },
+      {
+        "year": 1997,
+        "residential": 7.51,
+        "total": 5.5
+      },
+      {
+        "year": 1998,
+        "residential": 7.5,
+        "total": 5.53
+      },
+      {
+        "year": 1999,
+        "residential": 7.55,
+        "total": 5.57
+      },
+      {
+        "year": 2000,
+        "residential": 7.58,
+        "total": 5.62
+      },
+      {
+        "year": 2001,
+        "residential": 7.69,
+        "total": 5.77
+      },
+      {
+        "year": 2002,
+        "residential": 7.72,
+        "total": 5.83
+      },
+      {
+        "year": 2003,
+        "residential": 8.01,
+        "total": 6.08
+      },
+      {
+        "year": 2004,
+        "residential": 8.12,
+        "total": 6.22
+      },
+      {
+        "year": 2005,
+        "residential": 8.67,
+        "total": 6.72
+      },
+      {
+        "year": 2006,
+        "residential": 9.03,
+        "total": 6.98
+      },
+      {
+        "year": 2007,
+        "residential": 9.19,
+        "total": 7.18
+      },
+      {
+        "year": 2008,
+        "residential": 9.89,
+        "total": 7.85
+      },
+      {
+        "year": 2009,
+        "residential": 10.44,
+        "total": 8.42
+      },
+      {
+        "year": 2010,
+        "residential": 10.5,
+        "total": 8.49
+      },
+      {
+        "year": 2011,
+        "residential": 11.05,
+        "total": 8.8
+      },
+      {
+        "year": 2012,
+        "residential": 11.77,
+        "total": 9.1
+      },
+      {
+        "year": 2013,
+        "residential": 11.99,
+        "total": 9.24
+      },
+      {
+        "year": 2014,
+        "residential": 12.45,
+        "total": 9.67
+      },
+      {
+        "year": 2015,
+        "residential": 12.57,
+        "total": 9.58
+      },
+      {
+        "year": 2016,
+        "residential": 12.65,
+        "total": 9.79
+      },
+      {
+        "year": 2017,
+        "residential": 13.02,
+        "total": 9.97
+      },
+      {
+        "year": 2018,
+        "residential": 12.44,
+        "total": 9.67
+      },
+      {
+        "year": 2019,
+        "residential": 12.99,
+        "total": 10.02
+      },
+      {
+        "year": 2020,
+        "residential": 12.78,
+        "total": 9.9
+      }
+    ],
+    "SD": [
+      {
+        "year": 1990,
+        "residential": 6.95,
+        "total": 6.13
+      },
+      {
+        "year": 1991,
+        "residential": 6.91,
+        "total": 6.13
+      },
+      {
+        "year": 1992,
+        "residential": 7.1,
+        "total": 6.22
+      },
+      {
+        "year": 1993,
+        "residential": 7.04,
+        "total": 6.2
+      },
+      {
+        "year": 1994,
+        "residential": 7.06,
+        "total": 6.19
+      },
+      {
+        "year": 1995,
+        "residential": 7.08,
+        "total": 6.2
+      },
+      {
+        "year": 1996,
+        "residential": 7,
+        "total": 6.18
+      },
+      {
+        "year": 1997,
+        "residential": 7.08,
+        "total": 6.22
+      },
+      {
+        "year": 1998,
+        "residential": 7.27,
+        "total": 6.26
+      },
+      {
+        "year": 1999,
+        "residential": 7.42,
+        "total": 6.35
+      },
+      {
+        "year": 2000,
+        "residential": 7.42,
+        "total": 6.32
+      },
+      {
+        "year": 2001,
+        "residential": 7.42,
+        "total": 6.35
+      },
+      {
+        "year": 2002,
+        "residential": 7.4,
+        "total": 6.26
+      },
+      {
+        "year": 2003,
+        "residential": 7.47,
+        "total": 6.35
+      },
+      {
+        "year": 2004,
+        "residential": 7.65,
+        "total": 6.44
+      },
+      {
+        "year": 2005,
+        "residential": 7.77,
+        "total": 6.6
+      },
+      {
+        "year": 2006,
+        "residential": 7.83,
+        "total": 6.7
+      },
+      {
+        "year": 2007,
+        "residential": 8.07,
+        "total": 6.89
+      },
+      {
+        "year": 2008,
+        "residential": 8.27,
+        "total": 7.14
+      },
+      {
+        "year": 2009,
+        "residential": 8.49,
+        "total": 7.39
+      },
+      {
+        "year": 2010,
+        "residential": 8.97,
+        "total": 7.82
+      },
+      {
+        "year": 2011,
+        "residential": 9.35,
+        "total": 8.05
+      },
+      {
+        "year": 2012,
+        "residential": 10.07,
+        "total": 8.49
+      },
+      {
+        "year": 2013,
+        "residential": 10.26,
+        "total": 8.86
+      },
+      {
+        "year": 2014,
+        "residential": 10.47,
+        "total": 9.05
+      },
+      {
+        "year": 2015,
+        "residential": 11.08,
+        "total": 9.47
+      },
+      {
+        "year": 2016,
+        "residential": 11.47,
+        "total": 9.83
+      },
+      {
+        "year": 2017,
+        "residential": 11.77,
+        "total": 10.05
+      },
+      {
+        "year": 2018,
+        "residential": 11.59,
+        "total": 9.97
+      },
+      {
+        "year": 2019,
+        "residential": 11.55,
+        "total": 9.96
+      },
+      {
+        "year": 2020,
+        "residential": 11.75,
+        "total": 10.06
+      }
+    ],
+    "TN": [
+      {
+        "year": 1990,
+        "residential": 5.69,
+        "total": 5.31
+      },
+      {
+        "year": 1991,
+        "residential": 5.65,
+        "total": 5.21
+      },
+      {
+        "year": 1992,
+        "residential": 5.7,
+        "total": 5.21
+      },
+      {
+        "year": 1993,
+        "residential": 5.76,
+        "total": 5.22
+      },
+      {
+        "year": 1994,
+        "residential": 5.88,
+        "total": 5.23
+      },
+      {
+        "year": 1995,
+        "residential": 5.91,
+        "total": 5.21
+      },
+      {
+        "year": 1996,
+        "residential": 5.88,
+        "total": 5.24
+      },
+      {
+        "year": 1997,
+        "residential": 6.03,
+        "total": 5.31
+      },
+      {
+        "year": 1998,
+        "residential": 6.32,
+        "total": 5.62
+      },
+      {
+        "year": 1999,
+        "residential": 6.34,
+        "total": 5.63
+      },
+      {
+        "year": 2000,
+        "residential": 6.33,
+        "total": 5.58
+      },
+      {
+        "year": 2001,
+        "residential": 6.32,
+        "total": 5.59
+      },
+      {
+        "year": 2002,
+        "residential": 6.41,
+        "total": 5.72
+      },
+      {
+        "year": 2003,
+        "residential": 6.55,
+        "total": 5.84
+      },
+      {
+        "year": 2004,
+        "residential": 6.9,
+        "total": 6.14
+      },
+      {
+        "year": 2005,
+        "residential": 6.98,
+        "total": 6.31
+      },
+      {
+        "year": 2006,
+        "residential": 7.75,
+        "total": 6.97
+      },
+      {
+        "year": 2007,
+        "residential": 7.84,
+        "total": 7.07
+      },
+      {
+        "year": 2008,
+        "residential": 8.91,
+        "total": 8.18
+      },
+      {
+        "year": 2009,
+        "residential": 9.32,
+        "total": 8.69
+      },
+      {
+        "year": 2010,
+        "residential": 9.23,
+        "total": 8.61
+      },
+      {
+        "year": 2011,
+        "residential": 9.98,
+        "total": 9.28
+      },
+      {
+        "year": 2012,
+        "residential": 10.1,
+        "total": 9.27
+      },
+      {
+        "year": 2013,
+        "residential": 9.98,
+        "total": 9.13
+      },
+      {
+        "year": 2014,
+        "residential": 10.32,
+        "total": 9.4
+      },
+      {
+        "year": 2015,
+        "residential": 10.3,
+        "total": 9.3
+      },
+      {
+        "year": 2016,
+        "residential": 10.41,
+        "total": 9.23
+      },
+      {
+        "year": 2017,
+        "residential": 10.72,
+        "total": 9.45
+      },
+      {
+        "year": 2018,
+        "residential": 10.71,
+        "total": 9.58
+      },
+      {
+        "year": 2019,
+        "residential": 10.87,
+        "total": 9.69
+      },
+      {
+        "year": 2020,
+        "residential": 10.76,
+        "total": 9.52
+      }
+    ],
+    "TX": [
+      {
+        "year": 1990,
+        "residential": 7.2,
+        "total": 5.78
+      },
+      {
+        "year": 1991,
+        "residential": 7.57,
+        "total": 6.06
+      },
+      {
+        "year": 1992,
+        "residential": 7.74,
+        "total": 6.16
+      },
+      {
+        "year": 1993,
+        "residential": 8,
+        "total": 6.39
+      },
+      {
+        "year": 1994,
+        "residential": 8.08,
+        "total": 6.42
+      },
+      {
+        "year": 1995,
+        "residential": 7.71,
+        "total": 6.1
+      },
+      {
+        "year": 1996,
+        "residential": 7.77,
+        "total": 6.16
+      },
+      {
+        "year": 1997,
+        "residential": 7.82,
+        "total": 6.17
+      },
+      {
+        "year": 1998,
+        "residential": 7.65,
+        "total": 6.07
+      },
+      {
+        "year": 1999,
+        "residential": 7.55,
+        "total": 6.04
+      },
+      {
+        "year": 2000,
+        "residential": 7.96,
+        "total": 6.49
+      },
+      {
+        "year": 2001,
+        "residential": 8.86,
+        "total": 7.38
+      },
+      {
+        "year": 2002,
+        "residential": 8.05,
+        "total": 6.62
+      },
+      {
+        "year": 2003,
+        "residential": 9.16,
+        "total": 7.5
+      },
+      {
+        "year": 2004,
+        "residential": 9.73,
+        "total": 7.95
+      },
+      {
+        "year": 2005,
+        "residential": 10.93,
+        "total": 9.14
+      },
+      {
+        "year": 2006,
+        "residential": 12.86,
+        "total": 10.34
+      },
+      {
+        "year": 2007,
+        "residential": 12.34,
+        "total": 10.11
+      },
+      {
+        "year": 2008,
+        "residential": 13.03,
+        "total": 10.99
+      },
+      {
+        "year": 2009,
+        "residential": 12.38,
+        "total": 9.86
+      },
+      {
+        "year": 2010,
+        "residential": 11.6,
+        "total": 9.34
+      },
+      {
+        "year": 2011,
+        "residential": 11.08,
+        "total": 9
+      },
+      {
+        "year": 2012,
+        "residential": 10.98,
+        "total": 8.55
+      },
+      {
+        "year": 2013,
+        "residential": 11.35,
+        "total": 8.66
+      },
+      {
+        "year": 2014,
+        "residential": 11.86,
+        "total": 8.94
+      },
+      {
+        "year": 2015,
+        "residential": 11.56,
+        "total": 8.7
+      },
+      {
+        "year": 2016,
+        "residential": 10.99,
+        "total": 8.43
+      },
+      {
+        "year": 2017,
+        "residential": 11.01,
+        "total": 8.38
+      },
+      {
+        "year": 2018,
+        "residential": 11.2,
+        "total": 8.48
+      },
+      {
+        "year": 2019,
+        "residential": 11.76,
+        "total": 8.6
+      },
+      {
+        "year": 2020,
+        "residential": 11.71,
+        "total": 8.36
+      }
+    ],
+    "UT": [
+      {
+        "year": 1990,
+        "residential": 7.13,
+        "total": 5.46
+      },
+      {
+        "year": 1991,
+        "residential": 7.12,
+        "total": 5.46
+      },
+      {
+        "year": 1992,
+        "residential": 6.97,
+        "total": 5.3
+      },
+      {
+        "year": 1993,
+        "residential": 6.85,
+        "total": 5.33
+      },
+      {
+        "year": 1994,
+        "residential": 6.91,
+        "total": 5.36
+      },
+      {
+        "year": 1995,
+        "residential": 6.94,
+        "total": 5.3
+      },
+      {
+        "year": 1996,
+        "residential": 6.96,
+        "total": 5.28
+      },
+      {
+        "year": 1997,
+        "residential": 6.89,
+        "total": 5.17
+      },
+      {
+        "year": 1998,
+        "residential": 6.84,
+        "total": 5.16
+      },
+      {
+        "year": 1999,
+        "residential": 6.27,
+        "total": 4.86
+      },
+      {
+        "year": 2000,
+        "residential": 6.29,
+        "total": 4.84
+      },
+      {
+        "year": 2001,
+        "residential": 6.72,
+        "total": 5.21
+      },
+      {
+        "year": 2002,
+        "residential": 6.79,
+        "total": 5.39
+      },
+      {
+        "year": 2003,
+        "residential": 6.9,
+        "total": 5.41
+      },
+      {
+        "year": 2004,
+        "residential": 7.21,
+        "total": 5.69
+      },
+      {
+        "year": 2005,
+        "residential": 7.52,
+        "total": 5.92
+      },
+      {
+        "year": 2006,
+        "residential": 7.59,
+        "total": 5.99
+      },
+      {
+        "year": 2007,
+        "residential": 8.15,
+        "total": 6.41
+      },
+      {
+        "year": 2008,
+        "residential": 8.26,
+        "total": 6.49
+      },
+      {
+        "year": 2009,
+        "residential": 8.48,
+        "total": 6.77
+      },
+      {
+        "year": 2010,
+        "residential": 8.71,
+        "total": 6.94
+      },
+      {
+        "year": 2011,
+        "residential": 8.96,
+        "total": 7.13
+      },
+      {
+        "year": 2012,
+        "residential": 9.93,
+        "total": 7.84
+      },
+      {
+        "year": 2013,
+        "residential": 10.37,
+        "total": 8.15
+      },
+      {
+        "year": 2014,
+        "residential": 10.65,
+        "total": 8.35
+      },
+      {
+        "year": 2015,
+        "residential": 10.88,
+        "total": 8.54
+      },
+      {
+        "year": 2016,
+        "residential": 11.02,
+        "total": 8.72
+      },
+      {
+        "year": 2017,
+        "residential": 10.95,
+        "total": 8.6
+      },
+      {
+        "year": 2018,
+        "residential": 10.41,
+        "total": 8.21
+      },
+      {
+        "year": 2019,
+        "residential": 10.4,
+        "total": 8.24
+      },
+      {
+        "year": 2020,
+        "residential": 10.44,
+        "total": 8.27
+      }
+    ],
+    "VA": [
+      {
+        "year": 1990,
+        "residential": 7.25,
+        "total": 6.03
+      },
+      {
+        "year": 1991,
+        "residential": 7.34,
+        "total": 6.09
+      },
+      {
+        "year": 1992,
+        "residential": 7.63,
+        "total": 6.28
+      },
+      {
+        "year": 1993,
+        "residential": 7.57,
+        "total": 6.23
+      },
+      {
+        "year": 1994,
+        "residential": 7.75,
+        "total": 6.2
+      },
+      {
+        "year": 1995,
+        "residential": 7.84,
+        "total": 6.26
+      },
+      {
+        "year": 1996,
+        "residential": 7.6,
+        "total": 6.09
+      },
+      {
+        "year": 1997,
+        "residential": 7.75,
+        "total": 6.14
+      },
+      {
+        "year": 1998,
+        "residential": 7.51,
+        "total": 5.88
+      },
+      {
+        "year": 1999,
+        "residential": 7.48,
+        "total": 5.86
+      },
+      {
+        "year": 2000,
+        "residential": 7.52,
+        "total": 5.94
+      },
+      {
+        "year": 2001,
+        "residential": 7.79,
+        "total": 6.18
+      },
+      {
+        "year": 2002,
+        "residential": 7.79,
+        "total": 6.23
+      },
+      {
+        "year": 2003,
+        "residential": 7.76,
+        "total": 6.27
+      },
+      {
+        "year": 2004,
+        "residential": 7.99,
+        "total": 6.43
+      },
+      {
+        "year": 2005,
+        "residential": 8.16,
+        "total": 6.64
+      },
+      {
+        "year": 2006,
+        "residential": 8.49,
+        "total": 6.86
+      },
+      {
+        "year": 2007,
+        "residential": 8.74,
+        "total": 7.12
+      },
+      {
+        "year": 2008,
+        "residential": 9.62,
+        "total": 8
+      },
+      {
+        "year": 2009,
+        "residential": 10.61,
+        "total": 8.93
+      },
+      {
+        "year": 2010,
+        "residential": 10.45,
+        "total": 8.69
+      },
+      {
+        "year": 2011,
+        "residential": 10.64,
+        "total": 8.84
+      },
+      {
+        "year": 2012,
+        "residential": 11.08,
+        "total": 9.07
+      },
+      {
+        "year": 2013,
+        "residential": 10.84,
+        "total": 8.96
+      },
+      {
+        "year": 2014,
+        "residential": 11.1,
+        "total": 9.17
+      },
+      {
+        "year": 2015,
+        "residential": 11.37,
+        "total": 9.31
+      },
+      {
+        "year": 2016,
+        "residential": 11.36,
+        "total": 9.09
+      },
+      {
+        "year": 2017,
+        "residential": 11.55,
+        "total": 9.18
+      },
+      {
+        "year": 2018,
+        "residential": 11.73,
+        "total": 9.48
+      },
+      {
+        "year": 2019,
+        "residential": 12.07,
+        "total": 9.52
+      },
+      {
+        "year": 2020,
+        "residential": 12.03,
+        "total": 9.16
+      }
+    ],
+    "VT": [
+      {
+        "year": 1990,
+        "residential": 9.27,
+        "total": 8.28
+      },
+      {
+        "year": 1991,
+        "residential": 9.53,
+        "total": 8.63
+      },
+      {
+        "year": 1992,
+        "residential": 9.56,
+        "total": 8.83
+      },
+      {
+        "year": 1993,
+        "residential": 9.84,
+        "total": 9.04
+      },
+      {
+        "year": 1994,
+        "residential": 9.96,
+        "total": 9.13
+      },
+      {
+        "year": 1995,
+        "residential": 10.52,
+        "total": 9.46
+      },
+      {
+        "year": 1996,
+        "residential": 10.99,
+        "total": 9.74
+      },
+      {
+        "year": 1997,
+        "residential": 11.45,
+        "total": 9.89
+      },
+      {
+        "year": 1998,
+        "residential": 11.61,
+        "total": 9.83
+      },
+      {
+        "year": 1999,
+        "residential": 12.17,
+        "total": 10.28
+      },
+      {
+        "year": 2000,
+        "residential": 12.3,
+        "total": 10.27
+      },
+      {
+        "year": 2001,
+        "residential": 12.67,
+        "total": 10.86
+      },
+      {
+        "year": 2002,
+        "residential": 12.78,
+        "total": 10.87
+      },
+      {
+        "year": 2003,
+        "residential": 12.82,
+        "total": 10.98
+      },
+      {
+        "year": 2004,
+        "residential": 12.94,
+        "total": 11.02
+      },
+      {
+        "year": 2005,
+        "residential": 12.96,
+        "total": 10.95
+      },
+      {
+        "year": 2006,
+        "residential": 13.39,
+        "total": 11.37
+      },
+      {
+        "year": 2007,
+        "residential": 14.15,
+        "total": 12.04
+      },
+      {
+        "year": 2008,
+        "residential": 14.48,
+        "total": 12.33
+      },
+      {
+        "year": 2009,
+        "residential": 14.9,
+        "total": 12.75
+      },
+      {
+        "year": 2010,
+        "residential": 15.57,
+        "total": 13.24
+      },
+      {
+        "year": 2011,
+        "residential": 16.26,
+        "total": 13.8
+      },
+      {
+        "year": 2012,
+        "residential": 17.01,
+        "total": 14.22
+      },
+      {
+        "year": 2013,
+        "residential": 17.14,
+        "total": 14.61
+      },
+      {
+        "year": 2014,
+        "residential": 17.47,
+        "total": 14.57
+      },
+      {
+        "year": 2015,
+        "residential": 17.09,
+        "total": 14.41
+      },
+      {
+        "year": 2016,
+        "residential": 17.37,
+        "total": 14.46
+      },
+      {
+        "year": 2017,
+        "residential": 17.68,
+        "total": 14.6
+      },
+      {
+        "year": 2018,
+        "residential": 18.02,
+        "total": 15.13
+      },
+      {
+        "year": 2019,
+        "residential": 17.71,
+        "total": 15.36
+      },
+      {
+        "year": 2020,
+        "residential": 19.54,
+        "total": 16.33
+      }
+    ],
+    "WA": [
+      {
+        "year": 1990,
+        "residential": 4.39,
+        "total": 3.4
+      },
+      {
+        "year": 1991,
+        "residential": 4.36,
+        "total": 3.37
+      },
+      {
+        "year": 1992,
+        "residential": 4.46,
+        "total": 3.43
+      },
+      {
+        "year": 1993,
+        "residential": 4.6,
+        "total": 3.65
+      },
+      {
+        "year": 1994,
+        "residential": 4.97,
+        "total": 4.02
+      },
+      {
+        "year": 1995,
+        "residential": 4.97,
+        "total": 4.1
+      },
+      {
+        "year": 1996,
+        "residential": 5.03,
+        "total": 4.19
+      },
+      {
+        "year": 1997,
+        "residential": 4.95,
+        "total": 4.04
+      },
+      {
+        "year": 1998,
+        "residential": 5.03,
+        "total": 4.03
+      },
+      {
+        "year": 1999,
+        "residential": 5.1,
+        "total": 4.01
+      },
+      {
+        "year": 2000,
+        "residential": 5.13,
+        "total": 4.33
+      },
+      {
+        "year": 2001,
+        "residential": 5.7,
+        "total": 5.34
+      },
+      {
+        "year": 2002,
+        "residential": 6.29,
+        "total": 5.88
+      },
+      {
+        "year": 2003,
+        "residential": 6.31,
+        "total": 5.86
+      },
+      {
+        "year": 2004,
+        "residential": 6.37,
+        "total": 5.8
+      },
+      {
+        "year": 2005,
+        "residential": 6.54,
+        "total": 5.87
+      },
+      {
+        "year": 2006,
+        "residential": 6.82,
+        "total": 6.14
+      },
+      {
+        "year": 2007,
+        "residential": 7.26,
+        "total": 6.37
+      },
+      {
+        "year": 2008,
+        "residential": 7.54,
+        "total": 6.55
+      },
+      {
+        "year": 2009,
+        "residential": 7.67,
+        "total": 6.59
+      },
+      {
+        "year": 2010,
+        "residential": 8.04,
+        "total": 6.66
+      },
+      {
+        "year": 2011,
+        "residential": 8.28,
+        "total": 6.78
+      },
+      {
+        "year": 2012,
+        "residential": 8.53,
+        "total": 6.94
+      },
+      {
+        "year": 2013,
+        "residential": 8.7,
+        "total": 7.09
+      },
+      {
+        "year": 2014,
+        "residential": 8.67,
+        "total": 7.13
+      },
+      {
+        "year": 2015,
+        "residential": 9.09,
+        "total": 7.4
+      },
+      {
+        "year": 2016,
+        "residential": 9.48,
+        "total": 7.68
+      },
+      {
+        "year": 2017,
+        "residential": 9.66,
+        "total": 7.94
+      },
+      {
+        "year": 2018,
+        "residential": 9.75,
+        "total": 8
+      },
+      {
+        "year": 2019,
+        "residential": 9.71,
+        "total": 8.04
+      },
+      {
+        "year": 2020,
+        "residential": 9.87,
+        "total": 8.33
+      }
+    ],
+    "WI": [
+      {
+        "year": 1990,
+        "residential": 6.63,
+        "total": 5.37
+      },
+      {
+        "year": 1991,
+        "residential": 6.73,
+        "total": 5.45
+      },
+      {
+        "year": 1992,
+        "residential": 6.91,
+        "total": 5.48
+      },
+      {
+        "year": 1993,
+        "residential": 7.03,
+        "total": 5.52
+      },
+      {
+        "year": 1994,
+        "residential": 7.08,
+        "total": 5.46
+      },
+      {
+        "year": 1995,
+        "residential": 6.97,
+        "total": 5.36
+      },
+      {
+        "year": 1996,
+        "residential": 6.88,
+        "total": 5.25
+      },
+      {
+        "year": 1997,
+        "residential": 6.88,
+        "total": 5.22
+      },
+      {
+        "year": 1998,
+        "residential": 7.17,
+        "total": 5.44
+      },
+      {
+        "year": 1999,
+        "residential": 7.31,
+        "total": 5.53
+      },
+      {
+        "year": 2000,
+        "residential": 7.53,
+        "total": 5.71
+      },
+      {
+        "year": 2001,
+        "residential": 7.9,
+        "total": 6.08
+      },
+      {
+        "year": 2002,
+        "residential": 8.18,
+        "total": 6.28
+      },
+      {
+        "year": 2003,
+        "residential": 8.67,
+        "total": 6.64
+      },
+      {
+        "year": 2004,
+        "residential": 9.07,
+        "total": 6.88
+      },
+      {
+        "year": 2005,
+        "residential": 9.66,
+        "total": 7.48
+      },
+      {
+        "year": 2006,
+        "residential": 10.51,
+        "total": 8.13
+      },
+      {
+        "year": 2007,
+        "residential": 10.87,
+        "total": 8.48
+      },
+      {
+        "year": 2008,
+        "residential": 11.51,
+        "total": 9
+      },
+      {
+        "year": 2009,
+        "residential": 11.94,
+        "total": 9.38
+      },
+      {
+        "year": 2010,
+        "residential": 12.65,
+        "total": 9.78
+      },
+      {
+        "year": 2011,
+        "residential": 13.02,
+        "total": 10.21
+      },
+      {
+        "year": 2012,
+        "residential": 13.19,
+        "total": 10.28
+      },
+      {
+        "year": 2013,
+        "residential": 13.55,
+        "total": 10.51
+      },
+      {
+        "year": 2014,
+        "residential": 13.67,
+        "total": 10.57
+      },
+      {
+        "year": 2015,
+        "residential": 14.11,
+        "total": 10.73
+      },
+      {
+        "year": 2016,
+        "residential": 14.07,
+        "total": 10.67
+      },
+      {
+        "year": 2017,
+        "residential": 14.35,
+        "total": 10.76
+      },
+      {
+        "year": 2018,
+        "residential": 14.02,
+        "total": 10.58
+      },
+      {
+        "year": 2019,
+        "residential": 14.18,
+        "total": 10.66
+      },
+      {
+        "year": 2020,
+        "residential": 14.32,
+        "total": 10.82
+      }
+    ],
+    "WV": [
+      {
+        "year": 1990,
+        "residential": 5.9,
+        "total": 4.73
+      },
+      {
+        "year": 1991,
+        "residential": 5.91,
+        "total": 4.84
+      },
+      {
+        "year": 1992,
+        "residential": 6.17,
+        "total": 5.05
+      },
+      {
+        "year": 1993,
+        "residential": 6.3,
+        "total": 5.22
+      },
+      {
+        "year": 1994,
+        "residential": 6.36,
+        "total": 5.25
+      },
+      {
+        "year": 1995,
+        "residential": 6.5,
+        "total": 5.34
+      },
+      {
+        "year": 1996,
+        "residential": 6.38,
+        "total": 5.21
+      },
+      {
+        "year": 1997,
+        "residential": 6.26,
+        "total": 5.02
+      },
+      {
+        "year": 1998,
+        "residential": 6.29,
+        "total": 5.07
+      },
+      {
+        "year": 1999,
+        "residential": 6.27,
+        "total": 5.09
+      },
+      {
+        "year": 2000,
+        "residential": 6.27,
+        "total": 5.07
+      },
+      {
+        "year": 2001,
+        "residential": 6.26,
+        "total": 5.07
+      },
+      {
+        "year": 2002,
+        "residential": 6.23,
+        "total": 5.11
+      },
+      {
+        "year": 2003,
+        "residential": 6.24,
+        "total": 5.13
+      },
+      {
+        "year": 2004,
+        "residential": 6.23,
+        "total": 5.13
+      },
+      {
+        "year": 2005,
+        "residential": 6.21,
+        "total": 5.15
+      },
+      {
+        "year": 2006,
+        "residential": 6.35,
+        "total": 5.04
+      },
+      {
+        "year": 2007,
+        "residential": 6.73,
+        "total": 5.34
+      },
+      {
+        "year": 2008,
+        "residential": 7.06,
+        "total": 5.61
+      },
+      {
+        "year": 2009,
+        "residential": 7.9,
+        "total": 6.65
+      },
+      {
+        "year": 2010,
+        "residential": 8.79,
+        "total": 7.45
+      },
+      {
+        "year": 2011,
+        "residential": 9.39,
+        "total": 7.88
+      },
+      {
+        "year": 2012,
+        "residential": 9.85,
+        "total": 8.14
+      },
+      {
+        "year": 2013,
+        "residential": 9.52,
+        "total": 7.91
+      },
+      {
+        "year": 2014,
+        "residential": 9.34,
+        "total": 7.65
+      },
+      {
+        "year": 2015,
+        "residential": 10.08,
+        "total": 8.11
+      },
+      {
+        "year": 2016,
+        "residential": 11.44,
+        "total": 8.98
+      },
+      {
+        "year": 2017,
+        "residential": 11.63,
+        "total": 9
+      },
+      {
+        "year": 2018,
+        "residential": 11.18,
+        "total": 8.72
+      },
+      {
+        "year": 2019,
+        "residential": 11.25,
+        "total": 8.49
+      },
+      {
+        "year": 2020,
+        "residential": 11.8,
+        "total": 8.75
+      }
+    ],
+    "WY": [
+      {
+        "year": 1990,
+        "residential": 5.97,
+        "total": 4.21
+      },
+      {
+        "year": 1991,
+        "residential": 6,
+        "total": 4.25
+      },
+      {
+        "year": 1992,
+        "residential": 6.08,
+        "total": 4.27
+      },
+      {
+        "year": 1993,
+        "residential": 5.96,
+        "total": 4.25
+      },
+      {
+        "year": 1994,
+        "residential": 6.04,
+        "total": 4.26
+      },
+      {
+        "year": 1995,
+        "residential": 6.09,
+        "total": 4.32
+      },
+      {
+        "year": 1996,
+        "residential": 6.13,
+        "total": 4.31
+      },
+      {
+        "year": 1997,
+        "residential": 6.22,
+        "total": 4.33
+      },
+      {
+        "year": 1998,
+        "residential": 6.28,
+        "total": 4.31
+      },
+      {
+        "year": 1999,
+        "residential": 6.34,
+        "total": 4.3
+      },
+      {
+        "year": 2000,
+        "residential": 6.5,
+        "total": 4.34
+      },
+      {
+        "year": 2001,
+        "residential": 6.77,
+        "total": 4.46
+      },
+      {
+        "year": 2002,
+        "residential": 6.97,
+        "total": 4.68
+      },
+      {
+        "year": 2003,
+        "residential": 7.04,
+        "total": 4.76
+      },
+      {
+        "year": 2004,
+        "residential": 7.21,
+        "total": 4.98
+      },
+      {
+        "year": 2005,
+        "residential": 7.48,
+        "total": 5.16
+      },
+      {
+        "year": 2006,
+        "residential": 7.75,
+        "total": 5.27
+      },
+      {
+        "year": 2007,
+        "residential": 7.75,
+        "total": 5.29
+      },
+      {
+        "year": 2008,
+        "residential": 8.21,
+        "total": 5.67
+      },
+      {
+        "year": 2009,
+        "residential": 8.58,
+        "total": 6.08
+      },
+      {
+        "year": 2010,
+        "residential": 8.77,
+        "total": 6.2
+      },
+      {
+        "year": 2011,
+        "residential": 9.11,
+        "total": 6.58
+      },
+      {
+        "year": 2012,
+        "residential": 9.85,
+        "total": 7.19
+      },
+      {
+        "year": 2013,
+        "residential": 10.16,
+        "total": 7.55
+      },
+      {
+        "year": 2014,
+        "residential": 10.5,
+        "total": 7.76
+      },
+      {
+        "year": 2015,
+        "residential": 10.97,
+        "total": 7.97
+      },
+      {
+        "year": 2016,
+        "residential": 11.13,
+        "total": 8.19
+      },
+      {
+        "year": 2017,
+        "residential": 11.37,
+        "total": 8.28
+      },
+      {
+        "year": 2018,
+        "residential": 11.29,
+        "total": 8.09
+      },
+      {
+        "year": 2019,
+        "residential": 11.18,
+        "total": 8.1
+      },
+      {
+        "year": 2020,
+        "residential": 11.11,
+        "total": 8.27
+      }
+    ],
+    "US": [
+      {
+        "year": 1990,
+        "residential": 7.83,
+        "total": 6.57
+      },
+      {
+        "year": 1991,
+        "residential": 8.04,
+        "total": 6.75
+      },
+      {
+        "year": 1992,
+        "residential": 8.21,
+        "total": 6.82
+      },
+      {
+        "year": 1993,
+        "residential": 8.32,
+        "total": 6.93
+      },
+      {
+        "year": 1994,
+        "residential": 8.38,
+        "total": 6.91
+      },
+      {
+        "year": 1995,
+        "residential": 8.4,
+        "total": 6.89
+      },
+      {
+        "year": 1996,
+        "residential": 8.36,
+        "total": 6.86
+      },
+      {
+        "year": 1997,
+        "residential": 8.43,
+        "total": 6.85
+      },
+      {
+        "year": 1998,
+        "residential": 8.26,
+        "total": 6.74
+      },
+      {
+        "year": 1999,
+        "residential": 8.16,
+        "total": 6.64
+      },
+      {
+        "year": 2000,
+        "residential": 8.24,
+        "total": 6.81
+      },
+      {
+        "year": 2001,
+        "residential": 8.58,
+        "total": 7.29
+      },
+      {
+        "year": 2002,
+        "residential": 8.44,
+        "total": 7.2
+      },
+      {
+        "year": 2003,
+        "residential": 8.72,
+        "total": 7.44
+      },
+      {
+        "year": 2004,
+        "residential": 8.95,
+        "total": 7.61
+      },
+      {
+        "year": 2005,
+        "residential": 9.45,
+        "total": 8.14
+      },
+      {
+        "year": 2006,
+        "residential": 10.4,
+        "total": 8.9
+      },
+      {
+        "year": 2007,
+        "residential": 10.65,
+        "total": 9.13
+      },
+      {
+        "year": 2008,
+        "residential": 11.26,
+        "total": 9.74
+      },
+      {
+        "year": 2009,
+        "residential": 11.51,
+        "total": 9.82
+      },
+      {
+        "year": 2010,
+        "residential": 11.54,
+        "total": 9.83
+      },
+      {
+        "year": 2011,
+        "residential": 11.72,
+        "total": 9.9
+      },
+      {
+        "year": 2012,
+        "residential": 11.88,
+        "total": 9.84
+      },
+      {
+        "year": 2013,
+        "residential": 12.13,
+        "total": 10.07
+      },
+      {
+        "year": 2014,
+        "residential": 12.52,
+        "total": 10.44
+      },
+      {
+        "year": 2015,
+        "residential": 12.65,
+        "total": 10.41
+      },
+      {
+        "year": 2016,
+        "residential": 12.55,
+        "total": 10.27
+      },
+      {
+        "year": 2017,
+        "residential": 12.89,
+        "total": 10.48
+      },
+      {
+        "year": 2018,
+        "residential": 12.87,
+        "total": 10.53
+      },
+      {
+        "year": 2019,
+        "residential": 13.01,
+        "total": 10.54
+      },
+      {
+        "year": 2020,
+        "residential": 13.15,
+        "total": 10.59
+      }
+    ]
+  }
+}

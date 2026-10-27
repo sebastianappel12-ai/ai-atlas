@@ -27,11 +27,11 @@
     },
     {
       "date": "2025-10-23",
-      "event": "Building 1 looks mostly complete: the large items like generators and substation are done. It is just missing 2 more cooling towers (4 fans). They just seem to be paving and setting up the secondary equipment so it is probably a few months "
+      "event": "Building 1 looks mostly complete: the large items like generators and substation are done. It is just missing 2 more cooling towers (4 fans). They just seem to be paving and setting up the secondary equipment so it is probably a few months…"
     },
     {
       "date": "2026-05-12",
-      "event": "Building 1 operational. This is based on the fact that is no more visible equipment or construction around the building, and based on previous imagery and when construction started on the last pieces of equipment (fans). Building 2's roof i"
+      "event": "Building 1 operational. This is based on the fact that is no more visible equipment or construction around the building, and based on previous imagery and when construction started on the last pieces of equipment (fans). Building 2's roof…"
     },
     {
       "date": "2027-10-01",
@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "kind": "dataset",
       "quote": "Google Lincoln: current power 141 MW; owner Google."
     }
   ],
-  "last_checked": "2026-10-26",
+  "last_checked": "2026-10-27",
   "explain": "Google Lincoln is an operating AI data center in Lincoln, NE, owned by google. Epoch AI estimates it draws 141 MW today and 339 MW when finished."
 }
