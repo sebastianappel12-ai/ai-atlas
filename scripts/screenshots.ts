@@ -38,15 +38,17 @@ for (const s of SHOTS.filter((x) => !only.length || only.includes(x.name))) {
   );
   const page = await ctx.newPage();
   const errors: string[] = [];
-  page.on("console", (m) => m.type() === "error" && errors.push(m.text()));
+  page.on("console", (m) => m.type() === "error" && !m.text().startsWith("Failed to load resource") && errors.push(m.text()));
   page.on("pageerror", (e) => errors.push(e.message));
+  // Vercel Analytics' script only exists on Vercel deployments; ignore its 404 locally.
+  page.on("response", (r) => r.status() >= 400 && !r.url().includes("/_vercel/") && errors.push(`HTTP ${r.status()} ${r.url()}`));
   if (s.before) {
     await page.goto(BASE + "/methodology").catch(() => {});
     await s.before(page);
   }
   const t0 = Date.now();
   const res = await page.goto(BASE + s.path, { waitUntil: "load" });
-  if (s.path === "/" || s.path.startsWith("/?")) await page.waitForSelector("canvas", { timeout: 15000 }).catch(() => errors.push("no canvas"));
+  if (!s.mobile && (s.path === "/" || s.path.startsWith("/?"))) await page.waitForSelector("canvas", { timeout: 15000 }).catch(() => errors.push("no canvas"));
   const loadMs = Date.now() - t0;
   await page.waitForTimeout(s.wait ?? 1000);
   await page.screenshot({ path: `screenshots/${s.name}.png` });

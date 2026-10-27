@@ -1,0 +1,31 @@
+{
+  "id": "coreweave-nvidia-gpus-2025",
+  "from": "coreweave",
+  "to": "nvidia",
+  "type": "chip_order",
+  "title": "CoreWeave buys Nvidia GPUs for its entire fleet",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2025-03-20",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000119312525058309/d899798ds1a.htm",
+      "publisher": "CoreWeave Form S-1/A (SEC)",
+      "date": "2025-03-20",
+      "kind": "sec_filing",
+      "quote": "For example, as a result of our obligations in our current customer contracts, all of the GPUs used in our infrastructure today are NVIDIA GPUs."
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm",
+      "publisher": "CoreWeave Form 10-K (SEC)",
+      "date": "2026-03-02",
+      "kind": "sec_filing",
+      "quote": "For example, as a result of our obligations in our current customer contracts, all of the GPUs used in our infrastructure today are NVIDIA GPUs."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-10-26",
+  "added": "2026-10-26",
+  "explain": "Every GPU CoreWeave rents out is made by Nvidia, so a large share of the money CoreWeave raises and borrows ends up paying for Nvidia chips (often bought through server makers like Dell). CoreWeave doesn't disclose the total. Dated to its IPO filing, the first public statement of this. Combined with Nvidia's investments in CoreWeave, this is the textbook circular deal."
+}

@@ -16,13 +16,16 @@ const STEPS = [
 
 /** A 60-second guided tour for first-time visitors (and anyone who clicks "Tour"). */
 export function GuidedTour() {
-  const [step, setStep] = useState<number | null>(null);
+  const [step, setStep] = useState<number | null>(() => {
+    try {
+      return localStorage.getItem("toured") ? null : 0;
+    } catch {
+      return null;
+    }
+  });
   const { set: setExplain } = useExplain();
 
   useEffect(() => {
-    try {
-      if (!localStorage.getItem("toured")) setStep(0);
-    } catch {}
     const start = () => setStep(0);
     window.addEventListener("atlas:tour", start);
     return () => window.removeEventListener("atlas:tour", start);

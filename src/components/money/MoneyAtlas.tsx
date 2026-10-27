@@ -1,7 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
-import { usePathname, useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import { List, Network } from "lucide-react";
 import { ExplainBox } from "@/components/explain";
@@ -41,11 +41,10 @@ function useSize() {
 
 export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
   const params = useSearchParams();
-  const router = useRouter();
-  const pathname = usePathname();
   const [data, setData] = useState<GraphData | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [view, setView] = useState<ViewState>(() => parseView(new URLSearchParams(params.toString())));
+  // Every view has its own URL: the query string *is* the view state.
+  const view = useMemo(() => parseView(new URLSearchParams(params.toString())), [params]);
   const [hover, setHover] = useState<{ link: GLink; x: number; y: number } | null>(null);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [mobileTab, setMobileTab] = useState<"list" | "graph">("list");
@@ -57,21 +56,11 @@ export function MoneyAtlas({ dcOwners }: { dcOwners: string[] }) {
     loadGraphData().then(setData, (e) => setError(String(e)));
   }, []);
 
-  // Every view has its own URL.
-  const set = useCallback(
-    (patch: Partial<ViewState>) => {
-      setView((v) => {
-        const next = { ...v, ...patch };
-        const qs = serializeView(next);
-        router.replace(`${pathname}${qs}`, { scroll: false });
-        return next;
-      });
-    },
-    [router, pathname],
-  );
-  useEffect(() => {
-    setView(parseView(new URLSearchParams(params.toString())));
-  }, [params]);
+  // replaceState is synced into useSearchParams by the Next.js router, without a server round trip.
+  const set = useCallback((patch: Partial<ViewState>) => {
+    const current = parseView(new URLSearchParams(window.location.search));
+    window.history.replaceState(null, "", `${window.location.pathname}${serializeView({ ...current, ...patch })}`);
+  }, []);
 
   const companies = useMemo(() => new Map((data?.companies ?? []).map((c) => [c.id, c])), [data]);
 

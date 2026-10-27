@@ -118,7 +118,9 @@ export function TimeSlider({ view, set, range }: { view: ViewState; set: Set; ra
   const toDate = (i: number) => (i >= months ? null : new Date(start + i * 30.44 * 864e5).toISOString().slice(0, 10));
   const [playing, setPlaying] = useState(false);
   const idx = useRef(toIdx(view.date));
-  idx.current = toIdx(view.date);
+  useEffect(() => {
+    idx.current = toIdx(view.date);
+  });
 
   useEffect(() => {
     if (!playing) return;

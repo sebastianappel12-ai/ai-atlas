@@ -1,23 +1,35 @@
 "use client";
 
-import { createContext, useContext, useEffect, useState, type ReactNode } from "react";
+import { createContext, useContext, useSyncExternalStore, type ReactNode } from "react";
 import { GLOSSARY, GLOSSARY_TERMS } from "@/lib/glossary";
 
 const ExplainCtx = createContext<{ on: boolean; set: (v: boolean) => void }>({ on: false, set: () => {} });
 
+/** Explain mode lives in localStorage so it survives page changes; this is a tiny store around it. */
+const listeners = new Set<() => void>();
+let memory = false; // fallback when storage is blocked
+function readExplain() {
+  try {
+    return localStorage.getItem("explain") === "1";
+  } catch {
+    return memory;
+  }
+}
+function writeExplain(v: boolean) {
+  memory = v;
+  try {
+    localStorage.setItem("explain", v ? "1" : "0");
+  } catch {}
+  listeners.forEach((l) => l());
+}
+function subscribe(l: () => void) {
+  listeners.add(l);
+  return () => listeners.delete(l);
+}
+
 export function ExplainProvider({ children }: { children: ReactNode }) {
-  const [on, setOn] = useState(false);
-  useEffect(() => {
-    try {
-      if (localStorage.getItem("explain") === "1") setOn(true);
-    } catch {}
-  }, []);
-  const set = (v: boolean) => {
-    setOn(v);
-    try {
-      localStorage.setItem("explain", v ? "1" : "0");
-    } catch {}
-  };
+  const on = useSyncExternalStore(subscribe, readExplain, () => false);
+  const set = writeExplain;
   return <ExplainCtx.Provider value={{ on, set }}>{children}</ExplainCtx.Provider>;
 }
 

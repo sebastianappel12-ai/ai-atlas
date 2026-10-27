@@ -36,19 +36,17 @@ export function SearchPalette({ companies, onPick }: { companies: GraphCompany[]
       const typing = e.target instanceof HTMLElement && /input|textarea|select/i.test(e.target.tagName);
       if ((e.key === "k" && (e.metaKey || e.ctrlKey)) || (e.key === "/" && !typing)) {
         e.preventDefault();
-        setOpen(true);
+        openPalette();
       } else if (e.key === "Escape") setOpen(false);
     };
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
   }, []);
-  useEffect(() => {
-    if (open) {
-      setQ("");
-      setI(0);
-      setTimeout(() => input.current?.focus(), 10);
-    }
-  }, [open]);
+  function openPalette() {
+    setQ("");
+    setI(0);
+    setOpen(true);
+  }
 
   const pick = (id: string) => {
     onPick(id);
@@ -58,7 +56,7 @@ export function SearchPalette({ companies, onPick }: { companies: GraphCompany[]
   return (
     <>
       <button
-        onClick={() => setOpen(true)}
+        onClick={openPalette}
         className="flex items-center gap-2 rounded-full border border-line px-3 py-1.5 text-xs text-muted transition hover:border-line-strong hover:text-fg"
         data-tour="search"
       >
@@ -72,6 +70,7 @@ export function SearchPalette({ companies, onPick }: { companies: GraphCompany[]
               <Search size={16} className="text-muted" />
               <input
                 ref={input}
+                autoFocus
                 value={q}
                 onChange={(e) => {
                   setQ(e.target.value);

@@ -6,7 +6,7 @@ import * as maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { Layers, X } from "lucide-react";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Line, LineChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import { ExplainBox, Term, WithTerms } from "@/components/explain";
@@ -60,7 +60,6 @@ function priceColor(c: number): [number, number, number, number] {
 
 export function EnergyMap() {
   const params = useSearchParams();
-  const router = useRouter();
   const mapEl = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
   const overlay = useRef<MapboxOverlay | null>(null);
@@ -77,7 +76,7 @@ export function EnergyMap() {
     setLayersState(next);
     const p = new URLSearchParams(window.location.search);
     p.set("layers", (Object.keys(next) as LayerKey[]).filter((k) => next[k]).join(","));
-    router.replace(`/energy?${p}`, { scroll: false });
+    window.history.replaceState(null, "", `/energy?${p}`);
   };
   const [fuels, setFuels] = useState<Set<string>>(new Set(Object.keys(FUEL_COLOR)));
   const [selected, setSelected] = useState<string | null>(params.get("dc"));
@@ -269,7 +268,7 @@ export function EnergyMap() {
     const p = new URLSearchParams(params.toString());
     if (id) p.set("dc", id);
     else p.delete("dc");
-    router.replace(`/energy${p.size ? `?${p}` : ""}`, { scroll: false });
+    window.history.replaceState(null, "", `/energy${p.size ? `?${p}` : ""}`);
   }
 
   const totals = useMemo(() => {
@@ -368,7 +367,7 @@ export function EnergyMap() {
         <div className="panel absolute left-1/2 top-3 z-20 flex -translate-x-1/2 items-center gap-2 rounded-full px-3 py-1.5 text-xs">
           Showing data centers of <b>{companies.get(owner)!.name}</b>
           <Link href={`/?c=${owner}`} className="underline">open in Money Graph</Link>
-          <button onClick={() => router.replace("/energy")} aria-label="Clear owner filter">
+          <button onClick={() => window.history.replaceState(null, "", "/energy")} aria-label="Clear owner filter">
             <X size={13} />
           </button>
         </div>

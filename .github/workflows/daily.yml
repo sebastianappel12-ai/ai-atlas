@@ -1,0 +1,75 @@
+name: Daily update agent
+
+# Every morning at ~6 a.m. Eastern: refresh grid colors, find new deals, publish the
+# provable ones and open a pull request for the rest.
+on:
+  schedule:
+    - cron: "30 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: data-update
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      HAS_ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_API_KEY != '' }}
+      SEC_CONTACT: ${{ vars.SEC_CONTACT || 'sebastianappel12@gmail.com' }}
+      EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Grid fuel mix (EIA-930)
+        run: npx tsx scripts/import-eia-grid.ts
+
+      - name: Run the agent
+        if: ${{ env.HAS_ANTHROPIC_KEY == 'true' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npx tsx scripts/daily-agent.ts
+
+      - name: Check data
+        run: npm run check-data -- --against origin/main
+
+      - name: Publish auto-approved deals and grid colors
+        run: |
+          git config user.name "ai-atlas-agent"
+          git config user.email "ai-atlas-agent@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily update $(date -u +%F)"
+            git push
+          fi
+
+      - name: Open a review PR for everything else
+        if: ${{ hashFiles('.queue/queue.json') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          branch="agent/review-$(date -u +%F)"
+          git checkout -b "$branch"
+          npx tsx scripts/apply-queue.ts
+          npm run check-data
+          git add data/
+          git commit -m "Deals for review $(date -u +%F)"
+          git push -u origin "$branch"
+          gh pr create --title "Deals for review $(date -u +%F)" --body-file .queue/PR_BODY.md --label review
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Daily agent failed $(date -u +%F)" --body "See ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" --label agent-failure || true
