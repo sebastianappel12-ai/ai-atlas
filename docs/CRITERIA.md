@@ -51,7 +51,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 ## Phase 6: Polish and launch
 | Criterion | Status | Evidence |
 | --- | --- | --- |
-| Pages load in under 2 s on a phone | ✅ | `scripts/perf.ts` against the live Vercel deployment (4× CPU slowdown, fast 4G): Money Graph 0.33 s, Nvidia panel 0.99 s, Energy Map 1.66 s, company page 0.22 s, Methodology 0.21 s. |
+| Pages load in under 2 s on a phone | ✅ | `scripts/perf.ts` against the live Vercel deployment (4× CPU slowdown, fast 4G): re-run 2026-10-27 after the landing page launch: landing `/` 0.26 s, Money Graph `/graph` 0.18 s, Nvidia panel 0.95 s, Energy Map 1.77 s, company page 0.32 s, Methodology 0.30 s. |
 | Methodology page and error button are live | ✅ | https://ai-atlas-pearl.vercel.app/methodology; "Report an error" on every deal → GitHub issue form. |
 | Launched in at least 3 places | 👤 | Drafts for Show HN, r/dataisbeautiful, r/stocks, X in `docs/LAUNCH.md` |
 | Custom domain | 👤 | Deferred by Sebastian on 2026-10-26 (available: aimoneyatlas.com $11.25/yr, aiatlas.money). Site uses ai-atlas-pearl.vercel.app. |
