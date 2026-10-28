@@ -366,7 +366,7 @@ export function EnergyMap() {
       {owner && companies.get(owner) && (
         <div className="panel absolute left-1/2 top-3 z-20 flex -translate-x-1/2 items-center gap-2 rounded-full px-3 py-1.5 text-xs">
           Showing data centers of <b>{companies.get(owner)!.name}</b>
-          <Link href={`/?c=${owner}`} className="underline">open in Money Graph</Link>
+          <Link href={`/graph?c=${owner}`} className="underline">open in Money Graph</Link>
           <button onClick={() => window.history.replaceState(null, "", "/energy")} aria-label="Clear owner filter">
             <X size={13} />
           </button>
@@ -462,7 +462,7 @@ function DataCenterCard({
         <div className="grid grid-cols-2 gap-2">
           <Stat label="Owner">
             {ownerC ? (
-              <Link href={`/?c=${dc.owner}`} className="underline-offset-2 hover:underline" style={{ color: SECTOR_INFO[ownerC.sector].color }}>
+              <Link href={`/graph?c=${dc.owner}`} className="underline-offset-2 hover:underline" style={{ color: SECTOR_INFO[ownerC.sector].color }}>
                 {ownerC.name} →
               </Link>
             ) : (
@@ -474,7 +474,7 @@ function DataCenterCard({
               ? dc.tenants.map((t, i) => (
                   <span key={t}>
                     {i > 0 && ", "}
-                    <Link href={`/?c=${t}`} className="hover:underline">{companies.get(t)?.name ?? t}</Link>
+                    <Link href={`/graph?c=${t}`} className="hover:underline">{companies.get(t)?.name ?? t}</Link>
                   </span>
                 ))
               : "n/a"}

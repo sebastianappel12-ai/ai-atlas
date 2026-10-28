@@ -46,7 +46,7 @@ Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay
 | Every data center from Phase 1 is on the map, with power and status | ✅ | All 76; circles sized by MW, colored by status; card shows MW now/planned |
 | Power plants filter by fuel | ✅ | 10 fuel chips in the Layers panel |
 | Grid colors update at least once a day | 🔧 | `import-eia-grid.ts` runs in the daily workflow (keyless EIA-930 bulk file, refreshed daily by EIA); needs the workflow to be running (it is scheduled; deploy needs Vercel) |
-| Clicking a data center's owner opens it in the Money Graph | ✅ | Owner/tenant links → `/?c=<id>`; Money Graph → "Data centers on the Energy Map" → `/energy?owner=<id>` |
+| Clicking a data center's owner opens it in the Money Graph | ✅ | Owner/tenant links → `/graph?c=<id>`; Money Graph → "Data centers on the Energy Map" → `/energy?owner=<id>` |
 
 ## Phase 6: Polish and launch
 | Criterion | Status | Evidence |

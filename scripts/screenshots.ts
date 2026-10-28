@@ -13,14 +13,16 @@ fs.mkdirSync("screenshots", { recursive: true });
 
 interface Shot { name: string; path: string; width?: number; height?: number; mobile?: boolean; before?: (p: Page) => Promise<void>; wait?: number }
 const SHOTS: Shot[] = [
-  { name: "graph", path: "/", wait: 2500, before: async (p) => p.evaluate(() => localStorage.setItem("toured", "1")) },
-  { name: "graph-nvidia", path: "/?c=nvidia", wait: 3000 },
-  { name: "graph-loops", path: "/?loops=1", wait: 2500 },
-  { name: "graph-2021", path: "/?t=2021-06-28", wait: 2500 },
-  { name: "tour", path: "/", wait: 2000, before: async (p) => p.evaluate(() => localStorage.removeItem("toured")) },
-  { name: "explain", path: "/?c=coreweave", wait: 3000, before: async (p) => p.evaluate(() => (localStorage.setItem("explain", "1"), localStorage.setItem("toured", "1"))) },
-  { name: "mobile-list", path: "/", mobile: true, wait: 1500 },
-  { name: "mobile-company", path: "/?c=openai", mobile: true, wait: 2000 },
+  { name: "landing", path: "/", wait: 2500 },
+  { name: "landing-mobile", path: "/", mobile: true, wait: 2500 },
+  { name: "graph", path: "/graph", wait: 2500, before: async (p) => p.evaluate(() => localStorage.setItem("toured", "1")) },
+  { name: "graph-nvidia", path: "/graph?c=nvidia", wait: 3000 },
+  { name: "graph-loops", path: "/graph?loops=1", wait: 2500 },
+  { name: "graph-2021", path: "/graph?t=2021-06-28", wait: 2500 },
+  { name: "tour", path: "/graph", wait: 2000, before: async (p) => p.evaluate(() => localStorage.removeItem("toured")) },
+  { name: "explain", path: "/graph?c=coreweave", wait: 3000, before: async (p) => p.evaluate(() => (localStorage.setItem("explain", "1"), localStorage.setItem("toured", "1"))) },
+  { name: "mobile-list", path: "/graph", mobile: true, wait: 1500 },
+  { name: "mobile-company", path: "/graph?c=openai", mobile: true, wait: 2000 },
   { name: "company-page", path: "/company/nvidia", wait: 1500 },
   { name: "energy", path: "/energy", wait: 5000 },
   { name: "energy-owner", path: "/energy?owner=meta", wait: 5000 },
@@ -48,7 +50,7 @@ for (const s of SHOTS.filter((x) => !only.length || only.includes(x.name))) {
   }
   const t0 = Date.now();
   const res = await page.goto(BASE + s.path, { waitUntil: "load" });
-  if (!s.mobile && (s.path === "/" || s.path.startsWith("/?"))) await page.waitForSelector("canvas", { timeout: 15000 }).catch(() => errors.push("no canvas"));
+  if (!s.mobile && s.path.startsWith("/graph")) await page.waitForSelector("canvas", { timeout: 15000 }).catch(() => errors.push("no canvas"));
   const loadMs = Date.now() - t0;
   await page.waitForTimeout(s.wait ?? 1000);
   await page.screenshot({ path: `screenshots/${s.name}.png` });

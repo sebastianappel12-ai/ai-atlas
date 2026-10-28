@@ -9,7 +9,7 @@ export function Reveal({ children, className }: { children: ReactNode; className
   return (
     <motion.section
       className={className}
-      initial={{ opacity: 0, y: reduce ? 0 : 16 }}
+      initial={{ opacity: 0, y: reduce ? 0 : 32 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: "-40px" }}
       transition={{ duration: 0.7, ease: [0.22, 1, 0.36, 1] }}

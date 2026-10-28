@@ -38,3 +38,16 @@ export function readChangelogs(): Changelog[] {
 export function companyById(id: string): GraphCompany | undefined {
   return readGraph().companies.find((c) => c.id === id);
 }
+
+export function plantCount(): number {
+  const f = path.join(root, "data/generated/powerplants.json");
+  return fs.existsSync(f) ? (JSON.parse(fs.readFileSync(f, "utf8")) as { plants: unknown[] }).plants.length : 0;
+}
+
+/** How many deals have a source whose exact quote the checker found on the live page. */
+export function sourceSummary(): { deals: number; verified: number; checked: string } | null {
+  const f = path.join(root, "data/generated/source-checks.json");
+  if (!fs.existsSync(f)) return null;
+  const d = JSON.parse(fs.readFileSync(f, "utf8")) as { checked: string; summary: { deals: number; verified: number } };
+  return { ...d.summary, checked: d.checked };
+}

@@ -7,8 +7,9 @@ import { chromium } from "@playwright/test";
 
 const BASE = process.env.BASE_URL ?? "http://localhost:3000";
 const PAGES: [string, string][] = [
-  ["/", "text=Companies"],
-  ["/?c=nvidia", "text=Who pays Nvidia the most"],
+  ["/", "h1"],
+  ["/graph", "text=Companies"],
+  ["/graph?c=nvidia", "text=Who pays Nvidia the most"],
   ["/energy", "canvas.maplibregl-canvas"],
   ["/company/nvidia", "h1"],
   ["/methodology", "h1"],

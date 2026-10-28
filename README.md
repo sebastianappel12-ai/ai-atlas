@@ -2,7 +2,7 @@
 
 A free public map of how money and power move through the AI industry.
 
-- **Money Graph** — every dot a company, every line a deal, particles flowing the way the money moves. Every deal has a source link, a date and the exact sentence that proves it.
+- **Landing page** (`/`) explains the project; the **Money Graph** (`/graph`): every dot a company, every line a deal, particles flowing the way the money moves. Every deal has a source link, a date and the exact sentence that proves it.
 - **Energy Map** — every big US AI data center, the power plants and grid regions that feed it, the power deals behind them, and electricity prices by state.
 - **Explain this** — one switch turns every number into plain English.
 

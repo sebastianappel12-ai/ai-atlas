@@ -20,7 +20,7 @@ export default function ChangesPage() {
   const companies = new Map(g.companies.map((c) => [c.id, c]));
   return (
     <>
-      <main id="main" className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 max-md:mt-9">
+      <main id="main" className="mx-auto w-full max-w-3xl flex-1 px-4 py-10">
         <h1 className="hero-heading text-4xl font-semibold">What changed</h1>
         <p className="mt-2 text-muted">
           Every morning an update agent reads new SEC filings, company press releases and news. Deals it can prove from an official source are published
@@ -41,7 +41,7 @@ export default function ChangesPage() {
                           {KIND_LABEL[e.kind]}
                         </span>
                         {d ? (
-                          <Link href={`/?c=${d.to}`} className="hover:underline">{d.title}</Link>
+                          <Link href={`/graph?c=${d.to}`} className="hover:underline">{d.title}</Link>
                         ) : (
                           <span>{e.summary}</span>
                         )}

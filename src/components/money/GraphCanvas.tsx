@@ -51,9 +51,14 @@ export default function GraphCanvas(p: Props) {
   const fg = useRef<ForceGraphMethods<GNode, GLink> | undefined>(undefined);
   const [hoverNode, setHoverNode] = useState<string | null>(null);
   const mouse = useRef({ x: 0, y: 0 });
+  /** Label boxes drawn this frame, so a label that would collide with another is skipped. */
+  const labelBoxes = useRef<[number, number, number, number][]>([]);
 
   const data = useMemo(() => {
-    const nodes: GNode[] = p.companies.map((c) => ({ ...c, id: c.id, fx: c.x, fy: c.y, x: c.x, y: c.y }));
+    const nodes: GNode[] = p.companies
+      .map((c) => ({ ...c, id: c.id, fx: c.x, fy: c.y, x: c.x, y: c.y }))
+      // Most important first (by revenue and deal volume), so their labels win any collision.
+      .sort((a, b) => a.rank - b.rank);
     const byPair = new Map<string, GLink>();
     for (const d of p.deals) {
       const key = `${d.from}>${d.to}`;
@@ -133,6 +138,9 @@ export default function GraphCanvas(p: Props) {
         linkDirectionalParticleWidth={(l) => Math.max(1.6, lineWidth(l.amount || null) * 0.9)}
         linkDirectionalParticleSpeed={() => 0.0045}
         linkDirectionalParticleColor={(l) => sectorColor(l.from)}
+        onRenderFramePre={() => {
+          labelBoxes.current = [];
+        }}
         onNodeClick={(n) => p.onSelect(n.id as string)}
         onBackgroundClick={() => p.onSelect(null)}
         onNodeHover={(n) => {
@@ -191,7 +199,16 @@ export default function GraphCanvas(p: Props) {
             ctx.fillStyle = isSel ? "#ffffff" : "rgba(230,233,239,0.85)";
             ctx.shadowColor = "rgba(0,0,0,0.9)";
             ctx.shadowBlur = 4;
-            ctx.fillText(n.name.replace(/ \(.+\)$/, ""), n.x!, n.y! + n.r + 2 / scale);
+            const label = n.name.replace(/ \(.+\)$/, "");
+            const w = ctx.measureText(label).width;
+            const top = n.y! + n.r + 2 / scale;
+            const pad = 3 / scale;
+            const box: [number, number, number, number] = [n.x! - w / 2 - pad, top - pad, n.x! + w / 2 + pad, top + fs + pad];
+            const hit = labelBoxes.current.some((b) => box[0] < b[2] && box[2] > b[0] && box[1] < b[3] && box[3] > b[1]);
+            if (!hit || isSel || isHover) {
+              labelBoxes.current.push(box);
+              ctx.fillText(label, n.x!, top);
+            }
           }
           ctx.restore();
         }}

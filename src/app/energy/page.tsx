@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 
 export default function EnergyPage() {
   return (
-    <main id="main" className="relative flex h-[calc(100dvh-4rem)] flex-col overflow-hidden bg-bg max-md:mt-9 max-md:h-[calc(100dvh-6.25rem)]">
+    <main id="main" className="relative flex h-[calc(100dvh-4rem)] flex-col overflow-hidden bg-bg">
       <h1 className="sr-only">AI Atlas Energy Map</h1>
       <Suspense fallback={null}>
         <EnergyMapClient />

@@ -42,7 +42,7 @@ for (const d of deals) {
 const anchor = new Map(
   SECTOR_ORDER.map((s, i) => {
     const a = (i / SECTOR_ORDER.length) * Math.PI * 2 - Math.PI / 2;
-    return [s, { x: Math.cos(a) * 520, y: Math.sin(a) * 520 }];
+    return [s, { x: Math.cos(a) * 720, y: Math.sin(a) * 720 }];
   }),
 );
 
@@ -61,13 +61,13 @@ const nodes: N[] = companies.map((c, i) => {
 const links = deals.map((d) => ({ source: d.from, target: d.to }));
 
 const sim = forceSimulation(nodes)
-  .force("link", forceLink<N, { source: string; target: string }>(links).id((n) => n.id).distance(140).strength(0.03))
-  .force("charge", forceManyBody<N>().strength((n) => -60 - n.r * 12))
+  .force("link", forceLink<N, { source: string; target: string }>(links).id((n) => n.id).distance(200).strength(0.012))
+  .force("charge", forceManyBody<N>().strength((n) => -110 - n.r * 18))
   .force("x", forceX<N>((n) => anchor.get(n.sector)!.x).strength(0.16))
   .force("y", forceY<N>((n) => anchor.get(n.sector)!.y).strength(0.16))
-  .force("collide", forceCollide<N>((n) => n.r + 6))
+  .force("collide", forceCollide<N>((n) => n.r + 26).iterations(4))
   .stop();
-for (let i = 0; i < 600; i++) sim.tick();
+for (let i = 0; i < 900; i++) sim.tick();
 
 const pos = new Map(nodes.map((n) => [n.id, n]));
 const rankScore = (c: Company) => (c.sector === "investor" ? 0 : sizeValue(c).value) + (dealVolume.get(c.id) ?? 0) * 0.5;

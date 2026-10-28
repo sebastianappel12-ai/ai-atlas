@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function PrivacyPage() {
   return (
     <>
-      <main id="main" className="mx-auto w-full max-w-2xl flex-1 px-4 py-12 leading-relaxed max-md:mt-9 [&_h2]:mt-10 [&_h2]:text-xl [&_h2]:font-semibold [&_p]:mt-3 [&_p]:text-fg/85">
+      <main id="main" className="mx-auto w-full max-w-2xl flex-1 px-4 py-12 leading-relaxed [&_h2]:mt-10 [&_h2]:text-xl [&_h2]:font-semibold [&_p]:mt-3 [&_p]:text-fg/85">
         <h1 className="hero-heading text-4xl font-semibold">Privacy and terms</h1>
         <p>Last updated October 26, 2026.</p>
 

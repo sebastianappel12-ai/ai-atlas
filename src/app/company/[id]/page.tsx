@@ -67,10 +67,10 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
 
   return (
     <>
-      <main id="main" className="mx-auto w-full max-w-4xl flex-1 px-4 py-10 max-md:mt-9">
+      <main id="main" className="mx-auto w-full max-w-4xl flex-1 px-4 py-10">
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }} />
         <nav className="text-xs text-muted">
-          <Link href="/" className="hover:text-fg">Money Graph</Link> / <span>{info.label}</span>
+          <Link href="/graph" className="hover:text-fg">Money Graph</Link> / <span>{info.label}</span>
         </nav>
         <div className="mt-3 flex items-center gap-3">
           <span className="h-4 w-4 rounded-full" style={{ background: info.color, boxShadow: `0 0 14px ${info.color}` }} />
@@ -89,7 +89,7 @@ export default async function CompanyPage({ params }: PageProps<"/company/[id]">
           </ExplainBox>
         </div>
         <div className="mt-5 flex flex-wrap gap-2 text-sm">
-          <Link href={`/?c=${id}`} className="rounded-full bg-white px-4 py-1.5 font-medium text-black">See {c.name} in the Money Graph</Link>
+          <Link href={`/graph?c=${id}`} className="rounded-full bg-white px-4 py-1.5 font-medium text-black">See {c.name} in the Money Graph</Link>
           {hasDc && (
             <Link href={`/energy?owner=${id}`} className="rounded-full border border-line px-4 py-1.5 text-muted hover:text-fg">Data centers on the Energy Map</Link>
           )}

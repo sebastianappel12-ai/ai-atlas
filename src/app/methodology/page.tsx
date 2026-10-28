@@ -15,7 +15,7 @@ export default function MethodologyPage() {
   const official = g.deals.filter((d) => d.sources.some((s) => s.kind === "sec_filing" || s.kind === "press_release")).length;
   return (
     <>
-      <main id="main" className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 leading-relaxed max-md:mt-9 [&_h2]:mt-10 [&_h2]:text-xl [&_h2]:font-semibold [&_li]:mt-1 [&_p]:mt-3 [&_p]:text-fg/85 [&_ul]:mt-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:text-fg/85">
+      <main id="main" className="mx-auto w-full max-w-3xl flex-1 px-4 py-10 leading-relaxed [&_h2]:mt-10 [&_h2]:text-xl [&_h2]:font-semibold [&_li]:mt-1 [&_p]:mt-3 [&_p]:text-fg/85 [&_ul]:mt-3 [&_ul]:list-disc [&_ul]:pl-5 [&_ul]:text-fg/85">
         <h1 className="hero-heading text-4xl font-semibold">Methodology</h1>
         <p>
           AI Atlas maps how money and power move through the AI industry. It tracks{" "}
