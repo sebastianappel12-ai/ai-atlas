@@ -1,6 +1,6 @@
 # "Done when" criteria — status
 
-Status as of 2026-10-26. ✅ = met and verified · 🔧 = built, needs your one-time setup · 👤 = needs a human check · ⏳ = needs time to pass.
+Status as of 2026-10-27 (open items left pending by Sebastian on 2026-10-27). ✅ = met and verified · 🔧 = built, needs your one-time setup · 👤 = needs a human check · ⏳ = needs time to pass.
 Measurable criteria are also enforced by `tests/real-data.test.ts`, so they stay true as data grows.
 
 ## Phase 0: Foundations
