@@ -1,141 +1,141 @@
 {
   "source": "U.S. Energy Information Administration, Hourly Electric Grid Monitor (EIA-930), public domain",
   "via": "EIA-930 six-month bulk file",
-  "updated": "2026-10-29T17:02:31.581Z",
+  "updated": "2026-10-30T16:47:17.307Z",
   "window": "last 24 hours of reported data",
   "regions": {
     "AECI": {
       "mix": {
-        "coal": 0.472,
-        "gas": 0.382,
+        "coal": 0.446,
+        "gas": 0.448,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
         "solar": 0,
-        "wind": 0.146,
+        "wind": 0.107,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
-      "dominant": "coal",
-      "clean": 0.146,
-      "demand_mw": 1676,
+      "dominant": "gas",
+      "clean": 0.107,
+      "demand_mw": 1726,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "AVA": {
       "mix": {
         "coal": 0,
-        "gas": 0.389,
+        "gas": 0.433,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.349,
+        "hydro": 0.483,
         "solar": 0.003,
-        "wind": 0.209,
+        "wind": 0.043,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.05
+        "other": 0.039
       },
-      "dominant": "gas",
-      "clean": 0.561,
-      "demand_mw": 1286,
+      "dominant": "hydro",
+      "clean": 0.529,
+      "demand_mw": 1264,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "AVRN": {
       "mix": {
         "coal": 0,
-        "gas": 0.403,
+        "gas": 0.743,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
         "solar": 0,
-        "wind": 0.597,
+        "wind": 0.257,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
-      "dominant": "wind",
-      "clean": 0.597,
+      "dominant": "gas",
+      "clean": 0.257,
       "demand_mw": null,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "AZPS": {
       "mix": {
-        "coal": 0.145,
-        "gas": 0.342,
+        "coal": 0.221,
+        "gas": 0.455,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.217,
-        "wind": 0.124,
-        "battery": 0.163,
+        "solar": 0.121,
+        "wind": 0.119,
+        "battery": 0.075,
         "geothermal": 0,
         "other": 0.008
       },
       "dominant": "gas",
-      "clean": 0.341,
-      "demand_mw": 4115,
+      "clean": 0.24,
+      "demand_mw": 4265,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "BANC": {
       "mix": {
         "coal": 0,
-        "gas": 0.685,
+        "gas": 0.748,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.237,
-        "solar": 0.069,
+        "hydro": 0.214,
+        "solar": 0.031,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.008
+        "other": 0.007
       },
       "dominant": "gas",
-      "clean": 0.306,
-      "demand_mw": 1598,
+      "clean": 0.245,
+      "demand_mw": 1579,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "BHBA": {
       "mix": {
-        "coal": 0.778,
-        "gas": 0.096,
+        "coal": 0.781,
+        "gas": 0.144,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0.002,
-        "solar": 0.054,
-        "wind": 0.07,
+        "solar": 0.044,
+        "wind": 0.029,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "coal",
-      "clean": 0.126,
-      "demand_mw": 884,
+      "clean": 0.075,
+      "demand_mw": 876,
       "hours": 24,
-      "through": "2026-10-29T06:00:00.000Z"
+      "through": "2026-10-30T06:00:00.000Z"
     },
     "BPAT": {
       "mix": {
         "coal": 0,
-        "gas": 0.112,
-        "nuclear": 0.136,
+        "gas": 0.139,
+        "nuclear": 0.151,
         "oil": 0,
-        "hydro": 0.582,
-        "solar": 0.01,
-        "wind": 0.146,
+        "hydro": 0.662,
+        "solar": 0.012,
+        "wind": 0.02,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.014
+        "other": 0.017
       },
       "dominant": "hydro",
-      "clean": 0.874,
-      "demand_mw": 6773,
+      "clean": 0.845,
+      "demand_mw": 6801,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "CHPD": {
       "mix": {
@@ -143,75 +143,75 @@
         "gas": 0,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.992,
+        "hydro": 0.998,
         "solar": 0,
-        "wind": 0.008,
+        "wind": 0.002,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "hydro",
       "clean": 1,
-      "demand_mw": 214,
+      "demand_mw": 213,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "CISO": {
       "mix": {
         "coal": 0,
-        "gas": 0.4,
-        "nuclear": 0.051,
+        "gas": 0.547,
+        "nuclear": 0.047,
         "oil": 0.002,
-        "hydro": 0.06,
-        "solar": 0.264,
-        "wind": 0.086,
+        "hydro": 0.065,
+        "solar": 0.193,
+        "wind": 0.055,
         "battery": 0,
-        "geothermal": 0.034,
-        "other": 0.103
+        "geothermal": 0.031,
+        "other": 0.06
       },
       "dominant": "gas",
-      "clean": 0.495,
-      "demand_mw": 22949,
+      "clean": 0.391,
+      "demand_mw": 23671,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "CPLE": {
       "mix": {
-        "coal": 0.1,
-        "gas": 0.217,
-        "nuclear": 0.521,
+        "coal": 0.087,
+        "gas": 0.212,
+        "nuclear": 0.498,
         "oil": 0,
         "hydro": 0.001,
-        "solar": 0.09,
+        "solar": 0.113,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.071
+        "other": 0.089
       },
       "dominant": "nuclear",
       "clean": 0.612,
       "demand_mw": 5386,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "CPLW": {
       "mix": {
         "coal": 0,
-        "gas": 0.649,
+        "gas": 0.645,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.021,
+        "hydro": 0.025,
         "solar": 0.002,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.328
+        "other": 0.329
       },
       "dominant": "gas",
-      "clean": 0.023,
-      "demand_mw": 435,
+      "clean": 0.027,
+      "demand_mw": 429,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "DEAA": {
       "mix": {
@@ -230,7 +230,7 @@
       "clean": 0,
       "demand_mw": null,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "DOPD": {
       "mix": {
@@ -247,123 +247,123 @@
       },
       "dominant": "hydro",
       "clean": 1,
-      "demand_mw": 265,
+      "demand_mw": 263,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "DUK": {
       "mix": {
-        "coal": 0.018,
-        "gas": 0.827,
-        "nuclear": 0.141,
+        "coal": 0.081,
+        "gas": 0.291,
+        "nuclear": 0.578,
         "oil": 0,
-        "hydro": 0.01,
-        "solar": 0.004,
+        "hydro": 0.03,
+        "solar": 0.018,
         "wind": 0,
-        "battery": 0,
+        "battery": 0.001,
         "geothermal": 0,
         "other": 0
       },
-      "dominant": "gas",
-      "clean": 0.155,
-      "demand_mw": 0,
+      "dominant": "nuclear",
+      "clean": 0.626,
+      "demand_mw": 9853,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "EPE": {
       "mix": {
         "coal": 0,
-        "gas": 0.736,
+        "gas": 0.86,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.264,
+        "solar": 0.14,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "gas",
-      "clean": 0.264,
-      "demand_mw": 830,
+      "clean": 0.14,
+      "demand_mw": 801,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "ERCO": {
       "mix": {
-        "coal": 0.112,
-        "gas": 0.407,
-        "nuclear": 0.069,
+        "coal": 0.141,
+        "gas": 0.492,
+        "nuclear": 0.07,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.129,
-        "wind": 0.261,
-        "battery": 0.023,
+        "solar": 0.077,
+        "wind": 0.207,
+        "battery": 0.012,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "gas",
-      "clean": 0.459,
-      "demand_mw": 52992,
+      "clean": 0.354,
+      "demand_mw": 50825,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "FMPP": {
       "mix": {
-        "coal": 0,
-        "gas": 0.909,
-        "nuclear": 0.066,
+        "coal": 0.146,
+        "gas": 0.744,
+        "nuclear": 0.062,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.017,
+        "solar": 0.04,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.007
+        "other": 0.008
       },
       "dominant": "gas",
-      "clean": 0.083,
-      "demand_mw": 1958,
+      "clean": 0.102,
+      "demand_mw": 2038,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "FPC": {
       "mix": {
-        "coal": 0.092,
-        "gas": 0.79,
+        "coal": 0.112,
+        "gas": 0.805,
         "nuclear": 0,
-        "oil": 0.003,
+        "oil": 0,
         "hydro": 0.003,
-        "solar": 0.104,
+        "solar": 0.072,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.007
+        "other": 0.008
       },
       "dominant": "gas",
-      "clean": 0.107,
-      "demand_mw": 5835,
+      "clean": 0.075,
+      "demand_mw": 6112,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "FPL": {
       "mix": {
         "coal": 0,
-        "gas": 0.679,
-        "nuclear": 0.22,
+        "gas": 0.683,
+        "nuclear": 0.212,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.092,
+        "solar": 0.094,
         "wind": 0,
-        "battery": 0,
+        "battery": 0.001,
         "geothermal": 0,
-        "other": 0.009
+        "other": 0.011
       },
       "dominant": "gas",
-      "clean": 0.312,
-      "demand_mw": 15361,
+      "clean": 0.306,
+      "demand_mw": 16095,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "GCPD": {
       "mix": {
@@ -380,28 +380,28 @@
       },
       "dominant": "hydro",
       "clean": 1,
-      "demand_mw": 687,
+      "demand_mw": 688,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "GRID": {
       "mix": {
         "coal": 0,
-        "gas": 0.784,
+        "gas": 0.875,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.021,
-        "wind": 0.195,
+        "solar": 0.015,
+        "wind": 0.11,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "gas",
-      "clean": 0.216,
+      "clean": 0.125,
       "demand_mw": null,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "GVL": {
       "mix": {
@@ -422,124 +422,105 @@
       "hours": 24,
       "through": "2026-10-27T17:00:00.000Z"
     },
-    "GWA": {
-      "mix": {
-        "coal": 0,
-        "gas": 0,
-        "nuclear": 0,
-        "oil": 0,
-        "hydro": 0,
-        "solar": 0,
-        "wind": 1,
-        "battery": 0,
-        "geothermal": 0,
-        "other": 0
-      },
-      "dominant": "wind",
-      "clean": 1,
-      "demand_mw": null,
-      "hours": 24,
-      "through": "2026-10-29T06:00:00.000Z"
-    },
     "IID": {
       "mix": {
         "coal": 0,
-        "gas": 0.14,
+        "gas": 0.148,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.024,
-        "solar": 0.25,
+        "hydro": 0.025,
+        "solar": 0.238,
         "wind": 0,
-        "battery": 0.041,
-        "geothermal": 0.546,
+        "battery": 0.006,
+        "geothermal": 0.582,
         "other": 0
       },
       "dominant": "geothermal",
-      "clean": 0.82,
-      "demand_mw": 303,
+      "clean": 0.845,
+      "demand_mw": 333,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "IPCO": {
       "mix": {
         "coal": 0,
-        "gas": 0.298,
+        "gas": 0.305,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.413,
-        "solar": 0.182,
-        "wind": 0.038,
-        "battery": 0.03,
-        "geothermal": 0.023,
-        "other": 0.016
+        "hydro": 0.367,
+        "solar": 0.127,
+        "wind": 0.125,
+        "battery": 0.04,
+        "geothermal": 0.021,
+        "other": 0.017
       },
       "dominant": "hydro",
-      "clean": 0.656,
-      "demand_mw": 1664,
+      "clean": 0.64,
+      "demand_mw": 1618,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "ISNE": {
       "mix": {
         "coal": 0,
-        "gas": 0.657,
-        "nuclear": 0.204,
-        "oil": 0,
-        "hydro": 0.054,
-        "solar": 0.018,
-        "wind": 0.022,
-        "battery": 0.003,
+        "gas": 0.557,
+        "nuclear": 0.214,
+        "oil": 0.002,
+        "hydro": 0.05,
+        "solar": 0.026,
+        "wind": 0.1,
+        "battery": 0.005,
         "geothermal": 0,
-        "other": 0.042
+        "other": 0.045
       },
       "dominant": "gas",
-      "clean": 0.298,
-      "demand_mw": 11566,
+      "clean": 0.39,
+      "demand_mw": 10981,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "JEA": {
       "mix": {
-        "coal": 0.228,
-        "gas": 0.752,
+        "coal": 0.214,
+        "gas": 0.773,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.02,
+        "solar": 0.012,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "gas",
-      "clean": 0.02,
-      "demand_mw": 1289,
+      "clean": 0.012,
+      "demand_mw": 1271,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "LDWP": {
       "mix": {
         "coal": 0,
-        "gas": 0.524,
+        "gas": 0.597,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.055,
-        "solar": 0.229,
-        "wind": 0.085,
+        "hydro": 0.064,
+        "solar": 0.187,
+        "wind": 0.048,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.106
+        "other": 0.104
       },
       "dominant": "gas",
-      "clean": 0.369,
-      "demand_mw": 2622,
+      "clean": 0.299,
+      "demand_mw": 2745,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "LGEE": {
       "mix": {
-        "coal": 0.897,
-        "gas": 0.095,
+        "coal": 0.896,
+        "gas": 0.096,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0,
@@ -551,256 +532,256 @@
       },
       "dominant": "coal",
       "clean": 0.008,
-      "demand_mw": 3360,
+      "demand_mw": 3238,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "MISO": {
       "mix": {
-        "coal": 0.221,
-        "gas": 0.388,
-        "nuclear": 0.116,
+        "coal": 0.243,
+        "gas": 0.416,
+        "nuclear": 0.119,
         "oil": 0,
         "hydro": 0.007,
-        "solar": 0.071,
-        "wind": 0.189,
+        "solar": 0.07,
+        "wind": 0.135,
         "battery": 0.001,
         "geothermal": 0,
         "other": 0.008
       },
       "dominant": "gas",
-      "clean": 0.383,
-      "demand_mw": 65373,
+      "clean": 0.331,
+      "demand_mw": 65953,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "NEVP": {
       "mix": {
-        "coal": 0.041,
-        "gas": 0.552,
+        "coal": 0.043,
+        "gas": 0.65,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0.003,
-        "solar": 0.261,
-        "wind": 0.008,
-        "battery": 0.024,
+        "solar": 0.17,
+        "wind": 0.007,
+        "battery": 0.031,
         "geothermal": 0,
-        "other": 0.112
+        "other": 0.095
       },
       "dominant": "gas",
-      "clean": 0.272,
-      "demand_mw": 4013,
+      "clean": 0.18,
+      "demand_mw": 4041,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "NWMT": {
       "mix": {
-        "coal": 0.371,
-        "gas": 0.079,
+        "coal": 0.455,
+        "gas": 0.154,
         "nuclear": 0,
-        "oil": 0.031,
-        "hydro": 0.184,
-        "solar": 0.019,
-        "wind": 0.317,
+        "oil": 0.036,
+        "hydro": 0.212,
+        "solar": 0.02,
+        "wind": 0.123,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "coal",
-      "clean": 0.52,
-      "demand_mw": 1204,
+      "clean": 0.355,
+      "demand_mw": 1226,
       "hours": 24,
-      "through": "2026-10-29T06:00:00.000Z"
+      "through": "2026-10-30T06:00:00.000Z"
     },
     "NYIS": {
       "mix": {
         "coal": 0,
-        "gas": 0.507,
-        "nuclear": 0.244,
+        "gas": 0.428,
+        "nuclear": 0.252,
         "oil": 0,
-        "hydro": 0.193,
+        "hydro": 0.194,
         "solar": 0,
-        "wind": 0.033,
-        "battery": 0,
-        "geothermal": 0,
-        "other": 0.023
-      },
-      "dominant": "gas",
-      "clean": 0.47,
-      "demand_mw": 14485,
-      "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
-    },
-    "PACE": {
-      "mix": {
-        "coal": 0.454,
-        "gas": 0.135,
-        "nuclear": 0,
-        "oil": 0,
-        "hydro": 0.006,
-        "solar": 0.137,
-        "wind": 0.249,
-        "battery": 0,
-        "geothermal": 0,
-        "other": 0.018
-      },
-      "dominant": "coal",
-      "clean": 0.392,
-      "demand_mw": 4887,
-      "hours": 24,
-      "through": "2026-10-29T06:00:00.000Z"
-    },
-    "PACW": {
-      "mix": {
-        "coal": 0,
-        "gas": 0.371,
-        "nuclear": 0,
-        "oil": 0,
-        "hydro": 0.132,
-        "solar": 0.056,
-        "wind": 0.41,
+        "wind": 0.096,
         "battery": 0,
         "geothermal": 0,
         "other": 0.03
       },
-      "dominant": "wind",
-      "clean": 0.598,
-      "demand_mw": 2209,
+      "dominant": "gas",
+      "clean": 0.542,
+      "demand_mw": 14443,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
+    },
+    "PACE": {
+      "mix": {
+        "coal": 0.58,
+        "gas": 0.175,
+        "nuclear": 0,
+        "oil": 0,
+        "hydro": 0.006,
+        "solar": 0.099,
+        "wind": 0.12,
+        "battery": 0,
+        "geothermal": 0,
+        "other": 0.02
+      },
+      "dominant": "coal",
+      "clean": 0.225,
+      "demand_mw": 4958,
+      "hours": 24,
+      "through": "2026-10-30T06:00:00.000Z"
+    },
+    "PACW": {
+      "mix": {
+        "coal": 0,
+        "gas": 0.605,
+        "nuclear": 0,
+        "oil": 0,
+        "hydro": 0.206,
+        "solar": 0.082,
+        "wind": 0.057,
+        "battery": 0,
+        "geothermal": 0,
+        "other": 0.05
+      },
+      "dominant": "gas",
+      "clean": 0.345,
+      "demand_mw": 2191,
+      "hours": 24,
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "PGE": {
       "mix": {
         "coal": 0,
-        "gas": 0.887,
+        "gas": 0.898,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.079,
+        "hydro": 0.071,
         "solar": 0,
         "wind": 0,
-        "battery": 0.034,
+        "battery": 0.03,
         "geothermal": 0,
-        "other": 0.001
+        "other": 0
       },
       "dominant": "gas",
-      "clean": 0.079,
-      "demand_mw": 2496,
+      "clean": 0.071,
+      "demand_mw": 2497,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "PJM": {
       "mix": {
-        "coal": 0.128,
-        "gas": 0.412,
-        "nuclear": 0.333,
-        "oil": 0.005,
-        "hydro": 0.015,
-        "solar": 0.037,
-        "wind": 0.034,
+        "coal": 0.123,
+        "gas": 0.397,
+        "nuclear": 0.326,
+        "oil": 0.004,
+        "hydro": 0.017,
+        "solar": 0.04,
+        "wind": 0.052,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.036
+        "other": 0.042
       },
       "dominant": "gas",
-      "clean": 0.419,
-      "demand_mw": 82592,
+      "clean": 0.435,
+      "demand_mw": 81892,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "PNM": {
       "mix": {
-        "coal": 0.168,
-        "gas": 0.136,
+        "coal": 0.214,
+        "gas": 0.179,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.006,
-        "solar": 0.345,
-        "wind": 0.222,
-        "battery": 0.117,
-        "geothermal": 0.005,
+        "hydro": 0.008,
+        "solar": 0.335,
+        "wind": 0.149,
+        "battery": 0.108,
+        "geothermal": 0.007,
         "other": 0
       },
       "dominant": "solar",
-      "clean": 0.578,
-      "demand_mw": 1439,
+      "clean": 0.499,
+      "demand_mw": 1440,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "PSCO": {
       "mix": {
-        "coal": 0.372,
-        "gas": 0.162,
+        "coal": 0.383,
+        "gas": 0.204,
         "nuclear": 0,
         "oil": 0,
         "hydro": 0.004,
-        "solar": 0.071,
-        "wind": 0.37,
-        "battery": 0.021,
+        "solar": 0.109,
+        "wind": 0.259,
+        "battery": 0.04,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "coal",
-      "clean": 0.445,
-      "demand_mw": 4217,
+      "clean": 0.372,
+      "demand_mw": 3963,
       "hours": 24,
-      "through": "2026-10-29T06:00:00.000Z"
+      "through": "2026-10-30T06:00:00.000Z"
     },
     "PSEI": {
       "mix": {
         "coal": 0,
-        "gas": 0.529,
+        "gas": 0.82,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.047,
+        "hydro": 0.044,
         "solar": 0.002,
-        "wind": 0.4,
+        "wind": 0.131,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.022
+        "other": 0.004
       },
       "dominant": "gas",
-      "clean": 0.449,
-      "demand_mw": 2545,
+      "clean": 0.177,
+      "demand_mw": 2622,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "SC": {
       "mix": {
-        "coal": 0.536,
-        "gas": 0.339,
+        "coal": 0.518,
+        "gas": 0.361,
         "nuclear": 0,
-        "oil": 0.002,
+        "oil": 0,
         "hydro": 0.013,
-        "solar": 0.072,
+        "solar": 0.073,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.038
+        "other": 0.036
       },
       "dominant": "coal",
-      "clean": 0.085,
-      "demand_mw": 2747,
+      "clean": 0.086,
+      "demand_mw": 2588,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "SCEG": {
       "mix": {
-        "coal": 0.179,
-        "gas": 0.358,
-        "nuclear": 0.343,
+        "coal": 0.166,
+        "gas": 0.359,
+        "nuclear": 0.354,
         "oil": 0,
-        "hydro": 0.027,
-        "solar": 0.094,
+        "hydro": 0.028,
+        "solar": 0.092,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "gas",
-      "clean": 0.464,
-      "demand_mw": 2216,
+      "clean": 0.474,
+      "demand_mw": 2222,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "SCL": {
       "mix": {
@@ -817,9 +798,9 @@
       },
       "dominant": "hydro",
       "clean": 1,
-      "demand_mw": 1036,
+      "demand_mw": 999,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "SEC": {
       "mix": {
@@ -836,9 +817,9 @@
       },
       "dominant": "gas",
       "clean": 0,
-      "demand_mw": 240,
+      "demand_mw": 244,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     },
     "SEPA": {
       "mix": {
@@ -857,7 +838,7 @@
       "clean": 1,
       "demand_mw": null,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "SIKE": {
       "mix": {
@@ -876,26 +857,26 @@
       "clean": 0,
       "demand_mw": null,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "SOCO": {
       "mix": {
-        "coal": 0.234,
-        "gas": 0.404,
-        "nuclear": 0.302,
+        "coal": 0.236,
+        "gas": 0.417,
+        "nuclear": 0.292,
         "oil": 0,
-        "hydro": 0.02,
-        "solar": 0.035,
+        "hydro": 0.018,
+        "solar": 0.03,
         "wind": 0,
-        "battery": 0.002,
+        "battery": 0.004,
         "geothermal": 0,
         "other": 0.002
       },
       "dominant": "gas",
-      "clean": 0.357,
-      "demand_mw": 20796,
+      "clean": 0.34,
+      "demand_mw": 20727,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "SPA": {
       "mix": {
@@ -912,132 +893,75 @@
       },
       "dominant": "hydro",
       "clean": 1,
-      "demand_mw": 12,
+      "demand_mw": 16,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "SRP": {
       "mix": {
-        "coal": 0.094,
-        "gas": 0.4,
-        "nuclear": 0.412,
+        "coal": 0.117,
+        "gas": 0.419,
+        "nuclear": 0.398,
         "oil": 0,
         "hydro": 0,
-        "solar": 0.065,
-        "wind": 0.009,
-        "battery": 0.02,
+        "solar": 0.043,
+        "wind": 0.005,
+        "battery": 0.018,
         "geothermal": 0,
         "other": 0
       },
-      "dominant": "nuclear",
-      "clean": 0.486,
-      "demand_mw": 3071,
+      "dominant": "gas",
+      "clean": 0.446,
+      "demand_mw": 1962,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "SWPP": {
       "mix": {
-        "coal": 0.121,
-        "gas": 0.228,
-        "nuclear": 0.037,
+        "coal": 0.21,
+        "gas": 0.348,
+        "nuclear": 0.038,
         "oil": 0,
-        "hydro": 0.021,
-        "solar": 0.025,
-        "wind": 0.566,
-        "battery": 0.001,
+        "hydro": 0.022,
+        "solar": 0.02,
+        "wind": 0.357,
+        "battery": 0.002,
         "geothermal": 0,
-        "other": 0.002
+        "other": 0.003
       },
       "dominant": "wind",
-      "clean": 0.649,
-      "demand_mw": 30213,
+      "clean": 0.437,
+      "demand_mw": 30477,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "SWPW": {
       "mix": {
-        "coal": 0.375,
-        "gas": 0.23,
+        "coal": 0.374,
+        "gas": 0.275,
         "nuclear": 0,
-        "oil": 0.003,
-        "hydro": 0.175,
-        "solar": 0.081,
-        "wind": 0.115,
-        "battery": 0.011,
+        "oil": 0.005,
+        "hydro": 0.143,
+        "solar": 0.087,
+        "wind": 0.096,
+        "battery": 0.01,
         "geothermal": 0,
         "other": 0.01
       },
       "dominant": "coal",
-      "clean": 0.371,
-      "demand_mw": 2601,
+      "clean": 0.326,
+      "demand_mw": 2592,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "TAL": {
-      "mix": {
-        "coal": 0,
-        "gas": 0.947,
-        "nuclear": 0,
-        "oil": 0,
-        "hydro": 0,
-        "solar": 0.053,
-        "wind": 0,
-        "battery": 0,
-        "geothermal": 0,
-        "other": 0
-      },
-      "dominant": "gas",
-      "clean": 0.053,
-      "demand_mw": 293,
-      "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
-    },
-    "TEC": {
-      "mix": {
-        "coal": 0,
-        "gas": 0.901,
-        "nuclear": 0,
-        "oil": 0,
-        "hydro": 0,
-        "solar": 0.081,
-        "wind": 0,
-        "battery": 0,
-        "geothermal": 0,
-        "other": 0.018
-      },
-      "dominant": "gas",
-      "clean": 0.081,
-      "demand_mw": 2249,
-      "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
-    },
-    "TEPC": {
-      "mix": {
-        "coal": 0.237,
-        "gas": 0.499,
-        "nuclear": 0,
-        "oil": 0,
-        "hydro": 0,
-        "solar": 0.14,
-        "wind": 0.063,
-        "battery": 0.062,
-        "geothermal": 0,
-        "other": 0
-      },
-      "dominant": "gas",
-      "clean": 0.203,
-      "demand_mw": 1413,
-      "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
-    },
-    "TIDC": {
       "mix": {
         "coal": 0,
         "gas": 0.958,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.042,
-        "solar": 0,
+        "hydro": 0,
+        "solar": 0.042,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
@@ -1045,9 +969,66 @@
       },
       "dominant": "gas",
       "clean": 0.042,
+      "demand_mw": 315,
+      "hours": 24,
+      "through": "2026-10-30T04:00:00.000Z"
+    },
+    "TEC": {
+      "mix": {
+        "coal": 0,
+        "gas": 0.852,
+        "nuclear": 0,
+        "oil": 0,
+        "hydro": 0,
+        "solar": 0.125,
+        "wind": 0,
+        "battery": 0,
+        "geothermal": 0,
+        "other": 0.023
+      },
+      "dominant": "gas",
+      "clean": 0.125,
+      "demand_mw": 2350,
+      "hours": 24,
+      "through": "2026-10-30T04:00:00.000Z"
+    },
+    "TEPC": {
+      "mix": {
+        "coal": 0.276,
+        "gas": 0.513,
+        "nuclear": 0,
+        "oil": 0,
+        "hydro": 0,
+        "solar": 0.108,
+        "wind": 0.052,
+        "battery": 0.051,
+        "geothermal": 0,
+        "other": 0
+      },
+      "dominant": "gas",
+      "clean": 0.16,
+      "demand_mw": 1495,
+      "hours": 24,
+      "through": "2026-10-30T07:00:00.000Z"
+    },
+    "TIDC": {
+      "mix": {
+        "coal": 0,
+        "gas": 0.966,
+        "nuclear": 0,
+        "oil": 0,
+        "hydro": 0.034,
+        "solar": 0,
+        "wind": 0,
+        "battery": 0,
+        "geothermal": 0,
+        "other": 0
+      },
+      "dominant": "gas",
+      "clean": 0.034,
       "demand_mw": 285,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "TPWR": {
       "mix": {
@@ -1064,47 +1045,47 @@
       },
       "dominant": "hydro",
       "clean": 1,
-      "demand_mw": 504,
+      "demand_mw": 483,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "TVA": {
       "mix": {
-        "coal": 0.134,
-        "gas": 0.267,
-        "nuclear": 0.463,
+        "coal": 0.143,
+        "gas": 0.268,
+        "nuclear": 0.469,
         "oil": 0,
-        "hydro": 0.106,
-        "solar": 0.029,
+        "hydro": 0.092,
+        "solar": 0.027,
         "wind": 0,
         "battery": 0,
         "geothermal": 0,
-        "other": 0.002
+        "other": 0.001
       },
       "dominant": "nuclear",
-      "clean": 0.598,
-      "demand_mw": 15052,
+      "clean": 0.588,
+      "demand_mw": 14977,
       "hours": 24,
-      "through": "2026-10-29T05:00:00.000Z"
+      "through": "2026-10-30T05:00:00.000Z"
     },
     "WALC": {
       "mix": {
         "coal": 0,
-        "gas": 0.562,
+        "gas": 0.681,
         "nuclear": 0,
         "oil": 0,
-        "hydro": 0.244,
-        "solar": 0.053,
-        "wind": 0.141,
+        "hydro": 0.257,
+        "solar": 0.055,
+        "wind": 0.007,
         "battery": 0,
         "geothermal": 0,
         "other": 0
       },
       "dominant": "gas",
-      "clean": 0.438,
-      "demand_mw": 627,
+      "clean": 0.319,
+      "demand_mw": 763,
       "hours": 24,
-      "through": "2026-10-29T07:00:00.000Z"
+      "through": "2026-10-30T07:00:00.000Z"
     },
     "YAD": {
       "mix": {
@@ -1123,7 +1104,7 @@
       "clean": 1,
       "demand_mw": null,
       "hours": 24,
-      "through": "2026-10-29T04:00:00.000Z"
+      "through": "2026-10-30T04:00:00.000Z"
     }
   }
 }
