@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-31",
+  "fetched": "2026-10-31T15:02:07.081Z",
+  "items": [
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/820313/000110465926120646/aph-20260930x10q.htm",
+      "title": "Amphenol filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/820313/000110465926120646/aph-20260930x10q.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "amphenol",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1823945/000182394526000055/owl-20260930.htm",
+      "title": "Blue Owl Capital filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1823945/000182394526000055/owl-20260930.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "blue-owl",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1533232/000117184326006998/f6k_103026.htm",
+      "title": "Brookfield Renewable filed a 6-K: FORM 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1533232/000117184326006998/f6k_103026.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "brookfield-renewable",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1297996/000119312526441892/d170330d8k.htm",
+      "title": "Digital Realty filed a 8-K (items 8.01,9.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1297996/000119312526441892/d170330d8k.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "digital-realty",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926120710/dlr-20260930x10q.htm",
+      "title": "Digital Realty filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1297996/000110465926120710/dlr-20260930x10q.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "digital-realty",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/715957/000119312526440697/d-20260930.htm",
+      "title": "Dominion Energy filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526440697/d-20260930.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "dominion",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068601/sndk-20261002.htm",
+      "title": "Sandisk filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068601/sndk-20261002.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "sandisk",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/72903/000119312526441768/d183277d8k.htm",
+      "title": "Xcel Energy filed a 8-K (items 8.01,9.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/72903/000119312526441768/d183277d8k.htm",
+      "date": "2026-10-30",
+      "origin": "sec",
+      "company": "xcel-energy",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings?utm_source=rss",
+      "title": "Amazon (AWS): Q3 Earnings: Andy Jassy on why demand for Amazon’s custom chips keeps growing",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings?utm_source=rss",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "amazon"
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings?utm_source=rss",
+      "title": "Amazon (AWS): Q3 Earnings: Andy Jassy on faster delivery, lowering cost to serve, groceries, pharmacy, and AI shopping",
+      "url": "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings?utm_source=rss",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "amazon"
+    },
+    {
+      "id": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings?utm_source=rss",
+      "title": "Amazon (AWS): Q3 Earnings: Andy Jassy on why AWS growth keeps accelerating",
+      "url": "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings?utm_source=rss",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "amazon"
+    },
+    {
+      "id": "https://newsroom.arm.com/blog/ai-wearables-smart-glasses-arm",
+      "title": "Arm Holdings: Why wearables are the next frontier of AI-first personal computing",
+      "url": "https://newsroom.arm.com/blog/ai-wearables-smart-glasses-arm",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "arm"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "title": "Alphabet (Google): Google Fitbit Edge: On shelves now",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "title": "Alphabet (Google): We’ve received our first response from the Project Suncatcher prototype satellite.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "title": "Alphabet (Google): See who has access to your Gmail inbox in 2 minutes.",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/",
+      "date": "2026-10-30",
+      "origin": "newsroom",
+      "company": "google"
+    }
+  ],
+  "pages": {
+    "https://www.sec.gov/Archives/edgar/data/820313/000110465926120646/aph-20260930x10q.htm": {
+      "key": "8a8c5cd50c103143",
+      "http": 200,
+      "chars": 254208
+    },
+    "https://www.sec.gov/Archives/edgar/data/1823945/000182394526000055/owl-20260930.htm": {
+      "key": "3106f244e2f85d77",
+      "http": 200,
+      "chars": 252133
+    },
+    "https://www.sec.gov/Archives/edgar/data/1533232/000117184326006998/f6k_103026.htm": {
+      "key": "660c7bb27ef4e4cd",
+      "http": 200,
+      "chars": 1043
+    },
+    "https://www.sec.gov/Archives/edgar/data/1297996/000119312526441892/d170330d8k.htm": {
+      "key": "d6a1b79672fed6f5",
+      "http": 200,
+      "chars": 4622
+    },
+    "https://www.sec.gov/Archives/edgar/data/1297996/000110465926120710/dlr-20260930x10q.htm": {
+      "key": "5260b38ed20280db",
+      "http": 200,
+      "chars": 257720
+    },
+    "https://www.sec.gov/Archives/edgar/data/715957/000119312526440697/d-20260930.htm": {
+      "key": "7b44095d966cfdf3",
+      "http": 200,
+      "chars": 448216
+    },
+    "https://www.sec.gov/Archives/edgar/data/2023554/000162828026068601/sndk-20261002.htm": {
+      "key": "22eb18ef9c1551e7",
+      "http": 200,
+      "chars": 156603
+    },
+    "https://www.sec.gov/Archives/edgar/data/72903/000119312526441768/d183277d8k.htm": {
+      "key": "3654b6b6554303ab",
+      "http": 200,
+      "chars": 21639
+    },
+    "https://www.aboutamazon.com/news/company-news/amazon-custom-chips-demand-q3-2026-earnings?utm_source=rss": {
+      "key": "8412e16e1db664a5",
+      "http": 200,
+      "chars": 4162
+    },
+    "https://www.aboutamazon.com/news/company-news/amazon-stores-growth-q3-2026-earnings?utm_source=rss": {
+      "key": "7363cce8ad118cf8",
+      "http": 200,
+      "chars": 5508
+    },
+    "https://www.aboutamazon.com/news/company-news/aws-growth-ai-demand-q3-2026-earnings?utm_source=rss": {
+      "key": "86c7b1a86b08d7cb",
+      "http": 200,
+      "chars": 9226
+    },
+    "https://newsroom.arm.com/blog/ai-wearables-smart-glasses-arm": {
+      "key": "332fdbaaf3ad70ab",
+      "http": 200,
+      "chars": 10185
+    },
+    "https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/": {
+      "key": "8098b8231b857dac",
+      "http": 200,
+      "chars": 4762
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/": {
+      "key": "c3f18693ae65b794",
+      "http": 200,
+      "chars": 5473
+    },
+    "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/": {
+      "key": "c055cd4e0ccd6440",
+      "http": 200,
+      "chars": 4388
+    }
+  }
+}
