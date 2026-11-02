@@ -1,7 +1,7 @@
 {
   "id": "qts-cedar-rapids",
   "name": "QTS Cedar Rapids",
-  "owner": "qts",
+  "owner": "meta",
   "tenants": [],
   "location": {
     "lat": 41.9056,
@@ -13,7 +13,7 @@
   "power_mw_planned": 1587,
   "status": "under_construction",
   "est_chips": {
-    "count": 3668823,
+    "count": 2250549,
     "type": "H100-equivalents",
     "estimate": true
   },
@@ -38,8 +38,12 @@
       "event": "Similar to April, Buildings 1-3 shells look complete. Buildings 4-6 are still far along, and the eastern Building 7 foundation is still underway."
     },
     {
-      "date": "2026-11-15",
-      "event": "Buildings 1-3 are operational. Based on the expected completion date reported by local news: “A QTS spokesperson said in July [2025] that the first phase of the project was expected to be completed in late 2026.\""
+      "date": "2026-10-23",
+      "event": "Buildings 1–3 look externally complete, with the air-cooled chillers fully installed, and surrounding yard work cleared. The many cars and trucks parked beside the buildings suggest commissioning is still underway, so we’re not counting…"
+    },
+    {
+      "date": "2026-12-31",
+      "event": "Buildings 1-3 are operational. Based on the visible progress in the October satellite image, and the expected completion date reported by local news: “A QTS spokesperson said in July [2025] that the first phase of the project was expected…"
     },
     {
       "date": "2027-11-15",
@@ -51,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
-      "quote": "QTS Cedar Rapids: current power 0 MW; owner unlisted."
+      "quote": "QTS Cedar Rapids: current power 0 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-10-27",
-  "explain": "QTS Cedar Rapids is an under-construction AI data center in Fairfax, IA, owned by qts. Epoch AI estimates it draws 0 MW today and 1,587 MW when finished."
+  "last_checked": "2026-11-02",
+  "explain": "QTS Cedar Rapids is an under-construction AI data center in Fairfax, IA, owned by meta. Epoch AI estimates it draws 0 MW today and 1,587 MW when finished."
 }

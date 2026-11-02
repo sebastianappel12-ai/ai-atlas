@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
       "quote": "STACK Infrastructure NVA02: current power 85 MW; owner unlisted."
     }
   ],
-  "last_checked": "2026-10-27",
+  "last_checked": "2026-11-02",
   "explain": "STACK Infrastructure NVA02 is an operating AI data center in Manassas, VA, owned by stack-infrastructure. Epoch AI estimates it draws 85 MW today and 487 MW when finished."
 }

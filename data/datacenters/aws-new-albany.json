@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
       "quote": "AWS New Albany: current power 213 MW; owner Amazon."
     }
   ],
-  "last_checked": "2026-10-27",
+  "last_checked": "2026-11-02",
   "explain": "AWS New Albany is an operating AI data center in New Albany, OH, owned by amazon. Epoch AI estimates it draws 213 MW today and 405 MW when finished."
 }

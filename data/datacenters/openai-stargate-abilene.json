@@ -11,22 +11,18 @@
     "city": "Abilene"
   },
   "state": "TX",
-  "power_mw_now": 421,
-  "power_mw_planned": 1180,
+  "power_mw_now": 824,
+  "power_mw_planned": 1154,
   "status": "operating",
   "est_chips": {
     "count": 1018696,
     "type": "H100-equivalents",
     "estimate": true
   },
-  "est_cost_usd": 31934526000,
+  "est_cost_usd": 31214768000,
   "grid_region": "ERCO",
   "power_deal_ids": [],
   "timeline": [
-    {
-      "date": "2025-06-28",
-      "event": "Building 1 looks close to finishing construction, with chillers in place. OpenAI stated that \"Oracle began delivering the first NVIDIA GB200 racks in June.\" The \"tenant improvement\" work is not due until September, however."
-    },
     {
       "date": "2025-09-26",
       "event": "Building 1 is fully operational around this date. The first phase was \"live\" on September 30 according a Crusoe announcement. While the first phase consists of Building 1 and 2, the language doesn't outright confirm that both buildings are…"
@@ -52,8 +48,12 @@
       "event": "Buildings 5-8 are structurally complete and roofed but not yet confirmed operational (fit-out ongoing). The substation looks complete."
     },
     {
+      "date": "2026-09-10",
+      "event": "Buildings 5-6 are operational. On Oracle's Q1 FY27 earnings call (September 10, 2026), Clay Magouyrk said \"6 of the 8 campus buildings, representing 618 megawatts and 75% of total capacity have now been delivered to the customer\"…"
+    },
+    {
       "date": "2026-11-01",
-      "event": "Buildings 5-8 are estimated to be operational. On March 24, Building 8 roughly looked like where Building 3 was in September. Building 3 is estimated to be operational in April, 7 months later. This naively suggests Building 8 will be…"
+      "event": "Buildings 7-8 are estimated to be operational. On March 24, Building 8 roughly looked like where Building 3 was in September. Building 3 is estimated to be operational in April, 7 months later. This naively suggests Building 8 will be…"
     }
   ],
   "epoch_id": "OpenAI Stargate Abilene",
@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
-      "quote": "OpenAI Stargate Abilene: current power 421 MW; owner Oracle."
+      "quote": "OpenAI Stargate Abilene: current power 824 MW; owner Oracle."
     }
   ],
-  "last_checked": "2026-10-27",
-  "explain": "OpenAI Stargate Abilene is an operating AI data center in Abilene, TX, owned by oracle and used by openai. Epoch AI estimates it draws 421 MW today and 1,180 MW when finished."
+  "last_checked": "2026-11-02",
+  "explain": "OpenAI Stargate Abilene is an operating AI data center in Abilene, TX, owned by oracle and used by openai. Epoch AI estimates it draws 824 MW today and 1,154 MW when finished."
 }

@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
       "quote": "Colossus 1: current power 340 MW; owner SpaceXAI."
     }
   ],
-  "last_checked": "2026-10-27",
+  "last_checked": "2026-11-02",
   "explain": "Colossus 1 is an operating AI data center in Memphis, TN, owned by xai and used by anthropic. Epoch AI estimates it draws 340 MW today and 442 MW when finished."
 }

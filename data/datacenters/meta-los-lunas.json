@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
       "quote": "Meta Los Lunas: current power 118 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-10-27",
+  "last_checked": "2026-11-02",
   "explain": "Meta Los Lunas is an operating AI data center in Los Lunas, NM, owned by meta. Epoch AI estimates it draws 118 MW today and 273 MW when finished."
 }

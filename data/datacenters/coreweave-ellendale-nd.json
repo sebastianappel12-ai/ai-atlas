@@ -59,11 +59,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-10-27",
+      "date": "2026-11-02",
       "kind": "dataset",
       "quote": "CoreWeave Ellendale ND: current power 68 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-10-27",
+  "last_checked": "2026-11-02",
   "explain": "CoreWeave Ellendale ND is an operating AI data center in Ellendale, ND, owned by coreweave. Epoch AI estimates it draws 68 MW today and 520 MW when finished."
 }
