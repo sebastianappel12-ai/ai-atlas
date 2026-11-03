@@ -1,0 +1,24 @@
+{
+  "id": "marvell-lumentum-acquisition-2026",
+  "from": "marvell",
+  "to": "lumentum",
+  "type": "acquisition",
+  "title": "Marvell agrees to buy Lumentum in all-stock deal valued at $115B",
+  "amount_usd": 115000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-11-02",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312526442714/d81187dex991.htm",
+      "publisher": "Marvell (8-K Exhibit 99.1)",
+      "date": "2026-11-02",
+      "kind": "sec_filing",
+      "quote": "The transaction has an implied enterprise value of $115 billion for Lumentum, representing approximately $1,132 per share of Lumentum common stock and a premium of approximately 23.9% based on each company’s unaffected closing share price as of October 28, 2026, the last trading day before market speculation regarding a potential transaction began."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-11-03",
+  "added": "2026-11-03",
+  "explain": "Marvell agreed to buy Lumentum, a maker of the lasers and optical parts used in AI data-center networks, paying entirely in Marvell stock (4.5 Marvell shares per Lumentum share). The $115 billion is the implied enterprise value at current share prices, so it moves with Marvell's stock. The deal still needs shareholder and regulatory approval and is expected to close in the first half of 2028."
+}
