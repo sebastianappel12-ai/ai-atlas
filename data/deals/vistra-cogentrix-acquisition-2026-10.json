@@ -1,0 +1,25 @@
+{
+  "from": "vistra",
+  "to": "cogentrix",
+  "type": "acquisition",
+  "title": "Vistra completes Cogentrix acquisition for ~$2.2B cash plus 5M shares, assuming ~$1.7B debt",
+  "amount_usd": 2200000000,
+  "amount_kind": "confirmed",
+  "date": "2026-10-30",
+  "status": "completed",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000114036126042013/ef20084950_8k.htm",
+      "date": "2026-11-05",
+      "quote": "On October 30, 2026, Vistra Operations Company LLC, a Delaware limited liability company (“Buyer”) and an indirect wholly owned subsidiary of Vistra Corp., a Delaware corporation (“Vistra”), completed its previously announced transaction pursuant to that certain Purchase and Sale Agreement (the “Purchase Agreement”) with Q-Generation Holdings, LLC, a Delaware limited liability company (“Seller”).",
+      "kind": "sec_filing",
+      "publisher": "sec.gov"
+    }
+  ],
+  "confidence": "high",
+  "explain": "Vistra closed its purchase of Cogentrix's gas fleet on October 30, 2026. Per the 8-K it paid about $2.2 billion in cash (net of adjustments, including about $1.7 billion of Cogentrix debt it took on) plus 5,000,000 Vistra shares valued at $185 each. The $2.2 billion is only the cash part, not the full price of the deal.",
+  "id": "vistra-cogentrix-acquisition-2026-10",
+  "supersedes": "vistra-cogentrix-acquisition-2026",
+  "last_checked": "2026-11-06",
+  "added": "2026-11-06"
+}
