@@ -1,0 +1,1122 @@
+{
+  "date": "2026-11-07",
+  "fetched": "2026-11-07T15:30:00.698Z",
+  "items": [
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526451802/d179995d10q.htm",
+      "title": "Blackstone filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526451802/d179995d10q.htm",
+      "date": "2026-11-06",
+      "origin": "sec",
+      "company": "blackstone",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526451885/d192483d8k.htm",
+      "title": "Energy Transfer filed a 8-K (items 1.01,8.01,9.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526451885/d192483d8k.htm",
+      "date": "2026-11-06",
+      "origin": "sec",
+      "company": "energy-transfer",
+      "extraUrls": [
+        "https://www.sec.gov/Archives/edgar/data/1276187/000119312526451885/d192483dex991.htm"
+      ]
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/319201/000119312526451824/d76372d8k.htm",
+      "title": "KLA filed a 8-K (items 5.07,8.01,9.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526451824/d76372d8k.htm",
+      "date": "2026-11-06",
+      "origin": "sec",
+      "company": "kla",
+      "extraUrls": [
+        "https://www.sec.gov/Archives/edgar/data/319201/000119312526451824/d76372dex991.htm"
+      ]
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026071671/wulf-20260930.htm",
+      "title": "TeraWulf filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1083301/000162828026071671/wulf-20260930.htm",
+      "date": "2026-11-06",
+      "origin": "sec",
+      "company": "terawulf",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.aol.com/articles/advanced-micro-devices-amd-recently-104800000.html",
+      "title": "Advanced Micro Devices ( AMD ) Recently Crashed Out of the $1 Trillion Club . Should You Buy the Dip ? ",
+      "url": "https://www.aol.com/articles/advanced-micro-devices-amd-recently-104800000.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/",
+      "title": "Democrats expected to scrutinize Nvidia | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/11/07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts",
+      "title": "Environmental groups embrace AI , even as they warn of data center impacts",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "title": "Wall Street grapples with $5 . 7 trillion rout as AI bets unwind",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://finchannel.com/nvidia-h200-chips-await-china-approval-in-hong-kong-reuters-reports/140774/american-business-trends/2026/11/",
+      "title": "Nvidia H200 chips await China approval in Hong Kong , Reuters reports",
+      "url": "https://finchannel.com/nvidia-h200-chips-await-china-approval-in-hong-kong-reuters-reports/140774/american-business-trends/2026/11/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+      "title": "Trump Officials Stand to Profit From AI Data Centers on Public Land ProPublica",
+      "url": "https://www.propublica.org/article/burgum-public-land-data-centers-investments",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "http://www.iranherald.com/news/279409875/apple-shares-tumble-as-rising-memory-costs-hit-margins",
+      "title": "Apple shares tumble as rising memory costs hit margins",
+      "url": "http://www.iranherald.com/news/279409875/apple-shares-tumble-as-rising-memory-costs-hit-margins",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/06/not-nvidia-not-palantir-the-midterms-just-made-thi/",
+      "title": "Not Nvidia . Not Palantir . The Midterms Just Made This Magnificent Artificial Intelligence ( AI ) Stock the Safer Bet . ",
+      "url": "https://www.fool.com/investing/2026/11/06/not-nvidia-not-palantir-the-midterms-just-made-thi/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/warren-buffetts-successor-greg-abel-102602000.html",
+      "title": "Warren Buffett Successor , Greg Abel , Has 71 % of Berkshire Hathaway $362 Billion Portfolio Invested in 7 Standout Stocks",
+      "url": "https://www.aol.com/articles/warren-buffetts-successor-greg-abel-102602000.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/06/prediction-nebius-stock-will-surge-95-in-a-year-according-to-wall-street-should-you-buy-it-before-nov-12/",
+      "title": "Prediction : Nebius Stock Will Surge 95 % in a Year , According to Wall Street . Should You Buy It Before Nov . 12 ? ",
+      "url": "https://www.fool.com/investing/2026/11/06/prediction-nebius-stock-will-surge-95-in-a-year-according-to-wall-street-should-you-buy-it-before-nov-12/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/palantir-stock-down-19-highs-102000000.html",
+      "title": "Palantir Stock Is Down 19 % From Its Highs . Time to Buy the Dip ? ",
+      "url": "https://www.aol.com/articles/palantir-stock-down-19-highs-102000000.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.ibtimes.com.au/sims-shares-fall-ai-selloff-australian-market-1878037",
+      "title": "Sims Shares Drop 7 % Amid Global AI Rout as Recycler With Data Center Hardware Arm Heads Toward November AGM",
+      "url": "https://www.ibtimes.com.au/sims-shares-fall-ai-selloff-australian-market-1878037",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/earnings/call-transcripts/2026/11/06/applied-optics-aaoi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "title": "Applied Optics ( AAOI ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/applied-optics-aaoi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.ibtimes.com.au/wall-street-ai-tech-stocks-selloff-1878032",
+      "title": "Five Forces Behind Wall Street $3 Trillion Tech Crash , From Data Center Curbs to Qualcomm Warning",
+      "url": "https://www.ibtimes.com.au/wall-street-ai-tech-stocks-selloff-1878032",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/earnings/call-transcripts/2026/11/06/diodes-inc-diod-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "title": "Diodes Inc ( DIOD ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/diodes-inc-diod-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "http://www.thailandnews.net/news/279409875/apple-warns-of-higher-memory-costs-as-shares-fall-4-percent",
+      "title": "Apple warns of higher memory costs as shares fall 4 percent",
+      "url": "http://www.thailandnews.net/news/279409875/apple-warns-of-higher-memory-costs-as-shares-fall-4-percent",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.hindustantimes.com/business/global-tech-selloff-artificial-intelligence-ai-data-centers-us-midterm-election-results-nasdaq-wall-street-asian-markets-stocks-101793941673026.html",
+      "title": "How Democrat US midterm victory triggered a global tech stock rout over fears of AI slowdown",
+      "url": "https://www.hindustantimes.com/business/global-tech-selloff-artificial-intelligence-ai-data-centers-us-midterm-election-results-nasdaq-wall-street-asian-markets-stocks-101793941673026.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/06/micron-stock-has-lost-over-40-since-its-june-record-i-d-still-buy-it/?source=iedfolrf0000001",
+      "title": "Micron Stock Has Lost Over 40 % Since Its June Record . Id Still Buy It . ",
+      "url": "https://www.fool.com/investing/2026/11/06/micron-stock-has-lost-over-40-since-its-june-record-i-d-still-buy-it/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://vietnamnews.vn/economy/1803696/rising-ai-demand-data-centre-growth-underscore-need-for-reliable-energy-supplies-in-viet-nam.html",
+      "title": "Rising AI demand , data centre growth underscore need for reliable energy supplies in Việt Nam",
+      "url": "https://vietnamnews.vn/economy/1803696/rising-ai-demand-data-centre-growth-underscore-need-for-reliable-energy-supplies-in-viet-nam.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/companies-markets/openai-announces-changes-how-it-handles-data-centres-amid-outcry-after-us-midterms",
+      "title": "OpenAI to change how it handles data centres after outcry",
+      "url": "https://www.businesstimes.com.sg/companies-markets/openai-announces-changes-how-it-handles-data-centres-amid-outcry-after-us-midterms",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/?source=iedfolrf0000001",
+      "title": "Oracle vs . Alphabet : Which Is the Better AI Cloud Stock to Own for the Next 5 Years ? ",
+      "url": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.ibtimes.com.au/chinese-tech-stocks-rally-us-ai-selloff-infrastructure-gap-1877996",
+      "title": "China Tech Stocks Surge as Wall Street $3 Trillion AI Rout Deepens , but US Still Leads the AI Arms Race",
+      "url": "https://www.ibtimes.com.au/chinese-tech-stocks-rally-us-ai-selloff-infrastructure-gap-1877996",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/05/should-you-buy-nvidia-stock-before-nov-17/",
+      "title": "Should You Buy Nvidia Stock Before Nov . 17 ? ",
+      "url": "https://www.fool.com/investing/2026/11/05/should-you-buy-nvidia-stock-before-nov-17/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.thehindubusinessline.com/markets/will-ai-backlash-delay-anthropic-ipo-investors-raise-doubts/article71672682.ece",
+      "title": "Will AI backlash delay Anthropic IPO ? Investors raise doubts",
+      "url": "https://www.thehindubusinessline.com/markets/will-ai-backlash-delay-anthropic-ipo-investors-raise-doubts/article71672682.ece",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.almanacnews.com/election/2026/11/05/fresh-off-election-triumph-rep-liccardo-looks-to-focus-on-affordability-ai/",
+      "title": "Fresh off election triumph , Rep . Liccardo looks to focus on affordability , AI",
+      "url": "https://www.almanacnews.com/election/2026/11/05/fresh-off-election-triumph-rep-liccardo-looks-to-focus-on-affordability-ai/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/coverage/better-buy/2026/11/05/micron-technology-vs-western-digital-which-tech-stock-is-the-better-buy-for-2027/",
+      "title": "Micron Technology vs . Western Digital : Which Tech Stock Is the Better Buy for 2027 ? ",
+      "url": "https://www.fool.com/coverage/better-buy/2026/11/05/micron-technology-vs-western-digital-which-tech-stock-is-the-better-buy-for-2027/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.business-standard.com/technology/tech-news/openai-promises-greater-transparency-in-data-centre-deals-after-backlash-126110600138_1.html",
+      "title": "OpenAI promises greater transparency in data centre deals after backlash",
+      "url": "https://www.business-standard.com/technology/tech-news/openai-promises-greater-transparency-in-data-centre-deals-after-backlash-126110600138_1.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.thailand-business-news.com/markets/339058-asian-tech-and-equity-markets-suffer-massive-losses-from-ai-rout",
+      "title": "Asian Tech and Equity Markets Suffer Massive Losses from AI Rout – Thailand Business News",
+      "url": "https://www.thailand-business-news.com/markets/339058-asian-tech-and-equity-markets-suffer-massive-losses-from-ai-rout",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://lufkindailynews.com/news_reuters/business/exclusive-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/article_22d4851b-7bce-5e54-8c08-5ef01fb3b25d.html",
+      "title": "Exclusive - AI backlash could threaten Anthropic IPO timing , potential investors say",
+      "url": "https://lufkindailynews.com/news_reuters/business/exclusive-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/article_22d4851b-7bce-5e54-8c08-5ef01fb3b25d.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html",
+      "title": "Anthropic  largest IPO on record  ambition on hold ?  AI backlash could threaten timing , $1 . 5 trillion valuation  ",
+      "url": "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/11/05/micron-technology-nasdaqmu-shares-up-2-6-still-a-buy.html",
+      "title": "Micron Technology ( NASDAQ : MU ) Shares Up 2 . 6 % – Still a Buy ? ",
+      "url": "https://www.dailypolitical.com/2026/11/05/micron-technology-nasdaqmu-shares-up-2-6-still-a-buy.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.cnbc.com/2026/11/06/cctv-script-061126.html",
+      "title": "CCTV Script 06 / 11 / 26",
+      "url": "https://www.cnbc.com/2026/11/06/cctv-script-061126.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.wmur.com/article/ai-stocks-wall-street-reeling-midterms/74350182",
+      "title": "A brutal sell - off for AI stocks sends Wall Street reeling , and the S & P 500 tumbles 4 . 4 % ",
+      "url": "https://www.wmur.com/article/ai-stocks-wall-street-reeling-midterms/74350182",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.wmur.com/article/wall-street-ai-stocks-tumble-as-voter-backlash-threatens-data-center-expansion/74350015",
+      "title": "Wall Street , AI stocks tumble",
+      "url": "https://www.wmur.com/article/wall-street-ai-stocks-tumble-as-voter-backlash-threatens-data-center-expansion/74350015",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/11/06/applied-digital-nasdaqapld-stock-price-up-9-8-whats-next.html",
+      "title": "Applied Digital ( NASDAQ : APLD ) Stock Price Up 9 . 8 % – What Next ? ",
+      "url": "https://www.themarketsdaily.com/2026/11/06/applied-digital-nasdaqapld-stock-price-up-9-8-whats-next.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.naturalnews.com/2026-11-05-korea-ai-budget-pursue-highest-performance-sovereign-model.html",
+      "title": "South Korea Sets Record AI Budget to Pursue  World Highest Performance  Sovereign Model – NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-11-05-korea-ai-budget-pursue-highest-performance-sovereign-model.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms",
+      "title": "AI backlash could threaten Anthropic IPO timing , potential investors say",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.hngn.com/articles/273719/20261105/sp-500-drops-44-ai-stocks-sink-after-democratic-sweep.htm",
+      "title": "S & P 500 Drops 4 . 4 % as AI Stocks Sink After Democratic Sweep",
+      "url": "https://www.hngn.com/articles/273719/20261105/sp-500-drops-44-ai-stocks-sink-after-democratic-sweep.htm",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/05/nasdaq-composite-shattered-single-session-point-loss-record-3-reasons-elevator-down-moves-just-beginning/?source=iedfolrf0000001",
+      "title": "The Nasdaq Composite Just Shattered Its Single - Session Point - Loss Record : 3 Reasons These Elevator - Down Moves May Be Just Beginning",
+      "url": "https://www.fool.com/investing/2026/11/05/nasdaq-composite-shattered-single-session-point-loss-record-3-reasons-elevator-down-moves-just-beginning/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.kiplinger.com/investing/stocks/nasdaq-plunges-1-421-points-in-massive-tech-rout-stock-market-today",
+      "title": "Nasdaq Plunges 1 , 421 Points in Tech Rout : Stock Market Today",
+      "url": "https://www.kiplinger.com/investing/stocks/nasdaq-plunges-1-421-points-in-massive-tech-rout-stock-market-today",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.kiro7.com/news/local/ai-data-center-concerns-trigger-massive-selloff-us-stocks/C42GKCIRHZCRPC3NM5BN6G4Y6U/",
+      "title": "AI sector stocks plunge amid data center concerns - KIRO 7 News Seattle",
+      "url": "https://www.kiro7.com/news/local/ai-data-center-concerns-trigger-massive-selloff-us-stocks/C42GKCIRHZCRPC3NM5BN6G4Y6U/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.tickerreport.com/banking-finance/13653535/advanced-micro-devices-inc-amd-stock-sold-by-ashton-thomas-private-wealth-llc.html",
+      "title": "Advanced Micro Devices , Inc . $AMD Stock Sold by Ashton Thomas Private Wealth LLC",
+      "url": "https://www.tickerreport.com/banking-finance/13653535/advanced-micro-devices-inc-amd-stock-sold-by-ashton-thomas-private-wealth-llc.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "http://www.hongkongherald.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+      "title": "AI investment cycle may have peaked , Jefferies warns ; raises India allocation to 14 % ",
+      "url": "http://www.hongkongherald.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/120-billion-westinghouse-reactor-plan-102302000.html",
+      "title": "A $120 Billion Westinghouse Reactor Plan Is Taking Shape . Here What History Says Happened the Last Time the U . S . Built Them . ",
+      "url": "https://www.aol.com/articles/120-billion-westinghouse-reactor-plan-102302000.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/palantir-stock-investors-just-got-100802000.html",
+      "title": "Palantir Stock Investors Just Got Great News From a Wall Street Analyst ( Hint : The Stock Could Soar ) ",
+      "url": "https://www.aol.com/articles/palantir-stock-investors-just-got-100802000.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/amazon-ai-spending-pressuring-free-093002000.html",
+      "title": "Amazon AI Spending is Pressuring Free Cash Flow . Is the Stock Still a Buy ? ",
+      "url": "https://www.aol.com/articles/amazon-ai-spending-pressuring-free-093002000.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.arkansasonline.com/news/2026/nov/07/ai-tied-sell-off-slows-as-markets-end-week-mixed/",
+      "title": "AI - tied sell - off slows as markets end week mixed | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/07/ai-tied-sell-off-slows-as-markets-end-week-mixed/",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html",
+      "title": "OpenAI raises $11 billion at $1 . 25 trillion valuation amid concerns over AI spending and regulation",
+      "url": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.ironmountaindailynews.com/news/business/2026/11/ai-stocks-halt-their-brutal-worldwide-sell-off/",
+      "title": "AI stocks halt their brutal , worldwide sell - off",
+      "url": "https://www.ironmountaindailynews.com/news/business/2026/11/ai-stocks-halt-their-brutal-worldwide-sell-off/",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.businessworld.in/article/openai-raises-11-bn-at-1-25-tn-valuation-in-fresh-round-632586",
+      "title": "OpenAI Raises $11 Bn At $1 . 25 Tn Valuation In Fresh Round",
+      "url": "https://www.businessworld.in/article/openai-raises-11-bn-at-1-25-tn-valuation-in-fresh-round-632586",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.businessworld.in/article/google-parent-alphabet-builds-548-mn-stake-in-qualcomm-632564",
+      "title": "Google Parent Alphabet Builds $548 Mn Stake In Qualcomm",
+      "url": "https://www.businessworld.in/article/google-parent-alphabet-builds-548-mn-stake-in-qualcomm-632564",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.moneycontrol.com/news/business/markets/moneycontrol-pro-weekender-the-morning-after-14073188.html",
+      "title": "Moneycontrol Pro Weekender | The Morning After",
+      "url": "https://www.moneycontrol.com/news/business/markets/moneycontrol-pro-weekender-the-morning-after-14073188.html",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://observer.com/2026/11/cristiano-amon-qualcomm-car-chips-data-centers-handsets/",
+      "title": "Cristiano Amon Qualcomm Targets Cars and Data Centers",
+      "url": "https://observer.com/2026/11/cristiano-amon-qualcomm-car-chips-data-centers-handsets/",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.timesleader.com/news/1764658/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for-the-week",
+      "title": "AI stocks halt their brutal , worldwide sell - off as Wall Street trims its loss for the week",
+      "url": "https://www.timesleader.com/news/1764658/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for-the-week",
+      "date": "2026-11-07",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.finanznachrichten.de/nachrichten-2026-11/70059204-brookfield-asset-management-ltd-brookfield-asset-management-announces-strong-third-quarter-results-399.htm",
+      "title": "Brookfield Asset Management Ltd : Brookfield Asset Management Announces Strong Third Quarter Results",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70059204-brookfield-asset-management-ltd-brookfield-asset-management-announces-strong-third-quarter-results-399.htm",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://finchannel.com/china-ai-trade-surges-amid-3-trillion-wall-street-rout-but-us-still-leads-ai-arms-race/140782/american-business-trends/markets/2026/11/",
+      "title": "China AI trade surges amid $3 trillion Wall Street rout , but US still leads AI arms race",
+      "url": "https://finchannel.com/china-ai-trade-surges-amid-3-trillion-wall-street-rout-but-us-still-leads-ai-arms-race/140782/american-business-trends/markets/2026/11/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/11/06/mirae-asset-global-investments-co-ltd-makes-new-320-21-million-investment-in-jpmorgan-chase-co-jpm.html",
+      "title": "Mirae Asset Global Investments Co . Ltd . Makes New $320 . 21 Million Investment in JPMorgan Chase & Co . $JPM",
+      "url": "https://www.dailypolitical.com/2026/11/06/mirae-asset-global-investments-co-ltd-makes-new-320-21-million-investment-in-jpmorgan-chase-co-jpm.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.livemint.com/market/stock-market-news/indian-it-stocks-emerge-as-safe-ai-trade-amid-rising-big-tech-spending-anand-rathi-prefers-techm-ltm-mphasis-11793962964792.html",
+      "title": "Indian IT stocks emerge as  safe AI trade  amid rising Big Tech spending ; Anand Rathi prefers TechM , LTM , Mphasis",
+      "url": "https://www.livemint.com/market/stock-market-news/indian-it-stocks-emerge-as-safe-ai-trade-amid-rising-big-tech-spending-anand-rathi-prefers-techm-ltm-mphasis-11793962964792.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.proactiveinvestors.com/companies/news/1101345/scottish-mortgage-nav-total-return-rises-31-5-as-spacex-listing-and-moderna-trial-success-lift-performance-1101345.html",
+      "title": "Scottish Mortgage NAV total return rises 31 . 5 % as SpaceX listing and Moderna trial success lift performance",
+      "url": "https://www.proactiveinvestors.com/companies/news/1101345/scottish-mortgage-nav-total-return-rises-31-5-as-spacex-listing-and-moderna-trial-success-lift-performance-1101345.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/earnings/call-transcripts/2026/11/06/compass-comp-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "title": "Compass ( COMP ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/compass-comp-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://geeknewscentral.com/2026/11/06/the-server-farm-revolt-1883/",
+      "title": "The Server Farm Revolt # 1883",
+      "url": "https://geeknewscentral.com/2026/11/06/the-server-farm-revolt-1883/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/earnings/call-transcripts/2026/11/06/horizon-tech-finance-hrzn-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "title": "Horizon Tech Finance ( HRZN ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/horizon-tech-finance-hrzn-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://itbusinessnet.com/2026/11/what-abu-dhabi-heard-when-sam-altman-said-one-word-about-energy/",
+      "title": "What Abu Dhabi Heard When Sam Altman Said One Word About Energy – IT Business Net",
+      "url": "https://itbusinessnet.com/2026/11/what-abu-dhabi-heard-when-sam-altman-said-one-word-about-energy/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/06/prediction-november-will-be-a-huge-month-for-broad/",
+      "title": "Prediction : November Will Be a Huge Month for Broadcom",
+      "url": "https://www.fool.com/investing/2026/11/06/prediction-november-will-be-a-huge-month-for-broad/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.fool.com/earnings/call-transcripts/2026/11/06/mcgraw-hill-mh-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+      "title": "McGraw Hill ( MH ) Q2 2027 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/06/mcgraw-hill-mh-q2-2027-earnings-call-transcript/?source=iedfolrf0000001",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/icu-medical-icui-q3-2026-081439000.html",
+      "title": "ICU Medical ( ICUI ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.aol.com/articles/icu-medical-icui-q3-2026-081439000.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/savers-svv-q3-2026-earnings-073044000.html",
+      "title": "Savers ( SVV ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.aol.com/articles/savers-svv-q3-2026-earnings-073044000.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/yelp-yelp-q3-2026-earnings-075808000.html",
+      "title": "Yelp ( YELP ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.aol.com/articles/yelp-yelp-q3-2026-earnings-075808000.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/stocks/news/5-billion-in-5-days-why-fiis-are-suddenly-shopping-indian-stocks-non-stop-this-diwali/articleshow/135599282.cms",
+      "title": "$5 billion in 5 days ! Why FIIs are suddenly shopping Indian stocks non - stop this Diwali",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/5-billion-in-5-days-why-fiis-are-suddenly-shopping-indian-stocks-non-stop-this-diwali/articleshow/135599282.cms",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.abc.net.au/news/2026-11-06/data-centre-oil-exploration-qld-water-sources-ann-leahy/107355512",
+      "title": "Ann Leahy says Western Downs data centre , oil exploration could drive water investment",
+      "url": "https://www.abc.net.au/news/2026-11-06/data-centre-oil-exploration-qld-water-sources-ann-leahy/107355512",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.freepressjournal.in/tech/wall-street-loses-25-trillion-as-ai-investment-fears-trigger-biggest-us-stock-market-sell-off-since-april-2025",
+      "title": "Wall Street Loses $2 . 5 Trillion As AI Investment Fears Trigger Biggest US Stock Market Sell - Off Since April 2025",
+      "url": "https://www.freepressjournal.in/tech/wall-street-loses-25-trillion-as-ai-investment-fears-trigger-biggest-us-stock-market-sell-off-since-april-2025",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.wadenapj.com/news/national/nasdaq-posts-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations",
+      "title": "Nasdaq posts biggest daily drop in 19 months on fears of AI regulations",
+      "url": "https://www.wadenapj.com/news/national/nasdaq-posts-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.moneycontrol.com/news/business/markets/nvidia-loses-440-billion-as-nasdaq-crashes-5-5-tesla-spacex-and-big-tech-stocks-wipe-out-trillions-14072173.html",
+      "title": "Nvidia loses $440 billion as Nasdaq crashes 5 . 5 %; Tesla , SpaceX and Big Tech stocks wipe out trillions - Moneycontrol . com",
+      "url": "https://www.moneycontrol.com/news/business/markets/nvidia-loses-440-billion-as-nasdaq-crashes-5-5-tesla-spacex-and-big-tech-stocks-wipe-out-trillions-14072173.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/softbank-credit-default-swaps-hit-4-year-high-as-ai-profitability-concerns-mount/articleshow/135593969.cms",
+      "title": "SoftBank credit default swaps hit 4 - year high as AI profitability concerns mount",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/softbank-credit-default-swaps-hit-4-year-high-as-ai-profitability-concerns-mount/articleshow/135593969.cms",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+      "title": "OpenAI deal to cut Abu Dhabi government processing times from days to minutes",
+      "url": "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://infotechlead.com/tech/vc-funding-deals-zipline-humble-robotics-trajectory-99454",
+      "title": "VC funding deals : Zipline , Humble Robotics , Trajectory",
+      "url": "https://infotechlead.com/tech/vc-funding-deals-zipline-humble-robotics-trajectory-99454",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.thestar.com.my/tech/tech-news/2026/11/06/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market",
+      "title": "SoftBank credit risk jumps to 4 - year high as AI fears roil market",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/06/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.thailand-business-news.com/news/339062-thailand-business-news-morning-briefing-7",
+      "title": "Thailand Business News Morning Briefing - Emerging markets suffer US$33 . 8 billion capital outflow as investors retreat from Asian equities",
+      "url": "https://www.thailand-business-news.com/news/339062-thailand-business-news-morning-briefing-7",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.perthnow.com.au/news/business/the-greatest-loss-of-wealth-in-history-raises-doubts-about-the-future-of-artificial-intelligence-c-23124204",
+      "title": "The greatest loss of wealth in history raises doubts about the future of artificial intelligence",
+      "url": "https://www.perthnow.com.au/news/business/the-greatest-loss-of-wealth-in-history-raises-doubts-about-the-future-of-artificial-intelligence-c-23124204",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://itbrief.co.nz/story/vast-data-says-14-customers-committed-usd-10-billion",
+      "title": "VAST Data says 14 customers committed USD $10 billion",
+      "url": "https://itbrief.co.nz/story/vast-data-says-14-customers-committed-usd-10-billion",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.businesstimes.com.sg/international/global/us-stocks-nasdaq-posts-biggest-drop-19-months-democrats-midterm-win-fuels-ai-regulation-fears",
+      "title": "US stocks : Nasdaq posts biggest drop in 19 months as Democrat midterm win fuels AI regulation fears",
+      "url": "https://www.businesstimes.com.sg/international/global/us-stocks-nasdaq-posts-biggest-drop-19-months-democrats-midterm-win-fuels-ai-regulation-fears",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://dailycaller.com/2026/11/05/dario-amodei-anthropic-singularity-new-york-times/",
+      "title": "Mind - Merging With Machines By 2040 Was Reportedly Once The Plan Of AI Billionaire Headed For Wall Street",
+      "url": "https://dailycaller.com/2026/11/05/dario-amodei-anthropic-singularity-new-york-times/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://observer.com/2026/11/alex-karp-palantir-sovereign-ai-contracts/",
+      "title": "Alex Karp Palantir Faces a Test of Shorter A . I . Contracts",
+      "url": "https://observer.com/2026/11/alex-karp-palantir-sovereign-ai-contracts/",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.pcmag.com/news/t-mobiles-parent-irritated-that-starlink-mobile-is-viewed-as-threat-so",
+      "title": "T - Mobile Parent  Irritated  That Starlink Mobile Is Viewed As Threat So Soon",
+      "url": "https://www.pcmag.com/news/t-mobiles-parent-irritated-that-starlink-mobile-is-viewed-as-threat-so",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.livemint.com/market/hedge-fund-vara-plunges-33-in-brutal-october-for-ai-stocks-11793923146546.html",
+      "title": "Hedge Fund VARA Plunges 33 % in Brutal October for AI Stocks",
+      "url": "https://www.livemint.com/market/hedge-fund-vara-plunges-33-in-brutal-october-for-ai-stocks-11793923146546.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.aol.com/articles/cion-investment-cion-q3-2026-230208000.html",
+      "title": "CION Investment ( CION ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.aol.com/articles/cion-investment-cion-q3-2026-230208000.html",
+      "date": "2026-11-06",
+      "origin": "news"
+    },
+    {
+      "id": "https://www.irishtimes.com/business/2026/11/05/us-stocks-drop-sharply-as-democrats-win-raises-fears-about-ai-investment/",
+      "title": "US stocks drop sharply as Democrats win raises fears about AI investment",
+      "url": "https://www.irishtimes.com/business/2026/11/05/us-stocks-drop-sharply-as-democrats-win-raises-fears-about-ai-investment/",
+      "date": "2026-11-05",
+      "origin": "news"
+    }
+  ],
+  "pages": {
+    "https://www.sec.gov/Archives/edgar/data/1393818/000119312526451802/d179995d10q.htm": {
+      "key": "ff2a32d5ec952761",
+      "http": 200,
+      "chars": 507103
+    },
+    "https://www.sec.gov/Archives/edgar/data/1276187/000119312526451885/d192483d8k.htm": {
+      "key": "fb592cdb6c9088f2",
+      "http": 200,
+      "chars": 6759
+    },
+    "https://www.sec.gov/Archives/edgar/data/1276187/000119312526451885/d192483dex991.htm": {
+      "key": "681f23ad35caed9f",
+      "http": 200,
+      "chars": 5454
+    },
+    "https://www.sec.gov/Archives/edgar/data/319201/000119312526451824/d76372d8k.htm": {
+      "key": "c2a42385d96528c9",
+      "http": 200,
+      "chars": 5535
+    },
+    "https://www.sec.gov/Archives/edgar/data/319201/000119312526451824/d76372dex991.htm": {
+      "key": "b076d7f6f3f2b749",
+      "http": 200,
+      "chars": 1311
+    },
+    "https://www.sec.gov/Archives/edgar/data/1083301/000162828026071671/wulf-20260930.htm": {
+      "key": "7f1c1a544a9b714f",
+      "http": 200,
+      "chars": 339622
+    },
+    "https://www.aol.com/articles/advanced-micro-devices-amd-recently-104800000.html": {
+      "key": "fb50e81ade7b0be0",
+      "http": 200,
+      "chars": 9083
+    },
+    "https://www.arkansasonline.com/news/2026/nov/07/democrats-expected-to-scrutinize-nvidia/": {
+      "key": "593746d5178a2ba0",
+      "http": 200,
+      "chars": 12263
+    },
+    "https://www.thestar.com.my/tech/tech-news/2026/11/07/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts": {
+      "key": "5b8c0f2dc50735f0",
+      "http": 200,
+      "chars": 11478
+    },
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms": {
+      "key": "c50baedde24c22b7",
+      "http": 200,
+      "chars": 25359
+    },
+    "https://finchannel.com/nvidia-h200-chips-await-china-approval-in-hong-kong-reuters-reports/140774/american-business-trends/2026/11/": {
+      "key": "cff7450ea86a6304",
+      "http": 200,
+      "chars": 16141
+    },
+    "https://www.propublica.org/article/burgum-public-land-data-centers-investments": {
+      "key": "743643d40e3fd4bb",
+      "http": 200,
+      "chars": 34639
+    },
+    "http://www.iranherald.com/news/279409875/apple-shares-tumble-as-rising-memory-costs-hit-margins": {
+      "key": "6ce6fe05a1eb2092",
+      "http": 200,
+      "chars": 6839
+    },
+    "https://www.fool.com/investing/2026/11/06/not-nvidia-not-palantir-the-midterms-just-made-thi/": {
+      "key": "be8daf7ca94ac909",
+      "http": 200,
+      "chars": 13683
+    },
+    "https://www.aol.com/articles/warren-buffetts-successor-greg-abel-102602000.html": {
+      "key": "6655f63b328c58e0",
+      "http": 200,
+      "chars": 8892
+    },
+    "https://www.fool.com/investing/2026/11/06/prediction-nebius-stock-will-surge-95-in-a-year-according-to-wall-street-should-you-buy-it-before-nov-12/": {
+      "key": "c5da3f9b06d42fef",
+      "http": 200,
+      "chars": 12222
+    },
+    "https://www.aol.com/articles/palantir-stock-down-19-highs-102000000.html": {
+      "key": "2df78b65d4058d40",
+      "http": 200,
+      "chars": 8526
+    },
+    "https://www.ibtimes.com.au/sims-shares-fall-ai-selloff-australian-market-1878037": {
+      "key": "c59a5febb0f3cb68",
+      "http": 200,
+      "chars": 5297
+    },
+    "https://www.fool.com/earnings/call-transcripts/2026/11/06/applied-optics-aaoi-q3-2026-earnings-call-transcript/?source=iedfolrf0000001": {
+      "key": "56dd173f108c5255",
+      "http": 200,
+      "chars": 59418
+    },
+    "https://www.ibtimes.com.au/wall-street-ai-tech-stocks-selloff-1878032": {
+      "key": "9d7b6080add35661",
+      "http": 200,
+      "chars": 10214
+    },
+    "https://www.fool.com/earnings/call-transcripts/2026/11/06/diodes-inc-diod-q3-2026-earnings-call-transcript/?source=iedfolrf0000001": {
+      "key": "8e934608306a83c7",
+      "http": 200,
+      "chars": 46480
+    },
+    "http://www.thailandnews.net/news/279409875/apple-warns-of-higher-memory-costs-as-shares-fall-4-percent": {
+      "key": "399d1cf885e44109",
+      "http": 200,
+      "chars": 11700
+    },
+    "https://www.hindustantimes.com/business/global-tech-selloff-artificial-intelligence-ai-data-centers-us-midterm-election-results-nasdaq-wall-street-asian-markets-stocks-101793941673026.html": {
+      "key": "2bff2b793a7762aa",
+      "http": 200,
+      "chars": 13755
+    },
+    "https://www.fool.com/investing/2026/11/06/micron-stock-has-lost-over-40-since-its-june-record-i-d-still-buy-it/?source=iedfolrf0000001": {
+      "key": "fb564606e08a47cc",
+      "http": 200,
+      "chars": 11553
+    },
+    "https://vietnamnews.vn/economy/1803696/rising-ai-demand-data-centre-growth-underscore-need-for-reliable-energy-supplies-in-viet-nam.html": {
+      "key": "ee17f110a334952f",
+      "http": 200,
+      "chars": 11056
+    },
+    "https://www.businesstimes.com.sg/companies-markets/openai-announces-changes-how-it-handles-data-centres-amid-outcry-after-us-midterms": {
+      "key": "96e0dba20a68c6fb",
+      "http": 200,
+      "chars": 8220
+    },
+    "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/?source=iedfolrf0000001": {
+      "key": "0f4311925a9b4140",
+      "http": 200,
+      "chars": 11159
+    },
+    "https://www.ibtimes.com.au/chinese-tech-stocks-rally-us-ai-selloff-infrastructure-gap-1877996": {
+      "key": "c16a311783ad6c59",
+      "http": 200,
+      "chars": 10049
+    },
+    "https://www.fool.com/investing/2026/11/05/should-you-buy-nvidia-stock-before-nov-17/": {
+      "key": "30eddbb3ee58b24e",
+      "http": 200,
+      "chars": 9810
+    },
+    "https://www.thehindubusinessline.com/markets/will-ai-backlash-delay-anthropic-ipo-investors-raise-doubts/article71672682.ece": {
+      "key": "6fd7c6f9d6f06d2e",
+      "http": 200,
+      "chars": 12418
+    },
+    "https://www.almanacnews.com/election/2026/11/05/fresh-off-election-triumph-rep-liccardo-looks-to-focus-on-affordability-ai/": {
+      "key": "6fe7305419cfd9e0",
+      "http": 200,
+      "chars": 9872
+    },
+    "https://www.fool.com/coverage/better-buy/2026/11/05/micron-technology-vs-western-digital-which-tech-stock-is-the-better-buy-for-2027/": {
+      "key": "4c031c88f27b3235",
+      "http": 200,
+      "chars": 12165
+    },
+    "https://www.business-standard.com/technology/tech-news/openai-promises-greater-transparency-in-data-centre-deals-after-backlash-126110600138_1.html": {
+      "key": "4d86a0e3a0bb9e71",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.thailand-business-news.com/markets/339058-asian-tech-and-equity-markets-suffer-massive-losses-from-ai-rout": {
+      "key": "ed423a8332882ff8",
+      "http": 403,
+      "chars": 0
+    },
+    "https://lufkindailynews.com/news_reuters/business/exclusive-ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/article_22d4851b-7bce-5e54-8c08-5ef01fb3b25d.html": {
+      "key": "297859c4b9c4c03b",
+      "http": 200,
+      "chars": 26167
+    },
+    "https://www.livemint.com/companies/news/anthropics-largest-ipo-on-record-ambition-on-hold-ai-backlash-could-threaten-timing-1-5-trillion-valuation-11793930460210.html": {
+      "key": "64e7c75ea6ceb05a",
+      "http": 200,
+      "chars": 14565
+    },
+    "https://www.dailypolitical.com/2026/11/05/micron-technology-nasdaqmu-shares-up-2-6-still-a-buy.html": {
+      "key": "77a7e389990bcdb9",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.cnbc.com/2026/11/06/cctv-script-061126.html": {
+      "key": "a33e04e6d227a6dd",
+      "http": 200,
+      "chars": 5492
+    },
+    "https://www.wmur.com/article/ai-stocks-wall-street-reeling-midterms/74350182": {
+      "key": "e02861da52970b5a",
+      "http": 200,
+      "chars": 7568
+    },
+    "https://www.wmur.com/article/wall-street-ai-stocks-tumble-as-voter-backlash-threatens-data-center-expansion/74350015": {
+      "key": "ea635d1d25aad4c4",
+      "http": 200,
+      "chars": 6844
+    },
+    "https://www.themarketsdaily.com/2026/11/06/applied-digital-nasdaqapld-stock-price-up-9-8-whats-next.html": {
+      "key": "ebb560c8829cc341",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.naturalnews.com/2026-11-05-korea-ai-budget-pursue-highest-performance-sovereign-model.html": {
+      "key": "e7aaa62efa1d2f17",
+      "http": 200,
+      "chars": 13399
+    },
+    "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-backlash-could-threaten-anthropic-ipo-timing-potential-investors-say/articleshow/135589533.cms": {
+      "key": "692bf69510030028",
+      "http": 200,
+      "chars": 23504
+    },
+    "https://www.hngn.com/articles/273719/20261105/sp-500-drops-44-ai-stocks-sink-after-democratic-sweep.htm": {
+      "key": "381dca1b03581f65",
+      "http": 200,
+      "chars": 11995
+    },
+    "https://www.fool.com/investing/2026/11/05/nasdaq-composite-shattered-single-session-point-loss-record-3-reasons-elevator-down-moves-just-beginning/?source=iedfolrf0000001": {
+      "key": "80181a15d94c171b",
+      "http": 200,
+      "chars": 13834
+    },
+    "https://www.kiplinger.com/investing/stocks/nasdaq-plunges-1-421-points-in-massive-tech-rout-stock-market-today": {
+      "key": "c9db0cb4926aa397",
+      "http": 200,
+      "chars": 10650
+    },
+    "https://www.kiro7.com/news/local/ai-data-center-concerns-trigger-massive-selloff-us-stocks/C42GKCIRHZCRPC3NM5BN6G4Y6U/": {
+      "key": "adffa27d2bc4dc07",
+      "http": 200,
+      "chars": 8292
+    },
+    "https://www.tickerreport.com/banking-finance/13653535/advanced-micro-devices-inc-amd-stock-sold-by-ashton-thomas-private-wealth-llc.html": {
+      "key": "de948e862199e706",
+      "http": 403,
+      "chars": 0
+    },
+    "http://www.hongkongherald.com/news/279418346/ai-investment-cycle-may-have-peaked-jefferies-warns-raises-india-allocation-to-14": {
+      "key": "0b696ad71fb3d425",
+      "http": 200,
+      "chars": 5897
+    },
+    "https://www.aol.com/articles/120-billion-westinghouse-reactor-plan-102302000.html": {
+      "key": "d1ea198f0a308800",
+      "http": 200,
+      "chars": 10714
+    },
+    "https://www.aol.com/articles/palantir-stock-investors-just-got-100802000.html": {
+      "key": "7017715e7459eade",
+      "http": 200,
+      "chars": 9525
+    },
+    "https://www.aol.com/articles/amazon-ai-spending-pressuring-free-093002000.html": {
+      "key": "cc164cdcf5b8fa20",
+      "http": 200,
+      "chars": 8663
+    },
+    "https://www.arkansasonline.com/news/2026/nov/07/ai-tied-sell-off-slows-as-markets-end-week-mixed/": {
+      "key": "8e47542fd7413674",
+      "http": 200,
+      "chars": 10000
+    },
+    "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html": {
+      "key": "65052f42906c7e3e",
+      "http": 200,
+      "chars": 8269
+    },
+    "https://www.ironmountaindailynews.com/news/business/2026/11/ai-stocks-halt-their-brutal-worldwide-sell-off/": {
+      "key": "4a42ad1c358e3b62",
+      "http": 200,
+      "chars": 6456
+    },
+    "https://www.businessworld.in/article/openai-raises-11-bn-at-1-25-tn-valuation-in-fresh-round-632586": {
+      "key": "ae8cc1ee6fc316d7",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.businessworld.in/article/google-parent-alphabet-builds-548-mn-stake-in-qualcomm-632564": {
+      "key": "ef4fc76dc94b96a9",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.moneycontrol.com/news/business/markets/moneycontrol-pro-weekender-the-morning-after-14073188.html": {
+      "key": "8a59960c1ac493b2",
+      "http": 200,
+      "chars": 17033
+    },
+    "https://observer.com/2026/11/cristiano-amon-qualcomm-car-chips-data-centers-handsets/": {
+      "key": "1d0e33dfe9d7a95a",
+      "http": 200,
+      "chars": 6207
+    },
+    "https://www.timesleader.com/news/1764658/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for-the-week": {
+      "key": "cccc5cfde6b80374",
+      "http": 200,
+      "chars": 12222
+    },
+    "https://www.finanznachrichten.de/nachrichten-2026-11/70059204-brookfield-asset-management-ltd-brookfield-asset-management-announces-strong-third-quarter-results-399.htm": {
+      "key": "20e89932fcf5a4c4",
+      "http": 200,
+      "chars": 36100
+    },
+    "https://finchannel.com/china-ai-trade-surges-amid-3-trillion-wall-street-rout-but-us-still-leads-ai-arms-race/140782/american-business-trends/markets/2026/11/": {
+      "key": "cebb0854f16276f1",
+      "http": 200,
+      "chars": 11430
+    },
+    "https://www.dailypolitical.com/2026/11/06/mirae-asset-global-investments-co-ltd-makes-new-320-21-million-investment-in-jpmorgan-chase-co-jpm.html": {
+      "key": "bb3fce23e96abee4",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.livemint.com/market/stock-market-news/indian-it-stocks-emerge-as-safe-ai-trade-amid-rising-big-tech-spending-anand-rathi-prefers-techm-ltm-mphasis-11793962964792.html": {
+      "key": "a37a9fffb63228fe",
+      "http": 200,
+      "chars": 12385
+    },
+    "https://www.proactiveinvestors.com/companies/news/1101345/scottish-mortgage-nav-total-return-rises-31-5-as-spacex-listing-and-moderna-trial-success-lift-performance-1101345.html": {
+      "key": "0a27c5fafdf8e228",
+      "http": 200,
+      "chars": 8118
+    },
+    "https://www.fool.com/earnings/call-transcripts/2026/11/06/compass-comp-q3-2026-earnings-call-transcript/?source=iedfolrf0000001": {
+      "key": "4dd903f6a8fb3ae4",
+      "http": 200,
+      "chars": 63898
+    },
+    "https://geeknewscentral.com/2026/11/06/the-server-farm-revolt-1883/": {
+      "key": "da88cf4635a1dd9b",
+      "http": 200,
+      "chars": 19918
+    },
+    "https://www.fool.com/earnings/call-transcripts/2026/11/06/horizon-tech-finance-hrzn-q3-2026-earnings-call-transcript/?source=iedfolrf0000001": {
+      "key": "6c7d8b0db085c393",
+      "http": 200,
+      "chars": 33994
+    },
+    "https://itbusinessnet.com/2026/11/what-abu-dhabi-heard-when-sam-altman-said-one-word-about-energy/": {
+      "key": "92c40ef045c2a563",
+      "http": 200,
+      "chars": 31926
+    },
+    "https://www.fool.com/investing/2026/11/06/prediction-november-will-be-a-huge-month-for-broad/": {
+      "key": "acdec5cfd30ec8c2",
+      "http": 200,
+      "chars": 10674
+    },
+    "https://www.fool.com/earnings/call-transcripts/2026/11/06/mcgraw-hill-mh-q2-2027-earnings-call-transcript/?source=iedfolrf0000001": {
+      "key": "1d351726a90b5102",
+      "http": 200,
+      "chars": 66605
+    },
+    "https://www.aol.com/articles/icu-medical-icui-q3-2026-081439000.html": {
+      "key": "99be1428de517735",
+      "http": 200,
+      "chars": 50696
+    },
+    "https://www.aol.com/articles/savers-svv-q3-2026-earnings-073044000.html": {
+      "key": "10cf501234e23d53",
+      "http": 200,
+      "chars": 52745
+    },
+    "https://www.aol.com/articles/yelp-yelp-q3-2026-earnings-075808000.html": {
+      "key": "2fe9c1b0c7062a55",
+      "http": 200,
+      "chars": 46685
+    },
+    "https://economictimes.indiatimes.com/markets/stocks/news/5-billion-in-5-days-why-fiis-are-suddenly-shopping-indian-stocks-non-stop-this-diwali/articleshow/135599282.cms": {
+      "key": "754e37c3d3e46b81",
+      "http": 200,
+      "chars": 27930
+    },
+    "https://www.abc.net.au/news/2026-11-06/data-centre-oil-exploration-qld-water-sources-ann-leahy/107355512": {
+      "key": "dcee1c6e17460ade",
+      "http": 200,
+      "chars": 10507
+    },
+    "https://www.freepressjournal.in/tech/wall-street-loses-25-trillion-as-ai-investment-fears-trigger-biggest-us-stock-market-sell-off-since-april-2025": {
+      "key": "996dd1ff17124050",
+      "http": 200,
+      "chars": 4977
+    },
+    "https://www.wadenapj.com/news/national/nasdaq-posts-biggest-daily-drop-in-19-months-on-fears-of-ai-regulations": {
+      "key": "43398dfe822dd384",
+      "http": 200,
+      "chars": 7257
+    },
+    "https://www.moneycontrol.com/news/business/markets/nvidia-loses-440-billion-as-nasdaq-crashes-5-5-tesla-spacex-and-big-tech-stocks-wipe-out-trillions-14072173.html": {
+      "key": "d254daff488db91f",
+      "http": 200,
+      "chars": 13987
+    },
+    "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/softbank-credit-default-swaps-hit-4-year-high-as-ai-profitability-concerns-mount/articleshow/135593969.cms": {
+      "key": "f634447fbd97a10c",
+      "http": 200,
+      "chars": 21977
+    },
+    "https://www.thenationalnews.com/future/technology/2026/11/06/openai-deal-to-cut-abu-dhabi-government-processing-times-from-days-to-minutes/": {
+      "key": "db1048126286e6d2",
+      "http": 200,
+      "chars": 11717
+    },
+    "https://infotechlead.com/tech/vc-funding-deals-zipline-humble-robotics-trajectory-99454": {
+      "key": "e60ac2b0f6df8212",
+      "http": 200,
+      "chars": 11636
+    },
+    "https://www.thestar.com.my/tech/tech-news/2026/11/06/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market": {
+      "key": "9e1f0403a8ac1a6e",
+      "http": 200,
+      "chars": 7016
+    },
+    "https://www.thailand-business-news.com/news/339062-thailand-business-news-morning-briefing-7": {
+      "key": "eb66d61bf0db9024",
+      "http": 403,
+      "chars": 0
+    },
+    "https://www.perthnow.com.au/news/business/the-greatest-loss-of-wealth-in-history-raises-doubts-about-the-future-of-artificial-intelligence-c-23124204": {
+      "key": "60b640d8cfc271eb",
+      "http": 200,
+      "chars": 13511
+    },
+    "https://itbrief.co.nz/story/vast-data-says-14-customers-committed-usd-10-billion": {
+      "key": "c8c327ec6822632a",
+      "http": 200,
+      "chars": 6338
+    },
+    "https://www.businesstimes.com.sg/international/global/us-stocks-nasdaq-posts-biggest-drop-19-months-democrats-midterm-win-fuels-ai-regulation-fears": {
+      "key": "56a9d9e126559249",
+      "http": 200,
+      "chars": 7871
+    },
+    "https://dailycaller.com/2026/11/05/dario-amodei-anthropic-singularity-new-york-times/": {
+      "key": "3025f4481285ced0",
+      "http": 200,
+      "chars": 6028
+    },
+    "https://observer.com/2026/11/alex-karp-palantir-sovereign-ai-contracts/": {
+      "key": "065a69619a02492d",
+      "http": 200,
+      "chars": 7586
+    },
+    "https://www.pcmag.com/news/t-mobiles-parent-irritated-that-starlink-mobile-is-viewed-as-threat-so": {
+      "key": "d9547b2a862cffaf",
+      "http": 200,
+      "chars": 23755
+    },
+    "https://www.livemint.com/market/hedge-fund-vara-plunges-33-in-brutal-october-for-ai-stocks-11793923146546.html": {
+      "key": "3ad9497fe0dd956f",
+      "http": 200,
+      "chars": 7952
+    },
+    "https://www.aol.com/articles/cion-investment-cion-q3-2026-230208000.html": {
+      "key": "32528f562668517b",
+      "http": 200,
+      "chars": 36275
+    },
+    "https://www.irishtimes.com/business/2026/11/05/us-stocks-drop-sharply-as-democrats-win-raises-fears-about-ai-investment/": {
+      "key": "4a401224e3543286",
+      "http": 200,
+      "chars": 8738
+    }
+  }
+}
