@@ -1,0 +1,24 @@
+{
+  "from": "coatue",
+  "to": "openai",
+  "type": "investment",
+  "title": "Coatue joins OpenAI's $1.25 trillion-valuation round",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-11-07",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://www.livemint.com/companies/news/openai-raises-11-billion-at-1-25-trillion-valuation-amid-concerns-over-ai-spending-and-regulation-11794022360992.html",
+      "date": "2026-11-07",
+      "quote": "Investors participating in the first tranche include Coatue Management and T. Rowe Price.",
+      "kind": "news",
+      "publisher": "livemint.com"
+    }
+  ],
+  "confidence": "medium",
+  "explain": "Coatue is reported to be in the first tranche, about $11 billion, of OpenAI's new funding round at a $1.25 trillion valuation. Coatue's own amount was not disclosed, and the report is based on Bloomberg's anonymous sources.",
+  "id": "coatue-openai-investment-2026",
+  "last_checked": "2026-11-08",
+  "added": "2026-11-08"
+}
