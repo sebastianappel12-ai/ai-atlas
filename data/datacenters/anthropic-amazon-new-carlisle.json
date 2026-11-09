@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Anthropic-Amazon New Carlisle: current power 1037 MW; owner Amazon."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Anthropic-Amazon New Carlisle is an operating AI data center in New Carlisle, IN, owned by amazon and used by anthropic. Epoch AI estimates it draws 1,037 MW today and 2,310 MW when finished."
 }

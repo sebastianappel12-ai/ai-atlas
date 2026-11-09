@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "CoreWeave Chester VA: current power 82 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "CoreWeave Chester VA is an operating AI data center in Chester, VA, owned by coreweave. Epoch AI estimates it draws 82 MW today and 197 MW when finished."
 }

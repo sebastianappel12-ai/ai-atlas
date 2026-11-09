@@ -49,11 +49,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Microsoft Fairwater Atlanta: current power 636 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Microsoft Fairwater Atlanta is an operating AI data center in Fayetteville, GA, owned by microsoft and used by openai. Epoch AI estimates it draws 636 MW today and 859 MW when finished."
 }

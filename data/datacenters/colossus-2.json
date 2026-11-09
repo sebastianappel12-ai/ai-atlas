@@ -58,11 +58,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Colossus 2: current power 946 MW; owner SpaceXAI."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Colossus 2 is an operating AI data center in Memphis, TN, owned by xai and used by anthropic, anysphere. Epoch AI estimates it draws 946 MW today and 2,065 MW when finished."
 }

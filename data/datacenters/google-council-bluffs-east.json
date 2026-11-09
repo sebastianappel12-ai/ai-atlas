@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Google Council Bluffs (East): current power 237 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Google Council Bluffs (East) is an operating AI data center in Council Bluffs, IA, owned by google. Epoch AI estimates it draws 237 MW today and 284 MW when finished."
 }

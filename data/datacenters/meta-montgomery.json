@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Meta Montgomery: current power 153 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Meta Montgomery is an operating AI data center in AL, AL, owned by meta. Epoch AI estimates it draws 153 MW today and 465 MW when finished."
 }

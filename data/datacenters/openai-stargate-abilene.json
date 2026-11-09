@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "OpenAI Stargate Abilene: current power 824 MW; owner Oracle."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "OpenAI Stargate Abilene is an operating AI data center in Abilene, TX, owned by oracle and used by openai. Epoch AI estimates it draws 824 MW today and 1,154 MW when finished."
 }

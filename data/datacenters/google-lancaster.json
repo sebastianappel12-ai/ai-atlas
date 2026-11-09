@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Google Lancaster: current power 137 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Google Lancaster is an operating AI data center in Lancaster, OH, owned by google. Epoch AI estimates it draws 137 MW today and 164 MW when finished."
 }

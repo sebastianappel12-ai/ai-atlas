@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Microsoft SAT40: current power 75 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Microsoft SAT40 is an operating AI data center in San Antonio, TX, owned by microsoft. Epoch AI estimates it draws 75 MW today and 106 MW when finished."
 }

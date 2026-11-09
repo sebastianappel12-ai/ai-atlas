@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Google Storey County: current power 161 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Google Storey County is an operating AI data center in Storey County, NV, owned by google. Epoch AI estimates it draws 161 MW today and 389 MW when finished."
 }

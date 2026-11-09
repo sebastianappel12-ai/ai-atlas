@@ -51,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Anthropic Lake Mariner: current power 210 MW; owner AI XPV Platform."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Anthropic Lake Mariner is an operating AI data center in Barker, NY, owned by anthropic. Epoch AI estimates it draws 210 MW today and 441 MW when finished."
 }

@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "QTS Eagle Mountain: current power 0 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "QTS Eagle Mountain is an under-construction AI data center in Eagle Mountain, UT, owned by meta. Epoch AI estimates it draws 0 MW today and 411 MW when finished."
 }

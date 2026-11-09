@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Microsoft SAT14: current power 47 MW; owner Microsoft."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Microsoft SAT14 is an operating AI data center in San Antonio, TX, owned by microsoft. Epoch AI estimates it draws 47 MW today and 66 MW when finished."
 }

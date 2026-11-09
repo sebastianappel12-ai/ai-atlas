@@ -59,11 +59,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Google Columbus: current power 303 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Google Columbus is an operating AI data center in Columbus, OH, owned by google. Epoch AI estimates it draws 303 MW today and 464 MW when finished."
 }

@@ -55,11 +55,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "QTS Cedar Rapids: current power 0 MW; owner Meta."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "QTS Cedar Rapids is an under-construction AI data center in Fairfax, IA, owned by meta. Epoch AI estimates it draws 0 MW today and 1,587 MW when finished."
 }

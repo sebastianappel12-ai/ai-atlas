@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "Amazon Ridgeland: current power 228 MW; owner Amazon."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "Amazon Ridgeland is an operating AI data center in Ridgeland, MS, owned by amazon. Epoch AI estimates it draws 228 MW today and 1,008 MW when finished."
 }

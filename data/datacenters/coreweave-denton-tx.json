@@ -61,11 +61,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "kind": "dataset",
       "quote": "CoreWeave Denton TX: current power 262 MW; owner CoreWeave."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-09",
   "explain": "CoreWeave Denton TX is an operating AI data center in Denton, TX, owned by coreweave and used by openai. Epoch AI estimates it draws 262 MW today and 395 MW when finished."
 }
