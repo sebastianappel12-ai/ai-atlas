@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-12",
+  "entries": [
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "tsmc-anthropic-investment-2026",
+      "summary": "TSMC board approves up to $500M investment in Anthropic IPO shares",
+      "via": "review"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "tsmc-openai-investment-2026",
+      "summary": "TSMC board approves up to $500M investment in OpenAI preferred stock",
+      "via": "review"
+    }
+  ]
+}
