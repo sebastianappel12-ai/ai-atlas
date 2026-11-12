@@ -1,0 +1,24 @@
+{
+  "from": "tsmc",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "TSMC board approves up to $500M investment in Anthropic IPO shares",
+  "amount_usd": 500000000,
+  "amount_kind": "up_to",
+  "date": "2026-11-11",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/article71688330.ece",
+      "publisher": "The Hindu BusinessLine (ANI)",
+      "date": "2026-11-11",
+      "kind": "news",
+      "quote": "In an official statement, TSMC said its board approved an investment of up to $500 million in Anthropic to acquire its common shares at the company’s per-share initial public offering price."
+    }
+  ],
+  "confidence": "medium",
+  "explain": "TSMC's board approved spending up to $500 million to buy Anthropic common shares at the per-share price of Anthropic's planned IPO. The amount is a cap, not a confirmed purchase.",
+  "id": "tsmc-anthropic-investment-2026",
+  "last_checked": "2026-11-12",
+  "added": "2026-11-12"
+}
