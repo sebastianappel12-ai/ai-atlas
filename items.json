@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-13",
+  "fetched": "2026-11-13T17:00:48.044Z",
+  "items": [
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073494/cbrs-20260930.htm",
+      "title": "Cerebras filed a 10-Q: 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073494/cbrs-20260930.htm",
+      "date": "2026-11-12",
+      "origin": "sec",
+      "company": "cerebras",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000058/frmi-20260930.htm",
+      "title": "Fermi America filed a 10-Q: 10-Q FERMI THIRD QUARTER FORM 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000058/frmi-20260930.htm",
+      "date": "2026-11-12",
+      "origin": "sec",
+      "company": "fermi-america",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm",
+      "title": "Meta Platforms filed a 8-K (items 8.01,9.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm",
+      "date": "2026-11-12",
+      "origin": "sec",
+      "company": "meta",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-20261112x6k.htm",
+      "title": "Nebius filed a 6-K: 6-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-20261112x6k.htm",
+      "date": "2026-11-12",
+      "origin": "sec",
+      "company": "nebius",
+      "extraUrls": [
+        "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d1.htm",
+        "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d2.htm"
+      ]
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000041/tve-20260930.htm",
+      "title": "Tennessee Valley Authority filed a 10-K: 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000041/tve-20260930.htm",
+      "date": "2026-11-13",
+      "origin": "sec",
+      "company": "tva",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026073564/vrt-20261113.htm",
+      "title": "Vertiv filed a 8-K (items 7.01,9.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1674101/000162828026073564/vrt-20261113.htm",
+      "date": "2026-11-13",
+      "origin": "sec",
+      "company": "vertiv",
+      "extraUrls": []
+    },
+    {
+      "id": "https://newsroom.arm.com/blog/arm-css-for-mobile-2-smartphones-mobile-gaming",
+      "title": "Arm Holdings: Arm CSS for Mobile 2 delivers advanced AI-powered mobile experiences across the ecosystem",
+      "url": "https://newsroom.arm.com/blog/arm-css-for-mobile-2-smartphones-mobile-gaming",
+      "date": "2026-11-13",
+      "origin": "newsroom",
+      "company": "arm"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "title": "Alphabet (Google): 5 new Google Flow Tools designed by visual artists",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/",
+      "date": "2026-11-12",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "title": "Alphabet (Google): Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "date": "2026-11-12",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "title": "Alphabet (Google): Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+      "date": "2026-11-12",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "title": "Alphabet (Google): Introducing Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "date": "2026-11-12",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "title": "Microsoft: Nearly 500 AI projects, over 200 customers: Lessons on making AI work for business",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "date": "2026-11-12",
+      "origin": "newsroom",
+      "company": "microsoft"
+    },
+    {
+      "id": "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/",
+      "title": "Microsoft: Revisit the games and moments that shaped your XBOX story with Playback",
+      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/",
+      "date": "2026-11-12",
+      "origin": "newsroom",
+      "company": "microsoft"
+    },
+    {
+      "id": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/",
+      "title": "Nvidia and Alphabet Just Agreed to Buy $10 Billion Each of Anthropic Stock at Its IPO Price",
+      "url": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/",
+      "date": "2026-11-12",
+      "origin": "news"
+    }
+  ],
+  "pages": {
+    "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073494/cbrs-20260930.htm": {
+      "key": "e6c562e0306ac7c4",
+      "http": 200,
+      "chars": 467541
+    },
+    "https://www.sec.gov/Archives/edgar/data/2071778/000207177826000058/frmi-20260930.htm": {
+      "key": "d3e8ce92bf6e6548",
+      "http": 200,
+      "chars": 234236
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm": {
+      "key": "c58320aa63f30313",
+      "http": 200,
+      "chars": 6989
+    },
+    "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-20261112x6k.htm": {
+      "key": "06b130da9e02e926",
+      "http": 200,
+      "chars": 2138
+    },
+    "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d1.htm": {
+      "key": "121612a073b66200",
+      "http": 200,
+      "chars": 44880
+    },
+    "https://www.sec.gov/Archives/edgar/data/1513845/000110465926126238/nbis-ex99d2.htm": {
+      "key": "4c3fd9adb8638b46",
+      "http": 200,
+      "chars": 139285
+    },
+    "https://www.sec.gov/Archives/edgar/data/1376986/000137698626000041/tve-20260930.htm": {
+      "key": "dcf0b149ff216740",
+      "http": 200,
+      "chars": 945199
+    },
+    "https://www.sec.gov/Archives/edgar/data/1674101/000162828026073564/vrt-20261113.htm": {
+      "key": "cb7e203db88cc500",
+      "http": 200,
+      "chars": 3619
+    },
+    "https://newsroom.arm.com/blog/arm-css-for-mobile-2-smartphones-mobile-gaming": {
+      "key": "cdf5d213e7a2fb4d",
+      "http": 200,
+      "chars": 12810
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/": {
+      "key": "d8a09585fbb8ccf4",
+      "http": 200,
+      "chars": 9885
+    },
+    "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": {
+      "key": "459a57b4750adf48",
+      "http": 200,
+      "chars": 8696
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/": {
+      "key": "7954dacf43d54707",
+      "http": 200,
+      "chars": 5053
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/": {
+      "key": "ec9fd4077cce6753",
+      "http": 200,
+      "chars": 17831
+    },
+    "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/": {
+      "key": "8defbacffd871618",
+      "http": 200,
+      "chars": 9649
+    },
+    "https://news.xbox.com/en-us/2026/11/12/xbox-playback-25th-anniversary-review/": {
+      "key": "15a9dccfa8458bcd",
+      "http": 200,
+      "chars": 6093
+    },
+    "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/": {
+      "key": "7f0218797583a4f6",
+      "http": 200,
+      "chars": 12344
+    }
+  }
+}
