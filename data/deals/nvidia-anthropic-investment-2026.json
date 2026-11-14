@@ -1,0 +1,24 @@
+{
+  "from": "nvidia",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Nvidia to buy $10B of Anthropic stock at IPO price",
+  "amount_usd": 10000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-11-11",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/",
+      "publisher": "The Motley Fool",
+      "date": "2026-11-11",
+      "kind": "news",
+      "quote": "At the $74 midpoint of Anthropic's price range, Nvidia's $10 billion would buy around 135 million shares."
+    }
+  ],
+  "confidence": "medium",
+  "explain": "In an amended IPO filing, Anthropic said Nvidia agreed to buy about $10 billion of its shares in a private placement at the IPO price. The filing does not say whether this is part of Nvidia's earlier pledge to invest up to $10 billion.",
+  "id": "nvidia-anthropic-investment-2026",
+  "last_checked": "2026-11-14",
+  "added": "2026-11-14"
+}
