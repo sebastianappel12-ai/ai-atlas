@@ -1,0 +1,24 @@
+{
+  "id": "ls-power-nrg-acquisition-2026",
+  "from": "ls-power",
+  "to": "nrg",
+  "type": "acquisition",
+  "title": "LS Power to buy six NRG gas plants for $4B",
+  "amount_usd": 4000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-11-09",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926124147/tm2629302d1_ex99-1.htm",
+      "publisher": "NRG Energy Form 8-K EX-99.1 (SEC)",
+      "date": "2026-11-09",
+      "kind": "sec_filing",
+      "quote": "HOUSTON - November 9, 2026 - NRG Energy, Inc. (NYSE: NRG) today announced that it has entered into a definitive agreement to sell six natural gas generation assets to LS Power, for a purchase price of $4 billion in cash, subject to working capital and other closing adjustments."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-11-10",
+  "added": "2026-11-10",
+  "explain": "LS Power agreed to pay NRG $4 billion in cash for six natural-gas power plants (4.9 GW) in New York, New England and Texas. NRG plans to use the money for share buybacks and debt reduction. Closing is targeted for Q2 2027, pending regulatory approvals. This is a reverse of NRG's 2025 purchase of LS Power's fleet."
+}

@@ -22,8 +22,8 @@
   "power_deal_ids": [],
   "timeline": [
     {
-      "date": "2023-11-28",
-      "event": "Visible land clearing around the area for Building 1"
+      "date": "2023-04-01",
+      "event": "Land clearing begins for Building 1."
     },
     {
       "date": "2024-10-01",
@@ -43,11 +43,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-02",
+      "date": "2026-11-16",
       "kind": "dataset",
       "quote": "Google Midlothian: current power 103 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-02",
+  "last_checked": "2026-11-16",
   "explain": "Google Midlothian is an operating AI data center in Midlothian, TX, owned by google. Epoch AI estimates it draws 103 MW today and 123 MW when finished."
 }
