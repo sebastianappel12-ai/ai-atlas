@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-19",
+  "entries": [
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "microsoft-intel-supply-2026",
+      "summary": "Microsoft and Intel sign long-term deal for Xeon supply and EMIB packaging",
+      "via": "auto"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "nvidia-amkor-supply-2026",
+      "summary": "Nvidia prepays Amkor to expand advanced packaging in Arizona and South Korea",
+      "via": "auto"
+    }
+  ]
+}

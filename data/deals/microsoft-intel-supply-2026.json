@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-intel-supply-2026",
+  "from": "microsoft",
+  "to": "intel",
+  "type": "supply",
+  "title": "Microsoft and Intel sign long-term deal for Xeon supply and EMIB packaging",
+  "amount_usd": null,
+  "amount_kind": "undisclosed",
+  "date": "2026-11-17",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/",
+      "publisher": "Microsoft Source",
+      "date": "2026-11-17",
+      "kind": "press_release",
+      "quote": "Microsoft is the first company to announce use of Intel Foundry’s EMIB™ (Embedded Multi-die Interconnect Bridge) advanced packaging technology for Azure first-party silicon."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-11-19",
+  "added": "2026-11-19",
+  "explain": "Microsoft and Intel announced a long-term agreement under which Microsoft secures multi-year supply of Intel Xeon server chips and will use Intel Foundry's EMIB packaging for its own Azure chips. No dollar amount was disclosed."
+}
