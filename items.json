@@ -1,0 +1,145 @@
+{
+  "date": "2026-11-20",
+  "fetched": "2026-11-20T17:37:08.535Z",
+  "items": [
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/715957/000119312526469339/d173220d8k.htm",
+      "title": "Dominion Energy filed a 8-K (items 8.01): 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526469339/d173220d8k.htm",
+      "date": "2026-11-20",
+      "origin": "sec",
+      "company": "dominion",
+      "extraUrls": []
+    },
+    {
+      "id": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_8k.htm",
+      "title": "Duke Energy filed a 8-K (items 8.01,9.01): FORM 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_8k.htm",
+      "date": "2026-11-19",
+      "origin": "sec",
+      "company": "duke-energy",
+      "extraUrls": [
+        "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_ex99-1.htm"
+      ]
+    },
+    {
+      "id": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "title": "Alphabet (Google): How Watch Duty is using Gemini to get wildfire alerts out faster",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+      "date": "2026-11-20",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "title": "Alphabet (Google): ICYMI: Transfer your history from other AI apps into Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+      "date": "2026-11-19",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "title": "Alphabet (Google): How we’re putting one of quantum mechanics’ deepest features to the test at scale.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/",
+      "date": "2026-11-19",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "title": "Alphabet (Google): Introducing Tool Retrieval in the Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "date": "2026-11-19",
+      "origin": "newsroom",
+      "company": "google"
+    },
+    {
+      "id": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "title": "Microsoft: The future of medicine: Could AI help predict and prevent disease?",
+      "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/",
+      "date": "2026-11-19",
+      "origin": "newsroom",
+      "company": "microsoft"
+    },
+    {
+      "id": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+      "title": "Nvidia: NVIDIA Announces Upcoming Event for Financial Community",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322",
+      "date": "2026-11-19",
+      "origin": "newsroom",
+      "company": "nvidia"
+    },
+    {
+      "id": "https://greentechlead.com/energy-news/renewable-energy-news-agco-hithium-trina-storage-56700",
+      "title": "Renewable energy news : AGCO , HiTHIUM , Trina Storage",
+      "url": "https://greentechlead.com/energy-news/renewable-energy-news-agco-hithium-trina-storage-56700",
+      "date": "2026-11-20",
+      "origin": "news"
+    },
+    {
+      "id": "http://www.zerohedge.com/energy/google-signs-landmark-superhot-geothermal-deal",
+      "title": "Google Signs Landmark Superhot Geothermal Deal",
+      "url": "http://www.zerohedge.com/energy/google-signs-landmark-superhot-geothermal-deal",
+      "date": "2026-11-19",
+      "origin": "news"
+    }
+  ],
+  "pages": {
+    "https://www.sec.gov/Archives/edgar/data/715957/000119312526469339/d173220d8k.htm": {
+      "key": "c0e6bb36cafc48e8",
+      "http": 200,
+      "chars": 2863
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_8k.htm": {
+      "key": "28824401c142cd27",
+      "http": 200,
+      "chars": 6439
+    },
+    "https://www.sec.gov/Archives/edgar/data/1326160/000110465926130154/tm2630241d1_ex99-1.htm": {
+      "key": "7b5bc9bb432edab5",
+      "http": 200,
+      "chars": 84766
+    },
+    "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/": {
+      "key": "b224850c9f0f9250",
+      "http": 200,
+      "chars": 9231
+    },
+    "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/": {
+      "key": "63715c934641898e",
+      "http": 200,
+      "chars": 4404
+    },
+    "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/": {
+      "key": "626935e9f91db276",
+      "http": 200,
+      "chars": 5208
+    },
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/": {
+      "key": "57728669e04868ae",
+      "http": 200,
+      "chars": 11570
+    },
+    "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future/": {
+      "key": "23b0b78bf3060353",
+      "http": 200,
+      "chars": 55347
+    },
+    "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322": {
+      "key": "0e0fed824d81d520",
+      "http": 200,
+      "chars": 3258
+    },
+    "https://greentechlead.com/energy-news/renewable-energy-news-agco-hithium-trina-storage-56700": {
+      "key": "7302c5576d453ea0",
+      "http": 200,
+      "chars": 5997
+    },
+    "http://www.zerohedge.com/energy/google-signs-landmark-superhot-geothermal-deal": {
+      "key": "0c58b3645aae7a7e",
+      "http": 200,
+      "chars": 6338
+    }
+  }
+}
