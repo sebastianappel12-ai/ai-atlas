@@ -1,24 +1,24 @@
 {
+  "id": "nvidia-anthropic-investment-2026",
   "from": "nvidia",
   "to": "anthropic",
   "type": "investment",
-  "title": "Nvidia to buy $10B of Anthropic stock at IPO price",
+  "title": "NVIDIA buys $10 billion of Anthropic stock in IPO private placement",
   "amount_usd": 10000000000,
   "amount_kind": "confirmed",
-  "date": "2026-11-11",
+  "date": "2026-11-19",
   "status": "announced",
   "sources": [
     {
-      "url": "https://www.fool.com/investing/2026/11/11/nvidia-and-alphabet-just-agreed-to-buy-usd10-billion-each-of-anthropic-stock-at-its-ipo-price/",
-      "publisher": "The Motley Fool",
-      "date": "2026-11-11",
-      "kind": "news",
-      "quote": "At the $74 midpoint of Anthropic's price range, Nvidia's $10 billion would buy around 135 million shares."
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+      "publisher": "sec.gov",
+      "date": "2026-11-19",
+      "kind": "sec_filing",
+      "quote": "Based on the initial public offering price of $83.00 per share, Google LLC will purchase 120,481,927 shares of our Class N common stock for approximately $10.0 billion, NVIDIA Corporation (“NVIDIA”) will purchase 120,481,927 shares of our Class N common stock for approximately $10.0 billion, Advanced Micro Devices, Inc."
     }
   ],
-  "confidence": "medium",
-  "explain": "In an amended IPO filing, Anthropic said Nvidia agreed to buy about $10 billion of its shares in a private placement at the IPO price. The filing does not say whether this is part of Nvidia's earlier pledge to invest up to $10 billion.",
-  "id": "nvidia-anthropic-investment-2026",
-  "last_checked": "2026-11-14",
-  "added": "2026-11-14"
+  "confidence": "high",
+  "last_checked": "2026-11-20",
+  "added": "2026-11-20",
+  "explain": "Alongside Anthropic's stock-market debut, NVIDIA agreed to buy about $10 billion of Anthropic's Class N shares at the IPO price, in a private placement that closes right after the offering."
 }

@@ -22,7 +22,7 @@
   "power_deal_ids": [],
   "timeline": [
     {
-      "date": "2023-07-01",
+      "date": "2023-08-01",
       "event": "Land clearing begins for the entire site."
     },
     {
@@ -47,11 +47,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-09",
+      "date": "2026-11-16",
       "kind": "dataset",
       "quote": "Google Mesa: current power 183 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-09",
+  "last_checked": "2026-11-16",
   "explain": "Google Mesa is an operating AI data center in Mesa, AZ, owned by google. Epoch AI estimates it draws 183 MW today and 237 MW when finished."
 }

@@ -1,0 +1,24 @@
+{
+  "id": "tsmc-anthropic-investment-2026",
+  "from": "tsmc",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "TSMC buys $500 million of Anthropic stock in IPO private placement",
+  "amount_usd": 500000000,
+  "amount_kind": "confirmed",
+  "date": "2026-11-19",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+      "publisher": "sec.gov",
+      "date": "2026-11-19",
+      "kind": "sec_filing",
+      "quote": "(“TSMC”) will purchase 6,024,096 shares of our Class N common stock for approximately $500 million."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-11-20",
+  "added": "2026-11-20",
+  "explain": "Alongside Anthropic's stock-market debut, TSMC agreed to buy about $500 million of Anthropic's Class N shares at the IPO price, in a private placement that closes right after the offering."
+}

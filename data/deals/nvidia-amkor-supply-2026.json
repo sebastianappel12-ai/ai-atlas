@@ -1,0 +1,24 @@
+{
+  "id": "nvidia-amkor-supply-2026",
+  "from": "nvidia",
+  "to": "amkor",
+  "type": "supply",
+  "title": "Nvidia prepays Amkor to expand advanced packaging in Arizona and South Korea",
+  "amount_usd": 3000000000,
+  "amount_kind": "estimated",
+  "date": "2026-11-17",
+  "status": "in_progress",
+  "sources": [
+    {
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout",
+      "publisher": "NVIDIA Newsroom",
+      "date": "2026-11-17",
+      "kind": "press_release",
+      "quote": "NVIDIA is supporting Amkor's expansion of advanced packaging capacity in Arizona and South Korea through multiyear agreements announced in July and October 2026, totaling nearly $3 billion."
+    }
+  ],
+  "confidence": "medium",
+  "last_checked": "2026-11-19",
+  "added": "2026-11-19",
+  "explain": "Nvidia is funding Amkor's packaging expansion in Arizona and South Korea through multiyear agreements, including prepayments. Nvidia says they total 'nearly $3 billion', so the amount is an approximation."
+}

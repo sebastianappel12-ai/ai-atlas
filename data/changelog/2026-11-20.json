@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-20",
+  "entries": [
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "amd-anthropic-investment-2026",
+      "summary": "AMD buys $2.5 billion of Anthropic stock in IPO private placement",
+      "via": "auto"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "broadcom-anthropic-investment-2026",
+      "summary": "Broadcom buys $1 billion of Anthropic stock in IPO private placement",
+      "via": "auto"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "micron-anthropic-investment-2026",
+      "summary": "Micron buys $1 billion of Anthropic stock in IPO private placement",
+      "via": "auto"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "nvidia-anthropic-investment-2026",
+      "summary": "NVIDIA buys $10 billion of Anthropic stock in IPO private placement",
+      "via": "auto"
+    },
+    {
+      "kind": "added",
+      "record": "deal",
+      "id": "tsmc-anthropic-investment-2026",
+      "summary": "TSMC buys $500 million of Anthropic stock in IPO private placement",
+      "via": "auto"
+    }
+  ]
+}
