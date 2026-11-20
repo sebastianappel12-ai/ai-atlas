@@ -1,0 +1,24 @@
+{
+  "id": "broadcom-anthropic-investment-2026",
+  "from": "broadcom",
+  "to": "anthropic",
+  "type": "investment",
+  "title": "Broadcom buys $1 billion of Anthropic stock in IPO private placement",
+  "amount_usd": 1000000000,
+  "amount_kind": "confirmed",
+  "date": "2026-11-19",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026074944/anthropicpbc-424b4.htm",
+      "publisher": "sec.gov",
+      "date": "2026-11-19",
+      "kind": "sec_filing",
+      "quote": "(“Broadcom”) will purchase 12,048,192 shares of our Class N common stock for approximately $1.0 billion, Micron Technology, Inc."
+    }
+  ],
+  "confidence": "high",
+  "last_checked": "2026-11-20",
+  "added": "2026-11-20",
+  "explain": "Alongside Anthropic's stock-market debut, Broadcom agreed to buy about $1 billion of Anthropic's Class N shares at the IPO price, in a private placement that closes right after the offering."
+}
