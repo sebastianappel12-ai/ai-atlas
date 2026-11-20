@@ -1,0 +1,24 @@
+{
+  "from": "tsmc",
+  "to": "openai",
+  "type": "investment",
+  "title": "TSMC board approves up to $500M investment in OpenAI preferred stock",
+  "amount_usd": 500000000,
+  "amount_kind": "up_to",
+  "date": "2026-11-11",
+  "status": "announced",
+  "sources": [
+    {
+      "url": "https://www.thehindubusinessline.com/info-tech/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/article71688330.ece",
+      "publisher": "The Hindu BusinessLine (ANI)",
+      "date": "2026-11-11",
+      "kind": "news",
+      "quote": "The board also approved an investment of up to $500 million in OpenAI to acquire its preferred stock."
+    }
+  ],
+  "confidence": "medium",
+  "explain": "TSMC's board approved spending up to $500 million to buy OpenAI preferred stock. The amount is a cap, not a confirmed purchase.",
+  "id": "tsmc-openai-investment-2026",
+  "last_checked": "2026-11-12",
+  "added": "2026-11-12"
+}
