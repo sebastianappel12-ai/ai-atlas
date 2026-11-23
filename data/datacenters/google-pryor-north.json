@@ -22,6 +22,10 @@
   "power_deal_ids": [],
   "timeline": [
     {
+      "date": "2019-08-01",
+      "event": "Land clearing begins for Building 1."
+    },
+    {
       "date": "2024-07-19",
       "event": "Building 1 is operational, based on default roof-to-operational time."
     },
@@ -47,11 +51,11 @@
     {
       "url": "https://epoch.ai/data/data-centers",
       "publisher": "Epoch AI, Frontier Data Centers Hub (CC-BY)",
-      "date": "2026-11-16",
+      "date": "2026-11-23",
       "kind": "dataset",
       "quote": "Google Pryor (North): current power 368 MW; owner Google."
     }
   ],
-  "last_checked": "2026-11-16",
+  "last_checked": "2026-11-23",
   "explain": "Google Pryor (North) is an operating AI data center in Pryor, OK, owned by google. Epoch AI estimates it draws 368 MW today and 442 MW when finished."
 }
