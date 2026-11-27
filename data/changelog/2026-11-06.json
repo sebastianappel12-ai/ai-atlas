@@ -1,0 +1,19 @@
+{
+  "date": "2026-11-06",
+  "entries": [
+    {
+      "kind": "revised",
+      "record": "deal",
+      "id": "vistra-cogentrix-acquisition-2026",
+      "summary": "Vistra agrees to buy Cogentrix's 5.5 GW gas fleet for ~$4.0B — replaced by a newer version",
+      "via": "review"
+    },
+    {
+      "kind": "updated",
+      "record": "deal",
+      "id": "vistra-cogentrix-acquisition-2026-10",
+      "summary": "Vistra completes Cogentrix acquisition for ~$2.2B cash plus 5M shares, assuming ~$1.7B debt",
+      "via": "review"
+    }
+  ]
+}
